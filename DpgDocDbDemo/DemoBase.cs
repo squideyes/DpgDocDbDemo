@@ -31,7 +31,7 @@ namespace DpgDocDbDemo
                     }
                     finally
                     {
-                        Client.DeleteDatabaseAsync(Database.SelfLink).Wait();
+                        Client.DeleteDatabaseAsync(Database).Wait();
                     }
                 }
             }

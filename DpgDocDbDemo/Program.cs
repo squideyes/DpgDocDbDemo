@@ -24,36 +24,61 @@ namespace DpgDocDbDemo
                     {
                         Console.Clear();
 
-                        new DatabaseManagement().RunAsync().Wait();
+                        Console.WriteLine("(1) Database Management Demo");
+                        Console.WriteLine("(2) Collection Management Demo");
+
+                        Console.WriteLine();
+                        Console.Write("Run a demo by number, or (Q)uit...");
+
+                        var cki = Console.ReadKey(true);
+
+                        Console.Clear();
+
+                        switch (cki.Key)
+                        {
+                            case ConsoleKey.D1:
+                                new DatabaseManagement().RunAsync().Wait();
+                                break;
+                            case ConsoleKey.D2:
+                                new CollectionManagement().RunAsync().Wait();
+                                break;
+                            case ConsoleKey.Q:
+                                return;
+                            case ConsoleKey.E:
+                                throw new Exception("Ooops!");
+                            default:
+                                break;
+                        }
                     }
                 }
             }
             catch (DocumentClientException dce)
             {
-                Console.WriteLine();
-
                 var baseException = dce.GetBaseException();
 
                 Console.WriteLine(
                     "Message: {0}, BaseMessage: {1}, StatudCode: {2}",
                     dce.Message, baseException.Message, dce.StatusCode);
+
+                AlertThenTerminate();
             }
             catch (Exception e)
             {
-                Console.WriteLine();
-
                 var baseException = e.GetBaseException();
 
                 Console.WriteLine("Message: {0}, BaseMessage: {1}",
                     e.Message, baseException.Message);
-            }
-            finally
-            {
-                Console.WriteLine();
-                Console.Write("End of demo; press any key to exit...");
 
-                Console.ReadKey(true);
+                AlertThenTerminate();
             }
+        }
+
+        private static void AlertThenTerminate()
+        {
+            Console.WriteLine();
+            Console.Write("Press any key to terminate the program...");
+
+            Console.ReadKey(true);
         }
 
         private static async Task RunAsync(DocumentClient client)

@@ -51,6 +51,7 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="DemoBase.cs" />
+    <Compile Include="Demos\CollectionManagement.cs" />
     <Compile Include="Demos\DatabaseManagement.cs" />
     <Compile Include="Extenders\DatabaseClientExtenders.cs" />
     <Compile Include="Program.cs" />

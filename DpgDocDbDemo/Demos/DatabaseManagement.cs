@@ -13,7 +13,7 @@ namespace DpgDocDbDemo
                 Client.ReadDatabaseFeedAsync(options));
 
             foreach (var db in databases)
-                Console.WriteLine("  - {0}", db.Id);
+                Console.WriteLine(" - {0}", db.Id);
         }
     }
 }
