@@ -57,9 +57,9 @@
     <Compile Include="Extenders\DatabaseClientExtenders.cs" />
     <Compile Include="Primatives\Price.cs" />
     <Compile Include="Primatives\Product.cs" />
-    <Compile Include="Primatives\SalesOrder.cs" />
+    <Compile Include="Primatives\SalesOrder1.cs" />
     <Compile Include="Primatives\SalesOrder2.cs" />
-    <Compile Include="Primatives\SalesOrderDetail.cs" />
+    <Compile Include="Primatives\SalesOrderDetail1.cs" />
     <Compile Include="Primatives\SalesOrderDetail2.cs" />
     <Compile Include="Primatives\SalesOrderDocument.cs" />
     <Compile Include="Program.cs" />

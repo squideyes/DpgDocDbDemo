@@ -1,6 +1,6 @@
 ﻿namespace DpgDocDbDemo
 {
-    public class SalesOrderDetail
+    public class SalesOrderDetail1
     {
         public int OrderQty { get; set; }
         public int ProductId { get; set; }
