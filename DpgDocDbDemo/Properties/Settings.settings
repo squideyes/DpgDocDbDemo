@@ -1,0 +1,12 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="DpgDocDbDemo.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="Uri" Type="System.Uri" Scope="Application">
+      <Value Profile="(Default)">https://neudesicdpgtalk.documents.azure.com:443/</Value>
+    </Setting>
+    <Setting Name="AuthKey" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">7j5LfEEzzdUYizI55C7sZQdhOm1F4XagBLpMQoorJ07mFvXx/+ZJtLYGSkYplK+BmBJvIyK4971XMi6R8x9jOQ==</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>
