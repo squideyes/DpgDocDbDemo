@@ -54,6 +54,7 @@
     <Compile Include="Demos\CollectionManagement.cs" />
     <Compile Include="Demos\DocumentManagement.cs" />
     <Compile Include="Demos\DatabaseManagement.cs" />
+    <Compile Include="Demos\IndexManagement.cs" />
     <Compile Include="Demos\Queries.cs" />
     <Compile Include="Extenders\DatabaseClientExtenders.cs" />
     <Compile Include="Primatives\Address.cs" />

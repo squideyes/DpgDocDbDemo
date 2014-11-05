@@ -17,21 +17,14 @@ namespace DpgDocDbDemo
 
         protected override async Task DoRunAsync()
         {
-            var collection = await Client.
-                GetOrCreateCollectionAsync(Database, COLLECTIONID);
-
-            await UsePOCOs(collection.SelfLink);
-
-            await UseDynamics(collection.SelfLink);
-
-            await UseStreams(collection.SelfLink);
-
-            await UseDocumentExtensions(collection.SelfLink);
-
-            await UseAttachments(collection.SelfLink);
+            await DemoPOCOs();
+            await DemoDynamics();
+            await DemoStreams();
+            await DemoDocumentExtensions();
+            await DemoAttachments();
         }
 
-        private async Task UsePOCOs(string colSelfLink)
+        private async Task DemoPOCOs()
         {
             Console.WriteLine();
 
@@ -111,7 +104,8 @@ namespace DpgDocDbDemo
 
             foreach (var order in orders)
             {
-                var created = await Client.CreateDocumentAsync(colSelfLink, order);
+                var created = await Client.CreateDocumentAsync(
+                    Collection.SelfLink, order);
 
                 Console.WriteLine(" - " + created.Resource.Id);
             }
@@ -121,8 +115,9 @@ namespace DpgDocDbDemo
             Console.WriteLine();
             Console.Write("Updating ShippedDate (POCO1)...");
 
-            dynamic doc = Client.CreateDocumentQuery<Document>(colSelfLink).
-                Where(d => d.Id == "POCO1").AsEnumerable().FirstOrDefault();
+            dynamic doc = Client.CreateDocumentQuery<Document>(
+                Collection.SelfLink).Where(d => d.Id == "POCO1").
+                AsEnumerable().FirstOrDefault();
 
             var createdOrder = doc;
 
@@ -134,7 +129,7 @@ namespace DpgDocDbDemo
             Console.WriteLine("DONE!");
         }
 
-        private async Task UseDynamics(string colSelfLink)
+        private async Task DemoDynamics()
         {
             const string ORDERID = "DYN01";
 
@@ -150,7 +145,8 @@ namespace DpgDocDbDemo
                 total = 5.95,
             };
 
-            var original = await Client.CreateDocumentAsync(colSelfLink, order);
+            var original = await Client.CreateDocumentAsync(
+                Collection.SelfLink, order);
 
             Console.WriteLine("DONE!");
 
@@ -169,7 +165,7 @@ namespace DpgDocDbDemo
             Console.WriteLine("DONE!");
         }
 
-        private async Task UseStreams(string colSelfLink)
+        private async Task DemoStreams()
         {
             Console.WriteLine();
 
@@ -180,7 +176,7 @@ namespace DpgDocDbDemo
                     fileName, FileMode.Open, FileAccess.Read))
                 {
                     var doc = await Client.CreateDocumentAsync(
-                        colSelfLink, 
+                        Collection.SelfLink, 
                         Resource.LoadFrom<Document>(fileStream));
 
                     Console.WriteLine(
@@ -195,7 +191,7 @@ namespace DpgDocDbDemo
 
             Console.Write("Reading \"JSON1\" document...");
 
-            var json1 = Client.CreateDocumentQuery(colSelfLink).
+            var json1 = Client.CreateDocumentQuery(Collection.SelfLink).
                 Where(d => d.Id == "JSON1").AsEnumerable().First();
 
             var content = JsonConvert.SerializeObject(json1);
@@ -218,7 +214,7 @@ namespace DpgDocDbDemo
             Console.WriteLine("DONE!");
         }
 
-        private async Task UseDocumentExtensions(string colSelfLink)
+        private async Task DemoDocumentExtensions()
         {
             const string ID = "DOC01";
 
@@ -249,7 +245,7 @@ namespace DpgDocDbDemo
             };
 
             var created = await Client.CreateDocumentAsync(
-                colSelfLink, doc01);
+                Collection.SelfLink, doc01);
 
             Console.WriteLine("CREATED!");
 
@@ -270,7 +266,7 @@ namespace DpgDocDbDemo
             Console.WriteLine("REPLACED!");
         }
 
-        private async Task UseAttachments(string colSelfLink)
+        private async Task DemoAttachments()
         {
             Console.WriteLine();
 
@@ -284,7 +280,7 @@ namespace DpgDocDbDemo
             };
 
             Document doc = await Client.CreateDocumentAsync(
-                colSelfLink, documentWithAttachment);
+                Collection.SelfLink, documentWithAttachment);
 
             Console.WriteLine("CREATED!");
 

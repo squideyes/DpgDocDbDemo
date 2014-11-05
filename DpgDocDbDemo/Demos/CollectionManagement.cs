@@ -8,21 +8,10 @@ namespace DpgDocDbDemo
 {
     public class CollectionManagement : DemoBase
     {
-        private const string COLLECTIONID = "Test";
-
         protected override async Task DoRunAsync()
         {
             const string WEREFOUND =
                 "Collections found using \"{0}\" (via {1}):";
-
-            ///////////////////////////////////////////////////////////////////
-
-            var collection = await Client.
-                GetOrCreateCollectionAsync(Database, COLLECTIONID);
-
-            ///////////////////////////////////////////////////////////////////
-
-            Console.WriteLine();
 
             Console.WriteLine(string.Format(
                 WEREFOUND, "ReadDocumentCollectionFeedAsync", "Feed"));
@@ -56,9 +45,9 @@ namespace DpgDocDbDemo
 
             Console.Write(
                 "Deleting the \"{0}\" collection (for demo purposes, only)...", 
-                COLLECTIONID);
+                Collection.Id);
 
-            await Client.DeleteDocumentCollectionAsync(collection.SelfLink);
+            await Client.DeleteDocumentCollectionAsync(Collection.SelfLink);
 
             Console.WriteLine("DELETED!");
         }

@@ -9,9 +9,11 @@ namespace DpgDocDbDemo
     public abstract class DemoBase
     {
         private const string DATABASENAME = "DpgDocDbDemo";
+        private const string COLLECTIONID = "Demo";
 
         public DocumentClient Client { get; private set; }
         public Database Database { get; private set; }
+        public DocumentCollection Collection { get; private set; }
 
         public async Task RunAsync()
         {
@@ -21,10 +23,17 @@ namespace DpgDocDbDemo
                     Properties.Settings.Default.Uri,
                     Properties.Settings.Default.AuthKey))
                 {
-                    Database = await Client.GetOrCreateDatabaseAsync(DATABASENAME);
+                    Database = await Client.
+                        GetOrCreateDatabaseAsync(DATABASENAME);
 
                     try
                     {
+                        Console.WriteLine();
+
+                        Collection = await Client.
+                            GetOrCreateCollectionAsync(
+                            Database, COLLECTIONID);
+
                         Console.WriteLine();
 
                         DoRunAsync().Wait();
