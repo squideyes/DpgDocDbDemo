@@ -20,9 +20,10 @@ namespace DpgDocDbDemo
                     {
                         Console.Clear();
 
-                        Console.WriteLine("(1) Database Management Demo");
-                        Console.WriteLine("(2) Collection Management Demo");
-                        Console.WriteLine("(3) Document Management Demo");
+                        Console.WriteLine("(1) Database Management");
+                        Console.WriteLine("(2) Collection Management");
+                        Console.WriteLine("(3) Document Management");
+                        Console.WriteLine("(4) Queries");
 
                         Console.WriteLine();
                         Console.Write("Run a demo by number, or (Q)uit...");
@@ -41,6 +42,9 @@ namespace DpgDocDbDemo
                                 break;
                             case ConsoleKey.D3:
                                 new DocumentManagement().RunAsync().Wait();
+                                break;
+                            case ConsoleKey.D4:
+                                new Queries().RunAsync().Wait();
                                 break;
                             case ConsoleKey.Q:
                                 return;

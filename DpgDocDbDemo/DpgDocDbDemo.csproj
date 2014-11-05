@@ -54,7 +54,13 @@
     <Compile Include="Demos\CollectionManagement.cs" />
     <Compile Include="Demos\DocumentManagement.cs" />
     <Compile Include="Demos\DatabaseManagement.cs" />
+    <Compile Include="Demos\Queries.cs" />
     <Compile Include="Extenders\DatabaseClientExtenders.cs" />
+    <Compile Include="Primatives\Address.cs" />
+    <Compile Include="Primatives\Child.cs" />
+    <Compile Include="Primatives\Family.cs" />
+    <Compile Include="Primatives\Parent.cs" />
+    <Compile Include="Primatives\Pet.cs" />
     <Compile Include="Primatives\Price.cs" />
     <Compile Include="Primatives\Product.cs" />
     <Compile Include="Primatives\SalesOrder1.cs" />
