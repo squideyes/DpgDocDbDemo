@@ -25,13 +25,13 @@ namespace DpgDocDbDemo
 
             //QueryWithEquality(collection);
 
-            QueryWithInequality(collection);
+            //QueryWithInequality(collection);
 
-            //QueryWithRangeOperators(collection.SelfLink);
+            //QueryWithRangeOperators(collection);
 
-            //QueryWithSubdocuments(collection.SelfLink);
+            //QueryWithSubdocuments(collection);
 
-            //QueryWithJoins(collection.SelfLink);
+            QueryWithJoins(collection);
 
             //await QueryWithPaging(collection.SelfLink);
         }
@@ -199,166 +199,143 @@ namespace DpgDocDbDemo
 
             RunQuery<Family>("SQL", 1,
                 Client.CreateDocumentQuery<Family>(collection.SelfLink,
-                "SELECT * FROM Families f WHERE f.id = 'AndersenFamily' "+ 
+                "SELECT * FROM Families f WHERE f.id = 'AndersenFamily' " +
                 "AND f.Address.City != 'NY'"));
         }
 
-        private void QueryWithRangeOperators(string colSelfLink)
+        private void QueryWithRangeOperators(DocumentCollection collection)
         {
-            string message = "Expecting only Wakefield family because only they have Lisa in grade 8";
+            // EnableScanInQuery enables range queries on collections that only
+            // have hash indexes (the default).  Consider adding a Range index 
+            // on paths where you will often perform Range queries
 
-            //----------------------------------------------------------------------
-            //Simple range query against a single property
-            //Give me all family records, where the first child is above grade 5
-            //
-            //NB: notice the use of the EnableScanInQuery directive being used here to enable a range query 
-            //    on a collection that only has hash indexes defined (default). This would not be the most performant
-            //    way of doing range queries as scans are expensive and we therefore do not recommend wide spread use
-            //    of this directive. Consider adding a Range index on paths where you will often perform Range queries
-            //    For more information, please refer to the DocumentDB.Samples.IndexManagement sample project
-            //    or the Index Management Documentation () 
+            Console.WriteLine("QueryWithRangeOperators (Children.Grade > 5)");
 
-            //LINQ Query
-            var families = from f in Client.CreateDocumentQuery<Family>(colSelfLink, new FeedOptions { EnableScanInQuery = true })
-                           where f.Children[0].Grade > 5
-                           select f;
+            RunQuery<Family>("LINQ Query", 1,
+                from f in Client.CreateDocumentQuery<Family>(collection.SelfLink,
+                               new FeedOptions { EnableScanInQuery = true })
+                where f.Children[0].Grade > 5
+                select f);
 
-            if (families.ToList().Count != 1) throw new ApplicationException(message);
+            RunQuery<Family>("LINQ Lambda", 1,
+                Client.CreateDocumentQuery<Family>(collection.SelfLink,
+                new FeedOptions { EnableScanInQuery = true })
+                       .Where(f => f.Children[0].Grade > 5));
 
-            //LINQ Lambda
-            families = Client.CreateDocumentQuery<Family>(colSelfLink, new FeedOptions { EnableScanInQuery = true })
-                       .Where(f => f.Children[0].Grade > 5);
-
-            if (families.ToList().Count != 1) throw new ApplicationException(message);
-
-            //SQL
-            families = Client.CreateDocumentQuery<Family>(colSelfLink, "SELECT * FROM Families f WHERE f.Children[0].Grade = 5",
-                new FeedOptions { EnableScanInQuery = true });
-
-            if (families.ToList().Count != 1) throw new ApplicationException(message);
+            RunQuery<Family>("SQL", 1,
+                Client.CreateDocumentQuery<Family>(collection.SelfLink,
+                "SELECT * FROM Families f WHERE f.Children[0].Grade = 5",
+                new FeedOptions { EnableScanInQuery = true }));
         }
 
-        private void QueryWithSubdocuments(string colSelfLink)
+        private void QueryWithSubdocuments(DocumentCollection collection)
         {
-            //----------------------------------------------------------------------
-            //DocumentDB supports the selection of sub-documents on the server, there
-            //is no need to send down the full family record if all you want to display
-            //is a single child
+            Console.WriteLine("QueryWithSubdocuments (SQL)");
 
-            //SQL
-            var children = Client.CreateDocumentQuery<Child>(colSelfLink,
-                "SELECT c " +
-                "FROM c IN f.Children").ToList();
+            var children = Client.CreateDocumentQuery<Child>(collection.SelfLink,
+                "SELECT c FROM c IN f.Children").ToList();
 
             foreach (var child in children)
-            {
                 Console.WriteLine(child);
-            }
 
-            //LINQ Query
-            var cc = Client.CreateDocumentQuery<Family>(colSelfLink)
-                     .SelectMany(family => family.Children
-                     .Select(c => c));
+            ///////////////////////////////////////////////////////////////////
+
+            Console.WriteLine();
+
+            Console.WriteLine("QueryWithSubdocuments (LINQ Query)");
+
+            var cc = Client.CreateDocumentQuery<Family>(collection.SelfLink).
+                SelectMany(family => family.Children.Select(c => c));
 
             foreach (var item in cc.ToList())
-            {
                 Console.WriteLine(item);
-            }
         }
 
-        private void QueryWithJoins(string colSelfLink)
+        private void QueryWithJoins(DocumentCollection collection)
         {
-            //----------------------------------------------------------------------
-            //DocumentDB supports the notion of a Intradocument Join, or a self-join
-            //which will effectively flatten the hierarchy of a document, just like doing 
-            //a self JOIN on a SQL table
+            Console.WriteLine("QueryWithJoins (Family => Children; LINQ Query):");
 
-            //Below are three queries involving JOIN, shown in SQL and in LINQ, each produces the exact same result set
-
-            //simple query with one join
-            //SQL
-            var aa = Client.CreateDocumentQuery(colSelfLink,
-                "SELECT f.id " +
-                "FROM Families f " +
-                "JOIN c IN f.Children");
+            var aa = Client.CreateDocumentQuery(collection.SelfLink,
+                "SELECT f.id FROM Families f JOIN c IN f.Children");
 
             foreach (var item in aa.ToList())
-            {
                 Console.WriteLine(item);
-            }
 
-            //LINQ
-            var bb = Client.CreateDocumentQuery<Family>(colSelfLink)
-                    .SelectMany(family => family.Children
-                    .Select(c => family.Id));
+            ///////////////////////////////////////////////////////////////////
+
+            Console.WriteLine();
+
+            Console.WriteLine("QueryWithJoins (Family => Children; LINQ Lambda):");
+
+            var bb = Client.CreateDocumentQuery<Family>(collection.SelfLink).
+                SelectMany(family => family.Children.Select(c => family.Id));
 
             foreach (var item in bb.ToList())
-            {
                 Console.WriteLine(item);
-            }
 
-            //now lets add a second level by joining the pets on to children which is joined to family
-            //SQL
-            var cc = Client.CreateDocumentQuery<dynamic>(colSelfLink,
+            ///////////////////////////////////////////////////////////////////
+
+            Console.WriteLine();
+
+            Console.WriteLine("QueryWithJoins (Family => Children => Pets; SQL):");
+
+            var cc = Client.CreateDocumentQuery<dynamic>(collection.SelfLink,
                 "SELECT f.id, c.FirstName AS child, p.GivenName AS pet " +
-                "FROM Families f " +
-                "JOIN c IN f.Children " +
-                "JOIN p IN c.Pets ");
+                "FROM Families f JOIN c IN f.Children JOIN p IN c.Pets ");
 
             foreach (var item in cc.ToList())
-            {
                 Console.WriteLine(item);
-            }
 
-            //LINQ
-            var dd = Client.CreateDocumentQuery<Family>(colSelfLink)
-                    .SelectMany(family => family.Children
-                    .SelectMany(children => children.Pets
-                    .Select(pets => new
+            ///////////////////////////////////////////////////////////////////
+
+            Console.WriteLine();
+
+            Console.WriteLine("QueryWithJoins (Family => Children => Pets; Projected; LINQ Lambda):");
+
+            var dd = Client.CreateDocumentQuery<Family>(collection.SelfLink).
+                SelectMany(family => family.Children.SelectMany(children => 
+                    children.Pets.Select(pets => new
                     {
                         family = family.Id,
                         child = children.FirstName,
                         pet = pets.GivenName
-                    })
-                    ));
+                    })));
 
             foreach (var item in dd.ToList())
-            {
                 Console.WriteLine(item);
-            }
 
-            //now let's add a filter to our JOIN query
-            //SQL
+            ///////////////////////////////////////////////////////////////////
 
-            var ee = Client.CreateDocumentQuery<dynamic>(colSelfLink,
+            Console.WriteLine();
+
+            Console.WriteLine("QueryWithJoins (Family => Children => Pets; Filtered; LINQ Query):");
+
+            var ee = Client.CreateDocumentQuery<dynamic>(collection.SelfLink,
                     "SELECT f.id, c.FirstName AS child, p.GivenName AS pet " +
-                    "FROM Families f " +
-                    "JOIN c IN f.Children " +
-                    "JOIN p IN c.Pets " +
+                    "FROM Families f JOIN c IN f.Children JOIN p IN c.Pets " +
                     "WHERE p.GivenName = 'Fluffy'");
 
             foreach (var item in ee.ToList())
-            {
                 Console.WriteLine(item);
-            }
 
-            //LINQ
-            var ff = Client.CreateDocumentQuery<Family>(colSelfLink)
-                    .SelectMany(family => family.Children
-                    .SelectMany(children => children.Pets
-                    .Where(pets => pets.GivenName == "Fluffy")
-                    .Select(pets => new
+            ///////////////////////////////////////////////////////////////////
+            
+            Console.WriteLine();
+
+            Console.WriteLine(
+                "QueryWithJoins (Family => Children => Pets; Projected & Filtered; LINQ Query):");
+
+            var ff = Client.CreateDocumentQuery<Family>(collection.SelfLink).SelectMany(
+                family => family.Children.SelectMany(children => children.Pets.Where(
+                    pets => pets.GivenName == "Fluffy").Select(pets => new
                     {
                         family = family.Id,
                         child = children.FirstName,
                         pet = pets.GivenName
-                    }
-                    )));
+                    })));
 
             foreach (var item in ff.ToList())
-            {
                 Console.WriteLine(item);
-            }
         }
 
         private async Task QueryWithPaging(string colSelfLink)
