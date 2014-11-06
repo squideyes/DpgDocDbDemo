@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace DpgDocDbDemo
 {
-    public abstract class DemoBase
+    public abstract class DemoBase<T> where T : DemoBase<T>
     {
         private const string DATABASENAME = "DpgDocDbDemo";
         private const string COLLECTIONID = "Demo";
@@ -19,6 +19,8 @@ namespace DpgDocDbDemo
         {
             try
             {
+                WriteHeader(typeof(T), "Setup", false, true);
+
                 using (Client = new DocumentClient(
                     Properties.Settings.Default.Uri,
                     Properties.Settings.Default.AuthKey))
@@ -34,12 +36,14 @@ namespace DpgDocDbDemo
                             GetOrCreateCollectionAsync(
                             Database, COLLECTIONID);
 
-                        Console.WriteLine();
+                        WriteHeader(typeof(T), "Demo", true, true);
 
                         DoRunAsync().Wait();
                     }
                     finally
                     {
+                        WriteHeader(typeof(T), "Cleanup", true, true);
+
                         Client.DeleteDatabaseAsync(Database).Wait();
                     }
                 }
@@ -61,8 +65,14 @@ namespace DpgDocDbDemo
             }
             finally
             {
-                Console.WriteLine();
-                Console.Write("End of demo; press any key to continue...");
+                WriteSeparator(true, 3);
+
+                WriteColor("END-OF-DEMO", ConsoleColor.Cyan);
+
+                Console.Write(": ");
+
+                WriteColor("Press any key to continue...",
+                    ConsoleColor.Yellow);
 
                 Console.ReadKey(true);
             }
@@ -95,6 +105,61 @@ namespace DpgDocDbDemo
             while (!string.IsNullOrEmpty(continuation));
 
             return items;
+        }
+
+        protected void WriteHeader(Type type, string header,
+            bool blankLineBefore = false, bool blankLineAfter = false)
+        {
+            var typeName = typeof(T).Name;
+
+            var title = typeof(T).Name + " / " + header;
+
+            if (blankLineBefore)
+                Console.WriteLine();
+
+            WriteSeparator(false);
+
+            Console.Write("== ");
+
+            WriteColor(typeName, ConsoleColor.Cyan);
+
+            Console.Write(" / ");
+
+            WriteColor(header, ConsoleColor.Yellow);
+
+            Console.Write(" ");
+
+            Console.WriteLine(new string('=', 79 -
+                typeName.Length - header.Length - 7));
+
+            WriteSeparator(false);
+
+            if (blankLineAfter)
+                Console.WriteLine();
+        }
+
+        public void WriteSeparator(
+            bool addBlankLines = true, int count = 1)
+        {
+            if (addBlankLines)
+                Console.WriteLine();
+
+            for (int i = 0; i < count; i++)
+                Console.WriteLine(new string('=', 79));
+
+            if (addBlankLines)
+                Console.WriteLine();
+        }
+
+        private void WriteColor(string text, ConsoleColor color)
+        {
+            var oldColor = Console.ForegroundColor;
+
+            Console.ForegroundColor = color;
+
+            Console.Write(text);
+
+            Console.ForegroundColor = oldColor;
         }
     }
 }

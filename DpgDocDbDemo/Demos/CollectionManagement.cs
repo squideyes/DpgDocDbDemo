@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace DpgDocDbDemo
 {
-    public class CollectionManagement : DemoBase
+    public class CollectionManagement : DemoBase<CollectionManagement>
     {
         protected override async Task DoRunAsync()
         {
@@ -25,7 +25,7 @@ namespace DpgDocDbDemo
 
             ///////////////////////////////////////////////////////////////////
 
-            Console.WriteLine();
+            WriteSeparator();
 
             Console.WriteLine(string.Format(
                 WEREFOUND, "CreateDocumentCollectionQuery", "Linq to DocDB"));
@@ -41,10 +41,10 @@ namespace DpgDocDbDemo
 
             ///////////////////////////////////////////////////////////////////
 
-            Console.WriteLine();
+            WriteSeparator();
 
             Console.Write(
-                "Deleting the \"{0}\" collection (for demo purposes, only)...", 
+                "Deleting the \"{0}\" collection (for demo purposes, only)...",
                 Collection.Id);
 
             await Client.DeleteDocumentCollectionAsync(Collection.SelfLink);

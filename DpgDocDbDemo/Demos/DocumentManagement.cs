@@ -11,7 +11,7 @@ using System.Threading.Tasks;
 
 namespace DpgDocDbDemo
 {
-    public class DocumentManagement : DemoBase
+    public class DocumentManagement : DemoBase<DocumentManagement>
     {
         private const string COLLECTIONID = "Test";
 
@@ -26,8 +26,6 @@ namespace DpgDocDbDemo
 
         private async Task DemoPOCOs()
         {
-            Console.WriteLine();
-
             var orders = new List<object>();
 
             orders.Add(new SalesOrder1
@@ -112,7 +110,8 @@ namespace DpgDocDbDemo
 
             ///////////////////////////////////////////////////////////////////
 
-            Console.WriteLine();
+            WriteSeparator();
+
             Console.Write("Updating ShippedDate (POCO1)...");
 
             dynamic doc = Client.CreateDocumentQuery<Document>(
@@ -133,7 +132,7 @@ namespace DpgDocDbDemo
         {
             const string ORDERID = "DYN01";
 
-            Console.WriteLine();
+            WriteSeparator();
 
             Console.Write("Created dynmaic order document ({0}): ", ORDERID);
 
@@ -167,7 +166,7 @@ namespace DpgDocDbDemo
 
         private async Task DemoStreams()
         {
-            Console.WriteLine();
+            WriteSeparator();
 
             foreach (var fileName in Directory.GetFiles(
                 @"..\..\Data\DocumentManagement\Data", "*.json"))
@@ -183,11 +182,11 @@ namespace DpgDocDbDemo
                         "Created document from \"{0}\":\n{1}", 
                         fileName, doc.Resource);
                 }
-
-                Console.WriteLine();
             }
 
             ///////////////////////////////////////////////////////////////////
+
+            WriteSeparator();
 
             Console.Write("Reading \"JSON1\" document...");
 
@@ -200,7 +199,7 @@ namespace DpgDocDbDemo
 
             ///////////////////////////////////////////////////////////////////
 
-            Console.WriteLine();
+            WriteSeparator();
 
             Console.Write("Replacing \"JSON1\" with a \"Cancelled\" order...");
 
@@ -218,7 +217,7 @@ namespace DpgDocDbDemo
         {
             const string ID = "DOC01";
 
-            Console.WriteLine();
+            WriteSeparator();
 
             Console.Write("Creating a new SalesOrderDocument (ID: {0})...", ID);
 
@@ -251,7 +250,7 @@ namespace DpgDocDbDemo
 
             ///////////////////////////////////////////////////////////////////
 
-            Console.WriteLine();
+            WriteSeparator();
 
             Console.Write("Replacing \"DOC01\" with an updated SalesOrderDocument...");
 
@@ -268,7 +267,7 @@ namespace DpgDocDbDemo
 
         private async Task DemoAttachments()
         {
-            Console.WriteLine();
+            WriteSeparator();
 
             Console.Write("Creating a new document...");
 
@@ -286,7 +285,7 @@ namespace DpgDocDbDemo
 
             ///////////////////////////////////////////////////////////////////
 
-            Console.WriteLine();
+            WriteSeparator();
 
             Console.Write("Attaching \"Text.txt\" to the document...");
 
@@ -301,7 +300,7 @@ namespace DpgDocDbDemo
 
             ///////////////////////////////////////////////////////////////////
 
-            Console.WriteLine();
+            WriteSeparator();
 
             Console.Write("Retrieving attachment...");
 

@@ -8,7 +8,7 @@ using System.Threading.Tasks;
 
 namespace DpgDocDbDemo
 {
-    public class Queries : DemoBase
+    public class Queries : DemoBase<Queries>
     {
         private const string COLLECTIONID = "Test";
 
@@ -49,6 +49,8 @@ namespace DpgDocDbDemo
 
         private void QueryAllDocuments()
         {
+            WriteSeparator();
+
             Console.WriteLine("QueryAllDocuments:");
 
             RunQuery<Family>("LINQ Query", 2,
@@ -68,6 +70,8 @@ namespace DpgDocDbDemo
 
         private void QueryWithEquality()
         {
+            WriteSeparator();
+
             Console.WriteLine("QueryWithEquality (\"AndersenFamily\" Only!):");
 
             RunQuery<Family>("LINQ Query", 1,
@@ -85,7 +89,7 @@ namespace DpgDocDbDemo
 
             ///////////////////////////////////////////////////////////////////
 
-            Console.WriteLine();
+            WriteSeparator();
 
             Console.WriteLine("QueryWithEquality (AndersenFamily AND Seattle):");
 
@@ -104,7 +108,7 @@ namespace DpgDocDbDemo
 
             ///////////////////////////////////////////////////////////////////
 
-            Console.WriteLine();
+            WriteSeparator();
 
             Console.WriteLine("QueryWithEquality (LINQ Query, AndersenFamily OR NY):");
 
@@ -122,7 +126,7 @@ namespace DpgDocDbDemo
 
             ///////////////////////////////////////////////////////////////////
 
-            Console.WriteLine();
+            WriteSeparator();
 
             Console.WriteLine("QueryWithEquality (LINQ Lambda, AndersenFamily OR NY):");
 
@@ -136,7 +140,7 @@ namespace DpgDocDbDemo
 
             ///////////////////////////////////////////////////////////////////
 
-            Console.WriteLine();
+            WriteSeparator();
 
             Console.WriteLine("QueryWithEquality (SQL, AndersenFamily OR NY):");
 
@@ -152,6 +156,8 @@ namespace DpgDocDbDemo
 
         private void QueryWithInequality()
         {
+            WriteSeparator();
+
             Console.WriteLine("QueryWithInequality (!= \"AndersenFamily\"):");
 
             RunQuery<Family>("LINQ Query", 1,
@@ -169,7 +175,7 @@ namespace DpgDocDbDemo
 
             ///////////////////////////////////////////////////////////////////
 
-            Console.WriteLine();
+            WriteSeparator();
 
             Console.WriteLine("QueryWithEquality (LINQ Query, Wakefield != NY):");
 
@@ -180,7 +186,7 @@ namespace DpgDocDbDemo
 
             ///////////////////////////////////////////////////////////////////
 
-            Console.WriteLine();
+            WriteSeparator();
 
             Console.WriteLine("QueryWithEquality (SQL, AndersenFamily != NY):");
 
@@ -195,6 +201,8 @@ namespace DpgDocDbDemo
             // EnableScanInQuery enables range queries on Collections that only
             // have hash indexes (the default).  Consider adding a Range index 
             // on paths where you will often perform Range queries
+
+            WriteSeparator();
 
             Console.WriteLine("QueryWithRangeOperators (Children.Grade > 5)");
 
@@ -217,6 +225,8 @@ namespace DpgDocDbDemo
 
         private void QueryWithSubdocuments()
         {
+            WriteSeparator();
+
             Console.WriteLine("QueryWithSubdocuments (SQL)");
 
             var children = Client.CreateDocumentQuery<Child>(Collection.SelfLink,
@@ -227,7 +237,7 @@ namespace DpgDocDbDemo
 
             ///////////////////////////////////////////////////////////////////
 
-            Console.WriteLine();
+            WriteSeparator();
 
             Console.WriteLine("QueryWithSubdocuments (LINQ Query)");
 
@@ -240,6 +250,8 @@ namespace DpgDocDbDemo
 
         private void QueryWithJoins()
         {
+            WriteSeparator();
+
             Console.WriteLine("QueryWithJoins (Family => Children; LINQ Query):");
 
             var aa = Client.CreateDocumentQuery(Collection.SelfLink,
@@ -250,7 +262,7 @@ namespace DpgDocDbDemo
 
             ///////////////////////////////////////////////////////////////////
 
-            Console.WriteLine();
+            WriteSeparator();
 
             Console.WriteLine("QueryWithJoins (Family => Children; LINQ Lambda):");
 
@@ -262,7 +274,7 @@ namespace DpgDocDbDemo
 
             ///////////////////////////////////////////////////////////////////
 
-            Console.WriteLine();
+            WriteSeparator();
 
             Console.WriteLine("QueryWithJoins (Family => Children => Pets; SQL):");
 
@@ -275,7 +287,7 @@ namespace DpgDocDbDemo
 
             ///////////////////////////////////////////////////////////////////
 
-            Console.WriteLine();
+            WriteSeparator();
 
             Console.WriteLine("QueryWithJoins (Family => Children => Pets; Projected; LINQ Lambda):");
 
@@ -293,7 +305,7 @@ namespace DpgDocDbDemo
 
             ///////////////////////////////////////////////////////////////////
 
-            Console.WriteLine();
+            WriteSeparator();
 
             Console.WriteLine("QueryWithJoins (Family => Children => Pets; Filtered; LINQ Query):");
 
@@ -307,7 +319,7 @@ namespace DpgDocDbDemo
 
             ///////////////////////////////////////////////////////////////////
 
-            Console.WriteLine();
+            WriteSeparator();
 
             Console.WriteLine(
                 "QueryWithJoins (Family => Children => Pets; Projected & Filtered; LINQ Query):");
@@ -327,20 +339,24 @@ namespace DpgDocDbDemo
 
         private async Task QueryWithPaging()
         {
+            WriteSeparator();
+
             Console.Write("QueryWithPaging...");
 
-            // The .NET Client automatically iterates through all the pages of query results 
-            // Developers can explicitly control paging by creating an IDocumentQueryable 
-            // using the IQueryable object, then by reading the ResponseContinuationToken 
-            // values and passing them back as RequestContinuationToken in FeedOptions.
+            // The .NET Client automatically iterates through all the pages of 
+            // query results. Developers can explicitly control paging by 
+            // creating an IDocumentQueryable using the IQueryable object, then 
+            // by reading the ResponseContinuationToken values and passing them 
+            //back as RequestContinuationToken in FeedOptions.
 
             var families = new List<Family>();
 
             var options = new FeedOptions { MaxItemCount = 1 };
 
-            // using AsDocumentQuery you get access to whether or not the query HasMoreResults
-            // If it does, just call ExecuteNextAsync until there are no more results
-            // No need to supply a continuation token here as the server keeps track of progress
+            // using AsDocumentQuery you get access to whether or not the query 
+            // HasMoreResults If it does, just call ExecuteNextAsync until there 
+            // are no more results.  No need to supply a continuation token here 
+            // as the server keeps track of progress
 
             var query = Client.CreateDocumentQuery<Family>(
                 Collection.SelfLink, options).AsDocumentQuery();
@@ -387,8 +403,6 @@ namespace DpgDocDbDemo
 
         private async Task CreateDocuments()
         {
-            Console.WriteLine();
-
             Console.Write("Creating the AndersenFamily document...");
 
             var AndersonFamily = new Family

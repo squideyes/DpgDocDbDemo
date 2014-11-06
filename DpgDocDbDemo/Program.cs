@@ -10,6 +10,8 @@ namespace DpgDocDbDemo
 
         public static void Main(string[] args)
         {
+            Console.SetWindowSize(80, 75);
+
             try
             {
                 using (var client = new DocumentClient(
@@ -24,6 +26,7 @@ namespace DpgDocDbDemo
                         Console.WriteLine("(2) Collection Management");
                         Console.WriteLine("(3) Document Management");
                         Console.WriteLine("(4) Queries");
+                        Console.WriteLine("(5) Index Management");
 
                         Console.WriteLine();
                         Console.Write("Run a demo by number, or (Q)uit...");
@@ -45,6 +48,9 @@ namespace DpgDocDbDemo
                                 break;
                             case ConsoleKey.D4:
                                 new Queries().RunAsync().Wait();
+                                break;
+                            case ConsoleKey.D5:
+                                new IndexManagement().RunAsync().Wait();
                                 break;
                             case ConsoleKey.Q:
                                 return;

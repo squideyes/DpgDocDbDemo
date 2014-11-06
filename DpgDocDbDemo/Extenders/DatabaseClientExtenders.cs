@@ -13,7 +13,7 @@ namespace DpgDocDbDemo
         public static async Task<Database> GetOrCreateDatabaseAsync(
             this DocumentClient client, string id)
         {
-            Console.Write("Does the \"{0}\" database exists...", id);
+            Console.Write("Does the \"{0}\" database exist...", id);
 
             IEnumerable<Database> query =
                 from db in client.CreateDatabaseQuery()
@@ -44,8 +44,6 @@ namespace DpgDocDbDemo
         public static async Task DeleteDatabaseAsync(
             this DocumentClient client, Database database)
         {
-            Console.WriteLine();
-
             Console.Write("Deleting the \"{0}\" database...", database.Id);
             
             await client.DeleteDatabaseAsync(database.SelfLink);
@@ -56,7 +54,7 @@ namespace DpgDocDbDemo
         public static async Task<DocumentCollection> GetOrCreateCollectionAsync(
             this DocumentClient client, Database database, string id)
         {
-            Console.Write("Does the \"{0}\" collection exists...", id);
+            Console.Write("Does the \"{0}\" collection exist...", id);
 
             IEnumerable<DocumentCollection> query =
                 from col in client.CreateDocumentCollectionQuery(
