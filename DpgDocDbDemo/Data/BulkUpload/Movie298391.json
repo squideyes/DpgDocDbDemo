@@ -1,0 +1,62 @@
+{
+  "Id": 298391,
+  "Title": "Urschrift",
+  "OriginalTitle": "Urschrift",
+  "Status": "Released",
+  "Overview": "Re-filming in many formats, the film revels in the generic clichés of the 40s police procedural thriller.",
+  "Genres": [],
+  "ReleaseDate": "2014-10-19T00:00:00",
+  "Runtime": 3,
+  "Popularity": 0.240163474672738,
+  "ProductionCompanies": [],
+  "ProductionCountries": [],
+  "SpokenLanguages": [],
+  "AlternativeTitles": {
+    "Id": 298391,
+    "Titles": []
+  },
+  "Releases": {
+    "Id": 298391,
+    "Countries": [
+      {
+        "Iso_3166_1": "GB",
+        "ReleaseDate": "2014-10-19T00:00:00"
+      }
+    ]
+  },
+  "Credits": {
+    "Id": 298391,
+    "Cast": [],
+    "Crew": [
+      {
+        "Id": 1375287,
+        "Name": "Julia Dogra-Brazell",
+        "Department": "Directing",
+        "Job": "Director"
+      }
+    ]
+  },
+  "Images": {
+    "Backdrops": [],
+    "Posters": []
+  },
+  "Keywords": {
+    "Id": 298391,
+    "Keywords": []
+  },
+  "Trailers": {
+    "Id": 298391,
+    "Quicktime": [],
+    "Youtube": []
+  },
+  "Translations": {
+    "Id": 298391,
+    "Translations": [
+      {
+        "Iso_639_1": "en",
+        "Name": "English",
+        "EnglishName": "English"
+      }
+    ]
+  }
+}

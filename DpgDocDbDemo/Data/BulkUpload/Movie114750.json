@@ -1,0 +1,234 @@
+{
+  "Id": 114750,
+  "ImdbId": "tt2235108",
+  "Title": "Dear White People",
+  "OriginalTitle": "Dear White People",
+  "Status": "Released",
+  "Tagline": "A satire about being a Black face in a white place.",
+  "Overview": "Four black students attend an Ivy League college where a riot breaks out over an “African American” themed party thrown by white students. With tongue planted firmly in cheek, the film explores racial identity in 'post-racial' America while weaving a story about forging one's unique path in the world.",
+  "Homepage": "http://www.dearwhitepeoplemovie.com/",
+  "BackdropPath": "/wfLitaDX7nEAVvG4l6tfZnwW5B7.jpg",
+  "PosterPath": "/ff2ufVPHIEN2szdtSmjfLH03eFz.jpg",
+  "Genres": [],
+  "ReleaseDate": "2014-10-17T00:00:00",
+  "Budget": 1000000,
+  "Runtime": 104,
+  "Popularity": 0.405831520527082,
+  "VoteAverage": 7.5,
+  "VoteCount": 4,
+  "ProductionCompanies": [],
+  "ProductionCountries": [
+    {
+      "Iso_3166_1": "US",
+      "Name": "United States of America"
+    }
+  ],
+  "SpokenLanguages": [
+    {
+      "Iso_639_1": "en",
+      "Name": "English"
+    }
+  ],
+  "AlternativeTitles": {
+    "Id": 114750,
+    "Titles": []
+  },
+  "Releases": {
+    "Id": 114750,
+    "Countries": [
+      {
+        "Iso_3166_1": "US",
+        "ReleaseDate": "2014-10-17T00:00:00"
+      }
+    ]
+  },
+  "Credits": {
+    "Id": 114750,
+    "Cast": [
+      {
+        "Id": 1214870,
+        "Name": "Tyler James Williams",
+        "Character": "Lionel Higgins",
+        "CastId": 8,
+        "ProfilePath": "/AhP3h8PTolg7vsiz85wET0U99bE.jpg"
+      },
+      {
+        "Id": 62561,
+        "Name": "Tessa Thompson",
+        "Character": "Samantha White",
+        "Order": 1,
+        "CastId": 7,
+        "ProfilePath": "/l9o1HsPN78dAU6MqqTYHVZhPAwa.jpg"
+      },
+      {
+        "Id": 970219,
+        "Name": "Teyonah Parris",
+        "Character": "Colandrea Conners",
+        "Order": 2,
+        "CastId": 9,
+        "ProfilePath": "/8JscUEAH1VUeWFzhUDMtAuaSVyj.jpg"
+      },
+      {
+        "Id": 967696,
+        "Name": "Brandon P. Bell",
+        "Character": "Troy",
+        "Order": 3,
+        "CastId": 10
+      },
+      {
+        "Id": 59219,
+        "Name": "Kyle Gallner",
+        "Order": 4,
+        "CastId": 11,
+        "ProfilePath": "/vwZAjscP6YUMc8HNuyCzXazyz1f.jpg"
+      },
+      {
+        "Id": 352,
+        "Name": "Dennis Haysbert",
+        "Order": 5,
+        "CastId": 12,
+        "ProfilePath": "/mcP4D8C20QsdWBIdhKhf8rT0Nhl.jpg"
+      },
+      {
+        "Id": 88072,
+        "Name": "Brittany Curran",
+        "Order": 6,
+        "CastId": 13,
+        "ProfilePath": "/A5TmnsPuCw05sXR3QcODgWBbBfy.jpg"
+      },
+      {
+        "Id": 132355,
+        "Name": "Malcolm Barrett",
+        "Order": 7,
+        "CastId": 14,
+        "ProfilePath": "/hHCXukVEldrRfxpQqJbou7krl5O.jpg"
+      },
+      {
+        "Id": 1283034,
+        "Name": "Ashley Blaine Feathers",
+        "Order": 8,
+        "CastId": 15
+      }
+    ],
+    "Crew": [
+      {
+        "Id": 1059571,
+        "Name": "Justin Simien",
+        "Department": "Directing",
+        "Job": "Director"
+      },
+      {
+        "Id": 1059571,
+        "Name": "Justin Simien",
+        "Department": "Writing",
+        "Job": "Writer"
+      },
+      {
+        "Id": 1059571,
+        "Name": "Justin Simien",
+        "Department": "Production",
+        "Job": "Producer"
+      },
+      {
+        "Id": 1059572,
+        "Name": "Lena Waithe",
+        "Department": "Production",
+        "Job": "Producer"
+      },
+      {
+        "Id": 1059573,
+        "Name": "Ann Le",
+        "Department": "Production",
+        "Job": "Producer"
+      },
+      {
+        "Id": 1059574,
+        "Name": "Angel Lopez",
+        "Department": "Production",
+        "Job": "Producer"
+      }
+    ]
+  },
+  "Images": {
+    "Backdrops": [
+      {
+        "FilePath": "/wfLitaDX7nEAVvG4l6tfZnwW5B7.jpg",
+        "Width": 3840,
+        "Height": 2160,
+        "Iso_639_1": "en",
+        "AspectRatio": 1.77777777777778,
+        "VoteAverage": 5.24553571428571,
+        "VoteCount": 1
+      },
+      {
+        "FilePath": "/mACXF3Fao3hH5HsqQZJEuPsniYf.jpg",
+        "Width": 3840,
+        "Height": 2160,
+        "Iso_639_1": "en",
+        "AspectRatio": 1.77777777777778,
+        "VoteAverage": 5.21577380952381,
+        "VoteCount": 1
+      },
+      {
+        "FilePath": "/6nPD2m9I1ZLmxZYVnHRg3EmhqNG.jpg",
+        "Width": 1280,
+        "Height": 720,
+        "AspectRatio": 1.77777777777778
+      },
+      {
+        "FilePath": "/zHgROwdTEvkgHT0YZxiflQlXuPy.jpg",
+        "Width": 1280,
+        "Height": 720,
+        "AspectRatio": 1.77777777777778
+      },
+      {
+        "FilePath": "/4mlzxFMhy4d3tR1seDhMBZHnwHI.jpg",
+        "Width": 1280,
+        "Height": 720,
+        "AspectRatio": 1.77777777777778
+      }
+    ],
+    "Posters": [
+      {
+        "FilePath": "/ff2ufVPHIEN2szdtSmjfLH03eFz.jpg",
+        "Width": 1400,
+        "Height": 2100,
+        "Iso_639_1": "en",
+        "AspectRatio": 0.666666666666667,
+        "VoteAverage": 5.3125,
+        "VoteCount": 1
+      },
+      {
+        "FilePath": "/dRu4NdB2dIokGRtzFzfaRmnmReE.jpg",
+        "Width": 2000,
+        "Height": 2930,
+        "Iso_639_1": "en",
+        "AspectRatio": 0.68259385665529
+      }
+    ]
+  },
+  "Keywords": {
+    "Id": 114750,
+    "Keywords": []
+  },
+  "Trailers": {
+    "Id": 114750,
+    "Quicktime": [],
+    "Youtube": []
+  },
+  "Translations": {
+    "Id": 114750,
+    "Translations": [
+      {
+        "Iso_639_1": "en",
+        "Name": "English",
+        "EnglishName": "English"
+      },
+      {
+        "Iso_639_1": "ru",
+        "Name": "Pусский",
+        "EnglishName": "Russian"
+      }
+    ]
+  }
+}

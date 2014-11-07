@@ -1,0 +1,182 @@
+{
+  "Id": 298864,
+  "ImdbId": "tt2559786",
+  "Title": "La Foresta di Ghiaccio",
+  "OriginalTitle": "La Foresta di Ghiaccio",
+  "Status": "Released",
+  "Overview": "In the harsh snowy landscape of the Italian Alps, a young technician arrives to repair an electric power plant of a village plagued by blackouts. There, he encounters a strange disappearance.",
+  "PosterPath": "/AvFT2IhdohGitTyNwjdXK5l7Ylc.jpg",
+  "Genres": [
+    {
+      "Id": 53,
+      "Name": "Thriller"
+    }
+  ],
+  "ReleaseDate": "2014-10-23T00:00:00",
+  "Runtime": 99,
+  "Popularity": 0.3730775336035,
+  "ProductionCompanies": [
+    {
+      "Name": "Trentino Film Commission",
+      "Id": 36168
+    },
+    {
+      "Name": "Ascenti Film",
+      "Id": 28015
+    },
+    {
+      "Name": "Rai Cinema",
+      "Id": 2683
+    }
+  ],
+  "ProductionCountries": [
+    {
+      "Iso_3166_1": "IT",
+      "Name": "Italy"
+    }
+  ],
+  "SpokenLanguages": [],
+  "AlternativeTitles": {
+    "Id": 298864,
+    "Titles": []
+  },
+  "Releases": {
+    "Id": 298864,
+    "Countries": [
+      {
+        "Iso_3166_1": "IT",
+        "ReleaseDate": "2014-10-23T00:00:00"
+      }
+    ]
+  },
+  "Credits": {
+    "Id": 298864,
+    "Cast": [
+      {
+        "Id": 15254,
+        "Name": "Emir Kusturica",
+        "Character": "Secondo",
+        "Order": 1,
+        "CastId": 10,
+        "ProfilePath": "/jVbzb4qiHQXRInzFmACUHpyjsrj.jpg"
+      },
+      {
+        "Id": 73475,
+        "Name": "Adriano Giannini",
+        "Character": "Lorenzo",
+        "Order": 2,
+        "CastId": 11,
+        "ProfilePath": "/3vuYXxVPcH6nDlCjliGTisrh90D.jpg"
+      },
+      {
+        "Id": 67320,
+        "Name": "Kseniya Rappoport",
+        "Character": "Lana",
+        "Order": 3,
+        "CastId": 12,
+        "ProfilePath": "/8CRRe5lTddGGUTF2pjNHAeYw12n.jpg"
+      },
+      {
+        "Id": 932541,
+        "Name": "Domenico Diele",
+        "Character": "Pietro",
+        "Order": 4,
+        "CastId": 13,
+        "ProfilePath": "/2IJ8RFmyw3sjdQ31UWUA0Pcuozj.jpg"
+      }
+    ],
+    "Crew": [
+      {
+        "Id": 128451,
+        "Name": "Claudio Noce",
+        "Department": "Directing",
+        "Job": "Director"
+      },
+      {
+        "Id": 1098027,
+        "Name": "Francesca Manieri",
+        "Department": "Writing",
+        "Job": "Writer"
+      },
+      {
+        "Id": 128452,
+        "Name": "Elisa Amoruso",
+        "Department": "Writing",
+        "Job": "Writer"
+      },
+      {
+        "Id": 128451,
+        "Name": "Claudio Noce",
+        "Department": "Writing",
+        "Job": "Writer"
+      },
+      {
+        "Id": 1377172,
+        "Name": "Andrea Paris",
+        "Department": "Production",
+        "Job": "Producer"
+      },
+      {
+        "Id": 1108175,
+        "Name": "Matteo Rovere",
+        "Department": "Production",
+        "Job": "Producer"
+      },
+      {
+        "Id": 1377173,
+        "Name": "Francesco Tatò",
+        "Department": "Production",
+        "Job": "Producer"
+      },
+      {
+        "Id": 543576,
+        "Name": "Michele D'Attanasio",
+        "Department": "Crew",
+        "Job": "Cinematography"
+      },
+      {
+        "Id": 936450,
+        "Name": "Andrea Maguolo",
+        "Department": "Editing",
+        "Job": "Editor"
+      },
+      {
+        "Id": 1377174,
+        "Name": "Daniele Frabetti",
+        "Department": "Art",
+        "Job": "Production Design"
+      }
+    ]
+  },
+  "Images": {
+    "Backdrops": [],
+    "Posters": [
+      {
+        "FilePath": "/AvFT2IhdohGitTyNwjdXK5l7Ylc.jpg",
+        "Width": 1000,
+        "Height": 1500,
+        "Iso_639_1": "it",
+        "AspectRatio": 0.666666666666667
+      }
+    ]
+  },
+  "Keywords": {
+    "Id": 298864,
+    "Keywords": []
+  },
+  "Trailers": {
+    "Id": 298864,
+    "Quicktime": [],
+    "Youtube": []
+  },
+  "Translations": {
+    "Id": 298864,
+    "Translations": [
+      {
+        "Iso_639_1": "en",
+        "Name": "English",
+        "EnglishName": "English"
+      }
+    ]
+  }
+}

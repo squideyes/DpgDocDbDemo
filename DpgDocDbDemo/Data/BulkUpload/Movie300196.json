@@ -1,0 +1,100 @@
+{
+  "Id": 300196,
+  "Title": "lynda.com: Javascript Essential Training",
+  "OriginalTitle": "lynda.com: Javascript Essential Training",
+  "Status": "Released",
+  "Tagline": "lynda.com: Javascript Essential Training",
+  "Overview": "Use JavaScript to add new features and a richer, more compelling user interface on web pages. This course keeps current best practices and practical uses for JavaScript in mind, while covering syntax, working with the DOM, and developing and debugging across multiple platforms, devices, and browsers. Author Simon Allardice also shows how to progressively enhance and gracefully degrade web pages, and take advantage of the world of JavaScript libraries now available.",
+  "Homepage": "http://www.lynda.com",
+  "BackdropPath": "/g1CAhSk10tWEKJXawg94x1XAsqS.jpg",
+  "PosterPath": "/6ox8YGjbn1o5KfR7CC4Og5MlKsK.jpg",
+  "Genres": [],
+  "ReleaseDate": "2014-10-31T00:00:00",
+  "Runtime": 100,
+  "Popularity": 1.054785,
+  "VoteAverage": 9.0,
+  "VoteCount": 1,
+  "ProductionCompanies": [],
+  "ProductionCountries": [
+    {
+      "Iso_3166_1": "US",
+      "Name": "United States of America"
+    }
+  ],
+  "SpokenLanguages": [
+    {
+      "Iso_639_1": "en",
+      "Name": "English"
+    }
+  ],
+  "AlternativeTitles": {
+    "Id": 300196,
+    "Titles": [
+      {
+        "Iso_3166_1": "US",
+        "Title": "Javascript Essential Training"
+      }
+    ]
+  },
+  "Releases": {
+    "Id": 300196,
+    "Countries": [
+      {
+        "Iso_3166_1": "US",
+        "Certification": "PG-13",
+        "ReleaseDate": "2014-10-31T00:00:00"
+      }
+    ]
+  },
+  "Credits": {
+    "Id": 300196,
+    "Cast": [],
+    "Crew": []
+  },
+  "Images": {
+    "Backdrops": [
+      {
+        "FilePath": "/g1CAhSk10tWEKJXawg94x1XAsqS.jpg",
+        "Width": 1280,
+        "Height": 720,
+        "AspectRatio": 1.77777777777778
+      }
+    ],
+    "Posters": [
+      {
+        "FilePath": "/6ox8YGjbn1o5KfR7CC4Og5MlKsK.jpg",
+        "Width": 1000,
+        "Height": 1500,
+        "AspectRatio": 0.666666666666667
+      }
+    ]
+  },
+  "Keywords": {
+    "Id": 300196,
+    "Keywords": [
+      {
+        "Id": 196056,
+        "Name": "computer programming"
+      },
+      {
+        "Id": 208188,
+        "Name": "java"
+      }
+    ]
+  },
+  "Trailers": {
+    "Id": 300196,
+    "Quicktime": [],
+    "Youtube": []
+  },
+  "Translations": {
+    "Id": 300196,
+    "Translations": [
+      {
+        "Iso_639_1": "en",
+        "Name": "English",
+        "EnglishName": "English"
+      }
+    ]
+  }
+}

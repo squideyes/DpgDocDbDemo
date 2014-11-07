@@ -1,0 +1,79 @@
+{
+  "Id": 294720,
+  "Title": "MinoPolska",
+  "OriginalTitle": "MinoPolska",
+  "Status": "Released",
+  "PosterPath": "/rwJw3gPdGnMBG9UoOup861kqmq1.jpg",
+  "Genres": [
+    {
+      "Id": 16,
+      "Name": "Animation"
+    }
+  ],
+  "ReleaseDate": "2014-10-08T00:00:00",
+  "Popularity": 0.092772513431419,
+  "ProductionCompanies": [],
+  "ProductionCountries": [],
+  "SpokenLanguages": [
+    {
+      "Iso_639_1": "pl",
+      "Name": "Polski"
+    }
+  ],
+  "AlternativeTitles": {
+    "Id": 294720,
+    "Titles": []
+  },
+  "Releases": {
+    "Id": 294720,
+    "Countries": [
+      {
+        "Iso_3166_1": "FR",
+        "ReleaseDate": "2014-10-08T00:00:00"
+      }
+    ]
+  },
+  "Credits": {
+    "Id": 294720,
+    "Cast": [],
+    "Crew": [
+      {
+        "Id": 1367270,
+        "Name": "Wlodzimierz Haupe",
+        "Department": "Directing",
+        "Job": "Director"
+      }
+    ]
+  },
+  "Images": {
+    "Backdrops": [],
+    "Posters": [
+      {
+        "FilePath": "/rwJw3gPdGnMBG9UoOup861kqmq1.jpg",
+        "Width": 1065,
+        "Height": 1600,
+        "Iso_639_1": "fr",
+        "AspectRatio": 0.665625
+      }
+    ]
+  },
+  "Keywords": {
+    "Id": 294720,
+    "Keywords": []
+  },
+  "Trailers": {
+    "Id": 294720,
+    "Quicktime": [],
+    "Youtube": []
+  },
+  "Translations": {
+    "Id": 294720,
+    "Translations": [
+      {
+        "Iso_639_1": "fr",
+        "Name": "Français",
+        "EnglishName": "French"
+      }
+    ]
+  }
+}

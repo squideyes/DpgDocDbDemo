@@ -1,0 +1,304 @@
+{
+  "Id": 243684,
+  "ImdbId": "tt3179568",
+  "Title": "Men, Women & Children",
+  "OriginalTitle": "Men, Women & Children",
+  "Status": "Released",
+  "Tagline": "Discover how little you know about the people you know.",
+  "Overview": "Follows the story of a group of high school teenagers and their parents as they attempt to navigate the many ways the internet has changed their relationships, their communication, their self-image, and their love lives.",
+  "BackdropPath": "/expD1HrGn1KzqxN4gHR84CI7CgH.jpg",
+  "PosterPath": "/vXo8FhmIf8cxVQL7S3VB4xBSQL2.jpg",
+  "Genres": [
+    {
+      "Id": 35,
+      "Name": "Comedy"
+    },
+    {
+      "Id": 18,
+      "Name": "Drama"
+    }
+  ],
+  "ReleaseDate": "2014-10-17T00:00:00",
+  "Runtime": 116,
+  "Popularity": 0.567504839774113,
+  "VoteAverage": 4.0,
+  "VoteCount": 2,
+  "ProductionCompanies": [
+    {
+      "Name": "Right of Way Films",
+      "Id": 32157
+    },
+    {
+      "Name": "Paramount Pictures",
+      "Id": 4
+    }
+  ],
+  "ProductionCountries": [
+    {
+      "Iso_3166_1": "US",
+      "Name": "United States of America"
+    }
+  ],
+  "SpokenLanguages": [
+    {
+      "Iso_639_1": "en",
+      "Name": "English"
+    }
+  ],
+  "AlternativeTitles": {
+    "Id": 243684,
+    "Titles": []
+  },
+  "Releases": {
+    "Id": 243684,
+    "Countries": [
+      {
+        "Iso_3166_1": "US",
+        "ReleaseDate": "2014-10-17T00:00:00"
+      }
+    ]
+  },
+  "Credits": {
+    "Id": 243684,
+    "Cast": [
+      {
+        "Id": 14892,
+        "Name": "Rosemarie DeWitt",
+        "Character": "Rachel Truby",
+        "CastId": 4,
+        "ProfilePath": "/uVbDEpLjOidwm92b23l0aMrJ9CG.jpg"
+      },
+      {
+        "Id": 9278,
+        "Name": "Jennifer Garner",
+        "Character": "Patricia Beltmeyer",
+        "Order": 1,
+        "CastId": 5,
+        "ProfilePath": "/qe3Sw9GDBrfFdOHWaEWvDQe8wtk.jpg"
+      },
+      {
+        "Id": 20750,
+        "Name": "Judy Greer",
+        "Character": "Joan Clint",
+        "Order": 2,
+        "CastId": 6,
+        "ProfilePath": "/qVVXXojIwHSsBhos9rF7v59tDJf.jpg"
+      },
+      {
+        "Id": 14329,
+        "Name": "Dean Norris",
+        "Character": "Kent Mooney",
+        "Order": 3,
+        "CastId": 7,
+        "ProfilePath": "/fee5Hdms2TWRnOiIY8NeKSJf4ge.jpg"
+      },
+      {
+        "Id": 19292,
+        "Name": "Adam Sandler",
+        "Character": "Don Truby",
+        "Order": 4,
+        "CastId": 8,
+        "ProfilePath": "/tv9V6QsuZ3bcp4ciUJjwjcc4qAg.jpg"
+      },
+      {
+        "Id": 7056,
+        "Name": "Emma Thompson",
+        "Character": "(voice)",
+        "Order": 5,
+        "CastId": 9,
+        "ProfilePath": "/cWTBHN8kLf6yapxiaQD9C6N1uMw.jpg"
+      },
+      {
+        "Id": 172056,
+        "Name": "Olivia Crocicchia",
+        "Character": "Hannah Clint",
+        "Order": 6,
+        "CastId": 10,
+        "ProfilePath": "/pRO0gxG1a9Pd5d7VuaX7GPo8g1m.jpg"
+      },
+      {
+        "Id": 481337,
+        "Name": "Kaitlyn Dever",
+        "Character": "Brandy Beltmeyer",
+        "Order": 7,
+        "CastId": 11,
+        "ProfilePath": "/iBb8WjM1wwhvLGOIlqq8OZqrWwN.jpg"
+      },
+      {
+        "Id": 1159982,
+        "Name": "Ansel Elgort",
+        "Character": "Tim Mooney",
+        "Order": 8,
+        "CastId": 12,
+        "ProfilePath": "/lKapN59YeY8CmTNviAAFyQ4aGdu.jpg"
+      },
+      {
+        "Id": 1278724,
+        "Name": "Elena Kampouris",
+        "Character": "Allison Doss",
+        "Order": 9,
+        "CastId": 13
+      },
+      {
+        "Id": 1278725,
+        "Name": "Travis Tope",
+        "Order": 10,
+        "CastId": 14
+      },
+      {
+        "Id": 62562,
+        "Name": "David Denman",
+        "Order": 11,
+        "CastId": 15,
+        "ProfilePath": "/rT1dvSLZjlfiZm7VvD1qEbvZ34O.jpg"
+      },
+      {
+        "Id": 20496,
+        "Name": "Jason Douglas",
+        "Order": 12,
+        "CastId": 16,
+        "ProfilePath": "/u0crUL9bnGRdaiofB2MzYvoOI4Y.jpg"
+      },
+      {
+        "Id": 352,
+        "Name": "Dennis Haysbert",
+        "Order": 13,
+        "CastId": 17,
+        "ProfilePath": "/mcP4D8C20QsdWBIdhKhf8rT0Nhl.jpg"
+      },
+      {
+        "Id": 31549,
+        "Name": "Phil LaMarr",
+        "Character": "School Shrink",
+        "Order": 14,
+        "CastId": 18,
+        "ProfilePath": "/zqWHyTaYikghmqiZ5EpJppcy4pE.jpg"
+      },
+      {
+        "Id": 18999,
+        "Name": "J.K. Simmons",
+        "Order": 15,
+        "CastId": 19,
+        "ProfilePath": "/f2D5wGCqF9t4xsXuaUtIusVKDc1.jpg"
+      }
+    ],
+    "Crew": [
+      {
+        "Id": 52443,
+        "Name": "Jason Reitman",
+        "Department": "Directing",
+        "Job": "Director",
+        "ProfilePath": "/ulFM4ceTBc5ITbY85GSnBKDFymD.jpg"
+      },
+      {
+        "Id": 52443,
+        "Name": "Jason Reitman",
+        "Department": "Writing",
+        "Job": "Screenplay",
+        "ProfilePath": "/ulFM4ceTBc5ITbY85GSnBKDFymD.jpg"
+      },
+      {
+        "Id": 67796,
+        "Name": "Erin Cressida Wilson",
+        "Department": "Writing",
+        "Job": "Screenplay"
+      }
+    ]
+  },
+  "Images": {
+    "Backdrops": [
+      {
+        "FilePath": "/expD1HrGn1KzqxN4gHR84CI7CgH.jpg",
+        "Width": 1920,
+        "Height": 1080,
+        "AspectRatio": 1.77777777777778,
+        "VoteAverage": 5.29761904761905,
+        "VoteCount": 1
+      },
+      {
+        "FilePath": "/cfota1LuVez1IuYoHVAeHNnSeJC.jpg",
+        "Width": 1920,
+        "Height": 1080,
+        "AspectRatio": 1.77777777777778
+      }
+    ],
+    "Posters": [
+      {
+        "FilePath": "/vXo8FhmIf8cxVQL7S3VB4xBSQL2.jpg",
+        "Width": 1400,
+        "Height": 2100,
+        "Iso_639_1": "en",
+        "AspectRatio": 0.666666666666667,
+        "VoteAverage": 5.3125,
+        "VoteCount": 1
+      },
+      {
+        "FilePath": "/wBacTbrkwSzi8AGJc8sBJFwayFm.jpg",
+        "Width": 700,
+        "Height": 1094,
+        "Iso_639_1": "en",
+        "AspectRatio": 0.639853747714808,
+        "VoteAverage": 5.3030303030303,
+        "VoteCount": 3
+      }
+    ]
+  },
+  "Keywords": {
+    "Id": 243684,
+    "Keywords": [
+      {
+        "Id": 8507,
+        "Name": "high school"
+      },
+      {
+        "Id": 15023,
+        "Name": "teenagers"
+      },
+      {
+        "Id": 206831,
+        "Name": "playing against type"
+      }
+    ]
+  },
+  "Trailers": {
+    "Id": 243684,
+    "Quicktime": [],
+    "Youtube": [
+      {
+        "Name": "Men, Wolmen & Children (2014) (English Trailer)",
+        "Size": "Standard",
+        "Source": "MHMqpwnUazY"
+      }
+    ]
+  },
+  "Translations": {
+    "Id": 243684,
+    "Translations": [
+      {
+        "Iso_639_1": "en",
+        "Name": "English",
+        "EnglishName": "English"
+      },
+      {
+        "Iso_639_1": "es",
+        "Name": "Español",
+        "EnglishName": "Spanish"
+      },
+      {
+        "Iso_639_1": "ru",
+        "Name": "Pусский",
+        "EnglishName": "Russian"
+      },
+      {
+        "Iso_639_1": "de",
+        "Name": "Deutsch",
+        "EnglishName": "German"
+      },
+      {
+        "Iso_639_1": "pt",
+        "Name": "Português",
+        "EnglishName": "Portuguese"
+      }
+    ]
+  }
+}

@@ -1,0 +1,97 @@
+{
+  "Id": 147778,
+  "ImdbId": "tt1942971",
+  "Title": "Showrunners",
+  "OriginalTitle": "Showrunners",
+  "Status": "Released",
+  "Tagline": "The Art of Running a TV Show",
+  "Overview": "“Showrunners” is the first ever feature length documentary film to explore the fascinating world of US television showrunners and the creative forces aligned around them. These are the people responsible for creating, writing and overseeing every element of production on one of the United State’s biggest exports – television drama and comedy series.  Often described as the most complex job in the entertainment business, a showrunner is the chief writer / producer on a TV series and, in most instances, the show’s creator. Battling daily between art and commerce, showrunners manage every aspect of a TV show’s development and production: creative, financial and logistical.",
+  "Homepage": "http://www.showrunnersthemovie.com/",
+  "BackdropPath": "/4aTRM8ZddY17Yy6h5vYgfmM9zFG.jpg",
+  "PosterPath": "/1kisVLOdsRXfMMgsQlPoymUuaR1.jpg",
+  "Genres": [
+    {
+      "Id": 99,
+      "Name": "Documentary"
+    }
+  ],
+  "ReleaseDate": "2014-10-17T00:00:00",
+  "Runtime": 76,
+  "Popularity": 0.378410015589918,
+  "ProductionCompanies": [],
+  "ProductionCountries": [],
+  "SpokenLanguages": [
+    {
+      "Iso_639_1": "en",
+      "Name": "English"
+    }
+  ],
+  "AlternativeTitles": {
+    "Id": 147778,
+    "Titles": []
+  },
+  "Releases": {
+    "Id": 147778,
+    "Countries": [
+      {
+        "Iso_3166_1": "IE",
+        "ReleaseDate": "2014-10-17T00:00:00"
+      }
+    ]
+  },
+  "Credits": {
+    "Id": 147778,
+    "Cast": [],
+    "Crew": [
+      {
+        "Id": 1371187,
+        "Name": "Des Doyle",
+        "Department": "Directing",
+        "Job": "Director"
+      }
+    ]
+  },
+  "Images": {
+    "Backdrops": [
+      {
+        "FilePath": "/4aTRM8ZddY17Yy6h5vYgfmM9zFG.jpg",
+        "Width": 1280,
+        "Height": 720,
+        "AspectRatio": 1.77777777777778
+      }
+    ],
+    "Posters": [
+      {
+        "FilePath": "/1kisVLOdsRXfMMgsQlPoymUuaR1.jpg",
+        "Width": 600,
+        "Height": 842,
+        "AspectRatio": 0.712589073634204
+      }
+    ]
+  },
+  "Keywords": {
+    "Id": 147778,
+    "Keywords": []
+  },
+  "Trailers": {
+    "Id": 147778,
+    "Quicktime": [],
+    "Youtube": [
+      {
+        "Name": "Trailer 2",
+        "Size": "HD",
+        "Source": "_XVSHhNm6Cc"
+      }
+    ]
+  },
+  "Translations": {
+    "Id": 147778,
+    "Translations": [
+      {
+        "Iso_639_1": "en",
+        "Name": "English",
+        "EnglishName": "English"
+      }
+    ]
+  }
+}

@@ -1,0 +1,116 @@
+{
+  "Id": 241868,
+  "ImdbId": "tt0862748",
+  "Title": "Lupin the 3rd",
+  "OriginalTitle": "Lupin the 3rd",
+  "Status": "Released",
+  "Overview": "Interpol Inspector Zenigata begins a world-wide hunt for the infamous thief Arsene Lupin III.",
+  "PosterPath": "/4TqXKN32PBssOdNsZQTo22yi8Hk.jpg",
+  "Genres": [
+    {
+      "Id": 28,
+      "Name": "Action"
+    },
+    {
+      "Id": 12,
+      "Name": "Adventure"
+    },
+    {
+      "Id": 35,
+      "Name": "Comedy"
+    }
+  ],
+  "ReleaseDate": "2014-10-24T00:00:00",
+  "Runtime": 0,
+  "Popularity": 0.516817845001861,
+  "ProductionCompanies": [],
+  "ProductionCountries": [],
+  "SpokenLanguages": [
+    {
+      "Iso_639_1": "ja",
+      "Name": "日本語"
+    }
+  ],
+  "AlternativeTitles": {
+    "Id": 241868,
+    "Titles": [
+      {
+        "Iso_3166_1": "JP",
+        "Title": "Lupin the Third"
+      },
+      {
+        "Iso_3166_1": "JP",
+        "Title": "Lupin III"
+      }
+    ]
+  },
+  "Releases": {
+    "Id": 241868,
+    "Countries": [
+      {
+        "Iso_3166_1": "JP",
+        "ReleaseDate": "2014-10-24T00:00:00"
+      }
+    ]
+  },
+  "Credits": {
+    "Id": 241868,
+    "Cast": [],
+    "Crew": [
+      {
+        "Id": 45996,
+        "Name": "Ryûhei Kitamura",
+        "Department": "Directing",
+        "Job": "Director",
+        "ProfilePath": "/wmRHPxLbDqSFVViTWCf7yJ50Mje.jpg"
+      },
+      {
+        "Id": 1048917,
+        "Name": "Mataichirô Yamamoto",
+        "Department": "Writing",
+        "Job": "Screenplay"
+      },
+      {
+        "Id": 78365,
+        "Name": "Monkey Punch",
+        "Department": "Writing",
+        "Job": "Novel"
+      }
+    ]
+  },
+  "Images": {
+    "Backdrops": [],
+    "Posters": [
+      {
+        "FilePath": "/4TqXKN32PBssOdNsZQTo22yi8Hk.jpg",
+        "Width": 500,
+        "Height": 750,
+        "AspectRatio": 0.666666666666667
+      }
+    ]
+  },
+  "Keywords": {
+    "Id": 241868,
+    "Keywords": []
+  },
+  "Trailers": {
+    "Id": 241868,
+    "Quicktime": [],
+    "Youtube": []
+  },
+  "Translations": {
+    "Id": 241868,
+    "Translations": [
+      {
+        "Iso_639_1": "en",
+        "Name": "English",
+        "EnglishName": "English"
+      },
+      {
+        "Iso_639_1": "it",
+        "Name": "Italiano",
+        "EnglishName": "Italian"
+      }
+    ]
+  }
+}

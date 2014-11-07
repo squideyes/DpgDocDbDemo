@@ -1,0 +1,71 @@
+{
+  "Id": 298133,
+  "Title": "Near Real Time",
+  "OriginalTitle": "Near Real Time",
+  "Status": "Released",
+  "Overview": "Drawn from the only remaining recordings of live broadcasts by a 1970s community television channel, this source of social realism provides an antagonistic space for Pickering to address the subjectivity of the televisual image itself, to question what a community might look like as much as to produce an imaginary of the collective.",
+  "Genres": [],
+  "ReleaseDate": "2014-10-17T00:00:00",
+  "Runtime": 29,
+  "Popularity": 0.220882158298156,
+  "ProductionCompanies": [],
+  "ProductionCountries": [
+    {
+      "Iso_3166_1": "FR",
+      "Name": "France"
+    },
+    {
+      "Iso_3166_1": "GB",
+      "Name": "United Kingdom"
+    }
+  ],
+  "SpokenLanguages": [],
+  "AlternativeTitles": {
+    "Id": 298133,
+    "Titles": []
+  },
+  "Releases": {
+    "Id": 298133,
+    "Countries": [
+      {
+        "Iso_3166_1": "GB",
+        "ReleaseDate": "2014-10-17T00:00:00"
+      }
+    ]
+  },
+  "Credits": {
+    "Id": 298133,
+    "Cast": [],
+    "Crew": [
+      {
+        "Id": 1375292,
+        "Name": "Gail Pickering",
+        "Department": "Directing",
+        "Job": "Director"
+      }
+    ]
+  },
+  "Images": {
+    "Backdrops": [],
+    "Posters": []
+  },
+  "Keywords": {
+    "Id": 298133,
+    "Keywords": []
+  },
+  "Trailers": {
+    "Id": 298133,
+    "Quicktime": [],
+    "Youtube": []
+  },
+  "Translations": {
+    "Id": 298133,
+    "Translations": [
+      {
+        "Iso_639_1": "en",
+        "Name": "English",
+        "EnglishName": "English"
+      }
+    ]
+  }
+}

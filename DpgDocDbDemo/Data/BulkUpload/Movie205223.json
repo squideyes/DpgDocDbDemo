@@ -1,0 +1,142 @@
+{
+  "Id": 205223,
+  "ImdbId": "tt3045366",
+  "Title": "Phantasmagoria",
+  "OriginalTitle": "Phantasmagoria",
+  "Status": "Planned",
+  "Tagline": "3 shocking tales of horror that takes you beyond fear.",
+  "Overview": "Three shocking tales of horror that will get you beyond fear. From the mind of the filmmaker Domiziano Cristopharo (House of Flesh Mannequins, Bloody Sin of Horror, Poe: Poetry of Eerie) and Mickael Abbate (Festival Director of \"Samain du cinéma fantastique\"), Phantasmagoria is a Franco-Italian co production.",
+  "Homepage": "https://www.facebook.com/Phantasmagoria.the.movie",
+  "BackdropPath": "/c5xvop2AtexBlKnpEGTP2UXhdU6.jpg",
+  "PosterPath": "/kDzNxCloG7sjRPAICRGIJ5tGq5O.jpg",
+  "Genres": [
+    {
+      "Id": 27,
+      "Name": "Horror"
+    }
+  ],
+  "ReleaseDate": "2014-10-31T00:00:00",
+  "Runtime": 0,
+  "Popularity": 1.40627053834078,
+  "ProductionCompanies": [],
+  "ProductionCountries": [],
+  "SpokenLanguages": [
+    {
+      "Iso_639_1": "it",
+      "Name": "Italiano"
+    }
+  ],
+  "AlternativeTitles": {
+    "Id": 205223,
+    "Titles": []
+  },
+  "Releases": {
+    "Id": 205223,
+    "Countries": [
+      {
+        "Iso_3166_1": "IT",
+        "ReleaseDate": "2014-10-31T00:00:00"
+      }
+    ]
+  },
+  "Credits": {
+    "Id": 205223,
+    "Cast": [],
+    "Crew": [
+      {
+        "Id": 98518,
+        "Name": "Domiziano Cristopharo",
+        "Department": "Directing",
+        "Job": "Director"
+      },
+      {
+        "Id": 1187670,
+        "Name": "Mickael Abbate",
+        "Department": "Directing",
+        "Job": "Director"
+      },
+      {
+        "Id": 1093209,
+        "Name": "Tiziano Martella",
+        "Department": "Directing",
+        "Job": "Director"
+      }
+    ]
+  },
+  "Images": {
+    "Backdrops": [
+      {
+        "FilePath": "/c5xvop2AtexBlKnpEGTP2UXhdU6.jpg",
+        "Width": 1600,
+        "Height": 900,
+        "AspectRatio": 1.77777777777778
+      },
+      {
+        "FilePath": "/n1Z9V0X9iY2xLnNrmJpDIUxGzVd.jpg",
+        "Width": 1600,
+        "Height": 900,
+        "AspectRatio": 1.77777777777778
+      },
+      {
+        "FilePath": "/7idiJCJQv3FVRy9Bu79hIjI5hPu.jpg",
+        "Width": 1600,
+        "Height": 900,
+        "AspectRatio": 1.77777777777778
+      },
+      {
+        "FilePath": "/jcfusvzGcIROdaEIMWWmpCqHSlv.jpg",
+        "Width": 1600,
+        "Height": 900,
+        "AspectRatio": 1.77777777777778
+      }
+    ],
+    "Posters": [
+      {
+        "FilePath": "/kDzNxCloG7sjRPAICRGIJ5tGq5O.jpg",
+        "Width": 679,
+        "Height": 960,
+        "AspectRatio": 0.707291666666667
+      },
+      {
+        "FilePath": "/yJG4JISY7VPLsVlpyJrT1iWXD4Y.jpg",
+        "Width": 656,
+        "Height": 928,
+        "AspectRatio": 0.706896551724138
+      }
+    ]
+  },
+  "Keywords": {
+    "Id": 205223,
+    "Keywords": [
+      {
+        "Id": 9706,
+        "Name": "anthology"
+      }
+    ]
+  },
+  "Trailers": {
+    "Id": 205223,
+    "Quicktime": [],
+    "Youtube": []
+  },
+  "Translations": {
+    "Id": 205223,
+    "Translations": [
+      {
+        "Iso_639_1": "en",
+        "Name": "English",
+        "EnglishName": "English"
+      },
+      {
+        "Iso_639_1": "it",
+        "Name": "Italiano",
+        "EnglishName": "Italian"
+      },
+      {
+        "Iso_639_1": "fr",
+        "Name": "Français",
+        "EnglishName": "French"
+      }
+    ]
+  }
+}

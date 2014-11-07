@@ -1,0 +1,130 @@
+{
+  "Id": 299138,
+  "ImdbId": "tt2506386",
+  "Title": "The Second Coming",
+  "OriginalTitle": "The Second Coming",
+  "Status": "Released",
+  "Overview": "The characters from previous .hack//G.U. Games and .hack//Roots receive an email from Ovan. He is requesting them to go to Hidden Forbidden Festival where is set up a mysterious summer festival. There they find an AIDA Chim Chim who wishes to peacefully co-exist with the other players of The World. It then transforms into the word \"Returner\", so they assume it to mean that Ovan will return to The World.",
+  "BackdropPath": "/iSFBxeup4JVUVvx5vZdiQ5dk4Eq.jpg",
+  "PosterPath": "/ab71hlqsskOLaU9RY7Fwe3MY5o2.jpg",
+  "Genres": [
+    {
+      "Id": 14,
+      "Name": "Fantasy"
+    },
+    {
+      "Id": 27,
+      "Name": "Horror"
+    },
+    {
+      "Id": 53,
+      "Name": "Thriller"
+    }
+  ],
+  "ReleaseDate": "2014-10-26T00:00:00",
+  "Runtime": 0,
+  "Popularity": 0.55953800001,
+  "ProductionCompanies": [],
+  "ProductionCountries": [
+    {
+      "Iso_3166_1": "HK",
+      "Name": "Hong Kong"
+    },
+    {
+      "Iso_3166_1": "SG",
+      "Name": "Singapore"
+    },
+    {
+      "Iso_3166_1": "TW",
+      "Name": "Taiwan"
+    }
+  ],
+  "SpokenLanguages": [
+    {
+      "Iso_639_1": "cn",
+      "Name": "广州话 / 廣州話"
+    }
+  ],
+  "AlternativeTitles": {
+    "Id": 299138,
+    "Titles": []
+  },
+  "Releases": {
+    "Id": 299138,
+    "Countries": [
+      {
+        "Iso_3166_1": "HK",
+        "ReleaseDate": "2014-10-26T00:00:00"
+      }
+    ]
+  },
+  "Credits": {
+    "Id": 299138,
+    "Cast": [
+      {
+        "Id": 566040,
+        "Name": "Joey Leong",
+        "Order": 1,
+        "ProfilePath": "/84nEUKAE2FGvvQyk6wDbSUk7XtM.jpg"
+      },
+      {
+        "Id": 168246,
+        "Name": "Donald Li",
+        "Order": 2,
+        "CastId": 1,
+        "ProfilePath": "/7TeLJzqIoSUMAZJRkSLMp53wujn.jpg"
+      }
+    ],
+    "Crew": [
+      {
+        "Id": 92831,
+        "Name": "Herman Yau",
+        "Department": "Directing",
+        "Job": "Director",
+        "ProfilePath": "/ahrznxNTlzUwO4wg10dijD8MF4I.jpg"
+      }
+    ]
+  },
+  "Images": {
+    "Backdrops": [
+      {
+        "FilePath": "/iSFBxeup4JVUVvx5vZdiQ5dk4Eq.jpg",
+        "Width": 1920,
+        "Height": 1080,
+        "AspectRatio": 1.77777777777778
+      }
+    ],
+    "Posters": [
+      {
+        "FilePath": "/ab71hlqsskOLaU9RY7Fwe3MY5o2.jpg",
+        "Width": 2000,
+        "Height": 3000,
+        "AspectRatio": 0.666666666666667
+      }
+    ]
+  },
+  "Keywords": {
+    "Id": 299138,
+    "Keywords": []
+  },
+  "Trailers": {
+    "Id": 299138,
+    "Quicktime": [],
+    "Youtube": []
+  },
+  "Translations": {
+    "Id": 299138,
+    "Translations": [
+      {
+        "Iso_639_1": "fr",
+        "Name": "Français",
+        "EnglishName": "French"
+      },
+      {
+        "Iso_639_1": "en",
+        "Name": "English",
+        "EnglishName": "English"
+      }
+    ]
+  }
+}

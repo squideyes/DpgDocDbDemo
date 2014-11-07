@@ -1,0 +1,243 @@
+{
+  "Id": 298039,
+  "ImdbId": "tt1965118",
+  "Title": "Strike One",
+  "OriginalTitle": "Strike One",
+  "Status": "Post Production",
+  "Tagline": "A Coward Dies a Thousand Deaths",
+  "Overview": "Juan Garcia is a boy on the threshold of manhood living in a gang-controlled neighborhood. His role models could not be further apart: his older sister Angie, a single mom, struggling to gain a foothold in the white corporate world and his uncle Manny, an ex-gang member, who has fallen into an acting career playing gang bangers since his release from prison. With the future on his doorstep, Juan, like most boys, can only think of girls and is unaware of the judicial system's hard line stance against gang affiliation.",
+  "PosterPath": "/xoGwukNE82e26348sVDnvqI2r2w.jpg",
+  "Genres": [
+    {
+      "Id": 28,
+      "Name": "Action"
+    },
+    {
+      "Id": 80,
+      "Name": "Crime"
+    },
+    {
+      "Id": 18,
+      "Name": "Drama"
+    }
+  ],
+  "ReleaseDate": "2014-10-23T00:00:00",
+  "Runtime": 102,
+  "Popularity": 0.519320456096526,
+  "ProductionCompanies": [
+    {
+      "Name": "Strike One Films",
+      "Id": 35626
+    },
+    {
+      "Name": "Boricua Films",
+      "Id": 35627
+    }
+  ],
+  "ProductionCountries": [
+    {
+      "Iso_3166_1": "US",
+      "Name": "United States of America"
+    }
+  ],
+  "SpokenLanguages": [
+    {
+      "Iso_639_1": "en",
+      "Name": "English"
+    }
+  ],
+  "AlternativeTitles": {
+    "Id": 298039,
+    "Titles": []
+  },
+  "Releases": {
+    "Id": 298039,
+    "Countries": [
+      {
+        "Iso_3166_1": "US",
+        "ReleaseDate": "2014-10-23T00:00:00"
+      }
+    ]
+  },
+  "Credits": {
+    "Id": 298039,
+    "Cast": [
+      {
+        "Id": 11160,
+        "Name": "Danny Trejo",
+        "Character": "Manny Garcia",
+        "Order": 1,
+        "ProfilePath": "/7b8cDfrmeheQbgryfCm7MeJOxxM.jpg"
+      },
+      {
+        "Id": 67711,
+        "Name": "French Stewart",
+        "Character": "Director",
+        "Order": 2,
+        "CastId": 1,
+        "ProfilePath": "/8IpVIyRvwRAeWjsGtM7eAcZlj4t.jpg"
+      },
+      {
+        "Id": 7672,
+        "Name": "Reginald VelJohnson",
+        "Character": "Judge Morris",
+        "Order": 3,
+        "CastId": 2,
+        "ProfilePath": "/dZtIIOI0PpD3dmTVfUOWiQzOY28.jpg"
+      },
+      {
+        "Id": 785,
+        "Name": "James Russo",
+        "Character": "Paul Fairfield",
+        "Order": 4,
+        "CastId": 3,
+        "ProfilePath": "/tV4X0uEuqu6XYml3yEs9rsG9EzW.jpg"
+      },
+      {
+        "Id": 42376,
+        "Name": "Zahn McClarnon",
+        "Character": "Muerto O.G.",
+        "Order": 5,
+        "CastId": 4,
+        "ProfilePath": "/nSoFV9yj68KAhoAHIf1QQpr7Es2.jpg"
+      },
+      {
+        "Id": 18304,
+        "Name": "Billy Gallo",
+        "Character": "Sgt. Veritas",
+        "Order": 6,
+        "CastId": 5
+      },
+      {
+        "Id": 1375164,
+        "Name": "Mariano Mendoza",
+        "Character": "Muerto O.G. #2",
+        "Order": 7,
+        "CastId": 6
+      },
+      {
+        "Id": 1375165,
+        "Name": "Michelle LaRue",
+        "Character": "Actress",
+        "Order": 8,
+        "CastId": 7
+      },
+      {
+        "Id": 162169,
+        "Name": "Alma Martinez",
+        "Character": "Mrs. Garcia",
+        "Order": 9,
+        "CastId": 8
+      },
+      {
+        "Id": 143300,
+        "Name": "Nicki Hunter",
+        "Character": "Dancer",
+        "Order": 10,
+        "CastId": 9
+      },
+      {
+        "Id": 1375166,
+        "Name": "Jocelyn Cruz",
+        "Character": "Mika",
+        "Order": 11,
+        "CastId": 10
+      },
+      {
+        "Id": 74500,
+        "Name": "James Tumminia",
+        "Character": "DA Ben O' Connor",
+        "Order": 12,
+        "CastId": 11,
+        "ProfilePath": "/i5CkGRP2JgJaicddxUqD66cS0hX.jpg"
+      },
+      {
+        "Id": 1354957,
+        "Name": "Johnny Ortiz",
+        "Character": "Juan Garcia",
+        "Order": 13,
+        "CastId": 12
+      },
+      {
+        "Id": 1004781,
+        "Name": "Deadlee",
+        "Character": "Prison Tattoo Artist",
+        "Order": 14,
+        "CastId": 13,
+        "ProfilePath": "/kcbItgbahvUmVWKJgLP2H5USYFv.jpg"
+      },
+      {
+        "Id": 1375167,
+        "Name": "Leo Oliva",
+        "Character": "Smiley / Head Gangbanger",
+        "Order": 15,
+        "CastId": 14
+      }
+    ],
+    "Crew": [
+      {
+        "Id": 1375168,
+        "Name": "David Llauger Meiselman",
+        "Department": "Directing",
+        "Job": "Director"
+      },
+      {
+        "Id": 70088,
+        "Name": "Howard Cohen",
+        "Department": "Writing",
+        "Job": "Writer"
+      },
+      {
+        "Id": 1375169,
+        "Name": "Lawrence Smilgys",
+        "Department": "Writing",
+        "Job": "Writer"
+      },
+      {
+        "Id": 1375169,
+        "Name": "Lawrence Smilgys",
+        "Department": "Writing",
+        "Job": "Screenplay"
+      }
+    ]
+  },
+  "Images": {
+    "Backdrops": [],
+    "Posters": [
+      {
+        "FilePath": "/xoGwukNE82e26348sVDnvqI2r2w.jpg",
+        "Width": 524,
+        "Height": 786,
+        "AspectRatio": 0.666666666666667
+      }
+    ]
+  },
+  "Keywords": {
+    "Id": 298039,
+    "Keywords": [
+      {
+        "Id": 10683,
+        "Name": "coming of age"
+      },
+      {
+        "Id": 10726,
+        "Name": "gang"
+      }
+    ]
+  },
+  "Trailers": {
+    "Id": 298039,
+    "Quicktime": [],
+    "Youtube": []
+  },
+  "Translations": {
+    "Id": 298039,
+    "Translations": [
+      {
+        "Iso_639_1": "en",
+        "Name": "English",
+        "EnglishName": "English"
+      }
+    ]
+  }
+}

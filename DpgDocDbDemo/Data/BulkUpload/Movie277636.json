@@ -1,0 +1,230 @@
+{
+  "Id": 277636,
+  "ImdbId": "tt3774236",
+  "Title": "Dark Fables",
+  "OriginalTitle": "Fabulas Negras",
+  "Status": "Released",
+  "Tagline": "4 stories from 4 great brazilian directors!",
+  "Overview": "4 stories with 4 great Brazilian directors!",
+  "Genres": [
+    {
+      "Id": 27,
+      "Name": "Horror"
+    },
+    {
+      "Id": 53,
+      "Name": "Thriller"
+    },
+    {
+      "Id": 10769,
+      "Name": "Foreign"
+    }
+  ],
+  "ReleaseDate": "2014-10-31T00:00:00",
+  "Runtime": 0,
+  "Popularity": 1.40743988499601,
+  "ProductionCompanies": [
+    {
+      "Name": "Fábulas Negras",
+      "Id": 10942
+    }
+  ],
+  "ProductionCountries": [
+    {
+      "Iso_3166_1": "BR",
+      "Name": "Brazil"
+    }
+  ],
+  "SpokenLanguages": [],
+  "AlternativeTitles": {
+    "Id": 277636,
+    "Titles": []
+  },
+  "Releases": {
+    "Id": 277636,
+    "Countries": [
+      {
+        "Iso_3166_1": "MX",
+        "Certification": "18",
+        "ReleaseDate": "2014-10-31T00:00:00"
+      }
+    ]
+  },
+  "Credits": {
+    "Id": 277636,
+    "Cast": [
+      {
+        "Id": 1299856,
+        "Name": "Marcelo Castanheira",
+        "Character": "Madman",
+        "Order": 1,
+        "CastId": 14,
+        "ProfilePath": "/ysl4xBQtsMUm0dDwmL0JdHLOwmV.jpg"
+      },
+      {
+        "Id": 1180594,
+        "Name": "Mayra Alarcón",
+        "Character": "Madman",
+        "Order": 2,
+        "CastId": 15
+      },
+      {
+        "Id": 1102592,
+        "Name": "Ricardo Araújo",
+        "Character": "Madman",
+        "Order": 3,
+        "CastId": 16
+      },
+      {
+        "Id": 1299864,
+        "Name": "Coffin Souza",
+        "Character": "Coronel",
+        "Order": 4,
+        "CastId": 17,
+        "ProfilePath": "/kSQjiSf9wBswlR2IkZzv26YH9D5.jpg"
+      },
+      {
+        "Id": 1102594,
+        "Name": "Walderrama Dos Santos",
+        "Character": "Werewolf",
+        "Order": 5,
+        "CastId": 18
+      }
+    ],
+    "Crew": [
+      {
+        "Id": 1102554,
+        "Name": "Rodrigo Aragão",
+        "Department": "Directing",
+        "Job": "Director",
+        "ProfilePath": "/4PF2t0UiKF5hHtR9u9sl3nd9a0A.jpg"
+      },
+      {
+        "Id": 1180595,
+        "Name": "Petter Baiestorf",
+        "Department": "Directing",
+        "Job": "Director",
+        "ProfilePath": "/58QUicGpS5yBqyFv52b6AAaM8q6.jpg"
+      },
+      {
+        "Id": 1180596,
+        "Name": "Joel Caetano",
+        "Department": "Directing",
+        "Job": "Director",
+        "ProfilePath": "/oSNGY7fFCuJRdmhBNcZxlu06ELS.jpg"
+      },
+      {
+        "Id": 90204,
+        "Name": "José Mojica Marins",
+        "Department": "Directing",
+        "Job": "Director",
+        "ProfilePath": "/it9fSl5m2WDgze9tZpXv4sdtcl2.jpg"
+      },
+      {
+        "Id": 1299856,
+        "Name": "Marcelo Castanheira",
+        "Department": "Camera",
+        "Job": "Director of Photography",
+        "ProfilePath": "/ysl4xBQtsMUm0dDwmL0JdHLOwmV.jpg"
+      },
+      {
+        "Id": 1299856,
+        "Name": "Marcelo Castanheira",
+        "Department": "Camera",
+        "Job": "Camera Operator",
+        "ProfilePath": "/ysl4xBQtsMUm0dDwmL0JdHLOwmV.jpg"
+      },
+      {
+        "Id": 1299857,
+        "Name": "Leandro Sherman",
+        "Department": "Camera",
+        "Job": "Camera Operator"
+      },
+      {
+        "Id": 1332054,
+        "Name": "Marcos Luppi",
+        "Department": "Camera",
+        "Job": "Camera Operator"
+      },
+      {
+        "Id": 1332055,
+        "Name": "Cleyton Jackson",
+        "Department": "Camera",
+        "Job": "Camera Operator"
+      },
+      {
+        "Id": 1332056,
+        "Name": "Mayra Alarcón",
+        "Department": "Production",
+        "Job": "Producer"
+      },
+      {
+        "Id": 1102593,
+        "Name": "Kika de Oliveira",
+        "Department": "Production",
+        "Job": "Producer"
+      },
+      {
+        "Id": 1332057,
+        "Name": "Alexandre Barcelos",
+        "Department": "Sound",
+        "Job": "Sound Designer"
+      },
+      {
+        "Id": 1299859,
+        "Name": "Vinícius Ribeiro",
+        "Department": "Sound",
+        "Job": "Boom Operator"
+      },
+      {
+        "Id": 1332058,
+        "Name": "Fepas FP",
+        "Department": "Crew",
+        "Job": "Sound Recordist"
+      },
+      {
+        "Id": 1299856,
+        "Name": "Marcelo Castanheira",
+        "Department": "Directing",
+        "Job": "Assistant Director",
+        "ProfilePath": "/ysl4xBQtsMUm0dDwmL0JdHLOwmV.jpg"
+      },
+      {
+        "Id": 1180596,
+        "Name": "Joel Caetano",
+        "Department": "Directing",
+        "Job": "Assistant Director",
+        "ProfilePath": "/oSNGY7fFCuJRdmhBNcZxlu06ELS.jpg"
+      },
+      {
+        "Id": 1332079,
+        "Name": "Alexandre Brunoro",
+        "Department": "Directing",
+        "Job": "Assistant Director"
+      }
+    ]
+  },
+  "Images": {
+    "Backdrops": [],
+    "Posters": []
+  },
+  "Keywords": {
+    "Id": 277636,
+    "Keywords": []
+  },
+  "Trailers": {
+    "Id": 277636,
+    "Quicktime": [],
+    "Youtube": []
+  },
+  "Translations": {
+    "Id": 277636,
+    "Translations": [
+      {
+        "Iso_639_1": "en",
+        "Name": "English",
+        "EnglishName": "English"
+      }
+    ]
+  }
+}

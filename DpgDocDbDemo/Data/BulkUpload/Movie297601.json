@@ -1,0 +1,57 @@
+{
+  "Id": 297601,
+  "ImdbId": "tt4065394",
+  "Title": "A Requiem for Syrian Refugees",
+  "OriginalTitle": "A Requiem for Syrian Refugees",
+  "Status": "Released",
+  "Overview": "Scored to Gabriel Fauré’s well-known Requiem in D-Minor and shot in stark black and white with a crew of refugees who felt the urgency to convey their situation to the world, A REQUIEM FOR SYRIAN REFUGEES is a wrenching portrait of survival, resilience and empowerment in the camps of Northern Iraq. An intimate perspective on the daily lives and emotions of their fellow refugees, REQUIEM is also a poignant reminder of the civilian toll and trauma of 21st Century wars and an alarm sounded against indifference to the suffering and courage of millions, a non-partisan call for humanity and compassion.",
+  "Genres": [],
+  "ReleaseDate": "2014-10-17T00:00:00",
+  "Runtime": 71,
+  "Popularity": 0.236266833662684,
+  "ProductionCompanies": [],
+  "ProductionCountries": [],
+  "SpokenLanguages": [],
+  "AlternativeTitles": {
+    "Id": 297601,
+    "Titles": []
+  },
+  "Releases": {
+    "Id": 297601,
+    "Countries": [
+      {
+        "Iso_3166_1": "US",
+        "Certification": "NR",
+        "ReleaseDate": "2014-10-17T00:00:00"
+      }
+    ]
+  },
+  "Credits": {
+    "Id": 297601,
+    "Cast": [],
+    "Crew": []
+  },
+  "Images": {
+    "Backdrops": [],
+    "Posters": []
+  },
+  "Keywords": {
+    "Id": 297601,
+    "Keywords": []
+  },
+  "Trailers": {
+    "Id": 297601,
+    "Quicktime": [],
+    "Youtube": []
+  },
+  "Translations": {
+    "Id": 297601,
+    "Translations": [
+      {
+        "Iso_639_1": "en",
+        "Name": "English",
+        "EnglishName": "English"
+      }
+    ]
+  }
+}

@@ -1,0 +1,71 @@
+{
+  "Id": 298134,
+  "Title": "Afsan’s Long Day (The Young Man Was, Part 2)",
+  "OriginalTitle": "Afsan’s Long Day (The Young Man Was, Part 2)",
+  "Status": "Released",
+  "Overview": "Exploring the revolutionary left in 1970s Bangladesh through a series of inter-connected vignettes, which draw on Jean-Paul Sartre, Joschka Fischer, Rote Armee Fraktion, and the Sarbahara Party.",
+  "Genres": [],
+  "ReleaseDate": "2014-10-17T00:00:00",
+  "Runtime": 39,
+  "Popularity": 0.220845697935056,
+  "ProductionCompanies": [],
+  "ProductionCountries": [
+    {
+      "Iso_3166_1": "BD",
+      "Name": "Bangladesh"
+    },
+    {
+      "Iso_3166_1": "US",
+      "Name": "United States of America"
+    }
+  ],
+  "SpokenLanguages": [],
+  "AlternativeTitles": {
+    "Id": 298134,
+    "Titles": []
+  },
+  "Releases": {
+    "Id": 298134,
+    "Countries": [
+      {
+        "Iso_3166_1": "GB",
+        "ReleaseDate": "2014-10-17T00:00:00"
+      }
+    ]
+  },
+  "Credits": {
+    "Id": 298134,
+    "Cast": [],
+    "Crew": [
+      {
+        "Id": 1375293,
+        "Name": "Naeem Mohaiemen",
+        "Department": "Directing",
+        "Job": "Director"
+      }
+    ]
+  },
+  "Images": {
+    "Backdrops": [],
+    "Posters": []
+  },
+  "Keywords": {
+    "Id": 298134,
+    "Keywords": []
+  },
+  "Trailers": {
+    "Id": 298134,
+    "Quicktime": [],
+    "Youtube": []
+  },
+  "Translations": {
+    "Id": 298134,
+    "Translations": [
+      {
+        "Iso_639_1": "en",
+        "Name": "English",
+        "EnglishName": "English"
+      }
+    ]
+  }
+}

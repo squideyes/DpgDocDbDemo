@@ -1,0 +1,180 @@
+{
+  "Id": 299353,
+  "ImdbId": "tt3334794",
+  "Title": "About a Girl",
+  "OriginalTitle": "About a Girl",
+  "Status": "Released",
+  "PosterPath": "/rKIILXzvc3hp8YhAQgwSjPU29On.jpg",
+  "Genres": [
+    {
+      "Id": 35,
+      "Name": "Comedy"
+    },
+    {
+      "Id": 10769,
+      "Name": "Foreign"
+    }
+  ],
+  "ReleaseDate": "2014-10-23T00:00:00",
+  "Popularity": 0.2397782916,
+  "ProductionCompanies": [
+    {
+      "Name": "Bayerischer Rundfunk (BR)",
+      "Id": 7333
+    },
+    {
+      "Name": "Die Film GmbH",
+      "Id": 19426
+    },
+    {
+      "Name": "Imbissfilm",
+      "Id": 36557
+    }
+  ],
+  "ProductionCountries": [
+    {
+      "Iso_3166_1": "DE",
+      "Name": "Germany"
+    }
+  ],
+  "SpokenLanguages": [
+    {
+      "Iso_639_1": "de",
+      "Name": "Deutsch"
+    }
+  ],
+  "AlternativeTitles": {
+    "Id": 299353,
+    "Titles": []
+  },
+  "Releases": {
+    "Id": 299353,
+    "Countries": [
+      {
+        "Iso_3166_1": "DE",
+        "ReleaseDate": "2014-10-23T00:00:00"
+      }
+    ]
+  },
+  "Credits": {
+    "Id": 299353,
+    "Cast": [
+      {
+        "Id": 559589,
+        "Name": "Jasna Fritzi Bauer",
+        "Character": "Charlotte",
+        "Order": 1,
+        "ProfilePath": "/5Ig5gpYhDryPARHb0KdOBodFmDW.jpg"
+      },
+      {
+        "Id": 71607,
+        "Name": "Aurel Manthei",
+        "Character": "Jeff",
+        "Order": 3,
+        "CastId": 2
+      },
+      {
+        "Id": 7059,
+        "Name": "Heike Makatsch",
+        "Character": "Sabine",
+        "Order": 4,
+        "CastId": 3,
+        "ProfilePath": "/1WTc8X43BlxCw6Nn5gTrENzvu9L.jpg"
+      },
+      {
+        "Id": 15121,
+        "Name": "Simon Schwarz",
+        "Character": "Volker",
+        "Order": 5,
+        "CastId": 4,
+        "ProfilePath": "/izlpuHk8O7Ak0WjYY4awbkGAqT9.jpg"
+      }
+    ],
+    "Crew": [
+      {
+        "Id": 1378416,
+        "Name": "Mark Monheim",
+        "Department": "Directing",
+        "Job": "Director"
+      },
+      {
+        "Id": 1378416,
+        "Name": "Mark Monheim",
+        "Department": "Writing",
+        "Job": "Writer"
+      },
+      {
+        "Id": 1378417,
+        "Name": "Martin Rehbock",
+        "Department": "Writing",
+        "Job": "Writer"
+      },
+      {
+        "Id": 1378417,
+        "Name": "Martin Rehbock",
+        "Department": "Production",
+        "Job": "Producer"
+      },
+      {
+        "Id": 16884,
+        "Name": "Daniel Schönauer",
+        "Department": "Camera",
+        "Job": "Director of Photography"
+      }
+    ]
+  },
+  "Images": {
+    "Backdrops": [],
+    "Posters": [
+      {
+        "FilePath": "/rKIILXzvc3hp8YhAQgwSjPU29On.jpg",
+        "Width": 531,
+        "Height": 750,
+        "Iso_639_1": "de",
+        "AspectRatio": 0.708,
+        "VoteAverage": 5.26785714285714,
+        "VoteCount": 1
+      }
+    ]
+  },
+  "Keywords": {
+    "Id": 299353,
+    "Keywords": [
+      {
+        "Id": 163182,
+        "Name": "suicide thoughts"
+      },
+      {
+        "Id": 164496,
+        "Name": "mother figure"
+      },
+      {
+        "Id": 171411,
+        "Name": "teen suicide"
+      },
+      {
+        "Id": 193903,
+        "Name": "nerds"
+      },
+      {
+        "Id": 203322,
+        "Name": "dramedy"
+      }
+    ]
+  },
+  "Trailers": {
+    "Id": 299353,
+    "Quicktime": [],
+    "Youtube": []
+  },
+  "Translations": {
+    "Id": 299353,
+    "Translations": [
+      {
+        "Iso_639_1": "it",
+        "Name": "Italiano",
+        "EnglishName": "Italian"
+      }
+    ]
+  }
+}

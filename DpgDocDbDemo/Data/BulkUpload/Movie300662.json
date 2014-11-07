@@ -1,0 +1,71 @@
+{
+  "Id": 300662,
+  "ImdbId": "tt4157686",
+  "Title": "Strangers",
+  "OriginalTitle": "Strangers",
+  "Status": "Released",
+  "Overview": "After humiliating his date, a man awakes the next day to find himself locked up in his barricaded apartment. He has no chance of escaping. And he is not alone...",
+  "Homepage": "http://www.strangers-film.com/",
+  "PosterPath": "/j8AdW4EDCgifrTs0Wn1IXs4rJ8p.jpg",
+  "Genres": [],
+  "ReleaseDate": "2014-10-27T00:00:00",
+  "Runtime": 20,
+  "ProductionCompanies": [],
+  "ProductionCountries": [],
+  "SpokenLanguages": [],
+  "AlternativeTitles": {
+    "Id": 300662,
+    "Titles": []
+  },
+  "Releases": {
+    "Id": 300662,
+    "Countries": [
+      {
+        "Iso_3166_1": "US",
+        "ReleaseDate": "2014-10-27T00:00:00"
+      }
+    ]
+  },
+  "Credits": {
+    "Id": 300662,
+    "Cast": [],
+    "Crew": [
+      {
+        "Id": 1381385,
+        "Name": "Erik Lehmann",
+        "Department": "Directing",
+        "Job": "Director"
+      }
+    ]
+  },
+  "Images": {
+    "Backdrops": [],
+    "Posters": [
+      {
+        "FilePath": "/j8AdW4EDCgifrTs0Wn1IXs4rJ8p.jpg",
+        "Width": 1280,
+        "Height": 1896,
+        "AspectRatio": 0.675105485232067
+      }
+    ]
+  },
+  "Keywords": {
+    "Id": 300662,
+    "Keywords": []
+  },
+  "Trailers": {
+    "Id": 300662,
+    "Quicktime": [],
+    "Youtube": []
+  },
+  "Translations": {
+    "Id": 300662,
+    "Translations": [
+      {
+        "Iso_639_1": "en",
+        "Name": "English",
+        "EnglishName": "English"
+      }
+    ]
+  }
+}

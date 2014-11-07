@@ -1,0 +1,100 @@
+{
+  "Id": 300194,
+  "Title": "lynda.com: Java Essential Training",
+  "OriginalTitle": "lynda.com: Java Essential Training",
+  "Status": "Released",
+  "Tagline": "lynda.com: Java Essential Training",
+  "Overview": "Join author David Gassner as he explores Java SE (Standard Edition), the language used to build mobile apps for Android devices, enterprise server applications, and more. This course demonstrates how to install both Java and the Eclipse IDE and dives into the particulars of programming. The course also explains the fundamentals of Java, from creating simple variables, assigning values, and declaring methods to working with strings, arrays, and subclasses; reading and writing to text files; and implementing object oriented programming concepts.",
+  "Homepage": "http://www.lynda.com",
+  "BackdropPath": "/g1CAhSk10tWEKJXawg94x1XAsqS.jpg",
+  "PosterPath": "/z8KPGpWYSyWrrRkTivOhErH8mPG.jpg",
+  "Genres": [],
+  "ReleaseDate": "2014-10-31T00:00:00",
+  "Runtime": 100,
+  "Popularity": 1.122785,
+  "VoteAverage": 9.0,
+  "VoteCount": 1,
+  "ProductionCompanies": [],
+  "ProductionCountries": [
+    {
+      "Iso_3166_1": "US",
+      "Name": "United States of America"
+    }
+  ],
+  "SpokenLanguages": [
+    {
+      "Iso_639_1": "en",
+      "Name": "English"
+    }
+  ],
+  "AlternativeTitles": {
+    "Id": 300194,
+    "Titles": [
+      {
+        "Iso_3166_1": "US",
+        "Title": "Java Essential Training"
+      }
+    ]
+  },
+  "Releases": {
+    "Id": 300194,
+    "Countries": [
+      {
+        "Iso_3166_1": "US",
+        "Certification": "PG-13",
+        "ReleaseDate": "2014-10-31T00:00:00"
+      }
+    ]
+  },
+  "Credits": {
+    "Id": 300194,
+    "Cast": [],
+    "Crew": []
+  },
+  "Images": {
+    "Backdrops": [
+      {
+        "FilePath": "/g1CAhSk10tWEKJXawg94x1XAsqS.jpg",
+        "Width": 1280,
+        "Height": 720,
+        "AspectRatio": 1.77777777777778
+      }
+    ],
+    "Posters": [
+      {
+        "FilePath": "/z8KPGpWYSyWrrRkTivOhErH8mPG.jpg",
+        "Width": 1000,
+        "Height": 1500,
+        "AspectRatio": 0.666666666666667
+      }
+    ]
+  },
+  "Keywords": {
+    "Id": 300194,
+    "Keywords": [
+      {
+        "Id": 196056,
+        "Name": "computer programming"
+      },
+      {
+        "Id": 208188,
+        "Name": "java"
+      }
+    ]
+  },
+  "Trailers": {
+    "Id": 300194,
+    "Quicktime": [],
+    "Youtube": []
+  },
+  "Translations": {
+    "Id": 300194,
+    "Translations": [
+      {
+        "Iso_639_1": "en",
+        "Name": "English",
+        "EnglishName": "English"
+      }
+    ]
+  }
+}

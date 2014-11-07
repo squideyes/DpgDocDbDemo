@@ -1,0 +1,63 @@
+{
+  "Id": 300424,
+  "Title": "LEGO DC Comics: Batman Be-Leaguered",
+  "OriginalTitle": "LEGO DC Comics: Batman Be-Leaguered",
+  "Status": "Released",
+  "Overview": "Batman learns to work with a team.",
+  "PosterPath": "/gZKa30OX3rpa9iUM2l98if6CUFf.jpg",
+  "Genres": [],
+  "ReleaseDate": "2014-10-27T00:00:00",
+  "Runtime": 22,
+  "Popularity": 0.8807,
+  "ProductionCompanies": [],
+  "ProductionCountries": [],
+  "SpokenLanguages": [],
+  "AlternativeTitles": {
+    "Id": 300424,
+    "Titles": []
+  },
+  "Releases": {
+    "Id": 300424,
+    "Countries": [
+      {
+        "Iso_3166_1": "US",
+        "ReleaseDate": "2014-10-27T00:00:00"
+      }
+    ]
+  },
+  "Credits": {
+    "Id": 300424,
+    "Cast": [],
+    "Crew": []
+  },
+  "Images": {
+    "Backdrops": [],
+    "Posters": [
+      {
+        "FilePath": "/gZKa30OX3rpa9iUM2l98if6CUFf.jpg",
+        "Width": 500,
+        "Height": 750,
+        "AspectRatio": 0.666666666666667
+      }
+    ]
+  },
+  "Keywords": {
+    "Id": 300424,
+    "Keywords": []
+  },
+  "Trailers": {
+    "Id": 300424,
+    "Quicktime": [],
+    "Youtube": []
+  },
+  "Translations": {
+    "Id": 300424,
+    "Translations": [
+      {
+        "Iso_639_1": "en",
+        "Name": "English",
+        "EnglishName": "English"
+      }
+    ]
+  }
+}

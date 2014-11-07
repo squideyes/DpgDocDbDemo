@@ -1,0 +1,136 @@
+{
+  "Id": 274049,
+  "ImdbId": "tt3744460",
+  "Title": "Space Sheriff Sharivan: THE NEXT GENERATION",
+  "OriginalTitle": "Uchuu Keiji Sharivan: THE NEXT GENERATION",
+  "Status": "Released",
+  "Overview": "This new Space Sheriff project is a V-Cinema project that takes place after the events of Space Sheriff Gavan the Movie. Space Sheriff Sharivan: THE NEXT GENERATION will be released on October 10th. It's expected that Riki Miura will reprise his role as Kai Hyuga/Sharivan for the film.",
+  "BackdropPath": "/3FHjnE4DnE64z9iNlkOAje3yqnE.jpg",
+  "PosterPath": "/sGVukbJXwsBaz03k7yPVjZxmgjf.jpg",
+  "Genres": [
+    {
+      "Id": 28,
+      "Name": "Action"
+    },
+    {
+      "Id": 12,
+      "Name": "Adventure"
+    },
+    {
+      "Id": 878,
+      "Name": "Science Fiction"
+    }
+  ],
+  "ReleaseDate": "2014-10-10T00:00:00",
+  "Runtime": 0,
+  "Popularity": 0.806526901391261,
+  "ProductionCompanies": [
+    {
+      "Name": "Toei Company, Ltd.",
+      "Id": 22221
+    }
+  ],
+  "ProductionCountries": [
+    {
+      "Iso_3166_1": "JP",
+      "Name": "Japan"
+    }
+  ],
+  "SpokenLanguages": [
+    {
+      "Iso_639_1": "ja",
+      "Name": "日本語"
+    }
+  ],
+  "AlternativeTitles": {
+    "Id": 274049,
+    "Titles": []
+  },
+  "Releases": {
+    "Id": 274049,
+    "Countries": [
+      {
+        "Iso_3166_1": "JP",
+        "ReleaseDate": "2014-10-10T00:00:00"
+      }
+    ]
+  },
+  "Credits": {
+    "Id": 274049,
+    "Cast": [],
+    "Crew": []
+  },
+  "Images": {
+    "Backdrops": [
+      {
+        "FilePath": "/3FHjnE4DnE64z9iNlkOAje3yqnE.jpg",
+        "Width": 1920,
+        "Height": 1080,
+        "AspectRatio": 1.77777777777778
+      }
+    ],
+    "Posters": [
+      {
+        "FilePath": "/sGVukbJXwsBaz03k7yPVjZxmgjf.jpg",
+        "Width": 672,
+        "Height": 960,
+        "AspectRatio": 0.7,
+        "VoteAverage": 5.3125,
+        "VoteCount": 1
+      },
+      {
+        "FilePath": "/fuSANUNzLUsUiYKMoaHskBrgfx9.jpg",
+        "Width": 1000,
+        "Height": 1500,
+        "AspectRatio": 0.666666666666667
+      }
+    ]
+  },
+  "Keywords": {
+    "Id": 274049,
+    "Keywords": [
+      {
+        "Id": 12667,
+        "Name": "tokusatsu"
+      },
+      {
+        "Id": 202887,
+        "Name": "metal hero series"
+      },
+      {
+        "Id": 203809,
+        "Name": "space sheriff gavan type-g"
+      },
+      {
+        "Id": 203810,
+        "Name": "space sheriff sharivan"
+      }
+    ]
+  },
+  "Trailers": {
+    "Id": 274049,
+    "Quicktime": [],
+    "Youtube": [
+      {
+        "Name": "Space Sheriff Sharivan & Shaider: THE NEXT GENERATION V-Cinema Teaser",
+        "Size": "HD",
+        "Source": "Ykzl6rU0v-I"
+      },
+      {
+        "Name": "Uchuu Keijii Sharivan trailer",
+        "Size": "HD",
+        "Source": "FHs3LPH_a9Q"
+      }
+    ]
+  },
+  "Translations": {
+    "Id": 274049,
+    "Translations": [
+      {
+        "Iso_639_1": "en",
+        "Name": "English",
+        "EnglishName": "English"
+      }
+    ]
+  }
+}

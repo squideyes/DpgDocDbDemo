@@ -1,0 +1,175 @@
+{
+  "Id": 234197,
+  "ImdbId": "tt2990816",
+  "Title": "Bypass",
+  "OriginalTitle": "Bypass",
+  "Status": "Released",
+  "Overview": "The second feature from writer/director Duane Hopkins (Better Things, Cannes Film Festival 2008).The film is supported by the British Film Institute (BFI), Film Agency Wales and Film i Väst.  Shooting in spring 2013.",
+  "Homepage": "http://www.bypassthefilm.com/",
+  "BackdropPath": "/sWsjAKUNxSNUXNUTOU0QIqq2b87.jpg",
+  "PosterPath": "/4GPjuQUUWQ6BhHnVG7OmhwSoecb.jpg",
+  "Genres": [
+    {
+      "Id": 18,
+      "Name": "Drama"
+    },
+    {
+      "Id": 53,
+      "Name": "Thriller"
+    }
+  ],
+  "ReleaseDate": "2014-10-11T00:00:00",
+  "Runtime": 0,
+  "Popularity": 0.233605098014102,
+  "ProductionCompanies": [],
+  "ProductionCountries": [],
+  "SpokenLanguages": [],
+  "AlternativeTitles": {
+    "Id": 234197,
+    "Titles": []
+  },
+  "Releases": {
+    "Id": 234197,
+    "Countries": [
+      {
+        "Iso_3166_1": "IT",
+        "ReleaseDate": "2014-09-14T00:00:00"
+      },
+      {
+        "Iso_3166_1": "GB",
+        "ReleaseDate": "2014-10-11T00:00:00"
+      }
+    ]
+  },
+  "Credits": {
+    "Id": 234197,
+    "Cast": [
+      {
+        "Id": 146750,
+        "Name": "George MacKay",
+        "Character": "Tim",
+        "CastId": 3,
+        "ProfilePath": "/8V5uGgbl57gbAyj59kIRFFdvoXd.jpg"
+      },
+      {
+        "Id": 20425,
+        "Name": "Donald Sumpter",
+        "Character": "Grandfather",
+        "Order": 1,
+        "CastId": 4,
+        "ProfilePath": "/gqNTtHmpiUs4bbGhHTNPSJUR6ZW.jpg"
+      },
+      {
+        "Id": 219763,
+        "Name": "Charlotte Spencer",
+        "Character": "Lilly",
+        "Order": 2,
+        "CastId": 5,
+        "ProfilePath": "/7qTFCCgmBrxnUoabz39Wmi2XZ9V.jpg"
+      },
+      {
+        "Id": 208460,
+        "Name": "Anton Saunders",
+        "Character": "Fence",
+        "Order": 3,
+        "CastId": 6
+      },
+      {
+        "Id": 1269681,
+        "Name": "Felicity Gilbert",
+        "Character": "Julie",
+        "Order": 4,
+        "CastId": 7
+      },
+      {
+        "Id": 1269682,
+        "Name": "Benjamin Dilloway",
+        "Character": "Greg",
+        "Order": 5,
+        "CastId": 8
+      },
+      {
+        "Id": 1269683,
+        "Name": "Lara Peake",
+        "Character": "Helen",
+        "Order": 6,
+        "CastId": 9
+      },
+      {
+        "Id": 1269684,
+        "Name": "Alan Billingham",
+        "Character": "Hospital Outpatient",
+        "Order": 7,
+        "CastId": 10
+      }
+    ],
+    "Crew": [
+      {
+        "Id": 239263,
+        "Name": "Duane Hopkins",
+        "Department": "Directing",
+        "Job": "Director"
+      },
+      {
+        "Id": 239263,
+        "Name": "Duane Hopkins",
+        "Department": "Writing",
+        "Job": "Writer"
+      }
+    ]
+  },
+  "Images": {
+    "Backdrops": [
+      {
+        "FilePath": "/sWsjAKUNxSNUXNUTOU0QIqq2b87.jpg",
+        "Width": 1280,
+        "Height": 720,
+        "AspectRatio": 1.77777777777778
+      },
+      {
+        "FilePath": "/yldp0YUCCxIHfY4mK2smve1pkZq.jpg",
+        "Width": 1280,
+        "Height": 720,
+        "AspectRatio": 1.77777777777778
+      },
+      {
+        "FilePath": "/ihq2xUxG2TMYZ2IXn8OhdawmmcH.jpg",
+        "Width": 1280,
+        "Height": 720,
+        "AspectRatio": 1.77777777777778
+      }
+    ],
+    "Posters": [
+      {
+        "FilePath": "/4GPjuQUUWQ6BhHnVG7OmhwSoecb.jpg",
+        "Width": 533,
+        "Height": 755,
+        "AspectRatio": 0.705960264900662
+      }
+    ]
+  },
+  "Keywords": {
+    "Id": 234197,
+    "Keywords": []
+  },
+  "Trailers": {
+    "Id": 234197,
+    "Quicktime": [],
+    "Youtube": []
+  },
+  "Translations": {
+    "Id": 234197,
+    "Translations": [
+      {
+        "Iso_639_1": "en",
+        "Name": "English",
+        "EnglishName": "English"
+      },
+      {
+        "Iso_639_1": "it",
+        "Name": "Italiano",
+        "EnglishName": "Italian"
+      }
+    ]
+  }
+}

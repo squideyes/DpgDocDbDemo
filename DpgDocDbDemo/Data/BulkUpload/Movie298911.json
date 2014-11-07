@@ -1,0 +1,90 @@
+{
+  "Id": 298911,
+  "Title": "Mickey Mouse Clubhouse Minnie's Pet Salon",
+  "OriginalTitle": "Mickey Mouse Clubhouse Minnie's Pet Salon",
+  "Status": "Released",
+  "BackdropPath": "/o06IVeWsbGE5PNyRlLamQLAuTM3.jpg",
+  "PosterPath": "/ytNNulRiNBstzhnvyMaQSKiSApa.jpg",
+  "Genres": [
+    {
+      "Id": 16,
+      "Name": "Animation"
+    }
+  ],
+  "ReleaseDate": "2014-10-24T00:00:00",
+  "Popularity": 0.2936238062809,
+  "ProductionCompanies": [
+    {
+      "Name": "Walt Disney",
+      "Id": 5888
+    }
+  ],
+  "ProductionCountries": [
+    {
+      "Iso_3166_1": "US",
+      "Name": "United States of America"
+    }
+  ],
+  "SpokenLanguages": [],
+  "AlternativeTitles": {
+    "Id": 298911,
+    "Titles": []
+  },
+  "Releases": {
+    "Id": 298911,
+    "Countries": [
+      {
+        "Iso_3166_1": "BR",
+        "Certification": "A",
+        "ReleaseDate": "2014-10-24T00:00:00"
+      }
+    ]
+  },
+  "Credits": {
+    "Id": 298911,
+    "Cast": [],
+    "Crew": []
+  },
+  "Images": {
+    "Backdrops": [
+      {
+        "FilePath": "/o06IVeWsbGE5PNyRlLamQLAuTM3.jpg",
+        "Width": 1920,
+        "Height": 1080,
+        "AspectRatio": 1.77777777777778
+      }
+    ],
+    "Posters": [
+      {
+        "FilePath": "/ytNNulRiNBstzhnvyMaQSKiSApa.jpg",
+        "Width": 567,
+        "Height": 794,
+        "AspectRatio": 0.714105793450882
+      }
+    ]
+  },
+  "Keywords": {
+    "Id": 298911,
+    "Keywords": [
+      {
+        "Id": 3870,
+        "Name": "mickey mouse"
+      }
+    ]
+  },
+  "Trailers": {
+    "Id": 298911,
+    "Quicktime": [],
+    "Youtube": []
+  },
+  "Translations": {
+    "Id": 298911,
+    "Translations": [
+      {
+        "Iso_639_1": "pt",
+        "Name": "Português",
+        "EnglishName": "Portuguese"
+      }
+    ]
+  }
+}

@@ -1,0 +1,153 @@
+{
+  "Id": 290316,
+  "ImdbId": "tt3203992",
+  "Title": "My Friend Victoria",
+  "OriginalTitle": "Mon amie Victoria",
+  "Status": "Released",
+  "Overview": "Adapted from a story by Doris Lessing, My Friend Victoria is a complex, poignant portrait of two young black women in contemporary Paris. The film follows them from childhood into adulthood, with the older Fanny narrating the story of her friend and adoptive sister. Aged eight, Victoria spends a night in the home of a wealthy white family; years later, she encounters them again and her life is changed forever. As Fanny and Victoria’s destinies take them in separate directions, the drama offers a distinctly fresh take on racial identity in contemporary France – and on questions of class, privilege and blinkered liberal racism. Superbly acted by newcomers Guslagie Malanda and Nadia Moussa, along with veterans Mouchet and Greggory, My Friend Victoria sees Jean-Paul Civeyrac returning to the LFF after his poetic, elegant Young Girls in Black (2010). His follow-up is an acutely intelligent achievement by a director whose time has surely come.",
+  "Genres": [],
+  "ReleaseDate": "2014-10-10T00:00:00",
+  "Runtime": 95,
+  "Popularity": 0.224645594748922,
+  "ProductionCompanies": [
+    {
+      "Name": "Les Films Pelléas",
+      "Id": 12389
+    }
+  ],
+  "ProductionCountries": [
+    {
+      "Iso_3166_1": "FR",
+      "Name": "France"
+    }
+  ],
+  "SpokenLanguages": [
+    {
+      "Iso_639_1": "fr",
+      "Name": "Français"
+    }
+  ],
+  "AlternativeTitles": {
+    "Id": 290316,
+    "Titles": []
+  },
+  "Releases": {
+    "Id": 290316,
+    "Countries": [
+      {
+        "Iso_3166_1": "GB",
+        "ReleaseDate": "2014-10-10T00:00:00"
+      }
+    ]
+  },
+  "Credits": {
+    "Id": 290316,
+    "Cast": [
+      {
+        "Id": 1360307,
+        "Name": "Guslagie Malanga",
+        "Order": 1,
+        "CastId": 4
+      },
+      {
+        "Id": 1360308,
+        "Name": "Nadia Moussa",
+        "Order": 2,
+        "CastId": 5
+      },
+      {
+        "Id": 24762,
+        "Name": "Catherine Mouchet",
+        "Order": 3,
+        "CastId": 6,
+        "ProfilePath": "/4Qxks3giZZKvTfm4spRWrsFfTPF.jpg"
+      },
+      {
+        "Id": 16923,
+        "Name": "Pascal Greggory",
+        "Order": 4,
+        "CastId": 7,
+        "ProfilePath": "/r8tJl5SlAjQ3CL50CgoAHEw4eH5.jpg"
+      },
+      {
+        "Id": 1360309,
+        "Name": "Tony Harrisson",
+        "Order": 5,
+        "CastId": 8
+      },
+      {
+        "Id": 1360310,
+        "Name": "Moussa Sylla",
+        "Order": 6,
+        "CastId": 9
+      },
+      {
+        "Id": 94067,
+        "Name": "Alexis Loret",
+        "Order": 7,
+        "CastId": 10
+      },
+      {
+        "Id": 1360311,
+        "Name": "Pierre Andrau",
+        "Order": 8,
+        "CastId": 11
+      },
+      {
+        "Id": 1062338,
+        "Name": "Aurore Broutin",
+        "Order": 9,
+        "CastId": 12
+      }
+    ],
+    "Crew": [
+      {
+        "Id": 1029284,
+        "Name": "Jean-Paul Civeyrac",
+        "Department": "Directing",
+        "Job": "Director"
+      },
+      {
+        "Id": 1029284,
+        "Name": "Jean-Paul Civeyrac",
+        "Department": "Writing",
+        "Job": "Writer"
+      },
+      {
+        "Id": 1140274,
+        "Name": "Doris Lessing",
+        "Department": "Writing",
+        "Job": "Novel"
+      },
+      {
+        "Id": 1147570,
+        "Name": "David Chambille",
+        "Department": "Crew",
+        "Job": "Cinematography"
+      }
+    ]
+  },
+  "Images": {
+    "Backdrops": [],
+    "Posters": []
+  },
+  "Keywords": {
+    "Id": 290316,
+    "Keywords": []
+  },
+  "Trailers": {
+    "Id": 290316,
+    "Quicktime": [],
+    "Youtube": []
+  },
+  "Translations": {
+    "Id": 290316,
+    "Translations": [
+      {
+        "Iso_639_1": "en",
+        "Name": "English",
+        "EnglishName": "English"
+      }
+    ]
+  }
+}

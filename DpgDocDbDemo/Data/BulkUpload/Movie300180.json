@@ -1,0 +1,104 @@
+{
+  "Id": 300180,
+  "Title": "Cocoricó – A Melhor Escolha",
+  "OriginalTitle": "Cocoricó – A Melhor Escolha",
+  "Status": "Released",
+  "BackdropPath": "/zJ74p9GjIRnY7cI0ONC0QdKnHxW.jpg",
+  "PosterPath": "/epY5XwPReytCS7gAR0xswZZxKV5.jpg",
+  "Genres": [
+    {
+      "Id": 16,
+      "Name": "Animation"
+    }
+  ],
+  "ReleaseDate": "2014-10-31T00:00:00",
+  "Popularity": 1.130785,
+  "VoteAverage": 5.5,
+  "VoteCount": 1,
+  "ProductionCompanies": [
+    {
+      "Name": "TV Cultura",
+      "Id": 8429
+    }
+  ],
+  "ProductionCountries": [
+    {
+      "Iso_3166_1": "BR",
+      "Name": "Brazil"
+    }
+  ],
+  "SpokenLanguages": [
+    {
+      "Iso_639_1": "pt",
+      "Name": "Português"
+    }
+  ],
+  "AlternativeTitles": {
+    "Id": 300180,
+    "Titles": [
+      {
+        "Iso_3166_1": "BR",
+        "Title": "Cocoricó – A Melhor Escolha"
+      }
+    ]
+  },
+  "Releases": {
+    "Id": 300180,
+    "Countries": [
+      {
+        "Iso_3166_1": "BR",
+        "Certification": "Livre",
+        "ReleaseDate": "2014-10-31T00:00:00"
+      }
+    ]
+  },
+  "Credits": {
+    "Id": 300180,
+    "Cast": [],
+    "Crew": []
+  },
+  "Images": {
+    "Backdrops": [
+      {
+        "FilePath": "/zJ74p9GjIRnY7cI0ONC0QdKnHxW.jpg",
+        "Width": 1920,
+        "Height": 1080,
+        "Iso_639_1": "pt",
+        "AspectRatio": 1.77777777777778
+      }
+    ],
+    "Posters": [
+      {
+        "FilePath": "/epY5XwPReytCS7gAR0xswZZxKV5.jpg",
+        "Width": 567,
+        "Height": 794,
+        "Iso_639_1": "pt",
+        "AspectRatio": 0.714105793450882
+      }
+    ]
+  },
+  "Keywords": {
+    "Id": 300180,
+    "Keywords": [
+      {
+        "Id": 208184,
+        "Name": "cocoricó"
+      }
+    ]
+  },
+  "Trailers": {
+    "Id": 300180,
+    "Quicktime": [],
+    "Youtube": []
+  },
+  "Translations": {
+    "Id": 300180,
+    "Translations": [
+      {
+        "Iso_639_1": "pt",
+        "Name": "Português",
+        "EnglishName": "Portuguese"
+      }
+    ]
+  }
+}

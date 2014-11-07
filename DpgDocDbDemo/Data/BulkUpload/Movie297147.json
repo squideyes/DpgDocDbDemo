@@ -1,0 +1,101 @@
+{
+  "Id": 297147,
+  "ImdbId": "tt3697274",
+  "Title": "Roxsy & Me",
+  "OriginalTitle": "Roxsy & Me",
+  "Status": "Released",
+  "Tagline": "The actress retired.  The character didn't.",
+  "Overview": "In order to pursue a serious career in acting, Carmela Hayslett hangs up her top hat and retires her popular horror hosting personality, Roxsy Tyler. The problem is... she's the only one who's moved on. Her former co-hosts live to badger her and the fan base she left behind refuses to support her movie career. Meanwhile, locked in a little box somewhere in Hayslett's psyche, Roxsy Tyler is alive, well, and ready repossess the actress's body!",
+  "Genres": [
+    {
+      "Id": 35,
+      "Name": "Comedy"
+    },
+    {
+      "Id": 27,
+      "Name": "Horror"
+    }
+  ],
+  "ReleaseDate": "2014-10-31T00:00:00",
+  "Runtime": 0,
+  "Popularity": 1.21366000212699,
+  "ProductionCompanies": [],
+  "ProductionCountries": [],
+  "SpokenLanguages": [],
+  "AlternativeTitles": {
+    "Id": 297147,
+    "Titles": []
+  },
+  "Releases": {
+    "Id": 297147,
+    "Countries": [
+      {
+        "Iso_3166_1": "US",
+        "ReleaseDate": "2014-10-31T00:00:00"
+      }
+    ]
+  },
+  "Credits": {
+    "Id": 297147,
+    "Cast": [
+      {
+        "Id": 1298409,
+        "Name": "Carmela Hayslett",
+        "Character": "Carmela Hayslett / Roxsy Tyler",
+        "Order": 2,
+        "CastId": 1
+      },
+      {
+        "Id": 1100389,
+        "Name": "Christian Grillo",
+        "Character": "Mr. Potent",
+        "Order": 3,
+        "CastId": 2
+      },
+      {
+        "Id": 1373100,
+        "Name": "Loren Lepre",
+        "Character": "Mario",
+        "Order": 4,
+        "CastId": 3
+      }
+    ],
+    "Crew": [
+      {
+        "Id": 1298409,
+        "Name": "Carmela Hayslett",
+        "Department": "Writing",
+        "Job": "Writer"
+      },
+      {
+        "Id": 1298409,
+        "Name": "Carmela Hayslett",
+        "Department": "Directing",
+        "Job": "Director"
+      }
+    ]
+  },
+  "Images": {
+    "Backdrops": [],
+    "Posters": []
+  },
+  "Keywords": {
+    "Id": 297147,
+    "Keywords": []
+  },
+  "Trailers": {
+    "Id": 297147,
+    "Quicktime": [],
+    "Youtube": []
+  },
+  "Translations": {
+    "Id": 297147,
+    "Translations": [
+      {
+        "Iso_639_1": "en",
+        "Name": "English",
+        "EnglishName": "English"
+      }
+    ]
+  }
+}

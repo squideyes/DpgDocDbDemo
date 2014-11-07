@@ -1,0 +1,191 @@
+{
+  "Id": 283726,
+  "ImdbId": "tt3184934",
+  "Title": "The New Girlfriend",
+  "OriginalTitle": "Une nouvelle amie",
+  "Status": "Released",
+  "Overview": "A young woman makes a surprising disovery about the husband of her late best friend.",
+  "BackdropPath": "/3TtZEkCN2Fsy0gBil37ZQz1xg7z.jpg",
+  "PosterPath": "/fOcdk8JHGIQZqlNjd4XGTjkCS7z.jpg",
+  "Genres": [],
+  "ReleaseDate": "2014-11-05T00:00:00",
+  "Runtime": 105,
+  "Popularity": 1.6226255142633,
+  "ProductionCompanies": [],
+  "ProductionCountries": [
+    {
+      "Iso_3166_1": "FR",
+      "Name": "France"
+    }
+  ],
+  "SpokenLanguages": [
+    {
+      "Iso_639_1": "fr",
+      "Name": "Français"
+    }
+  ],
+  "AlternativeTitles": {
+    "Id": 283726,
+    "Titles": []
+  },
+  "Releases": {
+    "Id": 283726,
+    "Countries": [
+      {
+        "Iso_3166_1": "FR",
+        "ReleaseDate": "2014-11-05T00:00:00"
+      },
+      {
+        "Iso_3166_1": "BE",
+        "ReleaseDate": "2014-11-05T00:00:00"
+      }
+    ]
+  },
+  "Credits": {
+    "Id": 283726,
+    "Cast": [
+      {
+        "Id": 123989,
+        "Name": "Anaïs Demoustier",
+        "Order": 1,
+        "CastId": 1,
+        "ProfilePath": "/lbnKEvJBw8YnkZol6RxkaJHq7fj.jpg"
+      },
+      {
+        "Id": 17497,
+        "Name": "Romain Duris",
+        "Order": 2,
+        "CastId": 2,
+        "ProfilePath": "/buU0mFOX7PvSr50F6H8SrN71W08.jpg"
+      },
+      {
+        "Id": 147041,
+        "Name": "Raphaël Personnaz",
+        "Order": 3,
+        "CastId": 3,
+        "ProfilePath": "/y2RpQaWgFAxNkuXszSG3Diya1Kv.jpg"
+      }
+    ],
+    "Crew": [
+      {
+        "Id": 4387,
+        "Name": "François Ozon",
+        "Department": "Directing",
+        "Job": "Director",
+        "ProfilePath": "/uTqoYgeKs6zmHjViolp1OspLcEF.jpg"
+      },
+      {
+        "Id": 4387,
+        "Name": "François Ozon",
+        "Department": "Writing",
+        "Job": "Screenplay",
+        "ProfilePath": "/uTqoYgeKs6zmHjViolp1OspLcEF.jpg"
+      }
+    ]
+  },
+  "Images": {
+    "Backdrops": [
+      {
+        "FilePath": "/3TtZEkCN2Fsy0gBil37ZQz1xg7z.jpg",
+        "Width": 1920,
+        "Height": 1080,
+        "AspectRatio": 1.77777777777778
+      },
+      {
+        "FilePath": "/b0n7ndqzOzBJPRBYVIUPdevqJaa.jpg",
+        "Width": 1600,
+        "Height": 900,
+        "AspectRatio": 1.77777777777778
+      },
+      {
+        "FilePath": "/i0XTEm2w0cdzANBD0X37ADlPfOg.jpg",
+        "Width": 1600,
+        "Height": 900,
+        "AspectRatio": 1.77777777777778
+      },
+      {
+        "FilePath": "/8TC0rxusDlgeqH8R7v1UKNDbzfD.jpg",
+        "Width": 1600,
+        "Height": 900,
+        "AspectRatio": 1.77777777777778
+      },
+      {
+        "FilePath": "/2bYC9uu2zGnQg2eKMDQ33j9pHrD.jpg",
+        "Width": 1600,
+        "Height": 900,
+        "AspectRatio": 1.77777777777778
+      },
+      {
+        "FilePath": "/b9TcXCuviJXqFRBBryQMlUymWwS.jpg",
+        "Width": 1600,
+        "Height": 900,
+        "AspectRatio": 1.77777777777778
+      },
+      {
+        "FilePath": "/kdB5LCoiJkdzj0wtPBd0FBnx1Fj.jpg",
+        "Width": 1600,
+        "Height": 900,
+        "AspectRatio": 1.77777777777778
+      },
+      {
+        "FilePath": "/n2JnPiGDCSvW3CBaTHcoyghXRvI.jpg",
+        "Width": 1600,
+        "Height": 900,
+        "AspectRatio": 1.77777777777778
+      },
+      {
+        "FilePath": "/4W79oHfL9z8dTmx2F7ayK7PG9fa.jpg",
+        "Width": 1280,
+        "Height": 720,
+        "AspectRatio": 1.77777777777778
+      },
+      {
+        "FilePath": "/e4HEVNS8v1PW6OHSTSJEiSOzNQe.jpg",
+        "Width": 1600,
+        "Height": 900,
+        "AspectRatio": 1.77777777777778
+      }
+    ],
+    "Posters": [
+      {
+        "FilePath": "/fOcdk8JHGIQZqlNjd4XGTjkCS7z.jpg",
+        "Width": 1920,
+        "Height": 2847,
+        "Iso_639_1": "fr",
+        "AspectRatio": 0.674394099051633,
+        "VoteAverage": 5.3125,
+        "VoteCount": 1
+      },
+      {
+        "FilePath": "/lJt6LgcyV1NUZXHVZohy9fXhPRf.jpg",
+        "Width": 1920,
+        "Height": 2607,
+        "AspectRatio": 0.736478711162255
+      }
+    ]
+  },
+  "Keywords": {
+    "Id": 283726,
+    "Keywords": []
+  },
+  "Trailers": {
+    "Id": 283726,
+    "Quicktime": [],
+    "Youtube": []
+  },
+  "Translations": {
+    "Id": 283726,
+    "Translations": [
+      {
+        "Iso_639_1": "en",
+        "Name": "English",
+        "EnglishName": "English"
+      },
+      {
+        "Iso_639_1": "fr",
+        "Name": "Français",
+        "EnglishName": "French"
+      }
+    ]
+  }
+}

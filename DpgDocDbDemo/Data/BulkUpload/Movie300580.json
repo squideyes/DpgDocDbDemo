@@ -1,0 +1,120 @@
+{
+  "Id": 300580,
+  "Title": "Anthony Daniels",
+  "OriginalTitle": "Anthony Daniels",
+  "Status": "Released",
+  "Tagline": "Interview with Anthony Daniels",
+  "Overview": "Anthony Daniels is interviewed regarding his role as C-3PO in the Star Wars films.  Interview is from the Star Wars Blu Ray series.",
+  "Homepage": "https://www.youtube.com/watch?v=Y7AGcB8l0jI",
+  "PosterPath": "/2RYmiDKWznRC4YOPhuoHak1Lsj2.jpg",
+  "Genres": [
+    {
+      "Id": 99,
+      "Name": "Documentary"
+    }
+  ],
+  "ReleaseDate": "2014-11-02T00:00:00",
+  "Revenue": 25,
+  "Budget": 50,
+  "Runtime": 2,
+  "Popularity": 1.5293,
+  "ProductionCompanies": [
+    {
+      "Name": "Twentieth Century Fox Film Corporation",
+      "Id": 306
+    }
+  ],
+  "ProductionCountries": [
+    {
+      "Iso_3166_1": "US",
+      "Name": "United States of America"
+    }
+  ],
+  "SpokenLanguages": [
+    {
+      "Iso_639_1": "en",
+      "Name": "English"
+    }
+  ],
+  "AlternativeTitles": {
+    "Id": 300580,
+    "Titles": [
+      {
+        "Iso_3166_1": "US",
+        "Title": "Interview with Anthony Daniels"
+      }
+    ]
+  },
+  "Releases": {
+    "Id": 300580,
+    "Countries": [
+      {
+        "Iso_3166_1": "US",
+        "Certification": "G",
+        "ReleaseDate": "2014-11-02T00:00:00"
+      }
+    ]
+  },
+  "Credits": {
+    "Id": 300580,
+    "Cast": [
+      {
+        "Id": 6,
+        "Name": "Anthony Daniels",
+        "Character": "C3PO",
+        "Order": 1,
+        "ProfilePath": "/cljvryjb3VwTsNR7fjQKjNPMaBB.jpg"
+      }
+    ],
+    "Crew": [
+      {
+        "Id": 1,
+        "Name": "George Lucas",
+        "Department": "Directing",
+        "Job": "Director",
+        "ProfilePath": "/rJ1zvSeZfge0mHtLnzJn4Mkw18S.jpg"
+      },
+      {
+        "Id": 23782,
+        "Name": "Doug Chiang",
+        "Department": "Art",
+        "Job": "Production Design"
+      }
+    ]
+  },
+  "Images": {
+    "Backdrops": [],
+    "Posters": [
+      {
+        "FilePath": "/2RYmiDKWznRC4YOPhuoHak1Lsj2.jpg",
+        "Width": 1000,
+        "Height": 1500,
+        "AspectRatio": 0.666666666666667
+      }
+    ]
+  },
+  "Keywords": {
+    "Id": 300580,
+    "Keywords": [
+      {
+        "Id": 185514,
+        "Name": "interviews"
+      }
+    ]
+  },
+  "Trailers": {
+    "Id": 300580,
+    "Quicktime": [],
+    "Youtube": []
+  },
+  "Translations": {
+    "Id": 300580,
+    "Translations": [
+      {
+        "Iso_639_1": "en",
+        "Name": "English",
+        "EnglishName": "English"
+      }
+    ]
+  }
+}

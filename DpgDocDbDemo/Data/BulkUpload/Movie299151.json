@@ -1,0 +1,420 @@
+{
+  "Id": 299151,
+  "Title": "Destination: Rad City",
+  "OriginalTitle": "Destination: Rad City",
+  "Status": "Released",
+  "Tagline": "A 100% Canadian independent production that celebrates the tumultuous decade of the 1980s.",
+  "Overview": "Rick exists in the present, but lives as if his favourite decade, the 1980s, never ended.  When his 80s-inspired lifestyle results in him being the laughing stock of his small town, Rick sets out to fulfill his late father's wish to attend Rocklahoma, an 80s-themed music festival in the United States.  Getting there proves to be much more difficult than Rick imagined; shady club owners, untrustworthy friends, and a lack of money threaten to crush Rick's dreams, and leave him forever stranded in a town that ostracizes him for being different. To reach Rocklahoma, Rick will be forced to make the most important and potentially heartbreaking decision of his life.",
+  "Homepage": "http://radcity.ca/",
+  "PosterPath": "/6l99Qmd5a0IJzwIJui0xJtpx2z3.jpg",
+  "Genres": [
+    {
+      "Id": 35,
+      "Name": "Comedy"
+    }
+  ],
+  "ReleaseDate": "2014-10-23T00:00:00",
+  "Runtime": 90,
+  "Popularity": 0.36623442355,
+  "ProductionCompanies": [
+    {
+      "Name": "Acro-Kolepsi Pictures",
+      "Id": 36404
+    },
+    {
+      "Name": "Bagman Films",
+      "Id": 36405
+    }
+  ],
+  "ProductionCountries": [
+    {
+      "Iso_3166_1": "CA",
+      "Name": "Canada"
+    }
+  ],
+  "SpokenLanguages": [
+    {
+      "Iso_639_1": "en",
+      "Name": "English"
+    }
+  ],
+  "AlternativeTitles": {
+    "Id": 299151,
+    "Titles": []
+  },
+  "Releases": {
+    "Id": 299151,
+    "Countries": [
+      {
+        "Iso_3166_1": "CA",
+        "ReleaseDate": "2014-10-23T00:00:00"
+      }
+    ]
+  },
+  "Credits": {
+    "Id": 299151,
+    "Cast": [
+      {
+        "Id": 1377859,
+        "Name": "Boris Godzinevski",
+        "Character": "Rick Trickanovsky",
+        "Order": 1,
+        "CastId": 4
+      },
+      {
+        "Id": 1377860,
+        "Name": "Keren Ray",
+        "Character": "Vicki Rubinsky",
+        "Order": 2,
+        "CastId": 5
+      },
+      {
+        "Id": 1377861,
+        "Name": "Paul Gallina",
+        "Character": "Payne Stukkenfaagenburger",
+        "Order": 3,
+        "CastId": 6
+      },
+      {
+        "Id": 1377862,
+        "Name": "Rocky Paulino",
+        "Character": "Rocky",
+        "Order": 4,
+        "CastId": 7
+      },
+      {
+        "Id": 1377863,
+        "Name": "Ryan Treftlin",
+        "Character": "Trevor Mereel",
+        "Order": 5,
+        "CastId": 8
+      },
+      {
+        "Id": 1377864,
+        "Name": "Chris Warren",
+        "Character": "Derek McMurphy",
+        "Order": 6,
+        "CastId": 9
+      },
+      {
+        "Id": 1377865,
+        "Name": "Brent Baines",
+        "Character": "Donnie",
+        "Order": 7,
+        "CastId": 10
+      },
+      {
+        "Id": 1377866,
+        "Name": "Matthew McManus",
+        "Character": "Marcus McManus",
+        "Order": 8,
+        "CastId": 11
+      },
+      {
+        "Id": 1377868,
+        "Name": "Emma Sutherland",
+        "Character": "Michelle",
+        "Order": 9,
+        "CastId": 12
+      },
+      {
+        "Id": 1377870,
+        "Name": "Gabrielle Pillon",
+        "Character": "Jessica",
+        "Order": 10,
+        "CastId": 13
+      },
+      {
+        "Id": 1377871,
+        "Name": "Alexandra Isenor",
+        "Character": "Tiffany",
+        "Order": 11,
+        "CastId": 14
+      },
+      {
+        "Id": 1377872,
+        "Name": "Jessica Lynch",
+        "Character": "Cindy",
+        "Order": 12,
+        "CastId": 15
+      },
+      {
+        "Id": 1377873,
+        "Name": "Heidi Spicer",
+        "Character": "Brittany",
+        "Order": 13,
+        "CastId": 16
+      },
+      {
+        "Id": 1377874,
+        "Name": "Claire Stollery",
+        "Character": "Samantha",
+        "Order": 14,
+        "CastId": 17
+      },
+      {
+        "Id": 1377875,
+        "Name": "Lydia Riding",
+        "Character": "Gloria",
+        "Order": 15,
+        "CastId": 18
+      },
+      {
+        "Id": 1377876,
+        "Name": "Brando Hare",
+        "Character": "Brando",
+        "Order": 16,
+        "CastId": 19
+      },
+      {
+        "Id": 1377877,
+        "Name": "Max Eden",
+        "Character": "Max Eden",
+        "Order": 17,
+        "CastId": 20
+      },
+      {
+        "Id": 1377878,
+        "Name": "Josh Fogarasi",
+        "Character": "Hobo",
+        "Order": 18,
+        "CastId": 21
+      },
+      {
+        "Id": 1377879,
+        "Name": "Nathan Redburn",
+        "Character": "Parker",
+        "Order": 19,
+        "CastId": 22
+      },
+      {
+        "Id": 1377880,
+        "Name": "Matthew Paulino",
+        "Character": "Jeremy Mitchell",
+        "Order": 20,
+        "CastId": 23
+      },
+      {
+        "Id": 1377881,
+        "Name": "Maggie McMichael",
+        "Character": "Ashlyn",
+        "Order": 21,
+        "CastId": 24
+      },
+      {
+        "Id": 1377882,
+        "Name": "Alexena Whiting",
+        "Character": "Harmony",
+        "Order": 22,
+        "CastId": 25
+      },
+      {
+        "Id": 1377883,
+        "Name": "Natasha Adams",
+        "Character": "Stacy",
+        "Order": 23,
+        "CastId": 26
+      },
+      {
+        "Id": 1377884,
+        "Name": "Conor Murphy",
+        "Character": "Blayne Robinson",
+        "Order": 24,
+        "CastId": 27
+      },
+      {
+        "Id": 1377885,
+        "Name": "Andre Chretien",
+        "Character": "Chad",
+        "Order": 25,
+        "CastId": 28
+      },
+      {
+        "Id": 1377886,
+        "Name": "Chris Sakaili",
+        "Character": "Chris Bromsted",
+        "Order": 26,
+        "CastId": 29
+      },
+      {
+        "Id": 1377887,
+        "Name": "Grace Fournier",
+        "Character": "Kendra",
+        "Order": 27,
+        "CastId": 30
+      },
+      {
+        "Id": 1377888,
+        "Name": "Katie Buitendyk",
+        "Character": "Tanya",
+        "Order": 28,
+        "CastId": 31
+      },
+      {
+        "Id": 1377889,
+        "Name": "Sean Gardhouse",
+        "Character": "Swinger",
+        "Order": 29,
+        "CastId": 32
+      },
+      {
+        "Id": 1377890,
+        "Name": "Natalie Fu",
+        "Character": "Swinger's Girlfriend",
+        "Order": 30,
+        "CastId": 33
+      },
+      {
+        "Id": 1377891,
+        "Name": "Areej Rashid",
+        "Character": "Escort",
+        "Order": 31,
+        "CastId": 34
+      },
+      {
+        "Id": 1377892,
+        "Name": "Michael Braham",
+        "Character": "Walker",
+        "Order": 32,
+        "CastId": 35
+      },
+      {
+        "Id": 1377893,
+        "Name": "Nicolas St. Amour",
+        "Character": "Bartender",
+        "Order": 33,
+        "CastId": 36
+      },
+      {
+        "Id": 1377894,
+        "Name": "Teigen Berry",
+        "Character": "Young Rick Trickanovsky",
+        "Order": 34,
+        "CastId": 37
+      },
+      {
+        "Id": 1377895,
+        "Name": "Tyler Misner",
+        "Character": "Chrysander",
+        "Order": 35,
+        "CastId": 38
+      },
+      {
+        "Id": 1377896,
+        "Name": "Phil Akwell",
+        "Character": "Jamspot Guitarist",
+        "Order": 36,
+        "CastId": 39
+      }
+    ],
+    "Crew": [
+      {
+        "Id": 1377858,
+        "Name": "David Hollands",
+        "Department": "Directing",
+        "Job": "Director"
+      },
+      {
+        "Id": 1377859,
+        "Name": "Boris Godzinevski",
+        "Department": "Directing",
+        "Job": "Director"
+      },
+      {
+        "Id": 1377859,
+        "Name": "Boris Godzinevski",
+        "Department": "Production",
+        "Job": "Producer"
+      },
+      {
+        "Id": 1377859,
+        "Name": "Boris Godzinevski",
+        "Department": "Writing",
+        "Job": "Writer"
+      },
+      {
+        "Id": 1377858,
+        "Name": "David Hollands",
+        "Department": "Editing",
+        "Job": "Editor"
+      },
+      {
+        "Id": 1377858,
+        "Name": "David Hollands",
+        "Department": "Crew",
+        "Job": "Cinematography"
+      },
+      {
+        "Id": 1377883,
+        "Name": "Natasha Adams",
+        "Department": "Costume & Make-Up",
+        "Job": "Costume Design"
+      },
+      {
+        "Id": 1377858,
+        "Name": "David Hollands",
+        "Department": "Sound",
+        "Job": "Sound Editor"
+      },
+      {
+        "Id": 1377883,
+        "Name": "Natasha Adams",
+        "Department": "Art",
+        "Job": "Art Direction"
+      },
+      {
+        "Id": 1377881,
+        "Name": "Maggie McMichael",
+        "Department": "Costume & Make-Up",
+        "Job": "Makeup Artist"
+      },
+      {
+        "Id": 1377898,
+        "Name": "Amie Bangoura",
+        "Department": "Costume & Make-Up",
+        "Job": "Makeup Artist"
+      }
+    ]
+  },
+  "Images": {
+    "Backdrops": [],
+    "Posters": [
+      {
+        "FilePath": "/6l99Qmd5a0IJzwIJui0xJtpx2z3.jpg",
+        "Width": 640,
+        "Height": 960,
+        "AspectRatio": 0.666666666666667
+      }
+    ]
+  },
+  "Keywords": {
+    "Id": 299151,
+    "Keywords": [
+      {
+        "Id": 5609,
+        "Name": "nostalgia"
+      }
+    ]
+  },
+  "Trailers": {
+    "Id": 299151,
+    "Quicktime": [],
+    "Youtube": [
+      {
+        "Name": "DESTINATION: RAD CITY (2014) - Official Trailer",
+        "Size": "HD",
+        "Source": "04rubOosETw"
+      }
+    ]
+  },
+  "Translations": {
+    "Id": 299151,
+    "Translations": [
+      {
+        "Iso_639_1": "en",
+        "Name": "English",
+        "EnglishName": "English"
+      }
+    ]
+  }
+}

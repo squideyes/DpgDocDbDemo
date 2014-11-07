@@ -1,0 +1,55 @@
+{
+  "Id": 296975,
+  "Title": "The Metropolitan Opera: Le Nozze Di Figaro",
+  "OriginalTitle": "The Metropolitan Opera: Le Nozze Di Figaro",
+  "Status": "Released",
+  "Overview": "The Met season opens with Music Director James Levine conducting a new production of Mozart’s eternal masterpiece, directed by Richard Eyre, who sets the action in a 18th-century manor house in Seville during the 1930s. Dashing bass-baritone Ildar Abdrazakov, our Figaro, leads a dazzling cast, including Marlis Petersen as his bride, Susanna, Peter Mattei as the philandering Count, Amanda Majeski as the long-suffering Countess, and Isabel Leonard as the libidinous pageboy Cherubino. Designer Rob Howell (Carmen, Werther) utilizes a revolving set to keep the story bubbling along.",
+  "Genres": [],
+  "ReleaseDate": "2014-10-18T00:00:00",
+  "Runtime": 0,
+  "Popularity": 0.285416038697948,
+  "ProductionCompanies": [],
+  "ProductionCountries": [],
+  "SpokenLanguages": [],
+  "AlternativeTitles": {
+    "Id": 296975,
+    "Titles": []
+  },
+  "Releases": {
+    "Id": 296975,
+    "Countries": [
+      {
+        "Iso_3166_1": "US",
+        "ReleaseDate": "2014-10-18T00:00:00"
+      }
+    ]
+  },
+  "Credits": {
+    "Id": 296975,
+    "Cast": [],
+    "Crew": []
+  },
+  "Images": {
+    "Backdrops": [],
+    "Posters": []
+  },
+  "Keywords": {
+    "Id": 296975,
+    "Keywords": []
+  },
+  "Trailers": {
+    "Id": 296975,
+    "Quicktime": [],
+    "Youtube": []
+  },
+  "Translations": {
+    "Id": 296975,
+    "Translations": [
+      {
+        "Iso_639_1": "en",
+        "Name": "English",
+        "EnglishName": "English"
+      }
+    ]
+  }
+}

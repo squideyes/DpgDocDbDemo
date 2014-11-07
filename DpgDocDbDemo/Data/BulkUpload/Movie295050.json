@@ -1,0 +1,100 @@
+{
+  "Id": 295050,
+  "ImdbId": "tt2075318",
+  "Title": "#Stuck",
+  "OriginalTitle": "#Stuck",
+  "Status": "Released",
+  "Overview": "Directed and Written by Stuart Acher, #STUCK stars Joel David Moore (ABC’s new “Forever”, AVATAR, DODGEBALL) and Madeline Zima (“Californication”) in a romantic comedy that follows a hot one-night stand that turns into an awkward morning after when they get stuck in a dead-stopped traffic jam. As they begrudgingly get know each other, their sexually raucous evening is revealed which leads them to their surprising destiny.",
+  "Homepage": "http://www.stuckthefilm.com/",
+  "PosterPath": "/dkbWAcGRWZohtI7J6kIQqz2IOES.jpg",
+  "Genres": [
+    {
+      "Id": 10749,
+      "Name": "Romance"
+    }
+  ],
+  "ReleaseDate": "2014-10-10T00:00:00",
+  "Runtime": 84,
+  "Popularity": 0.256663706620165,
+  "ProductionCompanies": [],
+  "ProductionCountries": [],
+  "SpokenLanguages": [],
+  "AlternativeTitles": {
+    "Id": 295050,
+    "Titles": []
+  },
+  "Releases": {
+    "Id": 295050,
+    "Countries": [
+      {
+        "Iso_3166_1": "US",
+        "Certification": "NR",
+        "ReleaseDate": "2014-10-10T00:00:00"
+      }
+    ]
+  },
+  "Credits": {
+    "Id": 295050,
+    "Cast": [
+      {
+        "Id": 84613,
+        "Name": "Madeline Zima",
+        "Character": "Holly",
+        "Order": 1,
+        "ProfilePath": "/fxBm7NmiTYOzhASJh7pzABbtfFZ.jpg"
+      },
+      {
+        "Id": 59231,
+        "Name": "Joel David Moore",
+        "Character": "Guy",
+        "Order": 2,
+        "CastId": 1,
+        "ProfilePath": "/cASxAmYNy8VbsAHA0Mn2ghLhVAG.jpg"
+      }
+    ],
+    "Crew": [
+      {
+        "Id": 76707,
+        "Name": "Stuart Acher",
+        "Department": "Directing",
+        "Job": "Director"
+      },
+      {
+        "Id": 76707,
+        "Name": "Stuart Acher",
+        "Department": "Writing",
+        "Job": "Writer"
+      }
+    ]
+  },
+  "Images": {
+    "Backdrops": [],
+    "Posters": [
+      {
+        "FilePath": "/dkbWAcGRWZohtI7J6kIQqz2IOES.jpg",
+        "Width": 600,
+        "Height": 885,
+        "AspectRatio": 0.677966101694915
+      }
+    ]
+  },
+  "Keywords": {
+    "Id": 295050,
+    "Keywords": []
+  },
+  "Trailers": {
+    "Id": 295050,
+    "Quicktime": [],
+    "Youtube": []
+  },
+  "Translations": {
+    "Id": 295050,
+    "Translations": [
+      {
+        "Iso_639_1": "en",
+        "Name": "English",
+        "EnglishName": "English"
+      }
+    ]
+  }
+}

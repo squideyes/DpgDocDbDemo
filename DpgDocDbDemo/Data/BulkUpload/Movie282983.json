@@ -1,0 +1,188 @@
+{
+  "Id": 282983,
+  "ImdbId": "tt3089326",
+  "Title": "Magical Girl",
+  "OriginalTitle": "Magical Girl",
+  "Status": "Released",
+  "Overview": "Luis will do anything to grant his terminally-ill daughter’s last wish – a ridiculously expensive dress that she discovered on her favourite Japanese series ‘Magical Girl’ – but he doesn’t have the necessary spare cash to buy it. Bárbara, a headstrong woman with a shady past, is willing to pay whatever price it takes to maintain the shiny appearance of her marriage. Finally, the retired teacher Damián has still not come to terms with a mysterious event from his past. The lives of the three protagonists take a fateful turn when Luis and Bárbara meet one day on the street. MAGICAL GIRL leads us into an abysmal world where blackmail, well-kept secrets and dark obsessions prevail.",
+  "BackdropPath": "/tzFBRNK3jZx05iyKM0kLIN9xI83.jpg",
+  "PosterPath": "/d1R5ttsHgY1tV4qNH6dphVSBaMn.jpg",
+  "Genres": [
+    {
+      "Id": 18,
+      "Name": "Drama"
+    },
+    {
+      "Id": 10748,
+      "Name": "Suspense"
+    }
+  ],
+  "ReleaseDate": "2014-10-17T00:00:00",
+  "Runtime": 0,
+  "Popularity": 0.360781000946658,
+  "ProductionCompanies": [
+    {
+      "Name": "Canal+ Espana",
+      "Id": 12625
+    },
+    {
+      "Name": "Aquí y Allí Films",
+      "Id": 27991
+    }
+  ],
+  "ProductionCountries": [
+    {
+      "Iso_3166_1": "ES",
+      "Name": "Spain"
+    }
+  ],
+  "SpokenLanguages": [
+    {
+      "Iso_639_1": "es",
+      "Name": "Español"
+    }
+  ],
+  "AlternativeTitles": {
+    "Id": 282983,
+    "Titles": []
+  },
+  "Releases": {
+    "Id": 282983,
+    "Countries": [
+      {
+        "Iso_3166_1": "ES",
+        "ReleaseDate": "2014-10-17T00:00:00"
+      }
+    ]
+  },
+  "Credits": {
+    "Id": 282983,
+    "Cast": [
+      {
+        "Id": 111090,
+        "Name": "Javier Botet",
+        "Character": "Pepo",
+        "Order": 1,
+        "ProfilePath": "/jStdBOFcIXuyKfc8WYbEbBbJWiU.jpg"
+      },
+      {
+        "Id": 724188,
+        "Name": "Bárbara Lennie",
+        "Character": "Bárbara",
+        "Order": 2,
+        "CastId": 1,
+        "ProfilePath": "/gPrMindirpIXTP38sBQgpQ9W9PT.jpg"
+      },
+      {
+        "Id": 105217,
+        "Name": "José Sacristán",
+        "Character": "Damián",
+        "Order": 3,
+        "CastId": 2,
+        "ProfilePath": "/kn4XJ8jXst45ihiwZvW6SlG6B1z.jpg"
+      },
+      {
+        "Id": 1313220,
+        "Name": "Israel Elejalde",
+        "Order": 4,
+        "CastId": 3
+      },
+      {
+        "Id": 27471,
+        "Name": "Luis Bermejo",
+        "Character": "Luis",
+        "Order": 5,
+        "CastId": 4,
+        "ProfilePath": "/rsAeBa6hopfKgl8Zk2sdKIDlnoA.jpg"
+      },
+      {
+        "Id": 1373478,
+        "Name": "Alberto Chaves",
+        "Order": 6,
+        "CastId": 6,
+        "ProfilePath": "/gQXB0YOqcgFYyc7KHBjSGA30w0w.jpg"
+      }
+    ],
+    "Crew": [
+      {
+        "Id": 1106577,
+        "Name": "Carlos Vermut",
+        "Department": "Directing",
+        "Job": "Director"
+      }
+    ]
+  },
+  "Images": {
+    "Backdrops": [
+      {
+        "FilePath": "/tzFBRNK3jZx05iyKM0kLIN9xI83.jpg",
+        "Width": 1920,
+        "Height": 1080,
+        "AspectRatio": 1.77777777777778
+      }
+    ],
+    "Posters": [
+      {
+        "FilePath": "/d1R5ttsHgY1tV4qNH6dphVSBaMn.jpg",
+        "Width": 600,
+        "Height": 849,
+        "Iso_639_1": "es",
+        "AspectRatio": 0.706713780918728,
+        "VoteAverage": 5.3125,
+        "VoteCount": 1
+      },
+      {
+        "FilePath": "/qybxfn4k0wpt6v1NijhdIUiNVdX.jpg",
+        "Width": 900,
+        "Height": 1273,
+        "Iso_639_1": "es",
+        "AspectRatio": 0.706991358994501
+      },
+      {
+        "FilePath": "/8RaDcVSfNUfGkY1D5zmFtLwF2gU.jpg",
+        "Width": 526,
+        "Height": 750,
+        "Iso_639_1": "es",
+        "AspectRatio": 0.701333333333333
+      },
+      {
+        "FilePath": "/eX318h0xF05nKg7k0J3bIzDDx0R.jpg",
+        "Width": 800,
+        "Height": 1131,
+        "Iso_639_1": "es",
+        "AspectRatio": 0.707338638373121
+      },
+      {
+        "FilePath": "/u0tPStnWBERhBPbMFCy1X3wn4k.jpg",
+        "Width": 1241,
+        "Height": 1754,
+        "Iso_639_1": "es",
+        "AspectRatio": 0.707525655644242
+      }
+    ]
+  },
+  "Keywords": {
+    "Id": 282983,
+    "Keywords": []
+  },
+  "Trailers": {
+    "Id": 282983,
+    "Quicktime": [],
+    "Youtube": []
+  },
+  "Translations": {
+    "Id": 282983,
+    "Translations": [
+      {
+        "Iso_639_1": "es",
+        "Name": "Español",
+        "EnglishName": "Spanish"
+      },
+      {
+        "Iso_639_1": "en",
+        "Name": "English",
+        "EnglishName": "English"
+      }
+    ]
+  }
+}

@@ -1,0 +1,117 @@
+{
+  "Id": 295317,
+  "Title": "Dark Star - HR Gigers Welt",
+  "OriginalTitle": "Dark Star - HR Gigers Welt",
+  "Status": "Released",
+  "Overview": "A portrait of the world famous swiss artist H.R. Giger and his art.",
+  "Homepage": "http://www.darkstar-movie.com",
+  "PosterPath": "/v8z2ZZyvqoGs4Zp1iQ2zxTI2C3P.jpg",
+  "Genres": [
+    {
+      "Id": 99,
+      "Name": "Documentary"
+    }
+  ],
+  "ReleaseDate": "2014-10-23T00:00:00",
+  "Runtime": 96,
+  "Popularity": 0.369556845392602,
+  "ProductionCompanies": [
+    {
+      "Name": "T&C Film AG",
+      "Id": 5414
+    }
+  ],
+  "ProductionCountries": [
+    {
+      "Iso_3166_1": "CH",
+      "Name": "Switzerland"
+    }
+  ],
+  "SpokenLanguages": [
+    {
+      "Iso_639_1": "de",
+      "Name": "Deutsch"
+    }
+  ],
+  "AlternativeTitles": {
+    "Id": 295317,
+    "Titles": []
+  },
+  "Releases": {
+    "Id": 295317,
+    "Countries": [
+      {
+        "Iso_3166_1": "CH",
+        "ReleaseDate": "2014-10-23T00:00:00"
+      }
+    ]
+  },
+  "Credits": {
+    "Id": 295317,
+    "Cast": [
+      {
+        "Id": 9136,
+        "Name": "H.R. Giger",
+        "Character": "Himself",
+        "Order": 1
+      }
+    ],
+    "Crew": [
+      {
+        "Id": 1368165,
+        "Name": "Belinda Sallin",
+        "Department": "Directing",
+        "Job": "Director"
+      }
+    ]
+  },
+  "Images": {
+    "Backdrops": [],
+    "Posters": [
+      {
+        "FilePath": "/v8z2ZZyvqoGs4Zp1iQ2zxTI2C3P.jpg",
+        "Width": 1985,
+        "Height": 2836,
+        "AspectRatio": 0.699929478138223
+      }
+    ]
+  },
+  "Keywords": {
+    "Id": 295317,
+    "Keywords": [
+      {
+        "Id": 14893,
+        "Name": "art"
+      },
+      {
+        "Id": 33783,
+        "Name": "dark"
+      },
+      {
+        "Id": 41388,
+        "Name": "portrait"
+      }
+    ]
+  },
+  "Trailers": {
+    "Id": 295317,
+    "Quicktime": [],
+    "Youtube": [
+      {
+        "Name": "Deutscher Trailer",
+        "Size": "Standard",
+        "Source": "EoLKVOj70WI"
+      }
+    ]
+  },
+  "Translations": {
+    "Id": 295317,
+    "Translations": [
+      {
+        "Iso_639_1": "en",
+        "Name": "English",
+        "EnglishName": "English"
+      }
+    ]
+  }
+}

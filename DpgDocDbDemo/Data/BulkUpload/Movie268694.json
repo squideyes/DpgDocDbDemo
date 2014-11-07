@@ -1,0 +1,116 @@
+{
+  "Id": 268694,
+  "ImdbId": "tt3345450",
+  "Title": "Eddie Reynolds y Los Ángeles de Acero",
+  "OriginalTitle": "Eddie Reynolds y Los Ángeles de Acero",
+  "Status": "Released",
+  "Overview": "They are not wild and crazy anymore, or at least they think so. Now, thanks to an offer nobody can't refuse, they will try to recapture that old rock and roll magic and give themselves a second chance.",
+  "PosterPath": "/qMVgcHGaTTduYgjRNMPGMZE9JUL.jpg",
+  "Genres": [],
+  "ReleaseDate": "2014-10-19T00:00:00",
+  "Runtime": 0,
+  "Popularity": 0.273669560546875,
+  "ProductionCompanies": [],
+  "ProductionCountries": [],
+  "SpokenLanguages": [],
+  "AlternativeTitles": {
+    "Id": 268694,
+    "Titles": []
+  },
+  "Releases": {
+    "Id": 268694,
+    "Countries": [
+      {
+        "Iso_3166_1": "MX",
+        "ReleaseDate": "2014-10-19T00:00:00"
+      }
+    ]
+  },
+  "Credits": {
+    "Id": 268694,
+    "Cast": [
+      {
+        "Id": 7370,
+        "Name": "Damián Alcázar",
+        "Order": 1,
+        "CastId": 1,
+        "ProfilePath": "/kGdrBKHr01ZzX4fDwpSo4fNVst7.jpg"
+      },
+      {
+        "Id": 7376,
+        "Name": "Jorge Zárate",
+        "Order": 2,
+        "CastId": 2
+      },
+      {
+        "Id": 262,
+        "Name": "Alvaro Guerrero",
+        "Order": 3,
+        "CastId": 3,
+        "ProfilePath": "/d2k2Z0XgSIkBJxAuedS5yOF9O1U.jpg"
+      },
+      {
+        "Id": 90265,
+        "Name": "Arturo Ríos",
+        "Order": 4,
+        "CastId": 4
+      }
+    ],
+    "Crew": [
+      {
+        "Id": 1187637,
+        "Name": "Gustavo Moheno",
+        "Department": "Directing",
+        "Job": "Director"
+      },
+      {
+        "Id": 1376783,
+        "Name": "Ángel Pulido",
+        "Department": "Writing",
+        "Job": "Screenplay"
+      },
+      {
+        "Id": 1187637,
+        "Name": "Gustavo Moheno",
+        "Department": "Writing",
+        "Job": "Screenplay"
+      },
+      {
+        "Id": 1328997,
+        "Name": "Carlos Enderle",
+        "Department": "Writing",
+        "Job": "Screenplay"
+      }
+    ]
+  },
+  "Images": {
+    "Backdrops": [],
+    "Posters": [
+      {
+        "FilePath": "/qMVgcHGaTTduYgjRNMPGMZE9JUL.jpg",
+        "Width": 600,
+        "Height": 900,
+        "AspectRatio": 0.666666666666667
+      }
+    ]
+  },
+  "Keywords": {
+    "Id": 268694,
+    "Keywords": []
+  },
+  "Trailers": {
+    "Id": 268694,
+    "Quicktime": [],
+    "Youtube": []
+  },
+  "Translations": {
+    "Id": 268694,
+    "Translations": [
+      {
+        "Iso_639_1": "en",
+        "Name": "English",
+        "EnglishName": "English"
+      }
+    ]
+  }
+}

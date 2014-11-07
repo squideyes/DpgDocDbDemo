@@ -1,0 +1,171 @@
+{
+  "Id": 254201,
+  "ImdbId": "tt3140100",
+  "Title": "The Absent One",
+  "OriginalTitle": "Fasandræberne",
+  "Status": "Post Production",
+  "Overview": "In 1994 two young twins are found brutally murdered in a summer cottage. A number of clues points in the direction of a group of young upper class students from a nearby boarding school, but the case is closed as a local outsider pleads guilty and is convicted for the murders. When the case ends up on Carls Mørck’s desk 20 years later, he soon realises that something is terribly wrong. As Carl and Assad start investigating the case, they are led on to an old emergency call from a desperate girl who seems to know the secrets of the murders. Soon they are plunged into an intense search for the girl, Kimmie, who has been missing since the murders happened. But Carl and Assad are not the only ones trying to track her down as the girl’s testimonial is of great danger to a group of influential men at the top of society who will do all they can to keep her silent.",
+  "PosterPath": "/fVQo8yCnrrOsAfKWcjQKV7n0S4T.jpg",
+  "Genres": [
+    {
+      "Id": 53,
+      "Name": "Thriller"
+    }
+  ],
+  "ReleaseDate": "2014-10-30T00:00:00",
+  "Runtime": 0,
+  "Popularity": 1.43945149686389,
+  "VoteAverage": 6.0,
+  "VoteCount": 1,
+  "ProductionCompanies": [],
+  "ProductionCountries": [],
+  "SpokenLanguages": [
+    {
+      "Iso_639_1": "da",
+      "Name": "Dansk"
+    }
+  ],
+  "AlternativeTitles": {
+    "Id": 254201,
+    "Titles": []
+  },
+  "Releases": {
+    "Id": 254201,
+    "Countries": [
+      {
+        "Iso_3166_1": "DK",
+        "ReleaseDate": "2014-10-30T00:00:00"
+      }
+    ]
+  },
+  "Credits": {
+    "Id": 254201,
+    "Cast": [
+      {
+        "Id": 1018,
+        "Name": "Nikolaj Lie Kaas",
+        "Character": "Carl Mørck",
+        "Order": 1,
+        "CastId": 2,
+        "ProfilePath": "/xO4yWra3xoK0rdzDN4OC8Jwh0FH.jpg"
+      },
+      {
+        "Id": 57012,
+        "Name": "Fares Fares",
+        "Character": "Assad",
+        "Order": 2,
+        "CastId": 3,
+        "ProfilePath": "/1BE5IG3hcFXfMjBuJJyKs2JpPjI.jpg"
+      },
+      {
+        "Id": 64122,
+        "Name": "Søren Pilmark",
+        "Character": "Marcus Jacobsen",
+        "Order": 3,
+        "CastId": 4,
+        "ProfilePath": "/AghE11tbbcf05Wi4vxpNYbCqWoU.jpg"
+      },
+      {
+        "Id": 1078979,
+        "Name": "Danica Curcic",
+        "Character": "Kimmie",
+        "Order": 4,
+        "CastId": 5,
+        "ProfilePath": "/6jd6mza8eRtlouSZWpEx1NZfkNa.jpg"
+      },
+      {
+        "Id": 90060,
+        "Name": "Pilou Asbæk",
+        "Character": "Ditlev Pram",
+        "Order": 5,
+        "CastId": 6,
+        "ProfilePath": "/r0Z1eqyYcJYGy0x9MqgIKDHUrHG.jpg"
+      },
+      {
+        "Id": 93236,
+        "Name": "David Dencik",
+        "Character": "Ulrik Dybbøl",
+        "Order": 6,
+        "CastId": 7,
+        "ProfilePath": "/h6ndLvEolmMOQs2hhbSEZMomSUu.jpg"
+      },
+      {
+        "Id": 1297500,
+        "Name": "Johanne Louise Schmidt",
+        "Character": "Rose",
+        "Order": 7,
+        "CastId": 8
+      }
+    ],
+    "Crew": [
+      {
+        "Id": 206476,
+        "Name": "Mikkel Nørgaard",
+        "Department": "Directing",
+        "Job": "Director"
+      },
+      {
+        "Id": 74752,
+        "Name": "Nikolaj Arcel",
+        "Department": "Writing",
+        "Job": "Screenplay"
+      },
+      {
+        "Id": 74758,
+        "Name": "Rasmus Heisterberg",
+        "Department": "Writing",
+        "Job": "Screenplay"
+      },
+      {
+        "Id": 3925,
+        "Name": "Eric Kress",
+        "Department": "Camera",
+        "Job": "Director of Photography"
+      }
+    ]
+  },
+  "Images": {
+    "Backdrops": [],
+    "Posters": [
+      {
+        "FilePath": "/fVQo8yCnrrOsAfKWcjQKV7n0S4T.jpg",
+        "Width": 620,
+        "Height": 914,
+        "Iso_639_1": "da",
+        "AspectRatio": 0.678336980306346,
+        "VoteAverage": 5.30505952380952,
+        "VoteCount": 1
+      },
+      {
+        "FilePath": "/c3l0rTyRLueoZroVcoh9IZFAOij.jpg",
+        "Width": 1000,
+        "Height": 1500,
+        "AspectRatio": 0.666666666666667
+      }
+    ]
+  },
+  "Keywords": {
+    "Id": 254201,
+    "Keywords": []
+  },
+  "Trailers": {
+    "Id": 254201,
+    "Quicktime": [],
+    "Youtube": []
+  },
+  "Translations": {
+    "Id": 254201,
+    "Translations": [
+      {
+        "Iso_639_1": "en",
+        "Name": "English",
+        "EnglishName": "English"
+      },
+      {
+        "Iso_639_1": "da",
+        "Name": "Dansk",
+        "EnglishName": "Danish"
+      }
+    ]
+  }
+}

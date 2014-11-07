@@ -1,0 +1,62 @@
+{
+  "Id": 298126,
+  "Title": "The Take-Up",
+  "OriginalTitle": "The Take-Up",
+  "Status": "Released",
+  "Overview": "A demonstration of ‘light bending’ as a single take and variable speed flicker effect animated an architectural environment.",
+  "Genres": [],
+  "ReleaseDate": "2014-10-17T00:00:00",
+  "Runtime": 11,
+  "Popularity": 0.220882155906671,
+  "ProductionCompanies": [],
+  "ProductionCountries": [],
+  "SpokenLanguages": [],
+  "AlternativeTitles": {
+    "Id": 298126,
+    "Titles": []
+  },
+  "Releases": {
+    "Id": 298126,
+    "Countries": [
+      {
+        "Iso_3166_1": "GB",
+        "ReleaseDate": "2014-10-17T00:00:00"
+      }
+    ]
+  },
+  "Credits": {
+    "Id": 298126,
+    "Cast": [],
+    "Crew": [
+      {
+        "Id": 1375284,
+        "Name": "Patrick Tarrant",
+        "Department": "Directing",
+        "Job": "Director"
+      }
+    ]
+  },
+  "Images": {
+    "Backdrops": [],
+    "Posters": []
+  },
+  "Keywords": {
+    "Id": 298126,
+    "Keywords": []
+  },
+  "Trailers": {
+    "Id": 298126,
+    "Quicktime": [],
+    "Youtube": []
+  },
+  "Translations": {
+    "Id": 298126,
+    "Translations": [
+      {
+        "Iso_639_1": "en",
+        "Name": "English",
+        "EnglishName": "English"
+      }
+    ]
+  }
+}

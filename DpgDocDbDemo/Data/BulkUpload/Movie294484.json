@@ -1,0 +1,190 @@
+{
+  "Id": 294484,
+  "ImdbId": "tt3983072",
+  "Title": "Ein Geschenk der Götter",
+  "OriginalTitle": "Ein Geschenk der Götter",
+  "Status": "Released",
+  "PosterPath": "/fIKL7dyYgIDacFfgoPq8GIPE5rk.jpg",
+  "Genres": [],
+  "ReleaseDate": "2014-10-09T00:00:00",
+  "Runtime": 0,
+  "Popularity": 0.170764244600064,
+  "ProductionCompanies": [],
+  "ProductionCountries": [],
+  "SpokenLanguages": [],
+  "AlternativeTitles": {
+    "Id": 294484,
+    "Titles": []
+  },
+  "Releases": {
+    "Id": 294484,
+    "Countries": [
+      {
+        "Iso_3166_1": "DE",
+        "Certification": "0",
+        "ReleaseDate": "2014-10-09T00:00:00"
+      }
+    ]
+  },
+  "Credits": {
+    "Id": 294484,
+    "Cast": [
+      {
+        "Id": 18947,
+        "Name": "Katharina M. Schubert",
+        "Character": "Anna Bischoff",
+        "Order": 1,
+        "CastId": 2,
+        "ProfilePath": "/y9YuV2QMtOrHXRCsfViHVU6Khji.jpg"
+      },
+      {
+        "Id": 5498,
+        "Name": "Adam Bousdoukos",
+        "Character": "Dimitri",
+        "Order": 2,
+        "CastId": 3
+      },
+      {
+        "Id": 28447,
+        "Name": "Paul Faßnacht",
+        "Character": "Franz",
+        "Order": 3,
+        "CastId": 4
+      },
+      {
+        "Id": 1324202,
+        "Name": "Katharina Hauter",
+        "Character": "Friederike",
+        "Order": 4,
+        "CastId": 5
+      },
+      {
+        "Id": 1089473,
+        "Name": "Rainer Furch",
+        "Character": "Hubert",
+        "Order": 5,
+        "CastId": 6
+      },
+      {
+        "Id": 1036310,
+        "Name": "Marion Breckwoldt",
+        "Character": "Betty",
+        "Order": 6,
+        "CastId": 7
+      },
+      {
+        "Id": 1089474,
+        "Name": "Maik Solbach",
+        "Character": "Alfred",
+        "Order": 7,
+        "CastId": 8
+      },
+      {
+        "Id": 592313,
+        "Name": "Rick Okon",
+        "Character": "Max",
+        "Order": 8,
+        "CastId": 9,
+        "ProfilePath": "/q3jR2D3ZHCLQpGYkLxGD5oXsRyz.jpg"
+      },
+      {
+        "Id": 1366986,
+        "Name": "Canan Kir",
+        "Character": "Linda",
+        "Order": 9,
+        "CastId": 10
+      },
+      {
+        "Id": 583034,
+        "Name": "Luise Heyer",
+        "Character": "Emily",
+        "Order": 10,
+        "CastId": 11
+      },
+      {
+        "Id": 7161,
+        "Name": "Eva Löbau",
+        "Character": "Frau Schnallenberger",
+        "Order": 11,
+        "CastId": 12
+      },
+      {
+        "Id": 1307552,
+        "Name": "Felix Schmidt-Knopp",
+        "Character": "Klaus Neumann",
+        "Order": 12,
+        "CastId": 13
+      },
+      {
+        "Id": 1366987,
+        "Name": "Tini Prüfert",
+        "Character": "Conny",
+        "Order": 13,
+        "CastId": 14
+      },
+      {
+        "Id": 1366988,
+        "Name": "Bernd Grawert",
+        "Character": "Herr Böhmer",
+        "Order": 14,
+        "CastId": 15
+      },
+      {
+        "Id": 1361197,
+        "Name": "Erkan Lüleci",
+        "Character": "Betrunkener Gast",
+        "Order": 15,
+        "CastId": 16
+      }
+    ],
+    "Crew": [
+      {
+        "Id": 1089476,
+        "Name": "Oliver Haffner",
+        "Department": "Directing",
+        "Job": "Director"
+      },
+      {
+        "Id": 1089476,
+        "Name": "Oliver Haffner",
+        "Department": "Writing",
+        "Job": "Screenplay"
+      }
+    ]
+  },
+  "Images": {
+    "Backdrops": [],
+    "Posters": [
+      {
+        "FilePath": "/fIKL7dyYgIDacFfgoPq8GIPE5rk.jpg",
+        "Width": 500,
+        "Height": 750,
+        "AspectRatio": 0.666666666666667
+      }
+    ]
+  },
+  "Keywords": {
+    "Id": 294484,
+    "Keywords": []
+  },
+  "Trailers": {
+    "Id": 294484,
+    "Quicktime": [],
+    "Youtube": []
+  },
+  "Translations": {
+    "Id": 294484,
+    "Translations": [
+      {
+        "Iso_639_1": "de",
+        "Name": "Deutsch",
+        "EnglishName": "German"
+      },
+      {
+        "Iso_639_1": "en",
+        "Name": "English",
+        "EnglishName": "English"
+      }
+    ]
+  }
+}

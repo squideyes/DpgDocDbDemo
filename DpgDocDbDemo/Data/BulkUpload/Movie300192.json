@@ -1,0 +1,100 @@
+{
+  "Id": 300192,
+  "Title": "lynda.com: Foundations Of Programming [object-oriented design]",
+  "OriginalTitle": "lynda.com: Foundations Of Programming [object-oriented design]",
+  "Status": "Released",
+  "Tagline": "lynda.com: Foundations Of Programming [object-oriented design]",
+  "Overview": "Most modern programming languages, such as Java, C#, Ruby, and Python, are object-oriented languages, which help group individual bits of code into a complex and coherent application. However, object-orientation itself is not a language; it's simply a set of ideas and concepts.  Let Simon Allardice introduce you to the terms—words like abstraction, inheritance, polymorphism, subclass—and guide you through defining your requirements and identifying use cases for your program. The course also covers creating conceptual models of your program with design patterns, class and sequence diagrams, and unified modeling language (UML) tools, and then shows how to convert the diagrams into code.",
+  "Homepage": "http://www.lynda.com",
+  "BackdropPath": "/g1CAhSk10tWEKJXawg94x1XAsqS.jpg",
+  "PosterPath": "/bThZymRGvwTnfDfuKUSezzXRG8N.jpg",
+  "Genres": [],
+  "ReleaseDate": "2014-10-31T00:00:00",
+  "Runtime": 100,
+  "Popularity": 1.104785,
+  "VoteAverage": 9.0,
+  "VoteCount": 1,
+  "ProductionCompanies": [],
+  "ProductionCountries": [
+    {
+      "Iso_3166_1": "US",
+      "Name": "United States of America"
+    }
+  ],
+  "SpokenLanguages": [
+    {
+      "Iso_639_1": "en",
+      "Name": "English"
+    }
+  ],
+  "AlternativeTitles": {
+    "Id": 300192,
+    "Titles": [
+      {
+        "Iso_3166_1": "US",
+        "Title": "Foundations Of Programming: object-oriented design"
+      }
+    ]
+  },
+  "Releases": {
+    "Id": 300192,
+    "Countries": [
+      {
+        "Iso_3166_1": "US",
+        "Certification": "PG-13",
+        "ReleaseDate": "2014-10-31T00:00:00"
+      }
+    ]
+  },
+  "Credits": {
+    "Id": 300192,
+    "Cast": [],
+    "Crew": []
+  },
+  "Images": {
+    "Backdrops": [
+      {
+        "FilePath": "/g1CAhSk10tWEKJXawg94x1XAsqS.jpg",
+        "Width": 1280,
+        "Height": 720,
+        "AspectRatio": 1.77777777777778
+      }
+    ],
+    "Posters": [
+      {
+        "FilePath": "/bThZymRGvwTnfDfuKUSezzXRG8N.jpg",
+        "Width": 1000,
+        "Height": 1500,
+        "AspectRatio": 0.666666666666667
+      }
+    ]
+  },
+  "Keywords": {
+    "Id": 300192,
+    "Keywords": [
+      {
+        "Id": 196056,
+        "Name": "computer programming"
+      },
+      {
+        "Id": 208188,
+        "Name": "java"
+      }
+    ]
+  },
+  "Trailers": {
+    "Id": 300192,
+    "Quicktime": [],
+    "Youtube": []
+  },
+  "Translations": {
+    "Id": 300192,
+    "Translations": [
+      {
+        "Iso_639_1": "en",
+        "Name": "English",
+        "EnglishName": "English"
+      }
+    ]
+  }
+}

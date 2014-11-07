@@ -1,0 +1,206 @@
+{
+  "Id": 269148,
+  "ImdbId": "tt3399024",
+  "Title": "Samba",
+  "OriginalTitle": "Samba",
+  "Status": "Released",
+  "Overview": "Samba migrated to France 10 years ago from Senegal, and has since been plugging away at various lowly jobs. Alice is a senior executive who has recently undergone a burnout. Both struggle to get out of their dead-end lives Samba's willing to do whatever it takes to get working papers, while Alice tries to get her life back on track until fate draws them together",
+  "BackdropPath": "/1YcxUVYLFbwVW6j6ZeaV8M1DCKh.jpg",
+  "PosterPath": "/uFUISORKiH9Dav5p95uBoShwxVX.jpg",
+  "Genres": [
+    {
+      "Id": 35,
+      "Name": "Comedy"
+    },
+    {
+      "Id": 18,
+      "Name": "Drama"
+    }
+  ],
+  "ReleaseDate": "2014-10-15T00:00:00",
+  "Runtime": 0,
+  "Popularity": 0.775314877295364,
+  "VoteAverage": 7.9,
+  "VoteCount": 8,
+  "ProductionCompanies": [],
+  "ProductionCountries": [
+    {
+      "Iso_3166_1": "FR",
+      "Name": "France"
+    }
+  ],
+  "SpokenLanguages": [
+    {
+      "Iso_639_1": "fr",
+      "Name": "Français"
+    }
+  ],
+  "AlternativeTitles": {
+    "Id": 269148,
+    "Titles": []
+  },
+  "Releases": {
+    "Id": 269148,
+    "Countries": [
+      {
+        "Iso_3166_1": "FR",
+        "Certification": "U",
+        "ReleaseDate": "2014-10-15T00:00:00"
+      }
+    ]
+  },
+  "Credits": {
+    "Id": 269148,
+    "Cast": [
+      {
+        "Id": 78423,
+        "Name": "Omar Sy",
+        "Character": "Samba",
+        "Order": 1,
+        "CastId": 2,
+        "ProfilePath": "/jLlr2Dc74MHvozisnddrlIyb6Tz.jpg"
+      },
+      {
+        "Id": 81051,
+        "Name": "Tahar Rahim",
+        "Order": 2,
+        "CastId": 3,
+        "ProfilePath": "/wXKlcceUG1aRzisnL2nxbQVe18w.jpg"
+      },
+      {
+        "Id": 4273,
+        "Name": "Charlotte Gainsbourg",
+        "Order": 3,
+        "CastId": 4,
+        "ProfilePath": "/4TKuzaPGVH1BRMp6v22hAPkclkK.jpg"
+      },
+      {
+        "Id": 1121169,
+        "Name": "Izia Higelin",
+        "Order": 4,
+        "CastId": 5
+      },
+      {
+        "Id": 1362693,
+        "Name": "Yilin Yang",
+        "Order": 5,
+        "CastId": 6,
+        "ProfilePath": "/55fwRuLcWR8Mqc7vf5yKFyu8wmK.jpg"
+      }
+    ],
+    "Crew": [
+      {
+        "Id": 84425,
+        "Name": "Eric Toledano",
+        "Department": "Directing",
+        "Job": "Director"
+      },
+      {
+        "Id": 84426,
+        "Name": "Olivier Nakache",
+        "Department": "Directing",
+        "Job": "Director"
+      }
+    ]
+  },
+  "Images": {
+    "Backdrops": [
+      {
+        "FilePath": "/1YcxUVYLFbwVW6j6ZeaV8M1DCKh.jpg",
+        "Width": 1600,
+        "Height": 900,
+        "AspectRatio": 1.77777777777778
+      },
+      {
+        "FilePath": "/9De0ld566odlnqz2Qt46SUQR9qP.jpg",
+        "Width": 1600,
+        "Height": 900,
+        "AspectRatio": 1.77777777777778
+      },
+      {
+        "FilePath": "/oGevNBeQkvZNSaezv50k98OmfLc.jpg",
+        "Width": 1600,
+        "Height": 900,
+        "AspectRatio": 1.77777777777778
+      },
+      {
+        "FilePath": "/98apK5l6UXpDSIKCVXgIvo0YUQx.jpg",
+        "Width": 1600,
+        "Height": 900,
+        "AspectRatio": 1.77777777777778
+      },
+      {
+        "FilePath": "/3WmYJfsU8EdkNyhBs31FAEnTgxD.jpg",
+        "Width": 1600,
+        "Height": 900,
+        "AspectRatio": 1.77777777777778
+      },
+      {
+        "FilePath": "/zBdPA9tWFFkzErGalsUvQwr1zB7.jpg",
+        "Width": 1600,
+        "Height": 900,
+        "AspectRatio": 1.77777777777778
+      }
+    ],
+    "Posters": [
+      {
+        "FilePath": "/uFUISORKiH9Dav5p95uBoShwxVX.jpg",
+        "Width": 700,
+        "Height": 1000,
+        "Iso_639_1": "fr",
+        "AspectRatio": 0.7
+      },
+      {
+        "FilePath": "/3TpXRr3iFM2TNhYuH8vjibM24iJ.jpg",
+        "Width": 1150,
+        "Height": 1594,
+        "Iso_639_1": "fr",
+        "AspectRatio": 0.721455457967378
+      }
+    ]
+  },
+  "Keywords": {
+    "Id": 269148,
+    "Keywords": [
+      {
+        "Id": 207806,
+        "Name": "4froliboi"
+      }
+    ]
+  },
+  "Trailers": {
+    "Id": 269148,
+    "Quicktime": [],
+    "Youtube": []
+  },
+  "Translations": {
+    "Id": 269148,
+    "Translations": [
+      {
+        "Iso_639_1": "fr",
+        "Name": "Français",
+        "EnglishName": "French"
+      },
+      {
+        "Iso_639_1": "en",
+        "Name": "English",
+        "EnglishName": "English"
+      },
+      {
+        "Iso_639_1": "es",
+        "Name": "Español",
+        "EnglishName": "Spanish"
+      },
+      {
+        "Iso_639_1": "tr",
+        "Name": "Türkçe",
+        "EnglishName": "Turkish"
+      },
+      {
+        "Iso_639_1": "de",
+        "Name": "Deutsch",
+        "EnglishName": "German"
+      }
+    ]
+  }
+}

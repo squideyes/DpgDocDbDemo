@@ -1,0 +1,213 @@
+{
+  "Id": 284270,
+  "ImdbId": "tt3061836",
+  "Title": "Cub",
+  "OriginalTitle": "Welp",
+  "Status": "Post Production",
+  "Tagline": "Be prepared",
+  "Overview": "Over-imaginative 12 year-old Sam heads off to the woods to summer scout camp with his pack convinced that he will encounter a monster...",
+  "Homepage": "http://www.cubthemovie.com/",
+  "BackdropPath": "/I25aGtT4IhmpSQb9Ks9HpdyQln.jpg",
+  "PosterPath": "/ryfZN0wmROaRJ9ZE5fNwb3yC3Rq.jpg",
+  "Genres": [
+    {
+      "Id": 12,
+      "Name": "Adventure"
+    },
+    {
+      "Id": 27,
+      "Name": "Horror"
+    }
+  ],
+  "ReleaseDate": "2014-10-29T00:00:00",
+  "Runtime": 85,
+  "Popularity": 0.917766370857097,
+  "VoteAverage": 9.0,
+  "VoteCount": 2,
+  "ProductionCompanies": [
+    {
+      "Name": "Potemkino",
+      "Id": 31279
+    }
+  ],
+  "ProductionCountries": [
+    {
+      "Iso_3166_1": "BE",
+      "Name": "Belgium"
+    }
+  ],
+  "SpokenLanguages": [
+    {
+      "Iso_639_1": "fr",
+      "Name": "Français"
+    },
+    {
+      "Iso_639_1": "nl",
+      "Name": "Nederlands"
+    }
+  ],
+  "AlternativeTitles": {
+    "Id": 284270,
+    "Titles": [
+      {
+        "Iso_3166_1": "BE",
+        "Title": "Welp"
+      }
+    ]
+  },
+  "Releases": {
+    "Id": 284270,
+    "Countries": [
+      {
+        "Iso_3166_1": "BE",
+        "ReleaseDate": "2014-10-29T00:00:00"
+      }
+    ]
+  },
+  "Credits": {
+    "Id": 284270,
+    "Cast": [
+      {
+        "Id": 591850,
+        "Name": "Evelien Bosmans",
+        "Character": "Jasmijn",
+        "Order": 1,
+        "CastId": 1,
+        "ProfilePath": "/zGFF8tJFeYJGfq5RJHI4ieLHNul.jpg"
+      },
+      {
+        "Id": 51489,
+        "Name": "Titus De Voogdt",
+        "Character": "Chris",
+        "Order": 2,
+        "CastId": 2,
+        "ProfilePath": "/rHhK9nPLuEFH2PHQE6wNoFFlsEe.jpg"
+      },
+      {
+        "Id": 76294,
+        "Name": "Jan Hammenecker",
+        "Character": "Stroper",
+        "Order": 3,
+        "CastId": 3
+      },
+      {
+        "Id": 231643,
+        "Name": "Stef Aerts",
+        "Character": "Peter",
+        "Order": 4,
+        "CastId": 4
+      },
+      {
+        "Id": 1358000,
+        "Name": "Maurice Luijten",
+        "Character": "Sam",
+        "Order": 5,
+        "CastId": 5
+      }
+    ],
+    "Crew": [
+      {
+        "Id": 1347555,
+        "Name": "Jonas Govaerts",
+        "Department": "Directing",
+        "Job": "Director"
+      },
+      {
+        "Id": 1347555,
+        "Name": "Jonas Govaerts",
+        "Department": "Writing",
+        "Job": "Writer"
+      },
+      {
+        "Id": 1359730,
+        "Name": "Roel Mondelaers",
+        "Department": "Writing",
+        "Job": "Writer"
+      }
+    ]
+  },
+  "Images": {
+    "Backdrops": [
+      {
+        "FilePath": "/I25aGtT4IhmpSQb9Ks9HpdyQln.jpg",
+        "Width": 1920,
+        "Height": 1080,
+        "AspectRatio": 1.77777777777778
+      }
+    ],
+    "Posters": [
+      {
+        "FilePath": "/ryfZN0wmROaRJ9ZE5fNwb3yC3Rq.jpg",
+        "Width": 598,
+        "Height": 884,
+        "Iso_639_1": "xx",
+        "AspectRatio": 0.676470588235294
+      },
+      {
+        "FilePath": "/7Ar2cvtgGtjHvsBBjPnm0CGOTCw.jpg",
+        "Width": 980,
+        "Height": 1455,
+        "Iso_639_1": "nl",
+        "AspectRatio": 0.673539518900344
+      }
+    ]
+  },
+  "Keywords": {
+    "Id": 284270,
+    "Keywords": [
+      {
+        "Id": 1299,
+        "Name": "monster"
+      },
+      {
+        "Id": 5767,
+        "Name": "summer camp"
+      },
+      {
+        "Id": 7314,
+        "Name": "scouts"
+      },
+      {
+        "Id": 15127,
+        "Name": "killer"
+      },
+      {
+        "Id": 169990,
+        "Name": "boy scouts"
+      },
+      {
+        "Id": 170344,
+        "Name": "imagination"
+      },
+      {
+        "Id": 206673,
+        "Name": "psychotic villain"
+      }
+    ]
+  },
+  "Trailers": {
+    "Id": 284270,
+    "Quicktime": [],
+    "Youtube": []
+  },
+  "Translations": {
+    "Id": 284270,
+    "Translations": [
+      {
+        "Iso_639_1": "en",
+        "Name": "English",
+        "EnglishName": "English"
+      },
+      {
+        "Iso_639_1": "it",
+        "Name": "Italiano",
+        "EnglishName": "Italian"
+      },
+      {
+        "Iso_639_1": "nl",
+        "Name": "Nederlands",
+        "EnglishName": "Dutch"
+      }
+    ]
+  }
+}

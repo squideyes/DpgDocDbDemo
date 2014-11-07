@@ -1,0 +1,191 @@
+{
+  "Id": 290102,
+  "ImdbId": "tt3422606",
+  "Title": "Tada's Do-It-All House",
+  "OriginalTitle": "まほろ駅前狂騒曲",
+  "Status": "Released",
+  "Overview": "Set within the fictional city of Mahoro, Keisuke Tada (Eita) runs a \"benriya\" - a general problem solver for hire. His assistant is his former high school classmate Haruhiko Gyoten (Ryuhei Matsuda). A big crisis then occurs for them.",
+  "BackdropPath": "/oys4tRJOZomDNh1YxqqzdgYIKBn.jpg",
+  "PosterPath": "/nMLt0F9Z7r7sXSJM96o2ynLbs4C.jpg",
+  "Genres": [
+    {
+      "Id": 35,
+      "Name": "Comedy"
+    }
+  ],
+  "ReleaseDate": "2014-10-18T00:00:00",
+  "Runtime": 124,
+  "Popularity": 0.298642680615452,
+  "ProductionCompanies": [],
+  "ProductionCountries": [
+    {
+      "Iso_3166_1": "JP",
+      "Name": "Japan"
+    }
+  ],
+  "SpokenLanguages": [
+    {
+      "Iso_639_1": "ja",
+      "Name": "日本語"
+    }
+  ],
+  "AlternativeTitles": {
+    "Id": 290102,
+    "Titles": [
+      {
+        "Iso_3166_1": "JP",
+        "Title": "Mahoro ekimae kyôsôkyoku"
+      },
+      {
+        "Iso_3166_1": "JP",
+        "Title": "Mahoro Ekimae Kyousoukyoku"
+      }
+    ]
+  },
+  "Releases": {
+    "Id": 290102,
+    "Countries": [
+      {
+        "Iso_3166_1": "JP",
+        "ReleaseDate": "2014-10-18T00:00:00"
+      }
+    ]
+  },
+  "Credits": {
+    "Id": 290102,
+    "Cast": [
+      {
+        "Id": 117975,
+        "Name": "Eita",
+        "Character": "Keisuke Tada",
+        "Order": 1,
+        "ProfilePath": "/37ZxA6HBk48Mps0hfmiCBOIuVqY.jpg"
+      },
+      {
+        "Id": 72932,
+        "Name": "Ryuhei Matsuda",
+        "Character": "Haruhiko Gyoten",
+        "Order": 2,
+        "CastId": 1,
+        "ProfilePath": "/h5LaFzOmcIufsD0i0nv12AG00Mo.jpg"
+      },
+      {
+        "Id": 120690,
+        "Name": "Kengo Kora",
+        "Character": "Hoshi",
+        "Order": 3,
+        "CastId": 2,
+        "ProfilePath": "/z7lrLbWz8qgdPA3x3wJcQuSFwwk.jpg"
+      },
+      {
+        "Id": 592147,
+        "Name": "Yoko Maki",
+        "Order": 4,
+        "CastId": 3,
+        "ProfilePath": "/i7ftZi8zm8mZcydTW0qU5fMGTJQ.jpg"
+      },
+      {
+        "Id": 239857,
+        "Name": "Manami Honjô",
+        "Order": 5,
+        "CastId": 4,
+        "ProfilePath": "/2ISpQB8yNZso8DeLyoRatOrHGGj.jpg"
+      },
+      {
+        "Id": 78356,
+        "Name": "Tomoko Naraoka",
+        "Order": 6,
+        "CastId": 5
+      },
+      {
+        "Id": 110500,
+        "Name": "Hirofumi Arai",
+        "Order": 7,
+        "CastId": 6,
+        "ProfilePath": "/syF8PGhQiexSaGewrCnM9FIGydg.jpg"
+      },
+      {
+        "Id": 1014998,
+        "Name": "Masaki Miura",
+        "Order": 8,
+        "CastId": 7,
+        "ProfilePath": "/sMlpUfSwYMFoN8JGO9L2NxSRlLG.jpg"
+      },
+      {
+        "Id": 1257073,
+        "Name": "Yuki Furukawa",
+        "Order": 9,
+        "CastId": 8,
+        "ProfilePath": "/a2OskE09xyBPpwC4xdS5POqufLK.jpg"
+      },
+      {
+        "Id": 134845,
+        "Name": "Shima Ohnishi",
+        "Order": 10,
+        "CastId": 10,
+        "ProfilePath": "/20WaugN87YhxL9v8aeiV921AnKX.jpg"
+      }
+    ],
+    "Crew": [
+      {
+        "Id": 1118433,
+        "Name": "Tatsushi Ohmori",
+        "Department": "Directing",
+        "Job": "Director"
+      }
+    ]
+  },
+  "Images": {
+    "Backdrops": [
+      {
+        "FilePath": "/oys4tRJOZomDNh1YxqqzdgYIKBn.jpg",
+        "Width": 1920,
+        "Height": 1080,
+        "AspectRatio": 1.77777777777778
+      }
+    ],
+    "Posters": [
+      {
+        "FilePath": "/nMLt0F9Z7r7sXSJM96o2ynLbs4C.jpg",
+        "Width": 800,
+        "Height": 1200,
+        "Iso_639_1": "ja",
+        "AspectRatio": 0.666666666666667,
+        "VoteAverage": 5.3125,
+        "VoteCount": 1
+      },
+      {
+        "FilePath": "/zicLWC8pjEKlkCVjhvZRUC2pFWK.jpg",
+        "Width": 1000,
+        "Height": 1500,
+        "Iso_639_1": "ja",
+        "AspectRatio": 0.666666666666667
+      }
+    ]
+  },
+  "Keywords": {
+    "Id": 290102,
+    "Keywords": []
+  },
+  "Trailers": {
+    "Id": 290102,
+    "Quicktime": [],
+    "Youtube": [
+      {
+        "Name": "Trailer #1",
+        "Size": "HD",
+        "Source": "P4SA3S4aV8A"
+      }
+    ]
+  },
+  "Translations": {
+    "Id": 290102,
+    "Translations": [
+      {
+        "Iso_639_1": "en",
+        "Name": "English",
+        "EnglishName": "English"
+      }
+    ]
+  }
+}

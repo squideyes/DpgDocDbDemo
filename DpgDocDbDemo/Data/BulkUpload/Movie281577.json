@@ -1,0 +1,305 @@
+{
+  "Id": 281577,
+  "ImdbId": "tt3864096",
+  "Title": "Marionetes",
+  "OriginalTitle": "Marionetes",
+  "Status": "Post Production",
+  "Overview": "Marionetes is a mystery story filmed in a dark, unknown and full of temptations Athens",
+  "Homepage": "http://www.marionetesthemovie.gr",
+  "PosterPath": "/zZk5zDaJHJG93a5abBMfTMngZ9M.jpg",
+  "Genres": [
+    {
+      "Id": 9648,
+      "Name": "Mystery"
+    },
+    {
+      "Id": 53,
+      "Name": "Thriller"
+    }
+  ],
+  "ReleaseDate": "2014-10-31T00:00:00",
+  "Budget": 1360000,
+  "Runtime": 109,
+  "Popularity": 1.40653755483104,
+  "VoteAverage": 9.0,
+  "VoteCount": 1,
+  "ProductionCompanies": [
+    {
+      "Name": "Showtime Productions",
+      "Id": 27255
+    }
+  ],
+  "ProductionCountries": [
+    {
+      "Iso_3166_1": "GR",
+      "Name": "Greece"
+    }
+  ],
+  "SpokenLanguages": [
+    {
+      "Iso_639_1": "el",
+      "Name": "ελληνικά"
+    }
+  ],
+  "AlternativeTitles": {
+    "Id": 281577,
+    "Titles": [
+      {
+        "Iso_3166_1": "GR",
+        "Title": "Μαριονέτες"
+      }
+    ]
+  },
+  "Releases": {
+    "Id": 281577,
+    "Countries": [
+      {
+        "Iso_3166_1": "GR",
+        "ReleaseDate": "2014-10-31T00:00:00"
+      }
+    ]
+  },
+  "Credits": {
+    "Id": 281577,
+    "Cast": [
+      {
+        "Id": 89705,
+        "Name": "Alexis Georgoulis",
+        "Character": "Filippos Korais",
+        "Order": 1,
+        "ProfilePath": "/bJez4hmlpnrPBjtpfONoxg42ILP.jpg"
+      },
+      {
+        "Id": 1194929,
+        "Name": "Youlika Skafida",
+        "Character": "Nikoleta Miliou",
+        "Order": 2,
+        "CastId": 1,
+        "ProfilePath": "/vsElnbrKYzI3UzuRS2XMolCazis.jpg"
+      },
+      {
+        "Id": 1060188,
+        "Name": "Giorgos Kimoulis",
+        "Character": "Alexandros Linardos",
+        "Order": 3,
+        "CastId": 2,
+        "ProfilePath": "/6Hf7RPYGanPATtSlPG0nZ1R4oIt.jpg"
+      },
+      {
+        "Id": 1340640,
+        "Name": "Άκης Σακκελαρίου",
+        "Character": "Priest Averkios",
+        "Order": 4,
+        "CastId": 3,
+        "ProfilePath": "/rTsmMVNlynDOnUhs9WPMQNOofSf.jpg"
+      },
+      {
+        "Id": 462664,
+        "Name": "Yorgos Chraniotis",
+        "Character": "Stergios Nikolaou",
+        "Order": 5,
+        "CastId": 4,
+        "ProfilePath": "/hVQK2ZHGZdBBhMABYo90tTUu6H8.jpg"
+      },
+      {
+        "Id": 1340642,
+        "Name": "Klelia Renesi",
+        "Character": "Lia Giannouli",
+        "Order": 6,
+        "CastId": 5,
+        "ProfilePath": "/xgOQwcxKgRuFahTakohvLJJ6VjL.jpg"
+      },
+      {
+        "Id": 1340643,
+        "Name": "Tasos Nousias",
+        "Character": "Nikos Kyriakides",
+        "Order": 7,
+        "CastId": 6,
+        "ProfilePath": "/tp8ma6w1MmFh6QoW7xHdABYgu6G.jpg"
+      },
+      {
+        "Id": 1307170,
+        "Name": "Natalia Dragoumi",
+        "Character": "Mina Mendrinou",
+        "Order": 8,
+        "CastId": 7,
+        "ProfilePath": "/6T1UGsusmZY8Xpo6bhxALYXJhhW.jpg"
+      },
+      {
+        "Id": 18848,
+        "Name": "Gerasimos Skiadaressis",
+        "Character": "Cop Stratos",
+        "Order": 9,
+        "CastId": 8,
+        "ProfilePath": "/o7XyegxiJc938h6GuzDk1ii2uTu.jpg"
+      },
+      {
+        "Id": 1287133,
+        "Name": "Manos Vakousis",
+        "Character": "Gerasimos",
+        "Order": 10,
+        "CastId": 9,
+        "ProfilePath": "/n5vBhElNDLR3B6ZeaU5Qi3R8ysh.jpg"
+      },
+      {
+        "Id": 1340644,
+        "Name": "Sofi Zanninou",
+        "Character": "Madame",
+        "Order": 11,
+        "CastId": 10,
+        "ProfilePath": "/iGlCYwnCmyUZuFPjWSIdYNCnPHD.jpg"
+      },
+      {
+        "Id": 1284335,
+        "Name": "Markella Giannatou",
+        "Character": "Eleni Manta",
+        "Order": 12,
+        "CastId": 11,
+        "ProfilePath": "/4gbouqguVygvMKUyqigs1vZJsex.jpg"
+      },
+      {
+        "Id": 1340645,
+        "Name": "Chris Rondanov",
+        "Character": "Argyri",
+        "Order": 13,
+        "CastId": 12,
+        "ProfilePath": "/t0YF7xqVZKS8UGkOLB7dZnF5BNU.jpg"
+      },
+      {
+        "Id": 1340646,
+        "Name": "Dimitra Limniou",
+        "Character": "Gallerist",
+        "Order": 14,
+        "CastId": 13,
+        "ProfilePath": "/jhhDIYKYom3cEKQdskxEYZAzCKx.jpg"
+      }
+    ],
+    "Crew": [
+      {
+        "Id": 1340651,
+        "Name": "Pantelis Kalatzis",
+        "Department": "Directing",
+        "Job": "Director",
+        "ProfilePath": "/nBVVUcsVxWvEQwORAw1IHAo2stQ.jpg"
+      },
+      {
+        "Id": 1340651,
+        "Name": "Pantelis Kalatzis",
+        "Department": "Writing",
+        "Job": "Writer",
+        "ProfilePath": "/nBVVUcsVxWvEQwORAw1IHAo2stQ.jpg"
+      },
+      {
+        "Id": 1340653,
+        "Name": "Lazaros Mpalaouras",
+        "Department": "Writing",
+        "Job": "Writer"
+      },
+      {
+        "Id": 89705,
+        "Name": "Alexis Georgoulis",
+        "Department": "Writing",
+        "Job": "Writer",
+        "ProfilePath": "/bJez4hmlpnrPBjtpfONoxg42ILP.jpg"
+      },
+      {
+        "Id": 89705,
+        "Name": "Alexis Georgoulis",
+        "Department": "Camera",
+        "Job": "Director of Photography",
+        "ProfilePath": "/bJez4hmlpnrPBjtpfONoxg42ILP.jpg"
+      },
+      {
+        "Id": 1340654,
+        "Name": "giorgos georgiou",
+        "Department": "Art",
+        "Job": "Art Direction"
+      },
+      {
+        "Id": 1340655,
+        "Name": "giorgos alkaios",
+        "Department": "Sound",
+        "Job": "Music",
+        "ProfilePath": "/geR7kzesuPUyKXoa5dD0N2nuBBg.jpg"
+      },
+      {
+        "Id": 1340656,
+        "Name": "Giorgos Papadatos",
+        "Department": "Production",
+        "Job": "Executive Producer"
+      },
+      {
+        "Id": 1340657,
+        "Name": "Matthaios Voulgaris",
+        "Department": "Production",
+        "Job": "Production Manager"
+      },
+      {
+        "Id": 1340658,
+        "Name": "Konstadinos Adraktas",
+        "Department": "Editing",
+        "Job": "Editor"
+      },
+      {
+        "Id": 1340659,
+        "Name": "Theodore Skrikas",
+        "Department": "Editing",
+        "Job": "Editor",
+        "ProfilePath": "/kqPeExRbIMFRm62rzgU0bBPluLg.jpg"
+      }
+    ]
+  },
+  "Images": {
+    "Backdrops": [],
+    "Posters": [
+      {
+        "FilePath": "/zZk5zDaJHJG93a5abBMfTMngZ9M.jpg",
+        "Width": 1000,
+        "Height": 1500,
+        "AspectRatio": 0.666666666666667,
+        "VoteAverage": 5.3125,
+        "VoteCount": 1
+      },
+      {
+        "FilePath": "/o6GM3XL5rGcJetydjqXCEeUGbsC.jpg",
+        "Width": 1000,
+        "Height": 1429,
+        "AspectRatio": 0.699790062981106,
+        "VoteAverage": 5.17113095238095,
+        "VoteCount": 1
+      }
+    ]
+  },
+  "Keywords": {
+    "Id": 281577,
+    "Keywords": [
+      {
+        "Id": 2795,
+        "Name": "mystic"
+      },
+      {
+        "Id": 189092,
+        "Name": "journey"
+      },
+      {
+        "Id": 198962,
+        "Name": "run"
+      }
+    ]
+  },
+  "Trailers": {
+    "Id": 281577,
+    "Quicktime": [],
+    "Youtube": []
+  },
+  "Translations": {
+    "Id": 281577,
+    "Translations": [
+      {
+        "Iso_639_1": "en",
+        "Name": "English",
+        "EnglishName": "English"
+      }
+    ]
+  }
+}

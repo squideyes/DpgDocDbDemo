@@ -1,0 +1,64 @@
+{
+  "Id": 299497,
+  "ImdbId": "tt3212310",
+  "Title": "How I Got Over",
+  "OriginalTitle": "How I Got Over",
+  "Status": "Released",
+  "Tagline": "Can telling your story save your life?",
+  "Overview": "HOW I GOT OVER follows 15 formerly homeless women as they craft an original play, based on their harrowing true-life stories, to be performed one-night-only at The Kennedy Center. The women of N Street Village - a community for addiction recovery - have never performed on stage in their lives. Yet, guided by teachers from the Theater Lab School of the Dramatic Arts, they discover their untapped artistic talents and reckon with their traumatic histories. Courage is found; a leap of faith is taken. Sharing their pasts to release the potential in their futures, these 15 emboldened women take the stage in front of a packed house, illuminating the transformative power of arts education.",
+  "Genres": [],
+  "ReleaseDate": "2014-10-23T00:00:00",
+  "Runtime": 87,
+  "Popularity": 0.36562777,
+  "ProductionCompanies": [],
+  "ProductionCountries": [],
+  "SpokenLanguages": [],
+  "AlternativeTitles": {
+    "Id": 299497,
+    "Titles": []
+  },
+  "Releases": {
+    "Id": 299497,
+    "Countries": [
+      {
+        "Iso_3166_1": "US",
+        "ReleaseDate": "2014-10-23T00:00:00"
+      }
+    ]
+  },
+  "Credits": {
+    "Id": 299497,
+    "Cast": [],
+    "Crew": [
+      {
+        "Id": 1147953,
+        "Name": "Nicole Boxer",
+        "Department": "Directing",
+        "Job": "Director"
+      }
+    ]
+  },
+  "Images": {
+    "Backdrops": [],
+    "Posters": []
+  },
+  "Keywords": {
+    "Id": 299497,
+    "Keywords": []
+  },
+  "Trailers": {
+    "Id": 299497,
+    "Quicktime": [],
+    "Youtube": []
+  },
+  "Translations": {
+    "Id": 299497,
+    "Translations": [
+      {
+        "Iso_639_1": "en",
+        "Name": "English",
+        "EnglishName": "English"
+      }
+    ]
+  }
+}

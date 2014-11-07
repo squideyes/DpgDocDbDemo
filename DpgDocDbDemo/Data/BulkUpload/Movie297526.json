@@ -1,0 +1,78 @@
+{
+  "Id": 297526,
+  "Title": "Transatlantique",
+  "OriginalTitle": "Transatlantique",
+  "Status": "Released",
+  "Overview": "From the producer: Documentary essay, filmed during an Atlantic crossing aboard a cargo ship. A film about immensity and faith, about the uninterrupted movements of the waves and their power. And finally, perhaps most importantly, about the men aboard, witnesses and actors in this life between two shores, isolated in the middle of infinity. Transatlantic tells the story of the journey and daily life aboard and reveals the ship as a microcosm and a metaphor : a human island in the heart of a great elsewhere.",
+  "Homepage": "http://www.ladistributrice.ca/catalogue-films/transatlantique/",
+  "Genres": [
+    {
+      "Id": 99,
+      "Name": "Documentary"
+    }
+  ],
+  "ReleaseDate": "2014-10-14T00:00:00",
+  "Runtime": 72,
+  "Popularity": 0.244863756197489,
+  "ProductionCompanies": [],
+  "ProductionCountries": [
+    {
+      "Iso_3166_1": "CA",
+      "Name": "Canada"
+    }
+  ],
+  "SpokenLanguages": [
+    {
+      "Iso_639_1": "hi",
+      "Name": "हिन्दी"
+    }
+  ],
+  "AlternativeTitles": {
+    "Id": 297526,
+    "Titles": []
+  },
+  "Releases": {
+    "Id": 297526,
+    "Countries": [
+      {
+        "Iso_3166_1": "CA",
+        "ReleaseDate": "2014-10-14T00:00:00"
+      }
+    ]
+  },
+  "Credits": {
+    "Id": 297526,
+    "Cast": [],
+    "Crew": [
+      {
+        "Id": 1374102,
+        "Name": "Félix Dufour-Laperrière",
+        "Department": "Directing",
+        "Job": "Director"
+      }
+    ]
+  },
+  "Images": {
+    "Backdrops": [],
+    "Posters": []
+  },
+  "Keywords": {
+    "Id": 297526,
+    "Keywords": []
+  },
+  "Trailers": {
+    "Id": 297526,
+    "Quicktime": [],
+    "Youtube": []
+  },
+  "Translations": {
+    "Id": 297526,
+    "Translations": [
+      {
+        "Iso_639_1": "en",
+        "Name": "English",
+        "EnglishName": "English"
+      }
+    ]
+  }
+}

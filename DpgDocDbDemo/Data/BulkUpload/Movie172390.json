@@ -1,0 +1,248 @@
+{
+  "Id": 172390,
+  "ImdbId": "tt1977087",
+  "Title": "Tom Sawyer & Huckleberry Finn",
+  "OriginalTitle": "Tom Sawyer & Huckleberry Finn",
+  "Status": "Released",
+  "Tagline": "Everything is about to change.",
+  "Overview": "The adventure unfolds as Tom Sawyer and Huck Finn - Tom's friend from the streets - witness a murder in the graveyard. Tom and Huck flee to Jackson Island and make a pact never to tell anyone about the incident. However, when the good-natured Muff Potter, who has been blamed for the murder is sentenced to death by hanging, Tom breaks his promise and returns to exonerate Muff Potter. In jun Joe, the actual murderer, makes a hasty exit from the courtroom during the trial. A short time later, Tom and Huck find references to a treasure and have to face In jun Joe again.",
+  "PosterPath": "/tv2iR6Jt7ymfUSyyJCOxfTOrF5H.jpg",
+  "Genres": [
+    {
+      "Id": 28,
+      "Name": "Action"
+    },
+    {
+      "Id": 12,
+      "Name": "Adventure"
+    },
+    {
+      "Id": 18,
+      "Name": "Drama"
+    },
+    {
+      "Id": 10751,
+      "Name": "Family"
+    }
+  ],
+  "ReleaseDate": "2014-10-23T00:00:00",
+  "Runtime": 90,
+  "Popularity": 4.08989928410242E-08,
+  "ProductionCompanies": [
+    {
+      "Name": "cine-partners",
+      "Id": 37051
+    }
+  ],
+  "ProductionCountries": [],
+  "SpokenLanguages": [
+    {
+      "Iso_639_1": "en",
+      "Name": "English"
+    }
+  ],
+  "AlternativeTitles": {
+    "Id": 172390,
+    "Titles": []
+  },
+  "Releases": {
+    "Id": 172390,
+    "Countries": [
+      {
+        "Iso_3166_1": "AE",
+        "ReleaseDate": "2014-10-23T00:00:00"
+      },
+      {
+        "Iso_3166_1": "KW",
+        "ReleaseDate": "2014-10-23T00:00:00"
+      }
+    ]
+  },
+  "Credits": {
+    "Id": 172390,
+    "Cast": [
+      {
+        "Id": 5576,
+        "Name": "Val Kilmer",
+        "Character": "Mark Twain",
+        "Order": 1,
+        "CastId": 10,
+        "ProfilePath": "/AlhPeiH8R4reMNGNQ9ag1FPbuW9.jpg"
+      },
+      {
+        "Id": 968006,
+        "Name": "Katherine McNamara",
+        "Character": "Becky Thatcher",
+        "Order": 2,
+        "CastId": 11,
+        "ProfilePath": "/4Wlsgmdla9Ji1lNbvdSHWFaHxt4.jpg"
+      },
+      {
+        "Id": 60255,
+        "Name": "Jake T. Austin",
+        "Character": "Huckleberry Finn",
+        "Order": 3,
+        "CastId": 12,
+        "ProfilePath": "/rm774MpOuQ1nvLPNJZ8Q0pr73q6.jpg"
+      },
+      {
+        "Id": 518627,
+        "Name": "Joel Courtney",
+        "Character": "Tom Sawyer",
+        "Order": 4,
+        "CastId": 13,
+        "ProfilePath": "/bvhzhZbGMMuYx26USDw2ENagOfP.jpg"
+      },
+      {
+        "Id": 221125,
+        "Name": "Noah Munck",
+        "Character": "Ben Rogers",
+        "Order": 5,
+        "CastId": 14,
+        "ProfilePath": "/azP86nJZHgtpX2hNagzx8VVJSNT.jpg"
+      },
+      {
+        "Id": 3762,
+        "Name": "Christine Kaufmann",
+        "Character": "Aunt Polly",
+        "Order": 6,
+        "CastId": 15,
+        "ProfilePath": "/umwfWEHuQsfzdfVrYBpQwAqSqLI.jpg"
+      },
+      {
+        "Id": 22018,
+        "Name": "Velizar Binev",
+        "Character": "Preacher",
+        "Order": 7,
+        "CastId": 16,
+        "ProfilePath": "/rp5hKo8WEFcqIuh6eDGix2QxYwA.jpg"
+      },
+      {
+        "Id": 12768,
+        "Name": "Dan van Husen",
+        "Character": "Windy",
+        "Order": 8,
+        "CastId": 17,
+        "ProfilePath": "/tH1QUbViWdam7tkHvJKf9VE8H66.jpg"
+      },
+      {
+        "Id": 1380492,
+        "Name": "Miles Mussenden",
+        "Character": "Jim",
+        "Order": 9,
+        "CastId": 18
+      },
+      {
+        "Id": 64240,
+        "Name": "Sewell Whitney",
+        "Character": "Defense Attorney",
+        "Order": 10,
+        "CastId": 19,
+        "ProfilePath": "/vROStt8r18JKJT2B83bhYtW70sv.jpg"
+      }
+    ],
+    "Crew": [
+      {
+        "Id": 1380483,
+        "Name": "Jo Kastner",
+        "Department": "Directing",
+        "Job": "Director"
+      },
+      {
+        "Id": 1380483,
+        "Name": "Jo Kastner",
+        "Department": "Writing",
+        "Job": "Writer"
+      },
+      {
+        "Id": 72225,
+        "Name": "Mark Twain",
+        "Department": "Writing",
+        "Job": "Novel"
+      },
+      {
+        "Id": 72225,
+        "Name": "Mark Twain",
+        "Department": "Production",
+        "Job": "Producer"
+      },
+      {
+        "Id": 1380483,
+        "Name": "Jo Kastner",
+        "Department": "Production",
+        "Job": "Producer"
+      },
+      {
+        "Id": 1380483,
+        "Name": "Jo Kastner",
+        "Department": "Production",
+        "Job": "Executive Producer"
+      },
+      {
+        "Id": 1380484,
+        "Name": "Marcus Weinhart",
+        "Department": "Production",
+        "Job": "Executive Producer"
+      },
+      {
+        "Id": 1380485,
+        "Name": "Robert Gulya",
+        "Department": "Sound",
+        "Job": "Music"
+      },
+      {
+        "Id": 61851,
+        "Name": "Lorenzo Senatore",
+        "Department": "Camera",
+        "Job": "Director of Photography"
+      },
+      {
+        "Id": 1037857,
+        "Name": "Dávid Jancsó",
+        "Department": "Editing",
+        "Job": "Editor"
+      }
+    ]
+  },
+  "Images": {
+    "Backdrops": [],
+    "Posters": [
+      {
+        "FilePath": "/tv2iR6Jt7ymfUSyyJCOxfTOrF5H.jpg",
+        "Width": 500,
+        "Height": 750,
+        "AspectRatio": 0.666666666666667
+      }
+    ]
+  },
+  "Keywords": {
+    "Id": 172390,
+    "Keywords": [
+      {
+        "Id": 6054,
+        "Name": "friendship"
+      }
+    ]
+  },
+  "Trailers": {
+    "Id": 172390,
+    "Quicktime": [],
+    "Youtube": [
+      {
+        "Name": "TOM SAWYER & HUCKLEBERRY FINN Trailer",
+        "Size": "Standard",
+        "Source": "OnJD6mWlbRw"
+      }
+    ]
+  },
+  "Translations": {
+    "Id": 172390,
+    "Translations": [
+      {
+        "Iso_639_1": "en",
+        "Name": "English",
+        "EnglishName": "English"
+      }
+    ]
+  }
+}

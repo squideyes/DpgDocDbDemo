@@ -1,0 +1,54 @@
+{
+  "Id": 294925,
+  "Title": "Prinz Ribbit",
+  "OriginalTitle": "Prinz Ribbit",
+  "Status": "Released",
+  "Genres": [],
+  "ReleaseDate": "2014-10-09T00:00:00",
+  "Popularity": 0.0947140832256444,
+  "ProductionCompanies": [],
+  "ProductionCountries": [],
+  "SpokenLanguages": [],
+  "AlternativeTitles": {
+    "Id": 294925,
+    "Titles": []
+  },
+  "Releases": {
+    "Id": 294925,
+    "Countries": [
+      {
+        "Iso_3166_1": "DE",
+        "Certification": "0",
+        "ReleaseDate": "2014-10-09T00:00:00"
+      }
+    ]
+  },
+  "Credits": {
+    "Id": 294925,
+    "Cast": [],
+    "Crew": []
+  },
+  "Images": {
+    "Backdrops": [],
+    "Posters": []
+  },
+  "Keywords": {
+    "Id": 294925,
+    "Keywords": []
+  },
+  "Trailers": {
+    "Id": 294925,
+    "Quicktime": [],
+    "Youtube": []
+  },
+  "Translations": {
+    "Id": 294925,
+    "Translations": [
+      {
+        "Iso_639_1": "de",
+        "Name": "Deutsch",
+        "EnglishName": "German"
+      }
+    ]
+  }
+}

@@ -1,0 +1,70 @@
+{
+  "Id": 297308,
+  "Title": "1989",
+  "OriginalTitle": "1989",
+  "Status": "Released",
+  "Overview": "Anders Østergaard’s film is an investigative look at the year the Berlin Wall fell, documenting the events that took place in Hungary as a prelude to the dramatic changes in November 1989. The director recreates the events and leads the audiences deep into the politicians’ secret meeting rooms by using a mix of interviews, archive material and reconstructed scenes and dialogues.",
+  "PosterPath": "/yyt5WTSCeKSAsMp0UiMI8CbKTOi.jpg",
+  "Genres": [],
+  "ReleaseDate": "2014-11-05T00:00:00",
+  "Runtime": 85,
+  "Popularity": 1.35080216935702,
+  "ProductionCompanies": [],
+  "ProductionCountries": [],
+  "SpokenLanguages": [],
+  "AlternativeTitles": {
+    "Id": 297308,
+    "Titles": []
+  },
+  "Releases": {
+    "Id": 297308,
+    "Countries": [
+      {
+        "Iso_3166_1": "DK",
+        "ReleaseDate": "2014-11-05T00:00:00"
+      }
+    ]
+  },
+  "Credits": {
+    "Id": 297308,
+    "Cast": [],
+    "Crew": [
+      {
+        "Id": 89930,
+        "Name": "Anders Østergaard",
+        "Department": "Directing",
+        "Job": "Director"
+      }
+    ]
+  },
+  "Images": {
+    "Backdrops": [],
+    "Posters": [
+      {
+        "FilePath": "/yyt5WTSCeKSAsMp0UiMI8CbKTOi.jpg",
+        "Width": 756,
+        "Height": 1080,
+        "AspectRatio": 0.7
+      }
+    ]
+  },
+  "Keywords": {
+    "Id": 297308,
+    "Keywords": []
+  },
+  "Trailers": {
+    "Id": 297308,
+    "Quicktime": [],
+    "Youtube": []
+  },
+  "Translations": {
+    "Id": 297308,
+    "Translations": [
+      {
+        "Iso_639_1": "en",
+        "Name": "English",
+        "EnglishName": "English"
+      }
+    ]
+  }
+}

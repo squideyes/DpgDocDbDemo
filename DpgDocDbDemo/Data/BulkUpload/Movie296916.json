@@ -1,0 +1,81 @@
+{
+  "Id": 296916,
+  "ImdbId": "tt3708326",
+  "Title": "Faust 2.0",
+  "OriginalTitle": "Faust 2.0",
+  "Status": "Released",
+  "Tagline": "Satan is ready to make a new deal. Five apps, five tales of horror.",
+  "Overview": "Softwares and apps are daily installed based on agreements we scroll past and accept. But what exactly do we accept? In Faust 2.0 we meet five individuals who unknowingly enters into a pact with unknown forces and whose lives are brought to a brutal turn when they use the mystical applications to achieve what they want - but instead get what they deserve. As the applications spread the pieces fall into place and a digital pandemic takes shape.",
+  "PosterPath": "/jPwnEwW3DfHhx4eETd0q4od5b4p.jpg",
+  "Genres": [
+    {
+      "Id": 27,
+      "Name": "Horror"
+    }
+  ],
+  "ReleaseDate": "2014-10-17T00:00:00",
+  "Runtime": 79,
+  "Popularity": 0.237356220321841,
+  "ProductionCompanies": [],
+  "ProductionCountries": [],
+  "SpokenLanguages": [
+    {
+      "Iso_639_1": "sv",
+      "Name": "svenska"
+    }
+  ],
+  "AlternativeTitles": {
+    "Id": 296916,
+    "Titles": []
+  },
+  "Releases": {
+    "Id": 296916,
+    "Countries": [
+      {
+        "Iso_3166_1": "SE",
+        "ReleaseDate": "2014-10-17T00:00:00"
+      }
+    ]
+  },
+  "Credits": {
+    "Id": 296916,
+    "Cast": [],
+    "Crew": []
+  },
+  "Images": {
+    "Backdrops": [],
+    "Posters": [
+      {
+        "FilePath": "/jPwnEwW3DfHhx4eETd0q4od5b4p.jpg",
+        "Width": 600,
+        "Height": 857,
+        "AspectRatio": 0.700116686114352
+      }
+    ]
+  },
+  "Keywords": {
+    "Id": 296916,
+    "Keywords": []
+  },
+  "Trailers": {
+    "Id": 296916,
+    "Quicktime": [],
+    "Youtube": [
+      {
+        "Name": "Faust 2.0 Officiell Trailer",
+        "Size": "Standard",
+        "Source": "http://vimeo.com/94185886"
+      }
+    ]
+  },
+  "Translations": {
+    "Id": 296916,
+    "Translations": [
+      {
+        "Iso_639_1": "en",
+        "Name": "English",
+        "EnglishName": "English"
+      }
+    ]
+  }
+}

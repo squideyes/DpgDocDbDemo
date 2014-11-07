@@ -1,0 +1,90 @@
+{
+  "Id": 298904,
+  "Title": "Mickey Mouse Clubhouse Around the Clubhouse World",
+  "OriginalTitle": "Mickey Mouse Clubhouse Around the Clubhouse World",
+  "Status": "Released",
+  "BackdropPath": "/wOO8t27s3pqYziJh8RlIcviigZd.jpg",
+  "PosterPath": "/r7AelIIW6K9kDx5lpEDPYF28Iam.jpg",
+  "Genres": [
+    {
+      "Id": 16,
+      "Name": "Animation"
+    }
+  ],
+  "ReleaseDate": "2014-10-24T00:00:00",
+  "Popularity": 0.2936274904309,
+  "ProductionCompanies": [
+    {
+      "Name": "Walt Disney",
+      "Id": 5888
+    }
+  ],
+  "ProductionCountries": [
+    {
+      "Iso_3166_1": "US",
+      "Name": "United States of America"
+    }
+  ],
+  "SpokenLanguages": [],
+  "AlternativeTitles": {
+    "Id": 298904,
+    "Titles": []
+  },
+  "Releases": {
+    "Id": 298904,
+    "Countries": [
+      {
+        "Iso_3166_1": "BR",
+        "Certification": "A",
+        "ReleaseDate": "2014-10-24T00:00:00"
+      }
+    ]
+  },
+  "Credits": {
+    "Id": 298904,
+    "Cast": [],
+    "Crew": []
+  },
+  "Images": {
+    "Backdrops": [
+      {
+        "FilePath": "/wOO8t27s3pqYziJh8RlIcviigZd.jpg",
+        "Width": 1920,
+        "Height": 1080,
+        "AspectRatio": 1.77777777777778
+      }
+    ],
+    "Posters": [
+      {
+        "FilePath": "/r7AelIIW6K9kDx5lpEDPYF28Iam.jpg",
+        "Width": 567,
+        "Height": 794,
+        "AspectRatio": 0.714105793450882
+      }
+    ]
+  },
+  "Keywords": {
+    "Id": 298904,
+    "Keywords": [
+      {
+        "Id": 3870,
+        "Name": "mickey mouse"
+      }
+    ]
+  },
+  "Trailers": {
+    "Id": 298904,
+    "Quicktime": [],
+    "Youtube": []
+  },
+  "Translations": {
+    "Id": 298904,
+    "Translations": [
+      {
+        "Iso_639_1": "pt",
+        "Name": "Português",
+        "EnglishName": "Portuguese"
+      }
+    ]
+  }
+}

@@ -1,0 +1,96 @@
+{
+  "Id": 300591,
+  "Title": "Mistik Syirik Tahyul",
+  "OriginalTitle": "Mistik Syirik Tahyul",
+  "Status": "Released",
+  "Tagline": "Five Horror Story In One Movie",
+  "Overview": "Five Horror Film in one Movie. This local horror film features Mak Jah, Sura Sojangi, Kalpana, Sundraju, Naqia Nasution, Khatijah Tan, Zul Yasmin and more talented cast. The film is a production from RenBash Entertainment with M.Subash as the director.",
+  "Homepage": "http://www.cinema.com.my/movies/movie_contents.aspx?search=2014.9496.mistiksyiriktahyul.18266",
+  "PosterPath": "/ct6wbgRS0kCYCseYg3eWZr5izQ3.jpg",
+  "Genres": [],
+  "ReleaseDate": "2014-10-16T00:00:00",
+  "Runtime": 85,
+  "ProductionCompanies": [],
+  "ProductionCountries": [],
+  "SpokenLanguages": [],
+  "AlternativeTitles": {
+    "Id": 300591,
+    "Titles": []
+  },
+  "Releases": {
+    "Id": 300591,
+    "Countries": [
+      {
+        "Iso_3166_1": "MY",
+        "ReleaseDate": "2014-10-16T00:00:00"
+      }
+    ]
+  },
+  "Credits": {
+    "Id": 300591,
+    "Cast": [
+      {
+        "Id": 1284577,
+        "Name": "Mak Jah",
+        "Order": 1,
+        "ProfilePath": "/ewrTR7MDSv4Vs9MZXBxWVVz1MLj.jpg"
+      },
+      {
+        "Id": 1381282,
+        "Name": "Sura Sojangi",
+        "Order": 2,
+        "CastId": 1
+      },
+      {
+        "Id": 1381283,
+        "Name": "Naqia Nasution",
+        "Order": 3,
+        "CastId": 2
+      },
+      {
+        "Id": 1279269,
+        "Name": "Khatijah Tan",
+        "Order": 4,
+        "CastId": 3,
+        "ProfilePath": "/e4qQtrQkELHVWUQP21N35HYu5sY.jpg"
+      },
+      {
+        "Id": 1381284,
+        "Name": "Zul Yasmin",
+        "Order": 5,
+        "CastId": 4
+      }
+    ],
+    "Crew": []
+  },
+  "Images": {
+    "Backdrops": [],
+    "Posters": [
+      {
+        "FilePath": "/ct6wbgRS0kCYCseYg3eWZr5izQ3.jpg",
+        "Width": 650,
+        "Height": 940,
+        "AspectRatio": 0.691489361702128
+      }
+    ]
+  },
+  "Keywords": {
+    "Id": 300591,
+    "Keywords": []
+  },
+  "Trailers": {
+    "Id": 300591,
+    "Quicktime": [],
+    "Youtube": []
+  },
+  "Translations": {
+    "Id": 300591,
+    "Translations": [
+      {
+        "Iso_639_1": "en",
+        "Name": "English",
+        "EnglishName": "English"
+      }
+    ]
+  }
+}

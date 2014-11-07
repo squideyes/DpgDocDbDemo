@@ -1,0 +1,196 @@
+{
+  "Id": 289171,
+  "ImdbId": "tt3022526",
+  "Title": "Le Grimoire d'Arkandias",
+  "OriginalTitle": "Le Grimoire d'Arkandias",
+  "Status": "Released",
+  "BackdropPath": "/rdvC5aHvqlcVymNIEMFhdOCAu8A.jpg",
+  "PosterPath": "/iZkNagmmRWlaiV2PuMgS1Alyo6w.jpg",
+  "Genres": [
+    {
+      "Id": 12,
+      "Name": "Adventure"
+    },
+    {
+      "Id": 35,
+      "Name": "Comedy"
+    }
+  ],
+  "ReleaseDate": "2014-10-22T00:00:00",
+  "Popularity": 0.252814951235399,
+  "ProductionCompanies": [
+    {
+      "Name": "Cinéfrance 1888",
+      "Id": 31229
+    },
+    {
+      "Name": "UGC Distribution",
+      "Id": 3578
+    },
+    {
+      "Name": "Les films du 24",
+      "Id": 17311
+    },
+    {
+      "Name": "Umedia",
+      "Id": 19037
+    }
+  ],
+  "ProductionCountries": [
+    {
+      "Iso_3166_1": "FR",
+      "Name": "France"
+    }
+  ],
+  "SpokenLanguages": [
+    {
+      "Iso_639_1": "fr",
+      "Name": "Français"
+    }
+  ],
+  "AlternativeTitles": {
+    "Id": 289171,
+    "Titles": []
+  },
+  "Releases": {
+    "Id": 289171,
+    "Countries": [
+      {
+        "Iso_3166_1": "FR",
+        "ReleaseDate": "2014-10-22T00:00:00"
+      }
+    ]
+  },
+  "Credits": {
+    "Id": 289171,
+    "Cast": [
+      {
+        "Id": 28781,
+        "Name": "Christian Clavier",
+        "Character": "Agenor Arkandias",
+        "Order": 1,
+        "CastId": 2,
+        "ProfilePath": "/yRHoVp6EfIPd1TKAHOZvs9TKcmn.jpg"
+      },
+      {
+        "Id": 1357703,
+        "Name": "Pauline Brisy",
+        "Character": "Laura",
+        "Order": 2,
+        "CastId": 3
+      },
+      {
+        "Id": 2412,
+        "Name": "Isabelle Nanty",
+        "Character": "Bertha Boucher",
+        "Order": 3,
+        "CastId": 4,
+        "ProfilePath": "/mWxM84KXqsL11Zj9Onzn6fwDggX.jpg"
+      },
+      {
+        "Id": 39350,
+        "Name": "Anémone",
+        "Character": "Marion Boucher",
+        "Order": 4,
+        "CastId": 5,
+        "ProfilePath": "/p3fHNcv6H0Jq0qMBtZYtJDCmkA.jpg"
+      },
+      {
+        "Id": 77736,
+        "Name": "Armelle",
+        "Character": "Julie Boucher",
+        "Order": 5,
+        "CastId": 6,
+        "ProfilePath": "/wM36ChCOpQ2jTwXGjcw7yKvtTW5.jpg"
+      },
+      {
+        "Id": 1318260,
+        "Name": "Yvonne Gradelet",
+        "Order": 6,
+        "CastId": 7
+      }
+    ],
+    "Crew": [
+      {
+        "Id": 225890,
+        "Name": "Alexandre Castagnetti",
+        "Department": "Directing",
+        "Job": "Director"
+      },
+      {
+        "Id": 1357702,
+        "Name": "Julien Simonet",
+        "Department": "Directing",
+        "Job": "Director"
+      }
+    ]
+  },
+  "Images": {
+    "Backdrops": [
+      {
+        "FilePath": "/rdvC5aHvqlcVymNIEMFhdOCAu8A.jpg",
+        "Width": 1600,
+        "Height": 900,
+        "AspectRatio": 1.77777777777778
+      },
+      {
+        "FilePath": "/mBEIh5KwR8VcPG6ISLk5NblICGY.jpg",
+        "Width": 1600,
+        "Height": 900,
+        "AspectRatio": 1.77777777777778
+      },
+      {
+        "FilePath": "/cS9HGd6uZDfjHT0KWCdl4T8qKjG.jpg",
+        "Width": 1600,
+        "Height": 900,
+        "AspectRatio": 1.77777777777778
+      },
+      {
+        "FilePath": "/nZZggoYhPngDvchY5S9Vq7nuQrK.jpg",
+        "Width": 1600,
+        "Height": 900,
+        "AspectRatio": 1.77777777777778
+      },
+      {
+        "FilePath": "/r1eZ8Rr2eW7K3PygelaM6cjR6LJ.jpg",
+        "Width": 1600,
+        "Height": 900,
+        "AspectRatio": 1.77777777777778
+      },
+      {
+        "FilePath": "/9uMmX2IZsp3rfTLVjTE3J8BFRLb.jpg",
+        "Width": 1600,
+        "Height": 900,
+        "AspectRatio": 1.77777777777778
+      }
+    ],
+    "Posters": [
+      {
+        "FilePath": "/iZkNagmmRWlaiV2PuMgS1Alyo6w.jpg",
+        "Width": 1416,
+        "Height": 1936,
+        "Iso_639_1": "fr",
+        "AspectRatio": 0.731404958677686
+      }
+    ]
+  },
+  "Keywords": {
+    "Id": 289171,
+    "Keywords": []
+  },
+  "Trailers": {
+    "Id": 289171,
+    "Quicktime": [],
+    "Youtube": []
+  },
+  "Translations": {
+    "Id": 289171,
+    "Translations": [
+      {
+        "Iso_639_1": "fr",
+        "Name": "Français",
+        "EnglishName": "French"
+      }
+    ]
+  }
+}

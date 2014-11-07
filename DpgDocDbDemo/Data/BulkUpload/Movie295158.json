@@ -1,0 +1,55 @@
+{
+  "Id": 295158,
+  "Title": "Addicted: Live With Zane",
+  "OriginalTitle": "Addicted: Live With Zane",
+  "Status": "Released",
+  "Overview": "Fathom Events and Lionsgate/Codeblack Films are thrilled to present a one-time special LIVE event, ADDICTED: LIVE WITH ZANE, in select cinemas nationwide on Thursday, October 9th.",
+  "Genres": [],
+  "ReleaseDate": "2014-10-09T00:00:00",
+  "Runtime": 0,
+  "Popularity": 0.170642744134152,
+  "ProductionCompanies": [],
+  "ProductionCountries": [],
+  "SpokenLanguages": [],
+  "AlternativeTitles": {
+    "Id": 295158,
+    "Titles": []
+  },
+  "Releases": {
+    "Id": 295158,
+    "Countries": [
+      {
+        "Iso_3166_1": "US",
+        "ReleaseDate": "2014-10-09T00:00:00"
+      }
+    ]
+  },
+  "Credits": {
+    "Id": 295158,
+    "Cast": [],
+    "Crew": []
+  },
+  "Images": {
+    "Backdrops": [],
+    "Posters": []
+  },
+  "Keywords": {
+    "Id": 295158,
+    "Keywords": []
+  },
+  "Trailers": {
+    "Id": 295158,
+    "Quicktime": [],
+    "Youtube": []
+  },
+  "Translations": {
+    "Id": 295158,
+    "Translations": [
+      {
+        "Iso_639_1": "en",
+        "Name": "English",
+        "EnglishName": "English"
+      }
+    ]
+  }
+}

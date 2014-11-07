@@ -1,0 +1,83 @@
+{
+  "Id": 273458,
+  "ImdbId": "tt3825674",
+  "Title": "Spirit Berlin",
+  "OriginalTitle": "Spirit Berlin",
+  "Status": "Released",
+  "Overview": "Stephan Ziller is an aspring actor who has lost his way and looks for his spiritual compass. He goes looking for answers in spiritual, religious and self-help groups across the city of Berlin. He eventually chances upon a romance with Simone Geißler, but soon grows weary of his spiritual pursuit.",
+  "Homepage": "http://www.spiritberlin.de",
+  "PosterPath": "/dUfzU3E73Feutjfut7LarTxic0W.jpg",
+  "Genres": [
+    {
+      "Id": 99,
+      "Name": "Documentary"
+    }
+  ],
+  "ReleaseDate": "2014-10-25T00:00:00",
+  "Runtime": 84,
+  "Popularity": 0.481868475990791,
+  "ProductionCompanies": [],
+  "ProductionCountries": [],
+  "SpokenLanguages": [],
+  "AlternativeTitles": {
+    "Id": 273458,
+    "Titles": []
+  },
+  "Releases": {
+    "Id": 273458,
+    "Countries": [
+      {
+        "Iso_3166_1": "DE",
+        "Certification": "6",
+        "ReleaseDate": "2014-10-25T00:00:00"
+      }
+    ]
+  },
+  "Credits": {
+    "Id": 273458,
+    "Cast": [],
+    "Crew": []
+  },
+  "Images": {
+    "Backdrops": [],
+    "Posters": [
+      {
+        "FilePath": "/dUfzU3E73Feutjfut7LarTxic0W.jpg",
+        "Width": 800,
+        "Height": 1131,
+        "AspectRatio": 0.707338638373121
+      },
+      {
+        "FilePath": "/zbYsYi6fomV1EYbPkJTp2UdOOlf.jpg",
+        "Width": 1333,
+        "Height": 2000,
+        "Iso_639_1": "de",
+        "AspectRatio": 0.6665
+      }
+    ]
+  },
+  "Keywords": {
+    "Id": 273458,
+    "Keywords": []
+  },
+  "Trailers": {
+    "Id": 273458,
+    "Quicktime": [],
+    "Youtube": []
+  },
+  "Translations": {
+    "Id": 273458,
+    "Translations": [
+      {
+        "Iso_639_1": "en",
+        "Name": "English",
+        "EnglishName": "English"
+      },
+      {
+        "Iso_639_1": "de",
+        "Name": "Deutsch",
+        "EnglishName": "German"
+      }
+    ]
+  }
+}

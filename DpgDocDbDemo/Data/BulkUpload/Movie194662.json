@@ -1,0 +1,325 @@
+{
+  "Id": 194662,
+  "ImdbId": "tt2562232",
+  "Title": "Birdman",
+  "OriginalTitle": "Birdman",
+  "Status": "Released",
+  "Overview": "A fading actor (Michael Keaton) best known for his portrayal of a popular superhero attempts to mount a comeback by appearing in a Broadway play. As opening night approaches, his attempts to become more altruistic, rebuild his career, and reconnect with friends and family prove more difficult than expected. Lindsay Duncan, Zach Galifianakis, and Edward Norton co-star in this black comedy from Biutiful director Alejandro González Iñárritu.",
+  "BackdropPath": "/wTAS2zD9J84CNhYucvLkACsAv02.jpg",
+  "PosterPath": "/kG1UW1AHGEVj62YSfAiyx1qiVGI.jpg",
+  "Genres": [
+    {
+      "Id": 35,
+      "Name": "Comedy"
+    },
+    {
+      "Id": 18,
+      "Name": "Drama"
+    }
+  ],
+  "ReleaseDate": "2014-10-17T00:00:00",
+  "Runtime": 119,
+  "Popularity": 2.11139984692285,
+  "VoteAverage": 8.5,
+  "VoteCount": 8,
+  "ProductionCompanies": [
+    {
+      "Name": "Worldview Entertainment",
+      "Id": 9015
+    },
+    {
+      "Name": "New Regency Pictures",
+      "Id": 10104
+    }
+  ],
+  "ProductionCountries": [
+    {
+      "Iso_3166_1": "US",
+      "Name": "United States of America"
+    }
+  ],
+  "SpokenLanguages": [
+    {
+      "Iso_639_1": "en",
+      "Name": "English"
+    }
+  ],
+  "AlternativeTitles": {
+    "Id": 194662,
+    "Titles": [
+      {
+        "Iso_3166_1": "US",
+        "Title": "The Unexpected Virtue of Ignorance"
+      }
+    ]
+  },
+  "Releases": {
+    "Id": 194662,
+    "Countries": [
+      {
+        "Iso_3166_1": "US",
+        "Certification": "R",
+        "ReleaseDate": "2014-10-17T00:00:00"
+      },
+      {
+        "Iso_3166_1": "GB",
+        "ReleaseDate": "2015-01-02T00:00:00"
+      },
+      {
+        "Iso_3166_1": "DE",
+        "ReleaseDate": "2015-01-15T00:00:00"
+      },
+      {
+        "Iso_3166_1": "FR",
+        "ReleaseDate": "2015-01-27T00:00:00"
+      },
+      {
+        "Iso_3166_1": "NL",
+        "ReleaseDate": "2015-02-11T00:00:00"
+      }
+    ]
+  },
+  "Credits": {
+    "Id": 194662,
+    "Cast": [
+      {
+        "Id": 2232,
+        "Name": "Michael Keaton",
+        "Character": "Riggan Thomson / Birdman",
+        "CastId": 2,
+        "ProfilePath": "/jSG7yQxSsGzz1TbDjq0811W5LK4.jpg"
+      },
+      {
+        "Id": 58225,
+        "Name": "Zach Galifianakis",
+        "Character": "Jake",
+        "Order": 1,
+        "CastId": 4,
+        "ProfilePath": "/xZo7qB575ssksOhSqfrs6FVqtPR.jpg"
+      },
+      {
+        "Id": 819,
+        "Name": "Edward Norton",
+        "Character": "Mike Shiner",
+        "Order": 2,
+        "CastId": 5,
+        "ProfilePath": "/iUiePUAQKN4GY6jorH9m23cbVli.jpg"
+      },
+      {
+        "Id": 54693,
+        "Name": "Emma Stone",
+        "Character": "Sam Thomson",
+        "Order": 3,
+        "CastId": 3,
+        "ProfilePath": "/vIeMk0uuAhOxMtY0HSDjSYKzXyA.jpg"
+      },
+      {
+        "Id": 3489,
+        "Name": "Naomi Watts",
+        "Character": "Lesley",
+        "Order": 4,
+        "CastId": 6,
+        "ProfilePath": "/8W02WOJI1pEGh2iqQsgITR5tV0P.jpg"
+      },
+      {
+        "Id": 39388,
+        "Name": "Amy Ryan",
+        "Character": "Sylvia",
+        "Order": 5,
+        "CastId": 7,
+        "ProfilePath": "/vjUXYMi5576IogTakMA64Yk4xHk.jpg"
+      },
+      {
+        "Id": 127558,
+        "Name": "Andrea Riseborough",
+        "Character": "Laura",
+        "Order": 6,
+        "CastId": 10,
+        "ProfilePath": "/zQPFvKnNjmvpTb1SM66SBnOgth4.jpg"
+      },
+      {
+        "Id": 28044,
+        "Name": "Merritt Wever",
+        "Character": "Annie",
+        "Order": 7,
+        "CastId": 17,
+        "ProfilePath": "/scrfqDWvfyRBZlVvTEJvZbJxcER.jpg"
+      },
+      {
+        "Id": 30083,
+        "Name": "Lindsay Duncan",
+        "Character": "Tabitha",
+        "Order": 8,
+        "CastId": 18,
+        "ProfilePath": "/ddjjwMEHLBvzkZzZ5frEvJyWnZ6.jpg"
+      }
+    ],
+    "Crew": [
+      {
+        "Id": 223,
+        "Name": "Alejandro González Iñárritu",
+        "Department": "Directing",
+        "Job": "Director",
+        "ProfilePath": "/qh6Bom66huviIJ2HheE29kI7y96.jpg"
+      },
+      {
+        "Id": 1281196,
+        "Name": "Alexander Dinelaris",
+        "Department": "Writing",
+        "Job": "Screenplay"
+      },
+      {
+        "Id": 223,
+        "Name": "Alejandro González Iñárritu",
+        "Department": "Writing",
+        "Job": "Screenplay",
+        "ProfilePath": "/qh6Bom66huviIJ2HheE29kI7y96.jpg"
+      },
+      {
+        "Id": 661870,
+        "Name": "Armando Bo",
+        "Department": "Writing",
+        "Job": "Screenplay",
+        "ProfilePath": "/ppNbCs6knGiWRKvgjj17eKVBM50.jpg"
+      },
+      {
+        "Id": 931800,
+        "Name": "Nicolás Giacobone",
+        "Department": "Writing",
+        "Job": "Screenplay"
+      },
+      {
+        "Id": 223,
+        "Name": "Alejandro González Iñárritu",
+        "Department": "Production",
+        "Job": "Producer",
+        "ProfilePath": "/qh6Bom66huviIJ2HheE29kI7y96.jpg"
+      },
+      {
+        "Id": 376,
+        "Name": "Arnon Milchan",
+        "Department": "Production",
+        "Job": "Producer",
+        "ProfilePath": "/5crR5twLRcIdvRR06dB1O0EQ8x0.jpg"
+      },
+      {
+        "Id": 4185,
+        "Name": "Emmanuel Lubezki",
+        "Department": "Camera",
+        "Job": "Director of Photography",
+        "ProfilePath": "/cUlQjVraYILk8Lt3uCSAJApNYHy.jpg"
+      }
+    ]
+  },
+  "Images": {
+    "Backdrops": [
+      {
+        "FilePath": "/wTAS2zD9J84CNhYucvLkACsAv02.jpg",
+        "Width": 1290,
+        "Height": 725,
+        "AspectRatio": 1.77931034482759
+      }
+    ],
+    "Posters": [
+      {
+        "FilePath": "/kG1UW1AHGEVj62YSfAiyx1qiVGI.jpg",
+        "Width": 1300,
+        "Height": 1950,
+        "Iso_639_1": "en",
+        "AspectRatio": 0.666666666666667,
+        "VoteAverage": 5.2958152958153,
+        "VoteCount": 3
+      },
+      {
+        "FilePath": "/yK34R5V8wnjsm0HyWyRlBAmNCHO.jpg",
+        "Width": 1200,
+        "Height": 1800,
+        "Iso_639_1": "en",
+        "AspectRatio": 0.666666666666667,
+        "VoteAverage": 5.27363184079602,
+        "VoteCount": 4
+      },
+      {
+        "FilePath": "/nh0WNqOklmLEwzmTIicFUW2WOVp.jpg",
+        "Width": 1000,
+        "Height": 1490,
+        "Iso_639_1": "en",
+        "AspectRatio": 0.671140939597315,
+        "VoteAverage": 5.25274725274725,
+        "VoteCount": 2
+      },
+      {
+        "FilePath": "/kX5TVH3UQOqAq0zlzjaKMdX3KB5.jpg",
+        "Width": 2000,
+        "Height": 3000,
+        "Iso_639_1": "en",
+        "AspectRatio": 0.666666666666667,
+        "VoteAverage": 5.23809523809524,
+        "VoteCount": 4
+      },
+      {
+        "FilePath": "/yt5dLcIBQYodlComqy76Z3vwJ6e.jpg",
+        "Width": 958,
+        "Height": 1500,
+        "Iso_639_1": "en",
+        "AspectRatio": 0.638666666666667,
+        "VoteAverage": 5.12767425810904,
+        "VoteCount": 6
+      },
+      {
+        "FilePath": "/kviQhjw0DsXu8l4MRQ21qRpcdbP.jpg",
+        "Width": 601,
+        "Height": 1100,
+        "Iso_639_1": "en",
+        "AspectRatio": 0.546363636363636,
+        "VoteAverage": 5.05602240896359,
+        "VoteCount": 5
+      }
+    ]
+  },
+  "Keywords": {
+    "Id": 194662,
+    "Keywords": []
+  },
+  "Trailers": {
+    "Id": 194662,
+    "Quicktime": [],
+    "Youtube": [
+      {
+        "Name": "BIRDMAN Trailer (Michael Keaton - 2014)",
+        "Size": "HD",
+        "Source": "2bqh-UCY6Zg"
+      }
+    ]
+  },
+  "Translations": {
+    "Id": 194662,
+    "Translations": [
+      {
+        "Iso_639_1": "en",
+        "Name": "English",
+        "EnglishName": "English"
+      },
+      {
+        "Iso_639_1": "es",
+        "Name": "Español",
+        "EnglishName": "Spanish"
+      },
+      {
+        "Iso_639_1": "it",
+        "Name": "Italiano",
+        "EnglishName": "Italian"
+      },
+      {
+        "Iso_639_1": "ru",
+        "Name": "Pусский",
+        "EnglishName": "Russian"
+      },
+      {
+        "Iso_639_1": "de",
+        "Name": "Deutsch",
+        "EnglishName": "German"
+      }
+    ]
+  }
+}

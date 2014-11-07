@@ -1,0 +1,97 @@
+{
+  "Id": 297875,
+  "ImdbId": "tt3886218",
+  "Title": "Lumberjacked",
+  "OriginalTitle": "Lumberjacked",
+  "Status": "Released",
+  "Overview": "A reformed Lumberjack must embrace the power of Nature in order to defeat an 8-bit Wasp Monster that is destroying his home.",
+  "Homepage": "http://vimeo.com/79426902",
+  "Genres": [
+    {
+      "Id": 12,
+      "Name": "Adventure"
+    },
+    {
+      "Id": 16,
+      "Name": "Animation"
+    },
+    {
+      "Id": 35,
+      "Name": "Comedy"
+    },
+    {
+      "Id": 10402,
+      "Name": "Music"
+    }
+  ],
+  "ReleaseDate": "2014-10-17T00:00:00",
+  "Runtime": 3,
+  "Popularity": 0.27110132819717,
+  "ProductionCompanies": [],
+  "ProductionCountries": [],
+  "SpokenLanguages": [
+    {
+      "Iso_639_1": "en",
+      "Name": "English"
+    }
+  ],
+  "AlternativeTitles": {
+    "Id": 297875,
+    "Titles": []
+  },
+  "Releases": {
+    "Id": 297875,
+    "Countries": [
+      {
+        "Iso_3166_1": "CA",
+        "ReleaseDate": "2014-10-17T00:00:00"
+      }
+    ]
+  },
+  "Credits": {
+    "Id": 297875,
+    "Cast": [],
+    "Crew": [
+      {
+        "Id": 1374754,
+        "Name": "Joel Mackenzie",
+        "Department": "Directing",
+        "Job": "Director"
+      },
+      {
+        "Id": 1374754,
+        "Name": "Joel Mackenzie",
+        "Department": "Writing",
+        "Job": "Writer"
+      }
+    ]
+  },
+  "Images": {
+    "Backdrops": [],
+    "Posters": []
+  },
+  "Keywords": {
+    "Id": 297875,
+    "Keywords": [
+      {
+        "Id": 207653,
+        "Name": "short"
+      }
+    ]
+  },
+  "Trailers": {
+    "Id": 297875,
+    "Quicktime": [],
+    "Youtube": []
+  },
+  "Translations": {
+    "Id": 297875,
+    "Translations": [
+      {
+        "Iso_639_1": "en",
+        "Name": "English",
+        "EnglishName": "English"
+      }
+    ]
+  }
+}

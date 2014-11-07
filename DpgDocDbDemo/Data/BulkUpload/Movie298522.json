@@ -1,0 +1,122 @@
+{
+  "Id": 298522,
+  "Title": "Wyatt Cenac: Brooklyn",
+  "OriginalTitle": "Wyatt Cenac: Brooklyn",
+  "Status": "Released",
+  "Overview": "Standup special recorded at Union Hall in Brooklyn.",
+  "BackdropPath": "/qIuLgOaWhMkWg0UBExBMxudHPqA.jpg",
+  "PosterPath": "/tAu78Zl4o3z9zeEw0tolsaKVwED.jpg",
+  "Genres": [
+    {
+      "Id": 35,
+      "Name": "Comedy"
+    }
+  ],
+  "ReleaseDate": "2014-10-21T00:00:00",
+  "Runtime": 67,
+  "Popularity": 0.415877293998711,
+  "ProductionCompanies": [],
+  "ProductionCountries": [],
+  "SpokenLanguages": [
+    {
+      "Iso_639_1": "en",
+      "Name": "English"
+    }
+  ],
+  "AlternativeTitles": {
+    "Id": 298522,
+    "Titles": []
+  },
+  "Releases": {
+    "Id": 298522,
+    "Countries": [
+      {
+        "Iso_3166_1": "US",
+        "Certification": "NR",
+        "ReleaseDate": "2014-10-21T00:00:00"
+      }
+    ]
+  },
+  "Credits": {
+    "Id": 298522,
+    "Cast": [
+      {
+        "Id": 92782,
+        "Name": "Wyatt Cenac",
+        "Character": "Himself",
+        "Order": 1,
+        "ProfilePath": "/c7TIlVp3E7sGkysBOcmsFM9Fzq9.jpg"
+      },
+      {
+        "Id": 1217563,
+        "Name": "Eugene Mirman",
+        "Order": 2,
+        "CastId": 2,
+        "ProfilePath": "/6NjF5vOBQRxQiK5h9B2mq11CfrS.jpg"
+      },
+      {
+        "Id": 81683,
+        "Name": "Gbenga Akinnagbe",
+        "Order": 3,
+        "CastId": 3,
+        "ProfilePath": "/5zkJdpJWanImwO7pIlYbbdtKFOu.jpg"
+      }
+    ],
+    "Crew": [
+      {
+        "Id": 92782,
+        "Name": "Wyatt Cenac",
+        "Department": "Directing",
+        "Job": "Director",
+        "ProfilePath": "/c7TIlVp3E7sGkysBOcmsFM9Fzq9.jpg"
+      }
+    ]
+  },
+  "Images": {
+    "Backdrops": [
+      {
+        "FilePath": "/qIuLgOaWhMkWg0UBExBMxudHPqA.jpg",
+        "Width": 1920,
+        "Height": 1080,
+        "AspectRatio": 1.77777777777778
+      }
+    ],
+    "Posters": [
+      {
+        "FilePath": "/tAu78Zl4o3z9zeEw0tolsaKVwED.jpg",
+        "Width": 500,
+        "Height": 750,
+        "AspectRatio": 0.666666666666667
+      }
+    ]
+  },
+  "Keywords": {
+    "Id": 298522,
+    "Keywords": [
+      {
+        "Id": 10460,
+        "Name": "standup"
+      }
+    ]
+  },
+  "Trailers": {
+    "Id": 298522,
+    "Quicktime": [],
+    "Youtube": []
+  },
+  "Translations": {
+    "Id": 298522,
+    "Translations": [
+      {
+        "Iso_639_1": "en",
+        "Name": "English",
+        "EnglishName": "English"
+      },
+      {
+        "Iso_639_1": "fi",
+        "Name": "suomi",
+        "EnglishName": "Finnish"
+      }
+    ]
+  }
+}

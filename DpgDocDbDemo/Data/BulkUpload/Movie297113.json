@@ -1,0 +1,69 @@
+{
+  "Id": 297113,
+  "Title": "IM TRYNA TELL YA",
+  "OriginalTitle": "IM TRYNA TELL YA",
+  "Status": "Released",
+  "Overview": "A documentary of Chicago Footwork and Juke scene",
+  "Genres": [
+    {
+      "Id": 99,
+      "Name": "Documentary"
+    }
+  ],
+  "ReleaseDate": "2014-10-31T00:00:00",
+  "Runtime": 0,
+  "Popularity": 1.14418548230661,
+  "ProductionCompanies": [],
+  "ProductionCountries": [],
+  "SpokenLanguages": [],
+  "AlternativeTitles": {
+    "Id": 297113,
+    "Titles": []
+  },
+  "Releases": {
+    "Id": 297113,
+    "Countries": [
+      {
+        "Iso_3166_1": "US",
+        "ReleaseDate": "2014-10-31T00:00:00"
+      }
+    ]
+  },
+  "Credits": {
+    "Id": 297113,
+    "Cast": [],
+    "Crew": []
+  },
+  "Images": {
+    "Backdrops": [],
+    "Posters": []
+  },
+  "Keywords": {
+    "Id": 297113,
+    "Keywords": [
+      {
+        "Id": 207379,
+        "Name": "electronic music"
+      },
+      {
+        "Id": 207582,
+        "Name": "chicago"
+      }
+    ]
+  },
+  "Trailers": {
+    "Id": 297113,
+    "Quicktime": [],
+    "Youtube": []
+  },
+  "Translations": {
+    "Id": 297113,
+    "Translations": [
+      {
+        "Iso_639_1": "en",
+        "Name": "English",
+        "EnglishName": "English"
+      }
+    ]
+  }
+}

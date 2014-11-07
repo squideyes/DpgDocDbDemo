@@ -1,0 +1,155 @@
+{
+  "Id": 291336,
+  "ImdbId": "tt3526462",
+  "Title": "Honeyspider",
+  "OriginalTitle": "Honeyspider",
+  "Status": "Released",
+  "Tagline": "...Let The Blood Of The Dead Inside.",
+  "Overview": "It's Halloween day in 1989 and college student Jackie Blue wants to enjoy a quiet birthday in the midst of a chaotic semester at school. Her friend Amber has other ideas and persuades Jackie to come to the annual Halloween party on campus after her shift at the local movie theater. As the night unfolds, it becomes apparent that Jackie will get more excitement than she bargained for on her birthday this year.",
+  "Homepage": "http://honeyspidermovie.com",
+  "PosterPath": "/6gNKjCN1qlvi6LSqacRZdrEOQCt.jpg",
+  "Genres": [
+    {
+      "Id": 27,
+      "Name": "Horror"
+    },
+    {
+      "Id": 53,
+      "Name": "Thriller"
+    }
+  ],
+  "ReleaseDate": "2014-10-18T00:00:00",
+  "Runtime": 0,
+  "Popularity": 6.00104806835364E-05,
+  "ProductionCompanies": [
+    {
+      "Name": "Black House Capital",
+      "Id": 32553
+    }
+  ],
+  "ProductionCountries": [
+    {
+      "Iso_3166_1": "US",
+      "Name": "United States of America"
+    }
+  ],
+  "SpokenLanguages": [],
+  "AlternativeTitles": {
+    "Id": 291336,
+    "Titles": []
+  },
+  "Releases": {
+    "Id": 291336,
+    "Countries": [
+      {
+        "Iso_3166_1": "US",
+        "ReleaseDate": "2014-10-18T00:00:00"
+      }
+    ]
+  },
+  "Credits": {
+    "Id": 291336,
+    "Cast": [
+      {
+        "Id": 1362169,
+        "Name": "Mariah Brown",
+        "Character": "Jackie Blue",
+        "Order": 1,
+        "CastId": 2
+      },
+      {
+        "Id": 1362170,
+        "Name": "Samantha Mills",
+        "Character": "Amber",
+        "Order": 3,
+        "CastId": 4
+      },
+      {
+        "Id": 1362172,
+        "Name": "Frank J. Aard",
+        "Character": "Professor Lynch",
+        "Order": 5,
+        "CastId": 6
+      },
+      {
+        "Id": 1362168,
+        "Name": "Kenny Caperton",
+        "Character": "Eddie",
+        "Order": 6,
+        "CastId": 7
+      },
+      {
+        "Id": 1362174,
+        "Name": "Ethan Dunn",
+        "Character": "Billy the Projectionist",
+        "Order": 7,
+        "CastId": 8
+      }
+    ],
+    "Crew": [
+      {
+        "Id": 1362167,
+        "Name": "Josh Hasty",
+        "Department": "Directing",
+        "Job": "Director"
+      },
+      {
+        "Id": 1362168,
+        "Name": "Kenny Caperton",
+        "Department": "Writing",
+        "Job": "Writer"
+      }
+    ]
+  },
+  "Images": {
+    "Backdrops": [],
+    "Posters": [
+      {
+        "FilePath": "/6gNKjCN1qlvi6LSqacRZdrEOQCt.jpg",
+        "Width": 815,
+        "Height": 1200,
+        "AspectRatio": 0.679166666666667
+      }
+    ]
+  },
+  "Keywords": {
+    "Id": 291336,
+    "Keywords": [
+      {
+        "Id": 2546,
+        "Name": "mask"
+      },
+      {
+        "Id": 3335,
+        "Name": "halloween"
+      },
+      {
+        "Id": 3986,
+        "Name": "spider"
+      },
+      {
+        "Id": 4328,
+        "Name": "costume"
+      },
+      {
+        "Id": 12198,
+        "Name": "pumpkin"
+      }
+    ]
+  },
+  "Trailers": {
+    "Id": 291336,
+    "Quicktime": [],
+    "Youtube": []
+  },
+  "Translations": {
+    "Id": 291336,
+    "Translations": [
+      {
+        "Iso_639_1": "en",
+        "Name": "English",
+        "EnglishName": "English"
+      }
+    ]
+  }
+}

@@ -1,0 +1,169 @@
+{
+  "Id": 285200,
+  "ImdbId": "tt3239928",
+  "Title": "Operation Arctic",
+  "OriginalTitle": "Operasjon Arktis",
+  "Status": "Released",
+  "Overview": "A large scale adventure story for the whole family! Set in the wild Arctic ocean near Svalbard where the winter storms are building and the sun is about to disappear. 13 year old Julia and her twin siblings, 8 year old Ida and Sindre, have ended up on the deserted Half Moon island by a tragic mistake. No one knows where they are. They have to conquer fear and dangerous situations: Wild animals, raging weather, lack of food and how to communicate with the mainland. But they are quickly learning something all children love: How to master challenges.",
+  "PosterPath": "/vCi3ulsKZHK6eKiv4uOMV4gFKgu.jpg",
+  "Genres": [
+    {
+      "Id": 12,
+      "Name": "Adventure"
+    },
+    {
+      "Id": 10751,
+      "Name": "Family"
+    }
+  ],
+  "ReleaseDate": "2014-10-17T00:00:00",
+  "Runtime": 0,
+  "Popularity": 0.492168501637997,
+  "VoteAverage": 3.5,
+  "VoteCount": 1,
+  "ProductionCompanies": [],
+  "ProductionCountries": [],
+  "SpokenLanguages": [
+    {
+      "Iso_639_1": "no",
+      "Name": "Norsk"
+    }
+  ],
+  "AlternativeTitles": {
+    "Id": 285200,
+    "Titles": []
+  },
+  "Releases": {
+    "Id": 285200,
+    "Countries": [
+      {
+        "Iso_3166_1": "NO",
+        "ReleaseDate": "2014-10-17T00:00:00"
+      }
+    ]
+  },
+  "Credits": {
+    "Id": 285200,
+    "Cast": [
+      {
+        "Id": 571418,
+        "Name": "Kristofer Hivju",
+        "Character": "Fangstmann",
+        "Order": 1,
+        "CastId": 2,
+        "ProfilePath": "/a2cyA5B7LV4y2X1dNyUPCrimQ7P.jpg"
+      },
+      {
+        "Id": 19871,
+        "Name": "Lars Arentz-Hansen",
+        "Character": "Oberst Holm",
+        "Order": 2,
+        "CastId": 3
+      },
+      {
+        "Id": 73637,
+        "Name": "Nicolai Cleve Broch",
+        "Character": "Far",
+        "Order": 3,
+        "CastId": 4,
+        "ProfilePath": "/rBKSCzbXdsdELQGA0kicTn6hnAw.jpg"
+      },
+      {
+        "Id": 76922,
+        "Name": "Evy Kasseth Røsten",
+        "Character": "Hendriksen",
+        "Order": 4,
+        "CastId": 5,
+        "ProfilePath": "/leTHCUG4uTM63BwrRvPNO2iOmwP.jpg"
+      },
+      {
+        "Id": 146133,
+        "Name": "Line Verndal",
+        "Character": "Mor",
+        "Order": 5,
+        "CastId": 6,
+        "ProfilePath": "/i2wHxbohFtzSnbCreXlw83xcaqE.jpg"
+      },
+      {
+        "Id": 1143777,
+        "Name": "Per Kjerstad",
+        "Character": "Myrmo",
+        "Order": 6,
+        "CastId": 7
+      },
+      {
+        "Id": 1349636,
+        "Name": "Ida Leonora Valestrand Eike",
+        "Character": "Ida",
+        "Order": 7,
+        "CastId": 8
+      },
+      {
+        "Id": 1349637,
+        "Name": "Leonard Valestrand Eike",
+        "Character": "Sindre",
+        "Order": 8,
+        "CastId": 9
+      },
+      {
+        "Id": 1349638,
+        "Name": "Kaisa Gurine Antonsen",
+        "Character": "Julia",
+        "Order": 9,
+        "CastId": 10
+      },
+      {
+        "Id": 1349639,
+        "Name": "Oddrun Valestrand",
+        "Character": "Sykepleier",
+        "Order": 10,
+        "CastId": 11
+      }
+    ],
+    "Crew": [
+      {
+        "Id": 1349634,
+        "Name": "Grethe Bøe-Waal",
+        "Department": "Writing",
+        "Job": "Screenplay"
+      },
+      {
+        "Id": 1349633,
+        "Name": "Grethe Bøe-Waal",
+        "Department": "Directing",
+        "Job": "Director"
+      }
+    ]
+  },
+  "Images": {
+    "Backdrops": [],
+    "Posters": [
+      {
+        "FilePath": "/vCi3ulsKZHK6eKiv4uOMV4gFKgu.jpg",
+        "Width": 529,
+        "Height": 793,
+        "Iso_639_1": "nb",
+        "AspectRatio": 0.667087011349306
+      }
+    ]
+  },
+  "Keywords": {
+    "Id": 285200,
+    "Keywords": []
+  },
+  "Trailers": {
+    "Id": 285200,
+    "Quicktime": [],
+    "Youtube": []
+  },
+  "Translations": {
+    "Id": 285200,
+    "Translations": [
+      {
+        "Iso_639_1": "en",
+        "Name": "English",
+        "EnglishName": "English"
+      }
+    ]
+  }
+}

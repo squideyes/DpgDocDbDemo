@@ -1,0 +1,285 @@
+{
+  "Id": 267916,
+  "ImdbId": "tt3214502",
+  "Title": "Chuy, The Wolf Man",
+  "OriginalTitle": "Chuy, el hombre lobo",
+  "Status": "Released",
+  "Overview": "A biography movie directed by Eva Aridjis with Jesus Aceves. Jesus 'Chuy' Aceves and a dozen living members of his extended family suffer from the very rare condition of congenital hypertrichosis.",
+  "Genres": [
+    {
+      "Id": 99,
+      "Name": "Documentary"
+    }
+  ],
+  "ReleaseDate": "2014-10-20T00:00:00",
+  "Runtime": 93,
+  "Popularity": 0.0350315112304687,
+  "ProductionCompanies": [],
+  "ProductionCountries": [
+    {
+      "Iso_3166_1": "MX",
+      "Name": "Mexico"
+    }
+  ],
+  "SpokenLanguages": [],
+  "AlternativeTitles": {
+    "Id": 267916,
+    "Titles": []
+  },
+  "Releases": {
+    "Id": 267916,
+    "Countries": [
+      {
+        "Iso_3166_1": "MX",
+        "ReleaseDate": "2014-10-20T00:00:00"
+      }
+    ]
+  },
+  "Credits": {
+    "Id": 267916,
+    "Cast": [
+      {
+        "Id": 1316151,
+        "Name": "Jesús Aceves",
+        "Character": "himself",
+        "Order": 1,
+        "CastId": 1
+      },
+      {
+        "Id": 1377092,
+        "Name": "María Victoria Peña Flores",
+        "Order": 2,
+        "CastId": 2
+      },
+      {
+        "Id": 1377093,
+        "Name": "María Araceli Fajardo Peña",
+        "Order": 3,
+        "CastId": 3
+      },
+      {
+        "Id": 1377094,
+        "Name": "Luis Abraham Cervantes Aceves",
+        "Order": 4,
+        "CastId": 4
+      },
+      {
+        "Id": 1377095,
+        "Name": "Mario Alberto Vázquez Cervantes",
+        "Order": 5,
+        "CastId": 5
+      },
+      {
+        "Id": 1377096,
+        "Name": "María del Carmen Aceves Martínez",
+        "Order": 6,
+        "CastId": 6
+      },
+      {
+        "Id": 1377097,
+        "Name": "Glaydy Janeth Cervantes Aceves",
+        "Order": 7,
+        "CastId": 7
+      },
+      {
+        "Id": 1377098,
+        "Name": "Derian Josué Cervantes Aceves",
+        "Order": 8,
+        "CastId": 8
+      },
+      {
+        "Id": 1377099,
+        "Name": "MAría de Jesús Aceves Díaz",
+        "Order": 9,
+        "CastId": 9
+      },
+      {
+        "Id": 1377100,
+        "Name": "Karla Michelle Aceves Díaz",
+        "Order": 10,
+        "CastId": 10
+      },
+      {
+        "Id": 1377101,
+        "Name": "Jeimy María González Gómez",
+        "Order": 11,
+        "CastId": 11
+      },
+      {
+        "Id": 1377102,
+        "Name": "Maily González Gómez",
+        "Order": 12,
+        "CastId": 12
+      },
+      {
+        "Id": 1377103,
+        "Name": "Víctor Ramos Gómez",
+        "Character": "Danny",
+        "Order": 13,
+        "CastId": 13
+      },
+      {
+        "Id": 1377104,
+        "Name": "Gabriel Ramos Gómez",
+        "Character": "Larry",
+        "Order": 14,
+        "CastId": 14
+      },
+      {
+        "Id": 1377105,
+        "Name": "J. Haze",
+        "Character": "Dr. Haze",
+        "Order": 15,
+        "CastId": 15
+      },
+      {
+        "Id": 1377106,
+        "Name": "Jan Bondesson",
+        "Order": 16,
+        "CastId": 16
+      },
+      {
+        "Id": 1377107,
+        "Name": "Lilia Delira Aceves",
+        "Order": 17,
+        "CastId": 17
+      },
+      {
+        "Id": 1377108,
+        "Name": "Marlene Delira Aceves",
+        "Order": 18,
+        "CastId": 18
+      },
+      {
+        "Id": 1377109,
+        "Name": "Eliud Alejandro Aceves",
+        "Order": 19,
+        "CastId": 19
+      },
+      {
+        "Id": 1377110,
+        "Name": "Maricarmen Cervantes Aceves",
+        "Order": 20,
+        "CastId": 20
+      }
+    ],
+    "Crew": [
+      {
+        "Id": 1080708,
+        "Name": "Eva Aridjis",
+        "Department": "Directing",
+        "Job": "Director"
+      },
+      {
+        "Id": 1080708,
+        "Name": "Eva Aridjis",
+        "Department": "Writing",
+        "Job": "Screenplay"
+      },
+      {
+        "Id": 1377111,
+        "Name": "Diego García",
+        "Department": "Crew",
+        "Job": "Cinematography"
+      },
+      {
+        "Id": 1377112,
+        "Name": "Rodrigo Gil Gonzalo",
+        "Department": "Crew",
+        "Job": "Sound Recordist"
+      },
+      {
+        "Id": 1080708,
+        "Name": "Eva Aridjis",
+        "Department": "Editing",
+        "Job": "Editor"
+      },
+      {
+        "Id": 931336,
+        "Name": "Aaron Yanes",
+        "Department": "Editing",
+        "Job": "Editorial Production Assistant"
+      },
+      {
+        "Id": 1377113,
+        "Name": "JG Thirlwell",
+        "Department": "Crew",
+        "Job": "Compositors"
+      },
+      {
+        "Id": 1193958,
+        "Name": "Alejandro Deicaza",
+        "Department": "Sound",
+        "Job": "Sound Designer"
+      },
+      {
+        "Id": 1193958,
+        "Name": "Alejandro Deicaza",
+        "Department": "Sound",
+        "Job": "Sound mixer"
+      },
+      {
+        "Id": 1377114,
+        "Name": "Enrique Fernández Tanco",
+        "Department": "Sound",
+        "Job": "Sound Editor"
+      },
+      {
+        "Id": 1339957,
+        "Name": "Tom Efinger",
+        "Department": "Sound",
+        "Job": "Sound Re-Recording Mixer"
+      },
+      {
+        "Id": 1377115,
+        "Name": "Sonia Arrubla",
+        "Department": "Crew",
+        "Job": "Post Production Supervisor"
+      },
+      {
+        "Id": 1377116,
+        "Name": "Joe Gawler",
+        "Department": "Editing",
+        "Job": "Color Timer"
+      },
+      {
+        "Id": 1377117,
+        "Name": "Molle DeBartolo",
+        "Department": "Production",
+        "Job": "Producer"
+      }
+    ]
+  },
+  "Images": {
+    "Backdrops": [],
+    "Posters": []
+  },
+  "Keywords": {
+    "Id": 267916,
+    "Keywords": [
+      {
+        "Id": 11155,
+        "Name": "wolfman"
+      },
+      {
+        "Id": 201294,
+        "Name": "hypertrichosis"
+      }
+    ]
+  },
+  "Trailers": {
+    "Id": 267916,
+    "Quicktime": [],
+    "Youtube": []
+  },
+  "Translations": {
+    "Id": 267916,
+    "Translations": [
+      {
+        "Iso_639_1": "en",
+        "Name": "English",
+        "EnglishName": "English"
+      }
+    ]
+  }
+}

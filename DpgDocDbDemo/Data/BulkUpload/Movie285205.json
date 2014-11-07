@@ -1,0 +1,172 @@
+{
+  "Id": 285205,
+  "ImdbId": "tt3334972",
+  "Title": "Here is Harold",
+  "OriginalTitle": "Her er Harold",
+  "Status": "Released",
+  "Overview": "For over 40 years, Harold has been running a successful business, Lunde Furniture together with his wife, Marny. But this comes to an end when IKEA decides to open a new superstore right next door to Harolds small furniture shop. Harold and Marny lose both their shop and their home to the bank, and to make matter worse, Marny is starting to lose her memory. In mounting anger and desperation, Harold wants revenge. He arms himself with a pistol, gets into his old Saab, and sets off for lmhult, Sweden, in order to kidnap his Nemesis the founder of IKEA, Ingvar Kamprad. But unfortunately, Kamprad is quite happy to be kidnapped.",
+  "PosterPath": "/t2gk6uN1KXsRGBxbTQRU8mqH7Xg.jpg",
+  "Genres": [
+    {
+      "Id": 35,
+      "Name": "Comedy"
+    },
+    {
+      "Id": 18,
+      "Name": "Drama"
+    }
+  ],
+  "ReleaseDate": "2014-10-31T00:00:00",
+  "Runtime": 0,
+  "Popularity": 1.53131576632105,
+  "ProductionCompanies": [],
+  "ProductionCountries": [],
+  "SpokenLanguages": [
+    {
+      "Iso_639_1": "no",
+      "Name": "Norsk"
+    }
+  ],
+  "AlternativeTitles": {
+    "Id": 285205,
+    "Titles": []
+  },
+  "Releases": {
+    "Id": 285205,
+    "Countries": [
+      {
+        "Iso_3166_1": "NO",
+        "ReleaseDate": "2014-10-31T00:00:00"
+      }
+    ]
+  },
+  "Credits": {
+    "Id": 285205,
+    "Cast": [
+      {
+        "Id": 71186,
+        "Name": "Bjørn Sundquist",
+        "Character": "Harold",
+        "Order": 1,
+        "CastId": 2,
+        "ProfilePath": "/4e4fDL75LqtIQXLtbkvc2oCx209.jpg"
+      },
+      {
+        "Id": 55002,
+        "Name": "Björn Granath",
+        "Character": "Kamprad",
+        "Order": 2,
+        "CastId": 3,
+        "ProfilePath": "/vnAD5t7vyCP7GPicOa2bB3WXJxD.jpg"
+      },
+      {
+        "Id": 1110914,
+        "Name": "Fanny Ketter",
+        "Character": "Ebba",
+        "Order": 3,
+        "CastId": 4
+      },
+      {
+        "Id": 116611,
+        "Name": "Lena-Pia Bernhardsson",
+        "Character": "Fru Mårtensson",
+        "Order": 4,
+        "CastId": 5
+      },
+      {
+        "Id": 1349661,
+        "Name": "Vidar Magnussen",
+        "Character": "Jan",
+        "Order": 5,
+        "CastId": 6
+      },
+      {
+        "Id": 1168426,
+        "Name": "Evert Lindkvist",
+        "Character": "Herr Mårtensson",
+        "Order": 6,
+        "CastId": 7
+      },
+      {
+        "Id": 1167025,
+        "Name": "Samuel Hellström",
+        "Character": "Christer",
+        "Order": 7,
+        "CastId": 8
+      },
+      {
+        "Id": 105286,
+        "Name": "Ellen Birgitte Winther",
+        "Character": "Jeanette",
+        "Order": 8,
+        "CastId": 9
+      },
+      {
+        "Id": 1349662,
+        "Name": "Grethe Selius",
+        "Character": "Marny",
+        "Order": 9,
+        "CastId": 10
+      },
+      {
+        "Id": 1349663,
+        "Name": "Hyttsten Andreas",
+        "Character": "Robert",
+        "Order": 10,
+        "CastId": 11
+      },
+      {
+        "Id": 1349664,
+        "Name": "Veslemøy Mørkrid",
+        "Character": "Solveig",
+        "Order": 11,
+        "CastId": 12
+      }
+    ],
+    "Crew": [
+      {
+        "Id": 66995,
+        "Name": "Gunnar Vikene",
+        "Department": "Writing",
+        "Job": "Writer"
+      },
+      {
+        "Id": 66995,
+        "Name": "Gunnar Vikene",
+        "Department": "Directing",
+        "Job": "Director"
+      }
+    ]
+  },
+  "Images": {
+    "Backdrops": [],
+    "Posters": [
+      {
+        "FilePath": "/t2gk6uN1KXsRGBxbTQRU8mqH7Xg.jpg",
+        "Width": 1000,
+        "Height": 1500,
+        "Iso_639_1": "no",
+        "AspectRatio": 0.666666666666667
+      }
+    ]
+  },
+  "Keywords": {
+    "Id": 285205,
+    "Keywords": []
+  },
+  "Trailers": {
+    "Id": 285205,
+    "Quicktime": [],
+    "Youtube": []
+  },
+  "Translations": {
+    "Id": 285205,
+    "Translations": [
+      {
+        "Iso_639_1": "en",
+        "Name": "English",
+        "EnglishName": "English"
+      }
+    ]
+  }
+}

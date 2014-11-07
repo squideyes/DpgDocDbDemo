@@ -1,0 +1,76 @@
+{
+  "Id": 298474,
+  "Title": "Guiding Light",
+  "OriginalTitle": "Guiding Light",
+  "Status": "Released",
+  "Overview": "Originally created for an arrangement of four CRT TVs. An exploration of memory through electrical and organic deterioration.",
+  "PosterPath": "/6tKQs1PtEeHodiBF3102Fnd9Zg2.jpg",
+  "Genres": [],
+  "ReleaseDate": "2014-10-21T00:00:00",
+  "Budget": 40,
+  "Runtime": 4,
+  "Popularity": 0.265597295171061,
+  "ProductionCompanies": [],
+  "ProductionCountries": [
+    {
+      "Iso_3166_1": "US",
+      "Name": "United States of America"
+    }
+  ],
+  "SpokenLanguages": [],
+  "AlternativeTitles": {
+    "Id": 298474,
+    "Titles": []
+  },
+  "Releases": {
+    "Id": 298474,
+    "Countries": [
+      {
+        "Iso_3166_1": "US",
+        "ReleaseDate": "2014-10-21T00:00:00"
+      }
+    ]
+  },
+  "Credits": {
+    "Id": 298474,
+    "Cast": [],
+    "Crew": [
+      {
+        "Id": 1171254,
+        "Name": "Ben Sheetz",
+        "Department": "Directing",
+        "Job": "Director"
+      }
+    ]
+  },
+  "Images": {
+    "Backdrops": [],
+    "Posters": [
+      {
+        "FilePath": "/6tKQs1PtEeHodiBF3102Fnd9Zg2.jpg",
+        "Width": 1000,
+        "Height": 1500,
+        "AspectRatio": 0.666666666666667
+      }
+    ]
+  },
+  "Keywords": {
+    "Id": 298474,
+    "Keywords": []
+  },
+  "Trailers": {
+    "Id": 298474,
+    "Quicktime": [],
+    "Youtube": []
+  },
+  "Translations": {
+    "Id": 298474,
+    "Translations": [
+      {
+        "Iso_639_1": "en",
+        "Name": "English",
+        "EnglishName": "English"
+      }
+    ]
+  }
+}

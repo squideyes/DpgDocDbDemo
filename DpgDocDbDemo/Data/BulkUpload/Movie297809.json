@@ -1,0 +1,234 @@
+{
+  "Id": 297809,
+  "ImdbId": "tt2871010",
+  "Title": "Sonali Cable",
+  "OriginalTitle": "Sonali Cable",
+  "Status": "Released",
+  "Overview": "Sonali, a spunky self-made internet operator, proudly runs a small outfit along with her band of ghetto boys catering to a sprawling Mumbai suburb. Complications arise when Sonali's childhood sweetheart, Raghu returns from the United States and helps bring her small enterprise into the 21st century. But not all forces of modernization are as kind and as loving as Raghu. SHINING INC, a huge corporation wants her out to complete their monopoly of Shining Broadband in the city. Sonali refuses... and it's war! This is a character driven, edgy survival drama of an ordinary girl, a sizzling love interest and her rag-tag family of internet cable technicians for whom Sonali Cable Centre is more than a livelihood... it's their home.",
+  "BackdropPath": "/oDVID1A8rqfNXMQNh5XvYvXv8V2.jpg",
+  "PosterPath": "/mqfNlspqYTjbTuXODDORJTVKWL5.jpg",
+  "Genres": [
+    {
+      "Id": 18,
+      "Name": "Drama"
+    },
+    {
+      "Id": 10749,
+      "Name": "Romance"
+    }
+  ],
+  "ReleaseDate": "2014-10-17T00:00:00",
+  "Runtime": 127,
+  "Popularity": 0.387134921182753,
+  "VoteAverage": 6.0,
+  "VoteCount": 1,
+  "ProductionCompanies": [],
+  "ProductionCountries": [],
+  "SpokenLanguages": [
+    {
+      "Iso_639_1": "hi",
+      "Name": "हिन्दी"
+    }
+  ],
+  "AlternativeTitles": {
+    "Id": 297809,
+    "Titles": []
+  },
+  "Releases": {
+    "Id": 297809,
+    "Countries": [
+      {
+        "Iso_3166_1": "IN",
+        "Certification": "UA",
+        "ReleaseDate": "2014-10-17T00:00:00"
+      }
+    ]
+  },
+  "Credits": {
+    "Id": 297809,
+    "Cast": [
+      {
+        "Id": 1162241,
+        "Name": "Rhea Chakraborty",
+        "Order": 1,
+        "CastId": 5
+      },
+      {
+        "Id": 492791,
+        "Name": "Ali Fazal",
+        "Order": 2,
+        "CastId": 6
+      },
+      {
+        "Id": 6217,
+        "Name": "Anupam Kher",
+        "Order": 3,
+        "CastId": 7,
+        "ProfilePath": "/a58ePX45hBpzDANzdki86Ny9VFu.jpg"
+      },
+      {
+        "Id": 43414,
+        "Name": "Smita Jaykar",
+        "Order": 4,
+        "CastId": 8,
+        "ProfilePath": "/iWUEXvktqDqiei99svmyrsuJoPq.jpg"
+      },
+      {
+        "Id": 1363304,
+        "Name": "Swanand Kirkire",
+        "Order": 5,
+        "CastId": 9
+      },
+      {
+        "Id": 1374676,
+        "Name": "Raghav Juyal",
+        "Order": 6,
+        "CastId": 10
+      }
+    ],
+    "Crew": [
+      {
+        "Id": 85446,
+        "Name": "Ramesh Sippy",
+        "Department": "Production",
+        "Job": "Producer"
+      },
+      {
+        "Id": 85445,
+        "Name": "Rohan Sippy",
+        "Department": "Production",
+        "Job": "Producer"
+      },
+      {
+        "Id": 1174411,
+        "Name": "Charudutt Acharya",
+        "Department": "Directing",
+        "Job": "Director"
+      },
+      {
+        "Id": 1323052,
+        "Name": "Raghav Sachar",
+        "Department": "Sound",
+        "Job": "Music"
+      },
+      {
+        "Id": 1174416,
+        "Name": "Mikey McCleary",
+        "Department": "Sound",
+        "Job": "Original Music Composer"
+      },
+      {
+        "Id": 1174411,
+        "Name": "Charudutt Acharya",
+        "Department": "Writing",
+        "Job": "Writer"
+      }
+    ]
+  },
+  "Images": {
+    "Backdrops": [
+      {
+        "FilePath": "/oDVID1A8rqfNXMQNh5XvYvXv8V2.jpg",
+        "Width": 1600,
+        "Height": 900,
+        "Iso_639_1": "en",
+        "AspectRatio": 1.77777777777778
+      },
+      {
+        "FilePath": "/nu1jprFul28IlaMnxnujKzSFGOe.jpg",
+        "Width": 1600,
+        "Height": 900,
+        "AspectRatio": 1.77777777777778
+      },
+      {
+        "FilePath": "/klvnj0AK5GoMXYPyQZ3Kpz8P2UZ.jpg",
+        "Width": 1600,
+        "Height": 900,
+        "AspectRatio": 1.77777777777778
+      },
+      {
+        "FilePath": "/rYqPwvOqeGucF3WgCyaz6omePiA.jpg",
+        "Width": 1600,
+        "Height": 900,
+        "AspectRatio": 1.77777777777778
+      },
+      {
+        "FilePath": "/u8a01yksdhPjEFajBT3viSwR1aj.jpg",
+        "Width": 1600,
+        "Height": 900,
+        "AspectRatio": 1.77777777777778
+      },
+      {
+        "FilePath": "/xBbJ51qT7aJUMsFIPqXg1yVmNHj.jpg",
+        "Width": 1600,
+        "Height": 900,
+        "AspectRatio": 1.77777777777778
+      },
+      {
+        "FilePath": "/dBMWRJRYMNXOLowLUIm3NTYKrxN.jpg",
+        "Width": 1600,
+        "Height": 900,
+        "AspectRatio": 1.77777777777778
+      },
+      {
+        "FilePath": "/hXUhu7MVyJBUeGHgUyYqb05VGuc.jpg",
+        "Width": 1920,
+        "Height": 1080,
+        "AspectRatio": 1.77777777777778
+      },
+      {
+        "FilePath": "/ReGIaQtblv5cA1fyGDHmU9A9lY.jpg",
+        "Width": 1920,
+        "Height": 1080,
+        "Iso_639_1": "en",
+        "AspectRatio": 1.77777777777778
+      }
+    ],
+    "Posters": [
+      {
+        "FilePath": "/mqfNlspqYTjbTuXODDORJTVKWL5.jpg",
+        "Width": 1447,
+        "Height": 2048,
+        "AspectRatio": 0.70654296875
+      }
+    ]
+  },
+  "Keywords": {
+    "Id": 297809,
+    "Keywords": [
+      {
+        "Id": 9673,
+        "Name": "love"
+      },
+      {
+        "Id": 11615,
+        "Name": "internet"
+      },
+      {
+        "Id": 12094,
+        "Name": "business"
+      }
+    ]
+  },
+  "Trailers": {
+    "Id": 297809,
+    "Quicktime": [],
+    "Youtube": [
+      {
+        "Name": "Sonali Cable Official Trailer",
+        "Size": "HD",
+        "Source": "zUqcsv1_0es"
+      }
+    ]
+  },
+  "Translations": {
+    "Id": 297809,
+    "Translations": [
+      {
+        "Iso_639_1": "en",
+        "Name": "English",
+        "EnglishName": "English"
+      }
+    ]
+  }
+}

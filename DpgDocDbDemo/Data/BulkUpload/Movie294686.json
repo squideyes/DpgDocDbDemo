@@ -1,0 +1,127 @@
+{
+  "Id": 294686,
+  "ImdbId": "tt3627000",
+  "Title": "Dummie de Mummie",
+  "OriginalTitle": "Dummie de Mummie",
+  "Status": "Released",
+  "Overview": "In a dull village where nothing ever happens, a boy finds a living mummy in his room. It's the start of an amazing friendship.",
+  "PosterPath": "/19t2LOVizGXAPoqa095cuPhpxr8.jpg",
+  "Genres": [
+    {
+      "Id": 10751,
+      "Name": "Family"
+    }
+  ],
+  "ReleaseDate": "2014-10-09T00:00:00",
+  "Runtime": 90,
+  "Popularity": 0.170775205426398,
+  "ProductionCompanies": [],
+  "ProductionCountries": [],
+  "SpokenLanguages": [],
+  "AlternativeTitles": {
+    "Id": 294686,
+    "Titles": []
+  },
+  "Releases": {
+    "Id": 294686,
+    "Countries": [
+      {
+        "Iso_3166_1": "NL",
+        "ReleaseDate": "2014-10-09T00:00:00"
+      }
+    ]
+  },
+  "Credits": {
+    "Id": 294686,
+    "Cast": [
+      {
+        "Id": 1264158,
+        "Name": "Julian Ras",
+        "Character": "Goos Guts",
+        "Order": 1,
+        "CastId": 2
+      },
+      {
+        "Id": 28892,
+        "Name": "Roeland Fernhout",
+        "Order": 2,
+        "CastId": 3
+      },
+      {
+        "Id": 1367203,
+        "Name": "Yahya Gaier",
+        "Order": 3,
+        "CastId": 4
+      },
+      {
+        "Id": 78801,
+        "Name": "Jennifer Hoffman",
+        "Order": 4,
+        "CastId": 5,
+        "ProfilePath": "/pAQEzsRZ3E8eDuUZHeypOtxSrLb.jpg"
+      },
+      {
+        "Id": 43719,
+        "Name": "Ton Kas",
+        "Order": 5,
+        "CastId": 6
+      },
+      {
+        "Id": 1367205,
+        "Name": "Mike Weerts",
+        "Order": 6,
+        "CastId": 7
+      },
+      {
+        "Id": 587688,
+        "Name": "Ian Bok",
+        "Order": 7,
+        "CastId": 8
+      }
+    ],
+    "Crew": [
+      {
+        "Id": 108631,
+        "Name": "Pim van Hoeve",
+        "Department": "Directing",
+        "Job": "Director"
+      },
+      {
+        "Id": 566895,
+        "Name": "Tijs van Marle",
+        "Department": "Writing",
+        "Job": "Writer"
+      }
+    ]
+  },
+  "Images": {
+    "Backdrops": [],
+    "Posters": [
+      {
+        "FilePath": "/19t2LOVizGXAPoqa095cuPhpxr8.jpg",
+        "Width": 1000,
+        "Height": 1500,
+        "AspectRatio": 0.666666666666667
+      }
+    ]
+  },
+  "Keywords": {
+    "Id": 294686,
+    "Keywords": []
+  },
+  "Trailers": {
+    "Id": 294686,
+    "Quicktime": [],
+    "Youtube": []
+  },
+  "Translations": {
+    "Id": 294686,
+    "Translations": [
+      {
+        "Iso_639_1": "en",
+        "Name": "English",
+        "EnglishName": "English"
+      }
+    ]
+  }
+}

@@ -1,0 +1,155 @@
+{
+  "Id": 298485,
+  "ImdbId": "tt3664864",
+  "Title": "Intruders",
+  "OriginalTitle": "Intruders",
+  "Status": "Released",
+  "Overview": "In the aftermath of a deadly haunting in a small suburban home, a sinister omnipresent entity proceeds to cause havoc in the private lives of a young boy, an unsuspecting teen, and absent minded inspector.",
+  "Homepage": "http://www.nemesisfilms.com/intruders/",
+  "Genres": [
+    {
+      "Id": 18,
+      "Name": "Drama"
+    },
+    {
+      "Id": 14,
+      "Name": "Fantasy"
+    },
+    {
+      "Id": 9648,
+      "Name": "Mystery"
+    }
+  ],
+  "ReleaseDate": "2014-10-24T00:00:00",
+  "Runtime": 10,
+  "Popularity": 0.680091650199108,
+  "ProductionCompanies": [],
+  "ProductionCountries": [],
+  "SpokenLanguages": [],
+  "AlternativeTitles": {
+    "Id": 298485,
+    "Titles": []
+  },
+  "Releases": {
+    "Id": 298485,
+    "Countries": [
+      {
+        "Iso_3166_1": "CA",
+        "ReleaseDate": "2014-10-24T00:00:00"
+      }
+    ]
+  },
+  "Credits": {
+    "Id": 298485,
+    "Cast": [
+      {
+        "Id": 1376228,
+        "Name": "Joshua Young",
+        "Character": "Child",
+        "Order": 1,
+        "CastId": 6
+      },
+      {
+        "Id": 1376229,
+        "Name": "Charles Sirard-Blouin",
+        "Character": "Jacov",
+        "Order": 2,
+        "CastId": 7
+      },
+      {
+        "Id": 1376230,
+        "Name": "Sarianne Cormier",
+        "Character": "Possessed Woman",
+        "Order": 3,
+        "CastId": 8
+      },
+      {
+        "Id": 1096278,
+        "Name": "Sarianne Cormier",
+        "Character": "Inspector",
+        "Order": 4,
+        "CastId": 9
+      },
+      {
+        "Id": 1376238,
+        "Name": "Lynda Lapierre",
+        "Character": "Dead Woman",
+        "Order": 5,
+        "CastId": 10
+      },
+      {
+        "Id": 1376240,
+        "Name": "Tristan Gabriel Chaput",
+        "Character": "Teenager",
+        "Order": 6,
+        "CastId": 11
+      }
+    ],
+    "Crew": [
+      {
+        "Id": 1376224,
+        "Name": "Santiago Menghini",
+        "Department": "Writing",
+        "Job": "Screenplay"
+      },
+      {
+        "Id": 1376225,
+        "Name": "Al Columbia",
+        "Department": "Writing",
+        "Job": "Story"
+      },
+      {
+        "Id": 1376226,
+        "Name": "Uno Moralez",
+        "Department": "Writing",
+        "Job": "Story"
+      },
+      {
+        "Id": 1376224,
+        "Name": "Santiago Menghini",
+        "Department": "Writing",
+        "Job": "Writer"
+      },
+      {
+        "Id": 1376227,
+        "Name": "Katerine Lefrançois",
+        "Department": "Production",
+        "Job": "Producer"
+      },
+      {
+        "Id": 1376224,
+        "Name": "Santiago Menghini",
+        "Department": "Directing",
+        "Job": "Director"
+      }
+    ]
+  },
+  "Images": {
+    "Backdrops": [],
+    "Posters": []
+  },
+  "Keywords": {
+    "Id": 298485,
+    "Keywords": [
+      {
+        "Id": 207653,
+        "Name": "short"
+      }
+    ]
+  },
+  "Trailers": {
+    "Id": 298485,
+    "Quicktime": [],
+    "Youtube": []
+  },
+  "Translations": {
+    "Id": 298485,
+    "Translations": [
+      {
+        "Iso_639_1": "en",
+        "Name": "English",
+        "EnglishName": "English"
+      }
+    ]
+  }
+}

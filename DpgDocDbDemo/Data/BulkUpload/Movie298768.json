@@ -1,0 +1,94 @@
+{
+  "Id": 298768,
+  "Title": "Bita e os Animais",
+  "OriginalTitle": "Bita e os Animais",
+  "Status": "Released",
+  "BackdropPath": "/6pG5ARjq962V242PxclOpfbnQvP.jpg",
+  "PosterPath": "/e8I4DT9oncXlGKV1w6MqUU9l7A5.jpg",
+  "Genres": [
+    {
+      "Id": 16,
+      "Name": "Animation"
+    }
+  ],
+  "ReleaseDate": "2014-10-23T00:00:00",
+  "Popularity": 0.22173707075574,
+  "ProductionCompanies": [],
+  "ProductionCountries": [
+    {
+      "Iso_3166_1": "BR",
+      "Name": "Brazil"
+    }
+  ],
+  "SpokenLanguages": [
+    {
+      "Iso_639_1": "pt",
+      "Name": "Português"
+    }
+  ],
+  "AlternativeTitles": {
+    "Id": 298768,
+    "Titles": []
+  },
+  "Releases": {
+    "Id": 298768,
+    "Countries": [
+      {
+        "Iso_3166_1": "BR",
+        "Certification": "A",
+        "ReleaseDate": "2014-10-23T00:00:00"
+      }
+    ]
+  },
+  "Credits": {
+    "Id": 298768,
+    "Cast": [],
+    "Crew": []
+  },
+  "Images": {
+    "Backdrops": [
+      {
+        "FilePath": "/6pG5ARjq962V242PxclOpfbnQvP.jpg",
+        "Width": 1920,
+        "Height": 1080,
+        "AspectRatio": 1.77777777777778
+      }
+    ],
+    "Posters": [
+      {
+        "FilePath": "/e8I4DT9oncXlGKV1w6MqUU9l7A5.jpg",
+        "Width": 567,
+        "Height": 794,
+        "Iso_639_1": "pt",
+        "AspectRatio": 0.714105793450882,
+        "VoteAverage": 5.30505952380952,
+        "VoteCount": 1
+      },
+      {
+        "FilePath": "/8becoyQf8pWjxBCYAhjJ7d5409p.jpg",
+        "Width": 567,
+        "Height": 794,
+        "AspectRatio": 0.714105793450882
+      }
+    ]
+  },
+  "Keywords": {
+    "Id": 298768,
+    "Keywords": []
+  },
+  "Trailers": {
+    "Id": 298768,
+    "Quicktime": [],
+    "Youtube": []
+  },
+  "Translations": {
+    "Id": 298768,
+    "Translations": [
+      {
+        "Iso_639_1": "pt",
+        "Name": "Português",
+        "EnglishName": "Portuguese"
+      }
+    ]
+  }
+}

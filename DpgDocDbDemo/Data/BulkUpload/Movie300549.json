@@ -1,0 +1,101 @@
+{
+  "Id": 300549,
+  "Title": "Die drei ??? - Phonophobia - Sinfonie der Angst",
+  "OriginalTitle": "Die drei ??? - Phonophobia - Sinfonie der Angst",
+  "Status": "Released",
+  "PosterPath": "/6CAD20UI1a4ThMj4Geq8cppqV4e.jpg",
+  "BelongsToCollection": [
+    {
+      "Id": 199360,
+      "Name": "Die drei ??? - Live",
+      "PosterPath": "/krhOgzyHJQx16UezGxSFHpKYz53.jpg"
+    }
+  ],
+  "Genres": [],
+  "ReleaseDate": "2014-10-10T00:00:00",
+  "Popularity": 0.1678,
+  "ProductionCompanies": [],
+  "ProductionCountries": [],
+  "SpokenLanguages": [],
+  "AlternativeTitles": {
+    "Id": 300549,
+    "Titles": [
+      {
+        "Iso_3166_1": "DE",
+        "Title": "Die drei Fragezeichen - Phonophobia - Sinfonie der Angst"
+      }
+    ]
+  },
+  "Releases": {
+    "Id": 300549,
+    "Countries": [
+      {
+        "Iso_3166_1": "DE",
+        "ReleaseDate": "2014-10-10T00:00:00"
+      }
+    ]
+  },
+  "Credits": {
+    "Id": 300549,
+    "Cast": [
+      {
+        "Id": 558855,
+        "Name": "Oliver Rohrbeck",
+        "Character": "Justus Jonas",
+        "CastId": 3
+      },
+      {
+        "Id": 558856,
+        "Name": "Jens Wawrczeck",
+        "Character": "Peter Shaw",
+        "Order": 1,
+        "CastId": 1
+      },
+      {
+        "Id": 101018,
+        "Name": "Andreas Fröhlich",
+        "Character": "Bob Andrews",
+        "Order": 2,
+        "CastId": 2
+      }
+    ],
+    "Crew": [
+      {
+        "Id": 1224628,
+        "Name": "Kai Schwind",
+        "Department": "Directing",
+        "Job": "Director"
+      }
+    ]
+  },
+  "Images": {
+    "Backdrops": [],
+    "Posters": [
+      {
+        "FilePath": "/6CAD20UI1a4ThMj4Geq8cppqV4e.jpg",
+        "Width": 1000,
+        "Height": 1500,
+        "AspectRatio": 0.666666666666667
+      }
+    ]
+  },
+  "Keywords": {
+    "Id": 300549,
+    "Keywords": []
+  },
+  "Trailers": {
+    "Id": 300549,
+    "Quicktime": [],
+    "Youtube": []
+  },
+  "Translations": {
+    "Id": 300549,
+    "Translations": [
+      {
+        "Iso_639_1": "de",
+        "Name": "Deutsch",
+        "EnglishName": "German"
+      }
+    ]
+  }
+}

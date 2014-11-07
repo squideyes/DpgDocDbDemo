@@ -1,0 +1,226 @@
+{
+  "Id": 287507,
+  "ImdbId": "tt3958098",
+  "Title": "Sand Dollars",
+  "OriginalTitle": "Dólares de Arena",
+  "Status": "Released",
+  "Overview": "In an idyllic seaside city in the Dominican Republic, the long-time relationship between a beautiful and impoverished young local girl and her wealthy European lover (Geraldine Chaplin) is put to the test as issues of class, inequality and exploitation rise to the surface.",
+  "PosterPath": "/a2lqwawVwU6rl9ILnareZ4wWDCy.jpg",
+  "Genres": [
+    {
+      "Id": 18,
+      "Name": "Drama"
+    }
+  ],
+  "ReleaseDate": "2014-10-19T00:00:00",
+  "Runtime": 80,
+  "Popularity": 2.04501152936571E-07,
+  "ProductionCompanies": [
+    {
+      "Name": "Rei Cine",
+      "Id": 37159
+    },
+    {
+      "Name": "Aurora Dominicana",
+      "Id": 15072
+    },
+    {
+      "Name": "Canana Films",
+      "Id": 1719
+    }
+  ],
+  "ProductionCountries": [
+    {
+      "Iso_3166_1": "AR",
+      "Name": "Argentina"
+    },
+    {
+      "Iso_3166_1": "DO",
+      "Name": "Dominican Republic"
+    },
+    {
+      "Iso_3166_1": "MX",
+      "Name": "Mexico"
+    }
+  ],
+  "SpokenLanguages": [
+    {
+      "Iso_639_1": "en",
+      "Name": "English"
+    },
+    {
+      "Iso_639_1": "es",
+      "Name": "Español"
+    }
+  ],
+  "AlternativeTitles": {
+    "Id": 287507,
+    "Titles": []
+  },
+  "Releases": {
+    "Id": 287507,
+    "Countries": [
+      {
+        "Iso_3166_1": "MX",
+        "ReleaseDate": "2014-10-19T00:00:00"
+      }
+    ]
+  },
+  "Credits": {
+    "Id": 287507,
+    "Cast": [
+      {
+        "Id": 400,
+        "Name": "Geraldine Chaplin",
+        "Order": 1,
+        "CastId": 16,
+        "ProfilePath": "/x7N40x101QmzkNe9nrKWVKzT9n5.jpg"
+      },
+      {
+        "Id": 1380971,
+        "Name": "Yanet Mojica",
+        "Order": 2,
+        "CastId": 17
+      },
+      {
+        "Id": 1380973,
+        "Name": "Ricardo Ariel Toribio",
+        "Order": 3,
+        "CastId": 18
+      }
+    ],
+    "Crew": [
+      {
+        "Id": 1038654,
+        "Name": "Laura Amelia Guzmán",
+        "Department": "Directing",
+        "Job": "Director"
+      },
+      {
+        "Id": 1038653,
+        "Name": "Israel Cárdenas",
+        "Department": "Directing",
+        "Job": "Director"
+      },
+      {
+        "Id": 1038654,
+        "Name": "Laura Amelia Guzmán",
+        "Department": "Writing",
+        "Job": "Writer"
+      },
+      {
+        "Id": 1038653,
+        "Name": "Israel Cárdenas",
+        "Department": "Writing",
+        "Job": "Writer"
+      },
+      {
+        "Id": 1380954,
+        "Name": "Ramón Cordero",
+        "Department": "Sound",
+        "Job": "Music"
+      },
+      {
+        "Id": 1380955,
+        "Name": "Benjamín De Menil",
+        "Department": "Sound",
+        "Job": "Music"
+      },
+      {
+        "Id": 1380957,
+        "Name": "Edilio Paredes",
+        "Department": "Sound",
+        "Job": "Music"
+      },
+      {
+        "Id": 1038653,
+        "Name": "Israel Cárdenas",
+        "Department": "Crew",
+        "Job": "Cinematography"
+      },
+      {
+        "Id": 1380960,
+        "Name": "Jaime Guerra",
+        "Department": "Crew",
+        "Job": "Cinematography"
+      },
+      {
+        "Id": 1380962,
+        "Name": "Andrea Kleinman",
+        "Department": "Editing",
+        "Job": "Editor"
+      },
+      {
+        "Id": 1380963,
+        "Name": "Sylvia Conde",
+        "Department": "Art",
+        "Job": "Art Direction"
+      },
+      {
+        "Id": 1184836,
+        "Name": "Alejandro de Icaza",
+        "Department": "Sound",
+        "Job": "Sound Re-Recording Mixer"
+      },
+      {
+        "Id": 1380965,
+        "Name": "Leyla de la Hoz",
+        "Department": "Sound",
+        "Job": "Foley"
+      },
+      {
+        "Id": 1310726,
+        "Name": "Diego Gat",
+        "Department": "Sound",
+        "Job": "Supervising Sound Editor"
+      },
+      {
+        "Id": 1380968,
+        "Name": "Chema Ramos Roa",
+        "Department": "Editing",
+        "Job": "Dialogue Editor"
+      },
+      {
+        "Id": 1184836,
+        "Name": "Alejandro de Icaza",
+        "Department": "Sound",
+        "Job": "Supervising Sound Editor"
+      }
+    ]
+  },
+  "Images": {
+    "Backdrops": [],
+    "Posters": [
+      {
+        "FilePath": "/a2lqwawVwU6rl9ILnareZ4wWDCy.jpg",
+        "Width": 1500,
+        "Height": 2318,
+        "AspectRatio": 0.647109577221743
+      }
+    ]
+  },
+  "Keywords": {
+    "Id": 287507,
+    "Keywords": []
+  },
+  "Trailers": {
+    "Id": 287507,
+    "Quicktime": [],
+    "Youtube": []
+  },
+  "Translations": {
+    "Id": 287507,
+    "Translations": [
+      {
+        "Iso_639_1": "en",
+        "Name": "English",
+        "EnglishName": "English"
+      },
+      {
+        "Iso_639_1": "it",
+        "Name": "Italiano",
+        "EnglishName": "Italian"
+      }
+    ]
+  }
+}

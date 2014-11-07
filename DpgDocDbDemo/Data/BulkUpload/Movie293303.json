@@ -1,0 +1,123 @@
+{
+  "Id": 293303,
+  "ImdbId": "tt3005486",
+  "Title": "Hirngespinster",
+  "OriginalTitle": "Hirngespinster",
+  "Status": "Released",
+  "Overview": "Simon falls head over heels in love with pretty and quick-witted Verena. When his father, who suffers from schizophrenia, has a relapse, Simon devotes himself completely to his mother and little sister and endangers his budding romance. Maneuvering himself into a near-fatal situation, Simon realizes that he cannot change the others' lives, but only his own... 'Flights of Fancy' is an emotionally gripping account of a first love and of a son's loyalty to his father, played with mesmerizing intensity by sensational newcomer Jonas Nay and by internationally acclaimed Tobias Moretti. Both actors were honored with the Best Actors Prizes at Bavarian Film Award 2013 for their outstanding performances.",
+  "PosterPath": "/njCe08FmvhLmHkHXsu2OPxTEOd2.jpg",
+  "Genres": [
+    {
+      "Id": 18,
+      "Name": "Drama"
+    }
+  ],
+  "ReleaseDate": "2014-10-09T00:00:00",
+  "Runtime": 96,
+  "Popularity": 0.207304829302478,
+  "ProductionCompanies": [
+    {
+      "Name": "Glory Film",
+      "Id": 33320
+    }
+  ],
+  "ProductionCountries": [
+    {
+      "Iso_3166_1": "DE",
+      "Name": "Germany"
+    }
+  ],
+  "SpokenLanguages": [
+    {
+      "Iso_639_1": "de",
+      "Name": "Deutsch"
+    }
+  ],
+  "AlternativeTitles": {
+    "Id": 293303,
+    "Titles": []
+  },
+  "Releases": {
+    "Id": 293303,
+    "Countries": [
+      {
+        "Iso_3166_1": "DE",
+        "Certification": "12",
+        "ReleaseDate": "2014-10-09T00:00:00"
+      }
+    ]
+  },
+  "Credits": {
+    "Id": 293303,
+    "Cast": [
+      {
+        "Id": 44567,
+        "Name": "Tobias Moretti",
+        "Character": "Hans Dallinger",
+        "Order": 1,
+        "CastId": 1,
+        "ProfilePath": "/srWPtZNjUV4QBsLlIqPLz0cmUBs.jpg"
+      },
+      {
+        "Id": 23750,
+        "Name": "Johannes Silberschneider",
+        "Character": "Dr. Steinhauer",
+        "Order": 2,
+        "CastId": 2,
+        "ProfilePath": "/wNoBsSTxoWuRYlr7o3zNI7AUdSf.jpg"
+      },
+      {
+        "Id": 14623,
+        "Name": "Michael Kranz",
+        "Character": "Guido",
+        "Order": 3,
+        "CastId": 3
+      }
+    ],
+    "Crew": [
+      {
+        "Id": 1252014,
+        "Name": "Christian Bach",
+        "Department": "Directing",
+        "Job": "Director",
+        "ProfilePath": "/uyuDKMJZLQuUxB2L9hqLj8KgbSc.jpg"
+      }
+    ]
+  },
+  "Images": {
+    "Backdrops": [],
+    "Posters": [
+      {
+        "FilePath": "/njCe08FmvhLmHkHXsu2OPxTEOd2.jpg",
+        "Width": 2000,
+        "Height": 2829,
+        "Iso_639_1": "de",
+        "AspectRatio": 0.706963591375044
+      }
+    ]
+  },
+  "Keywords": {
+    "Id": 293303,
+    "Keywords": []
+  },
+  "Trailers": {
+    "Id": 293303,
+    "Quicktime": [],
+    "Youtube": []
+  },
+  "Translations": {
+    "Id": 293303,
+    "Translations": [
+      {
+        "Iso_639_1": "en",
+        "Name": "English",
+        "EnglishName": "English"
+      },
+      {
+        "Iso_639_1": "de",
+        "Name": "Deutsch",
+        "EnglishName": "German"
+      }
+    ]
+  }
+}

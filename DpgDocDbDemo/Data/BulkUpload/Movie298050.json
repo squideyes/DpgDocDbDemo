@@ -1,0 +1,80 @@
+{
+  "Id": 298050,
+  "Title": "Rebel Scum",
+  "OriginalTitle": "Rebel Scum",
+  "Status": "Released",
+  "Overview": "Chronicling two years in the life of “psycho white trash punk band”, The Dirty Works, this startling film expands the boundaries of traditional rock documentaries in a manner that is not always comfortable, but is always riveting. The multi-textured movie explores several themes, including mental illness, addiction, relationships, family dysfunction, and the struggle for artistic expression in the heart of America’s “Bible Belt.”  Centered on frontman Christopher Scum, Rebel Scum is, at its core, the story of one man’s continued drive to create art in spite of the barriers imposed by society and his own self-destructive tendencies. Bouncing intermittently between the extremes of comedy and tragedy, the film reveals a seedy American underworld that is, at once, both fascinating and repulsive.",
+  "Homepage": "http://www.rebelscumthemovie.com/",
+  "PosterPath": "/yazTIIlDvOBaFjCpSfDWsueVEvy.jpg",
+  "Genres": [
+    {
+      "Id": 99,
+      "Name": "Documentary"
+    },
+    {
+      "Id": 10402,
+      "Name": "Music"
+    }
+  ],
+  "ReleaseDate": "2014-10-16T00:00:00",
+  "Runtime": 0,
+  "Popularity": 0.212854790022344,
+  "ProductionCompanies": [],
+  "ProductionCountries": [],
+  "SpokenLanguages": [],
+  "AlternativeTitles": {
+    "Id": 298050,
+    "Titles": []
+  },
+  "Releases": {
+    "Id": 298050,
+    "Countries": [
+      {
+        "Iso_3166_1": "US",
+        "ReleaseDate": "2014-10-16T00:00:00"
+      }
+    ]
+  },
+  "Credits": {
+    "Id": 298050,
+    "Cast": [],
+    "Crew": [
+      {
+        "Id": 130167,
+        "Name": "Video Rahim",
+        "Department": "Directing",
+        "Job": "Director"
+      }
+    ]
+  },
+  "Images": {
+    "Backdrops": [],
+    "Posters": [
+      {
+        "FilePath": "/yazTIIlDvOBaFjCpSfDWsueVEvy.jpg",
+        "Width": 650,
+        "Height": 960,
+        "AspectRatio": 0.677083333333333
+      }
+    ]
+  },
+  "Keywords": {
+    "Id": 298050,
+    "Keywords": []
+  },
+  "Trailers": {
+    "Id": 298050,
+    "Quicktime": [],
+    "Youtube": []
+  },
+  "Translations": {
+    "Id": 298050,
+    "Translations": [
+      {
+        "Iso_639_1": "en",
+        "Name": "English",
+        "EnglishName": "English"
+      }
+    ]
+  }
+}

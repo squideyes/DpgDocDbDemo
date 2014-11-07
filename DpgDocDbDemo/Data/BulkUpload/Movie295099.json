@@ -1,0 +1,93 @@
+{
+  "Id": 295099,
+  "ImdbId": "tt3571904",
+  "Title": "The Go-Go Boys: The Inside Story of Cannon Films",
+  "OriginalTitle": "The Go-Go Boys: The Inside Story of Cannon Films",
+  "Status": "Released",
+  "BackdropPath": "/5eu66cj7MiDBEzCKfZmyC9kB1pL.jpg",
+  "PosterPath": "/wtxdX9pIrpwtimmUY9B0Tmlg7zT.jpg",
+  "Genres": [
+    {
+      "Id": 99,
+      "Name": "Documentary"
+    }
+  ],
+  "ReleaseDate": "2014-10-22T00:00:00",
+  "Popularity": 0.219164188995201,
+  "ProductionCompanies": [],
+  "ProductionCountries": [],
+  "SpokenLanguages": [
+    {
+      "Iso_639_1": "en",
+      "Name": "English"
+    }
+  ],
+  "AlternativeTitles": {
+    "Id": 295099,
+    "Titles": []
+  },
+  "Releases": {
+    "Id": 295099,
+    "Countries": [
+      {
+        "Iso_3166_1": "FR",
+        "ReleaseDate": "2014-10-22T00:00:00"
+      }
+    ]
+  },
+  "Credits": {
+    "Id": 295099,
+    "Cast": [],
+    "Crew": [
+      {
+        "Id": 967612,
+        "Name": "Hilla Medalia",
+        "Department": "Directing",
+        "Job": "Director"
+      }
+    ]
+  },
+  "Images": {
+    "Backdrops": [
+      {
+        "FilePath": "/5eu66cj7MiDBEzCKfZmyC9kB1pL.jpg",
+        "Width": 1920,
+        "Height": 1080,
+        "AspectRatio": 1.77777777777778
+      },
+      {
+        "FilePath": "/7pjooGdj5vjvqbmmkEUpWV5JMWB.jpg",
+        "Width": 1600,
+        "Height": 900,
+        "AspectRatio": 1.77777777777778
+      }
+    ],
+    "Posters": [
+      {
+        "FilePath": "/wtxdX9pIrpwtimmUY9B0Tmlg7zT.jpg",
+        "Width": 530,
+        "Height": 757,
+        "AspectRatio": 0.700132100396301
+      }
+    ]
+  },
+  "Keywords": {
+    "Id": 295099,
+    "Keywords": []
+  },
+  "Trailers": {
+    "Id": 295099,
+    "Quicktime": [],
+    "Youtube": []
+  },
+  "Translations": {
+    "Id": 295099,
+    "Translations": [
+      {
+        "Iso_639_1": "fr",
+        "Name": "Français",
+        "EnglishName": "French"
+      }
+    ]
+  }
+}

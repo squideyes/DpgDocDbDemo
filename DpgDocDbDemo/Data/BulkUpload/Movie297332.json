@@ -1,0 +1,69 @@
+{
+  "Id": 297332,
+  "Title": "Prinsessia: Prinsessenmusical",
+  "OriginalTitle": "Prinsessia: Prinsessenmusical",
+  "Status": "Released",
+  "BackdropPath": "/5ueaq3uorsxKhgPJvskBEvGMXKS.jpg",
+  "PosterPath": "/bkWRWI3GVxFKNG8ysJ57T8WIiLr.jpg",
+  "Genres": [],
+  "ReleaseDate": "2014-10-13T00:00:00",
+  "Popularity": 0.113069471321837,
+  "ProductionCompanies": [],
+  "ProductionCountries": [],
+  "SpokenLanguages": [],
+  "AlternativeTitles": {
+    "Id": 297332,
+    "Titles": []
+  },
+  "Releases": {
+    "Id": 297332,
+    "Countries": [
+      {
+        "Iso_3166_1": "NL",
+        "ReleaseDate": "2014-10-13T00:00:00"
+      }
+    ]
+  },
+  "Credits": {
+    "Id": 297332,
+    "Cast": [],
+    "Crew": []
+  },
+  "Images": {
+    "Backdrops": [
+      {
+        "FilePath": "/5ueaq3uorsxKhgPJvskBEvGMXKS.jpg",
+        "Width": 1920,
+        "Height": 1080,
+        "AspectRatio": 1.77777777777778
+      }
+    ],
+    "Posters": [
+      {
+        "FilePath": "/bkWRWI3GVxFKNG8ysJ57T8WIiLr.jpg",
+        "Width": 1000,
+        "Height": 1500,
+        "AspectRatio": 0.666666666666667
+      }
+    ]
+  },
+  "Keywords": {
+    "Id": 297332,
+    "Keywords": []
+  },
+  "Trailers": {
+    "Id": 297332,
+    "Quicktime": [],
+    "Youtube": []
+  },
+  "Translations": {
+    "Id": 297332,
+    "Translations": [
+      {
+        "Iso_639_1": "nl",
+        "Name": "Nederlands",
+        "EnglishName": "Dutch"
+      }
+    ]
+  }
+}

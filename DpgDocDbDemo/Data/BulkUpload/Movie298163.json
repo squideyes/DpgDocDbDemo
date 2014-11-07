@@ -1,0 +1,116 @@
+{
+  "Id": 298163,
+  "ImdbId": "tt3700432",
+  "Title": "Dynamic Venus",
+  "OriginalTitle": "Dynamic Venus",
+  "Status": "Released",
+  "Overview": "The story of mysterious super heroine Dynamic Venus. Appearing to be an abused housewife, in reality she's an alien that feeds on her husband's abuse to fuel her super powers.",
+  "Genres": [
+    {
+      "Id": 16,
+      "Name": "Animation"
+    },
+    {
+      "Id": 35,
+      "Name": "Comedy"
+    },
+    {
+      "Id": 14,
+      "Name": "Fantasy"
+    },
+    {
+      "Id": 878,
+      "Name": "Science Fiction"
+    }
+  ],
+  "ReleaseDate": "2014-10-18T00:00:00",
+  "Runtime": 22,
+  "Popularity": 0.310291545010345,
+  "ProductionCompanies": [],
+  "ProductionCountries": [],
+  "SpokenLanguages": [
+    {
+      "Iso_639_1": "ja",
+      "Name": "日本語"
+    }
+  ],
+  "AlternativeTitles": {
+    "Id": 298163,
+    "Titles": []
+  },
+  "Releases": {
+    "Id": 298163,
+    "Countries": [
+      {
+        "Iso_3166_1": "CA",
+        "ReleaseDate": "2014-10-18T00:00:00"
+      }
+    ]
+  },
+  "Credits": {
+    "Id": 298163,
+    "Cast": [],
+    "Crew": [
+      {
+        "Id": 1375348,
+        "Name": "Kaichi Sato",
+        "Department": "Directing",
+        "Job": "Director"
+      },
+      {
+        "Id": 1375348,
+        "Name": "Kaichi Sato",
+        "Department": "Writing",
+        "Job": "Story"
+      },
+      {
+        "Id": 1375348,
+        "Name": "Kaichi Sato",
+        "Department": "Writing",
+        "Job": "Writer"
+      },
+      {
+        "Id": 1375348,
+        "Name": "Kaichi Sato",
+        "Department": "Production",
+        "Job": "Producer"
+      }
+    ]
+  },
+  "Images": {
+    "Backdrops": [],
+    "Posters": []
+  },
+  "Keywords": {
+    "Id": 298163,
+    "Keywords": [
+      {
+        "Id": 10303,
+        "Name": "domestic abuse"
+      },
+      {
+        "Id": 163455,
+        "Name": "super powers"
+      },
+      {
+        "Id": 207653,
+        "Name": "short"
+      }
+    ]
+  },
+  "Trailers": {
+    "Id": 298163,
+    "Quicktime": [],
+    "Youtube": []
+  },
+  "Translations": {
+    "Id": 298163,
+    "Translations": [
+      {
+        "Iso_639_1": "en",
+        "Name": "English",
+        "EnglishName": "English"
+      }
+    ]
+  }
+}

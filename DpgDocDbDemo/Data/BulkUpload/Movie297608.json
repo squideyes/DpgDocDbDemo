@@ -1,0 +1,215 @@
+{
+  "Id": 297608,
+  "ImdbId": "tt3387648",
+  "Title": "The Taking of Deborah Logan",
+  "OriginalTitle": "The Taking of Deborah Logan",
+  "Status": "Released",
+  "Tagline": "What is taking Deborah Logan? Some memories are worth forgetting.",
+  "Overview": "When Mia Medina records the everyday life of her mother Deborah Logan for her PhD thesis on Alzheimer's, it soon becomes apparent that a terrifying evil far worse than the debilitating disease has taken control of Deborah.",
+  "BackdropPath": "/5PMOMmXiXLssoCQbLF7tjDCvbXw.jpg",
+  "PosterPath": "/lVHsBxkEXSH25TaUfyYF4KfrhlB.jpg",
+  "Genres": [
+    {
+      "Id": 27,
+      "Name": "Horror"
+    },
+    {
+      "Id": 53,
+      "Name": "Thriller"
+    }
+  ],
+  "ReleaseDate": "2014-10-21T00:00:00",
+  "Runtime": 90,
+  "Popularity": 2.24708111332067,
+  "VoteAverage": 4.8,
+  "VoteCount": 3,
+  "ProductionCompanies": [
+    {
+      "Name": "Bad Hat Harry Productions",
+      "Id": 9168
+    }
+  ],
+  "ProductionCountries": [],
+  "SpokenLanguages": [
+    {
+      "Iso_639_1": "en",
+      "Name": "English"
+    }
+  ],
+  "AlternativeTitles": {
+    "Id": 297608,
+    "Titles": [
+      {
+        "Iso_3166_1": "US",
+        "Title": "The Taking"
+      }
+    ]
+  },
+  "Releases": {
+    "Id": 297608,
+    "Countries": [
+      {
+        "Iso_3166_1": "US",
+        "Certification": "R",
+        "ReleaseDate": "2014-10-21T00:00:00"
+      }
+    ]
+  },
+  "Credits": {
+    "Id": 297608,
+    "Cast": [
+      {
+        "Id": 1236283,
+        "Name": "Jill Larson",
+        "Character": "Deborah Logan",
+        "CastId": 1
+      },
+      {
+        "Id": 25023,
+        "Name": "Anne Ramsay",
+        "Character": "Sarah Logan",
+        "Order": 1,
+        "ProfilePath": "/wmATITkd0jQ2XHex1bQKDxtdpAP.jpg"
+      },
+      {
+        "Id": 73890,
+        "Name": "Michelle Ang",
+        "Character": "Mia Medina",
+        "Order": 2,
+        "CastId": 2,
+        "ProfilePath": "/c7nzJbEFMBuzwLeVhjgm0drUIPn.jpg"
+      },
+      {
+        "Id": 93345,
+        "Name": "Ryan Cutrona",
+        "Character": "Harris",
+        "Order": 3,
+        "CastId": 3
+      },
+      {
+        "Id": 209125,
+        "Name": "Brett Gentile",
+        "Character": "Gavin",
+        "Order": 4,
+        "CastId": 4
+      },
+      {
+        "Id": 1377317,
+        "Name": "Jeremy DeCarlos",
+        "Character": "Luis",
+        "Order": 5,
+        "CastId": 5
+      },
+      {
+        "Id": 164485,
+        "Name": "Anne Bedian",
+        "Character": "Dr. Nazir",
+        "Order": 6,
+        "CastId": 10
+      },
+      {
+        "Id": 1001775,
+        "Name": "Tonya Bludsworth",
+        "Character": "Deputy Linda Tweed",
+        "Order": 7,
+        "CastId": 11,
+        "ProfilePath": "/1BZL3AcMdCW96J3IaKhMOyLXlTU.jpg"
+      }
+    ],
+    "Crew": [
+      {
+        "Id": 1306608,
+        "Name": "Adam Robitel",
+        "Department": "Directing",
+        "Job": "Director"
+      },
+      {
+        "Id": 1306608,
+        "Name": "Adam Robitel",
+        "Department": "Writing",
+        "Job": "Writer"
+      },
+      {
+        "Id": 1320421,
+        "Name": "Gavin Heffernan",
+        "Department": "Writing",
+        "Job": "Writer"
+      },
+      {
+        "Id": 115835,
+        "Name": "Andrew Huebscher",
+        "Department": "Crew",
+        "Job": "Cinematography"
+      }
+    ]
+  },
+  "Images": {
+    "Backdrops": [
+      {
+        "FilePath": "/5PMOMmXiXLssoCQbLF7tjDCvbXw.jpg",
+        "Width": 1280,
+        "Height": 720,
+        "Iso_639_1": "en",
+        "AspectRatio": 1.77777777777778
+      },
+      {
+        "FilePath": "/sLSrAiOEP2H1bOAJVKAyoaInoff.jpg",
+        "Width": 1920,
+        "Height": 1080,
+        "Iso_639_1": "en",
+        "AspectRatio": 1.77777777777778
+      }
+    ],
+    "Posters": [
+      {
+        "FilePath": "/lVHsBxkEXSH25TaUfyYF4KfrhlB.jpg",
+        "Width": 1000,
+        "Height": 1500,
+        "Iso_639_1": "en",
+        "AspectRatio": 0.666666666666667,
+        "VoteAverage": 5.3125,
+        "VoteCount": 1
+      },
+      {
+        "FilePath": "/1zgPJYmZNXgNXuvOBeelnVwOA66.jpg",
+        "Width": 599,
+        "Height": 888,
+        "Iso_639_1": "en",
+        "AspectRatio": 0.67454954954955
+      }
+    ]
+  },
+  "Keywords": {
+    "Id": 297608,
+    "Keywords": [
+      {
+        "Id": 9712,
+        "Name": "possession"
+      },
+      {
+        "Id": 196782,
+        "Name": "serial murders"
+      }
+    ]
+  },
+  "Trailers": {
+    "Id": 297608,
+    "Quicktime": [],
+    "Youtube": []
+  },
+  "Translations": {
+    "Id": 297608,
+    "Translations": [
+      {
+        "Iso_639_1": "en",
+        "Name": "English",
+        "EnglishName": "English"
+      },
+      {
+        "Iso_639_1": "de",
+        "Name": "Deutsch",
+        "EnglishName": "German"
+      }
+    ]
+  }
+}

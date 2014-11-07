@@ -1,0 +1,76 @@
+{
+  "Id": 299876,
+  "ImdbId": "tt3690274",
+  "Title": "A Tale of Momentum and Inertia",
+  "OriginalTitle": "A Tale of Momentum and Inertia",
+  "Status": "Released",
+  "Tagline": "Human fate is in the hands of a Rock Giant - literally.",
+  "Overview": "Human fate is in the hands of a Rock Giant - literally.",
+  "Homepage": "http://www.laika.com/",
+  "BackdropPath": "/uebTKv1hgfBmLoDazU5KM0IqxS8.jpg",
+  "PosterPath": "/g7zZfdydnSDTtHPhvNMt87NM0JV.jpg",
+  "Genres": [],
+  "ReleaseDate": "2014-10-30T00:00:00",
+  "Runtime": 2,
+  "Popularity": 0.8903447,
+  "VoteAverage": 10.0,
+  "VoteCount": 1,
+  "ProductionCompanies": [],
+  "ProductionCountries": [],
+  "SpokenLanguages": [],
+  "AlternativeTitles": {
+    "Id": 299876,
+    "Titles": []
+  },
+  "Releases": {
+    "Id": 299876,
+    "Countries": [
+      {
+        "Iso_3166_1": "US",
+        "ReleaseDate": "2014-10-30T00:00:00"
+      }
+    ]
+  },
+  "Credits": {
+    "Id": 299876,
+    "Cast": [],
+    "Crew": []
+  },
+  "Images": {
+    "Backdrops": [
+      {
+        "FilePath": "/uebTKv1hgfBmLoDazU5KM0IqxS8.jpg",
+        "Width": 1280,
+        "Height": 720,
+        "AspectRatio": 1.77777777777778
+      }
+    ],
+    "Posters": [
+      {
+        "FilePath": "/g7zZfdydnSDTtHPhvNMt87NM0JV.jpg",
+        "Width": 1000,
+        "Height": 1500,
+        "AspectRatio": 0.666666666666667
+      }
+    ]
+  },
+  "Keywords": {
+    "Id": 299876,
+    "Keywords": []
+  },
+  "Trailers": {
+    "Id": 299876,
+    "Quicktime": [],
+    "Youtube": []
+  },
+  "Translations": {
+    "Id": 299876,
+    "Translations": [
+      {
+        "Iso_639_1": "en",
+        "Name": "English",
+        "EnglishName": "English"
+      }
+    ]
+  }
+}

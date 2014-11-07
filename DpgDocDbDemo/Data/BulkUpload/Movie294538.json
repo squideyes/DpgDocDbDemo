@@ -1,0 +1,122 @@
+{
+  "Id": 294538,
+  "ImdbId": "tt2402619",
+  "Title": "Hit by Lightning",
+  "OriginalTitle": "Hit by Lightning",
+  "Status": "Released",
+  "Overview": "When Ricky Miller, a single, quiet 40-year old aspiring writer and manager of Debbie's (think Denny's) and probably the last person you'd notice in a crowd is 'hit by lightning' and meets the love of his life, the beautiful Danita on E-Happily.com, he is catapulted into a relationship online but it's a lot more than what he bargained for - this includes being asked to kill! Hounded by his best friend Seth who thinks no \"10\" would even go out with a guy like Ricky unless she had ulterior motives (or needed glasses), Ricky starts to get skeptical himself. Turns out, Danita confesses she's actually married to a handsome affable crime novelist and former Rabbi, Ben Jacobs. Is Danita telling Ricky the truth when she says wants to leave her husband but fears for her life if she does? Will Ricky go through with the plan to kill him so he and Danita can live happily ever after?",
+  "PosterPath": "/8enuM2BKd2k65XcnvAjdFV3wNIa.jpg",
+  "Genres": [
+    {
+      "Id": 35,
+      "Name": "Comedy"
+    },
+    {
+      "Id": 80,
+      "Name": "Crime"
+    },
+    {
+      "Id": 10749,
+      "Name": "Romance"
+    }
+  ],
+  "ReleaseDate": "2014-10-31T00:00:00",
+  "Runtime": 89,
+  "Popularity": 3.04416216243662,
+  "VoteAverage": 6.0,
+  "VoteCount": 3,
+  "ProductionCompanies": [],
+  "ProductionCountries": [
+    {
+      "Iso_3166_1": "CA",
+      "Name": "Canada"
+    }
+  ],
+  "SpokenLanguages": [
+    {
+      "Iso_639_1": "en",
+      "Name": "English"
+    }
+  ],
+  "AlternativeTitles": {
+    "Id": 294538,
+    "Titles": []
+  },
+  "Releases": {
+    "Id": 294538,
+    "Countries": [
+      {
+        "Iso_3166_1": "US",
+        "Certification": "NR",
+        "ReleaseDate": "2014-10-31T00:00:00"
+      }
+    ]
+  },
+  "Credits": {
+    "Id": 294538,
+    "Cast": [
+      {
+        "Id": 121953,
+        "Name": "Stephanie Szostak",
+        "Character": "Danita",
+        "Order": 1,
+        "CastId": 1,
+        "ProfilePath": "/teo7hFo9EDifydLpPgV4ih2Bd0h.jpg"
+      },
+      {
+        "Id": 69718,
+        "Name": "Jon Cryer",
+        "Character": "Ricky Miller",
+        "Order": 2,
+        "CastId": 2,
+        "ProfilePath": "/kXoEUv6pfXZGFuxVTTiuSVnac7B.jpg"
+      },
+      {
+        "Id": 39125,
+        "Name": "Will Sasso",
+        "Character": "Seth",
+        "Order": 3,
+        "CastId": 3,
+        "ProfilePath": "/x4hlPAdmkXwLtHimIp8kjy9HuL9.jpg"
+      }
+    ],
+    "Crew": [
+      {
+        "Id": 60663,
+        "Name": "Ricky Blitt",
+        "Department": "Directing",
+        "Job": "Director"
+      }
+    ]
+  },
+  "Images": {
+    "Backdrops": [],
+    "Posters": [
+      {
+        "FilePath": "/8enuM2BKd2k65XcnvAjdFV3wNIa.jpg",
+        "Width": 805,
+        "Height": 1200,
+        "AspectRatio": 0.670833333333333
+      }
+    ]
+  },
+  "Keywords": {
+    "Id": 294538,
+    "Keywords": []
+  },
+  "Trailers": {
+    "Id": 294538,
+    "Quicktime": [],
+    "Youtube": []
+  },
+  "Translations": {
+    "Id": 294538,
+    "Translations": [
+      {
+        "Iso_639_1": "en",
+        "Name": "English",
+        "EnglishName": "English"
+      }
+    ]
+  }
+}

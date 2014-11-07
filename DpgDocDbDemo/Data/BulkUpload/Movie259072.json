@@ -1,0 +1,421 @@
+{
+  "Id": 259072,
+  "ImdbId": "tt3612032",
+  "Title": "Wrong Turn 6: Last Resort",
+  "OriginalTitle": "Wrong Turn 6: Last Resort",
+  "Status": "Released",
+  "Overview": "Hillbilly horror returns in the sixth instalment of the hugely successful outback slasher franchise from Valeri Milev, director of CODE RED and RE-KILL. So get ready for more backwoods gory mayhem as a sudden and mysterious inheritance brings Danny (Anthony Ilott) and his friends to Hobb Springs, a forgotten resort deep in the West Virginia hills. Hobb Springs is being looked after under the watchful care of Jackson and Sally, a socially awkward couple who introduce Danny to the long lost family he's never known. ·A clan by the name of Hillicker. But soon Danny learns his relatives have a different way of living, that for generations, the Hillickers have observed ancient traditions rooted in cannibalism and other taboo rituals. These practices have kept the family strong if not necessarily pure. And tempted by the forbidden, Danny is forced to choose between his friends and his bloodline.",
+  "BackdropPath": "/9rQdjnpAEhVszNMyWvpFTl8WfVU.jpg",
+  "PosterPath": "/n6bu9uvIQBTJEmWCGlifTToWxsu.jpg",
+  "BelongsToCollection": [
+    {
+      "Id": 52985,
+      "Name": "Wrong Turn Collection",
+      "PosterPath": "/dtfQY5ZxvdHNG4HqNDy0ifwk1q6.jpg",
+      "BackdropPath": "/32IsLLCoj3mIkZbLfCKSXZVqd3k.jpg"
+    }
+  ],
+  "Genres": [
+    {
+      "Id": 27,
+      "Name": "Horror"
+    }
+  ],
+  "ReleaseDate": "2014-10-14T00:00:00",
+  "Runtime": 0,
+  "Popularity": 4.7942973028325,
+  "VoteAverage": 5.0,
+  "VoteCount": 10,
+  "ProductionCompanies": [
+    {
+      "Name": "Constantin Film",
+      "Id": 47
+    },
+    {
+      "Name": "20th Century Fox Home Entertainment",
+      "Id": 3635
+    },
+    {
+      "Name": "Regency Enterprises",
+      "Id": 508
+    },
+    {
+      "Name": "Summit Entertainment",
+      "Id": 491
+    }
+  ],
+  "ProductionCountries": [
+    {
+      "Iso_3166_1": "BG",
+      "Name": "Bulgaria"
+    },
+    {
+      "Iso_3166_1": "US",
+      "Name": "United States of America"
+    }
+  ],
+  "SpokenLanguages": [
+    {
+      "Iso_639_1": "en",
+      "Name": "English"
+    }
+  ],
+  "AlternativeTitles": {
+    "Id": 259072,
+    "Titles": []
+  },
+  "Releases": {
+    "Id": 259072,
+    "Countries": [
+      {
+        "Iso_3166_1": "GB",
+        "Certification": "18",
+        "ReleaseDate": "2014-08-22T00:00:00"
+      },
+      {
+        "Iso_3166_1": "US",
+        "Certification": "R",
+        "ReleaseDate": "2014-10-14T00:00:00"
+      }
+    ]
+  },
+  "Credits": {
+    "Id": 259072,
+    "Cast": [
+      {
+        "Id": 1237617,
+        "Name": "Chris Jarvis",
+        "Character": "Jackson",
+        "Order": 1,
+        "CastId": 2,
+        "ProfilePath": "/qKnRPTMNu3OCllA6MRIcvf79VJl.jpg"
+      },
+      {
+        "Id": 1300637,
+        "Name": "Aqueela Zoll",
+        "Character": "Toni",
+        "Order": 2,
+        "CastId": 3
+      },
+      {
+        "Id": 1300638,
+        "Name": "Anthony Ilott",
+        "Character": "Danny",
+        "Order": 3,
+        "CastId": 4
+      },
+      {
+        "Id": 1131215,
+        "Name": "Sadie Katz",
+        "Character": "Sally",
+        "Order": 4,
+        "CastId": 5,
+        "ProfilePath": "/tUCUOfTP5b1VDylXpiLeTL0bwgl.jpg"
+      },
+      {
+        "Id": 1300639,
+        "Name": "Rollo Skinner",
+        "Character": "Vic",
+        "Order": 5,
+        "CastId": 6
+      },
+      {
+        "Id": 1300640,
+        "Name": "Billy Ashworth",
+        "Character": "Rod",
+        "Order": 6,
+        "CastId": 7
+      },
+      {
+        "Id": 1300641,
+        "Name": "Joe Gaminara",
+        "Character": "Bryan",
+        "Order": 7,
+        "CastId": 8
+      },
+      {
+        "Id": 1300642,
+        "Name": "Harry Belcher",
+        "Character": "Charlie",
+        "Order": 8,
+        "CastId": 9
+      },
+      {
+        "Id": 1300644,
+        "Name": "Luke Cousins",
+        "Character": "Nick",
+        "Order": 10,
+        "CastId": 11
+      },
+      {
+        "Id": 1300645,
+        "Name": "Tabitha Luke Eardley",
+        "Character": "Daria",
+        "Order": 11,
+        "CastId": 12
+      },
+      {
+        "Id": 130070,
+        "Name": "Roxanne Pallett",
+        "Character": "Jillian",
+        "Order": 12,
+        "CastId": 13
+      },
+      {
+        "Id": 1108570,
+        "Name": "Radoslav Parvanov",
+        "Character": "Three Fingers",
+        "Order": 13,
+        "CastId": 29
+      },
+      {
+        "Id": 575735,
+        "Name": "Danko Jordanov",
+        "Character": "Sawtooth",
+        "Order": 14,
+        "CastId": 30
+      },
+      {
+        "Id": 1080635,
+        "Name": "Asen Asenov",
+        "Character": "One Eye",
+        "Order": 15,
+        "CastId": 31
+      }
+    ],
+    "Crew": [
+      {
+        "Id": 1040955,
+        "Name": "Valeri Milev",
+        "Department": "Directing",
+        "Job": "Director"
+      },
+      {
+        "Id": 130079,
+        "Name": "Frank H. Woodward",
+        "Department": "Writing",
+        "Job": "Writer"
+      },
+      {
+        "Id": 127096,
+        "Name": "Jeffery Beach",
+        "Department": "Production",
+        "Job": "Producer"
+      },
+      {
+        "Id": 131184,
+        "Name": "Phillip J. Roth",
+        "Department": "Production",
+        "Job": "Producer"
+      },
+      {
+        "Id": 52339,
+        "Name": "Claude Foisy",
+        "Department": "Sound",
+        "Job": "Music"
+      },
+      {
+        "Id": 31628,
+        "Name": "Don Adams",
+        "Department": "Editing",
+        "Job": "Editor"
+      },
+      {
+        "Id": 1363345,
+        "Name": "Cameron Hallenbeck",
+        "Department": "Editing",
+        "Job": "Editor"
+      },
+      {
+        "Id": 29940,
+        "Name": "Gillian Hawser",
+        "Department": "Production",
+        "Job": "Casting"
+      },
+      {
+        "Id": 1363347,
+        "Name": "Nikolai Kirilov",
+        "Department": "Costume & Make-Up",
+        "Job": "Costume Design"
+      },
+      {
+        "Id": 1271610,
+        "Name": "Borislav Mihailovski",
+        "Department": "Art",
+        "Job": "Production Design"
+      },
+      {
+        "Id": 1116956,
+        "Name": "Velizar Bagarov",
+        "Department": "Sound",
+        "Job": "Boom Operator"
+      },
+      {
+        "Id": 1193870,
+        "Name": "Jonathan Bruce",
+        "Department": "Sound",
+        "Job": "Foley"
+      },
+      {
+        "Id": 1344833,
+        "Name": "Ryan Gegenheimer",
+        "Department": "Sound",
+        "Job": "Sound Effects Editor"
+      },
+      {
+        "Id": 1349968,
+        "Name": "Sean Higgins",
+        "Department": "Sound",
+        "Job": "Sound Re-Recording Mixer"
+      },
+      {
+        "Id": 559371,
+        "Name": "Stanimir Stamatov",
+        "Department": "Crew",
+        "Job": "Stunt Coordinator"
+      },
+      {
+        "Id": 102657,
+        "Name": "Jonas Talkington",
+        "Department": "Directing",
+        "Job": "Script Supervisor"
+      },
+      {
+        "Id": 1376791,
+        "Name": "Thomas Andrew Gallegos",
+        "Department": "Sound",
+        "Job": "Music Editor"
+      }
+    ]
+  },
+  "Images": {
+    "Backdrops": [
+      {
+        "FilePath": "/9rQdjnpAEhVszNMyWvpFTl8WfVU.jpg",
+        "Width": 1280,
+        "Height": 720,
+        "AspectRatio": 1.77777777777778
+      },
+      {
+        "FilePath": "/rVfHmkpI3Xb6iPF1nyYaRNUyfKm.jpg",
+        "Width": 1280,
+        "Height": 720,
+        "AspectRatio": 1.77777777777778
+      }
+    ],
+    "Posters": [
+      {
+        "FilePath": "/n6bu9uvIQBTJEmWCGlifTToWxsu.jpg",
+        "Width": 1400,
+        "Height": 2100,
+        "Iso_639_1": "en",
+        "AspectRatio": 0.666666666666667,
+        "VoteAverage": 5.38461538461539,
+        "VoteCount": 2
+      },
+      {
+        "FilePath": "/vGh2RAmNxEMkBeH2GQVABhAi8Va.jpg",
+        "Width": 900,
+        "Height": 1200,
+        "Iso_639_1": "ru",
+        "AspectRatio": 0.75,
+        "VoteAverage": 5.3125,
+        "VoteCount": 1
+      },
+      {
+        "FilePath": "/o50YE1jSiGa8hpIRfA8Adv2mv92.jpg",
+        "Width": 1000,
+        "Height": 1500,
+        "Iso_639_1": "en",
+        "AspectRatio": 0.666666666666667,
+        "VoteAverage": 5.29761904761905,
+        "VoteCount": 1
+      },
+      {
+        "FilePath": "/8ccTBbr1ICUqQonUmKupfjTwllC.jpg",
+        "Width": 540,
+        "Height": 803,
+        "Iso_639_1": "en",
+        "AspectRatio": 0.672478206724782,
+        "VoteAverage": 5.24542124542125,
+        "VoteCount": 2
+      },
+      {
+        "FilePath": "/7DdBORsGXj3QIIVirfd78aL597t.jpg",
+        "Width": 514,
+        "Height": 750,
+        "Iso_639_1": "en",
+        "AspectRatio": 0.685333333333333
+      }
+    ]
+  },
+  "Keywords": {
+    "Id": 259072,
+    "Keywords": [
+      {
+        "Id": 194883,
+        "Name": "cannibals"
+      }
+    ]
+  },
+  "Trailers": {
+    "Id": 259072,
+    "Quicktime": [],
+    "Youtube": []
+  },
+  "Translations": {
+    "Id": 259072,
+    "Translations": [
+      {
+        "Iso_639_1": "en",
+        "Name": "English",
+        "EnglishName": "English"
+      },
+      {
+        "Iso_639_1": "de",
+        "Name": "Deutsch",
+        "EnglishName": "German"
+      },
+      {
+        "Iso_639_1": "es",
+        "Name": "Español",
+        "EnglishName": "Spanish"
+      },
+      {
+        "Iso_639_1": "bg",
+        "Name": "български език",
+        "EnglishName": "Bulgarian"
+      },
+      {
+        "Iso_639_1": "el",
+        "Name": "ελληνικά",
+        "EnglishName": "Greek"
+      },
+      {
+        "Iso_639_1": "nl",
+        "Name": "Nederlands",
+        "EnglishName": "Dutch"
+      },
+      {
+        "Iso_639_1": "hu",
+        "Name": "Magyar",
+        "EnglishName": "Hungarian"
+      },
+      {
+        "Iso_639_1": "pl",
+        "Name": "Polski",
+        "EnglishName": "Polish"
+      },
+      {
+        "Iso_639_1": "fr",
+        "Name": "Français",
+        "EnglishName": "French"
+      },
+      {
+        "Iso_639_1": "ru",
+        "Name": "Pусский",
+        "EnglishName": "Russian"
+      }
+    ]
+  }
+}

@@ -1,0 +1,175 @@
+{
+  "Id": 265449,
+  "ImdbId": "tt3625352",
+  "Title": "Summer of Blood",
+  "OriginalTitle": "Summer of Blood",
+  "Status": "Released",
+  "Overview": "Lousy lover and egocentric Eric Sparrow is dumped by his girlfriend after rejecting her marital proposal. After a few failed dates his luck turns when a chance encounter with a vampire turns him into a sex god.",
+  "Homepage": "http://tribecafilm.com/filmguide/5320899ec07f5df7d200013b-summer-of-blood",
+  "PosterPath": "/ttJLeCsIBfhQJnZK60W4P6fpfoG.jpg",
+  "Genres": [
+    {
+      "Id": 35,
+      "Name": "Comedy"
+    },
+    {
+      "Id": 27,
+      "Name": "Horror"
+    }
+  ],
+  "ReleaseDate": "2014-10-17T00:00:00",
+  "Runtime": 86,
+  "Popularity": 0.452856824817194,
+  "ProductionCompanies": [],
+  "ProductionCountries": [
+    {
+      "Iso_3166_1": "US",
+      "Name": "United States of America"
+    }
+  ],
+  "SpokenLanguages": [
+    {
+      "Iso_639_1": "en",
+      "Name": "English"
+    }
+  ],
+  "AlternativeTitles": {
+    "Id": 265449,
+    "Titles": []
+  },
+  "Releases": {
+    "Id": 265449,
+    "Countries": [
+      {
+        "Iso_3166_1": "US",
+        "ReleaseDate": "2014-10-17T00:00:00"
+      }
+    ]
+  },
+  "Credits": {
+    "Id": 265449,
+    "Cast": [
+      {
+        "Id": 1001384,
+        "Name": "Onur Tukel",
+        "Character": "Eric Sparrow",
+        "Order": 1
+      },
+      {
+        "Id": 1034504,
+        "Name": "Anna Margaret Hollyman",
+        "Character": "Jody",
+        "Order": 2,
+        "CastId": 1
+      },
+      {
+        "Id": 984062,
+        "Name": "Dakota Goldhor",
+        "Character": "Penelope",
+        "Order": 3,
+        "CastId": 2
+      },
+      {
+        "Id": 1037997,
+        "Name": "Dustin Guy Defa",
+        "Character": "Gavin",
+        "Order": 4,
+        "CastId": 3
+      },
+      {
+        "Id": 1056062,
+        "Name": "Melodie Sisk",
+        "Character": "Blake",
+        "Order": 5,
+        "CastId": 4
+      },
+      {
+        "Id": 1311045,
+        "Name": "Jason Selvig",
+        "Character": "Jason",
+        "Order": 6,
+        "CastId": 5
+      }
+    ],
+    "Crew": [
+      {
+        "Id": 1001384,
+        "Name": "Onur Tukel",
+        "Department": "Directing",
+        "Job": "Director"
+      },
+      {
+        "Id": 1001384,
+        "Name": "Onur Tukel",
+        "Department": "Writing",
+        "Job": "Screenplay"
+      },
+      {
+        "Id": 1056062,
+        "Name": "Melodie Sisk",
+        "Department": "Production",
+        "Job": "Producer"
+      },
+      {
+        "Id": 1311046,
+        "Name": "Clifford McCurdy",
+        "Department": "Production",
+        "Job": "Producer"
+      },
+      {
+        "Id": 999273,
+        "Name": "Max Heller",
+        "Department": "Production",
+        "Job": "Producer"
+      },
+      {
+        "Id": 1311047,
+        "Name": "Matt Grady",
+        "Department": "Production",
+        "Job": "Producer"
+      },
+      {
+        "Id": 968069,
+        "Name": "Jason Banker",
+        "Department": "Crew",
+        "Job": "Cinematography"
+      }
+    ]
+  },
+  "Images": {
+    "Backdrops": [],
+    "Posters": [
+      {
+        "FilePath": "/ttJLeCsIBfhQJnZK60W4P6fpfoG.jpg",
+        "Width": 3600,
+        "Height": 5400,
+        "AspectRatio": 0.666666666666667
+      }
+    ]
+  },
+  "Keywords": {
+    "Id": 265449,
+    "Keywords": []
+  },
+  "Trailers": {
+    "Id": 265449,
+    "Quicktime": [],
+    "Youtube": [
+      {
+        "Name": "\"Summer of Blood\" - Trailer",
+        "Size": "HD",
+        "Source": "hsWxdAmsc1g"
+      }
+    ]
+  },
+  "Translations": {
+    "Id": 265449,
+    "Translations": [
+      {
+        "Iso_639_1": "en",
+        "Name": "English",
+        "EnglishName": "English"
+      }
+    ]
+  }
+}

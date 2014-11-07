@@ -1,0 +1,70 @@
+{
+  "Id": 300660,
+  "ImdbId": "tt3263374",
+  "Title": "Gooses",
+  "OriginalTitle": "Gooses",
+  "Status": "Released",
+  "Overview": "Lucinella visits her spirit animal (her sister Lore) for an impressionistic, sensuous and fabulously cinematic LA vacation.",
+  "Genres": [],
+  "Runtime": 8,
+  "ProductionCompanies": [],
+  "ProductionCountries": [],
+  "SpokenLanguages": [],
+  "AlternativeTitles": {
+    "Id": 300660,
+    "Titles": []
+  },
+  "Releases": {
+    "Id": 300660,
+    "Countries": []
+  },
+  "Credits": {
+    "Id": 300660,
+    "Cast": [
+      {
+        "Id": 62760,
+        "Name": "Zena Grey",
+        "Character": "Lucinella",
+        "Order": 1,
+        "ProfilePath": "/wzRRQ8vifE4OFQTS6Hh3S6ZXcT9.jpg"
+      }
+    ],
+    "Crew": [
+      {
+        "Id": 1381370,
+        "Name": "Aaron Stein-Chester",
+        "Department": "Sound",
+        "Job": "Music"
+      },
+      {
+        "Id": 1381371,
+        "Name": "Joe Peeler",
+        "Department": "Editing",
+        "Job": "Editor"
+      }
+    ]
+  },
+  "Images": {
+    "Backdrops": [],
+    "Posters": []
+  },
+  "Keywords": {
+    "Id": 300660,
+    "Keywords": []
+  },
+  "Trailers": {
+    "Id": 300660,
+    "Quicktime": [],
+    "Youtube": []
+  },
+  "Translations": {
+    "Id": 300660,
+    "Translations": [
+      {
+        "Iso_639_1": "en",
+        "Name": "English",
+        "EnglishName": "English"
+      }
+    ]
+  }
+}

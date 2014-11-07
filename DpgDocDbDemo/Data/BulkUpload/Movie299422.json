@@ -1,0 +1,137 @@
+{
+  "Id": 299422,
+  "Title": "Bellator 128",
+  "OriginalTitle": "Bellator 128",
+  "Status": "Released",
+  "Overview": "Bellator 128 took place on October 10, 2014 at the Winstar World Casino in Thackerville, Oklahoma. The event aired live in prime time on Spike TV.",
+  "Homepage": "http://bellator.com/fight-card/bellator-128",
+  "BackdropPath": "/vTlslBvwT0SmzJuJedqXgc8WGe0.jpg",
+  "PosterPath": "/x4WMQHKji6uy6T85ZvMXpmg8mru.jpg",
+  "Genres": [],
+  "ReleaseDate": "2014-10-10T00:00:00",
+  "Runtime": 109,
+  "Popularity": 0.1781723675,
+  "ProductionCompanies": [],
+  "ProductionCountries": [],
+  "SpokenLanguages": [],
+  "AlternativeTitles": {
+    "Id": 299422,
+    "Titles": [
+      {
+        "Iso_3166_1": "US",
+        "Title": "Bellator 128: Dantas vs. Warren"
+      },
+      {
+        "Iso_3166_1": "US",
+        "Title": "Bellator MMA 128"
+      }
+    ]
+  },
+  "Releases": {
+    "Id": 299422,
+    "Countries": [
+      {
+        "Iso_3166_1": "US",
+        "ReleaseDate": "2014-10-10T00:00:00"
+      }
+    ]
+  },
+  "Credits": {
+    "Id": 299422,
+    "Cast": [
+      {
+        "Id": 1044199,
+        "Name": "Joe Warren",
+        "Character": "Himself",
+        "Order": 1
+      },
+      {
+        "Id": 1068430,
+        "Name": "Eduardo Dantas",
+        "Character": "Himself",
+        "Order": 2,
+        "CastId": 1
+      },
+      {
+        "Id": 1378516,
+        "Name": "Michael Page",
+        "Character": "Himself",
+        "Order": 3,
+        "CastId": 2
+      },
+      {
+        "Id": 1044776,
+        "Name": "Nah-Shon Burrell",
+        "Character": "Himself",
+        "Order": 4,
+        "CastId": 3
+      },
+      {
+        "Id": 1223329,
+        "Name": "Alexander Sarnavskiy",
+        "Character": "Himself",
+        "Order": 5,
+        "CastId": 4
+      },
+      {
+        "Id": 1378518,
+        "Name": "Dakota Cochrane",
+        "Character": "Himself",
+        "Order": 6,
+        "CastId": 5
+      },
+      {
+        "Id": 1378519,
+        "Name": "Emiliano Sordi",
+        "Character": "Himself",
+        "Order": 7,
+        "CastId": 6
+      },
+      {
+        "Id": 1378520,
+        "Name": "Bubba McDaniel",
+        "Character": "Himself",
+        "Order": 8,
+        "CastId": 7
+      }
+    ],
+    "Crew": []
+  },
+  "Images": {
+    "Backdrops": [
+      {
+        "FilePath": "/vTlslBvwT0SmzJuJedqXgc8WGe0.jpg",
+        "Width": 1920,
+        "Height": 1080,
+        "AspectRatio": 1.77777777777778
+      }
+    ],
+    "Posters": [
+      {
+        "FilePath": "/x4WMQHKji6uy6T85ZvMXpmg8mru.jpg",
+        "Width": 800,
+        "Height": 1063,
+        "AspectRatio": 0.752587017873942
+      }
+    ]
+  },
+  "Keywords": {
+    "Id": 299422,
+    "Keywords": []
+  },
+  "Trailers": {
+    "Id": 299422,
+    "Quicktime": [],
+    "Youtube": []
+  },
+  "Translations": {
+    "Id": 299422,
+    "Translations": [
+      {
+        "Iso_639_1": "en",
+        "Name": "English",
+        "EnglishName": "English"
+      }
+    ]
+  }
+}

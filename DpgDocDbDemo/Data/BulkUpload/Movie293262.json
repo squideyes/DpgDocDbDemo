@@ -1,0 +1,131 @@
+{
+  "Id": 293262,
+  "ImdbId": "tt4008652",
+  "Title": "I Am Ali",
+  "OriginalTitle": "I Am Ali",
+  "Status": "Released",
+  "Tagline": "Fighter. Lover. Brother. Father.",
+  "Overview": "Unprecedented access to Muhammad Ali's personal archive of \"audio journals\" as well as interviews and testimonials from his inner circle of family and friends are used to tell the legend's life story.",
+  "Homepage": "http://www.focusfeatures.com/i_am_ali",
+  "PosterPath": "/6XxcGl1dpSPkr5t96pa8gzHSRoE.jpg",
+  "Genres": [
+    {
+      "Id": 99,
+      "Name": "Documentary"
+    }
+  ],
+  "ReleaseDate": "2014-10-10T00:00:00",
+  "Runtime": 111,
+  "Popularity": 0.460857341674972,
+  "VoteAverage": 10.0,
+  "VoteCount": 1,
+  "ProductionCompanies": [
+    {
+      "Name": "Focus Features",
+      "Id": 10146
+    }
+  ],
+  "ProductionCountries": [
+    {
+      "Iso_3166_1": "US",
+      "Name": "United States of America"
+    }
+  ],
+  "SpokenLanguages": [],
+  "AlternativeTitles": {
+    "Id": 293262,
+    "Titles": []
+  },
+  "Releases": {
+    "Id": 293262,
+    "Countries": [
+      {
+        "Iso_3166_1": "US",
+        "Certification": "PG",
+        "ReleaseDate": "2014-10-10T00:00:00"
+      }
+    ]
+  },
+  "Credits": {
+    "Id": 293262,
+    "Cast": [
+      {
+        "Id": 65605,
+        "Name": "Muhammad Ali",
+        "Character": "Himself",
+        "Order": 1,
+        "ProfilePath": "/d0bg1OXtWkGJjuZvviu3wR50TYp.jpg"
+      },
+      {
+        "Id": 1364772,
+        "Name": "Muhammad Ali Jr.",
+        "Character": "Himself",
+        "Order": 2,
+        "CastId": 3
+      }
+    ],
+    "Crew": [
+      {
+        "Id": 1364771,
+        "Name": "Clare Lewins",
+        "Department": "Directing",
+        "Job": "Director"
+      },
+      {
+        "Id": 1364771,
+        "Name": "Clare Lewins",
+        "Department": "Writing",
+        "Job": "Writer"
+      }
+    ]
+  },
+  "Images": {
+    "Backdrops": [],
+    "Posters": [
+      {
+        "FilePath": "/6XxcGl1dpSPkr5t96pa8gzHSRoE.jpg",
+        "Width": 900,
+        "Height": 1332,
+        "AspectRatio": 0.675675675675676
+      }
+    ]
+  },
+  "Keywords": {
+    "Id": 293262,
+    "Keywords": [
+      {
+        "Id": 5565,
+        "Name": "biography"
+      },
+      {
+        "Id": 5970,
+        "Name": "wrestling"
+      },
+      {
+        "Id": 6075,
+        "Name": "sport"
+      }
+    ]
+  },
+  "Trailers": {
+    "Id": 293262,
+    "Quicktime": [],
+    "Youtube": [
+      {
+        "Name": "Official",
+        "Size": "HD",
+        "Source": "lFxQFxaX7CM"
+      }
+    ]
+  },
+  "Translations": {
+    "Id": 293262,
+    "Translations": [
+      {
+        "Iso_639_1": "en",
+        "Name": "English",
+        "EnglishName": "English"
+      }
+    ]
+  }
+}

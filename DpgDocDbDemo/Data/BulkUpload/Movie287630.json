@@ -1,0 +1,149 @@
+{
+  "Id": 287630,
+  "ImdbId": "tt3424914",
+  "Title": "The Vanished Elephant",
+  "OriginalTitle": "El elefante desaparecido",
+  "Status": "Released",
+  "Overview": "A crime novelist receives a vital clue to the whereabouts of his long-missing fiancée, in this mind-bending mystery that pays homage to Hollywood film noir and the reality-twisting fictions of Jorge Luis Borges and Julio Cortázar.",
+  "PosterPath": "/6SFojzpE3f2FnHvjW7c5ZwXkzOF.jpg",
+  "Genres": [
+    {
+      "Id": 9648,
+      "Name": "Mystery"
+    },
+    {
+      "Id": 53,
+      "Name": "Thriller"
+    }
+  ],
+  "ReleaseDate": "2014-10-16T00:00:00",
+  "Runtime": 109,
+  "Popularity": 0.339579580733414,
+  "ProductionCompanies": [],
+  "ProductionCountries": [
+    {
+      "Iso_3166_1": "CO",
+      "Name": "Colombia"
+    },
+    {
+      "Iso_3166_1": "ES",
+      "Name": "Spain"
+    },
+    {
+      "Iso_3166_1": "PE",
+      "Name": "Peru"
+    }
+  ],
+  "SpokenLanguages": [
+    {
+      "Iso_639_1": "es",
+      "Name": "Español"
+    }
+  ],
+  "AlternativeTitles": {
+    "Id": 287630,
+    "Titles": []
+  },
+  "Releases": {
+    "Id": 287630,
+    "Countries": [
+      {
+        "Iso_3166_1": "PE",
+        "ReleaseDate": "2014-10-16T00:00:00"
+      }
+    ]
+  },
+  "Credits": {
+    "Id": 287630,
+    "Cast": [
+      {
+        "Id": 85234,
+        "Name": "Salvador del Solar",
+        "Character": "Edo Celeste",
+        "Order": 1,
+        "CastId": 1,
+        "ProfilePath": "/98VKTwzYAM2WT44TmVQmXmBlno3.jpg"
+      },
+      {
+        "Id": 120557,
+        "Name": "Angie Cepeda",
+        "Character": "Mara de Barclay",
+        "Order": 2,
+        "CastId": 2,
+        "ProfilePath": "/yTdKnp2RKxLwYVSj3zU9FeOuVwI.jpg"
+      },
+      {
+        "Id": 1147478,
+        "Name": "Lucho Cáceres",
+        "Character": "Rafael Pineda",
+        "Order": 3,
+        "CastId": 3
+      },
+      {
+        "Id": 1167150,
+        "Name": "Vanessa Saba",
+        "Character": "Celia Espinoza",
+        "Order": 4,
+        "CastId": 4
+      },
+      {
+        "Id": 71200,
+        "Name": "Andrés Parra",
+        "Character": "Ferrer",
+        "Order": 5,
+        "CastId": 5
+      },
+      {
+        "Id": 146702,
+        "Name": "Tatiana Astengo",
+        "Character": "Fiscal Sanchez",
+        "Order": 6,
+        "CastId": 6
+      }
+    ],
+    "Crew": [
+      {
+        "Id": 146704,
+        "Name": "Javier Fuentes-León",
+        "Department": "Directing",
+        "Job": "Director"
+      },
+      {
+        "Id": 146704,
+        "Name": "Javier Fuentes-León",
+        "Department": "Writing",
+        "Job": "Writer"
+      }
+    ]
+  },
+  "Images": {
+    "Backdrops": [],
+    "Posters": [
+      {
+        "FilePath": "/6SFojzpE3f2FnHvjW7c5ZwXkzOF.jpg",
+        "Width": 1433,
+        "Height": 2048,
+        "AspectRatio": 0.69970703125
+      }
+    ]
+  },
+  "Keywords": {
+    "Id": 287630,
+    "Keywords": []
+  },
+  "Trailers": {
+    "Id": 287630,
+    "Quicktime": [],
+    "Youtube": []
+  },
+  "Translations": {
+    "Id": 287630,
+    "Translations": [
+      {
+        "Iso_639_1": "en",
+        "Name": "English",
+        "EnglishName": "English"
+      }
+    ]
+  }
+}

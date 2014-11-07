@@ -1,0 +1,183 @@
+{
+  "Id": 297023,
+  "ImdbId": "tt3341718",
+  "Title": "The Lies of the Victors",
+  "OriginalTitle": "Die Lügen der Sieger",
+  "Status": "Released",
+  "Overview": "Fabian Groys, a renowned journalist for a political news magazine, enjoys great freedom, since the stories he uncovers make for good sales. When he loses a hot story about the German army, the editor saddles him with a young female intern. Fabian hates teamwork and sticks the intern with what seems a classic tabloid story about the suicide of a man who had himself torn to shreds by a lion at the zoo. But thanks to the intern’s dogged determination, signs emerge that the story Fabian was working on and the gory zoo story are actually interlinked. Is it pure coincidence? And if it isn’t, how can Fabian fight a nebulous enemy?",
+  "PosterPath": "/cj4ZDDDPNPaoHhBFRCVWiQiBH0J.jpg",
+  "Genres": [],
+  "ReleaseDate": "2014-10-17T00:00:00",
+  "Runtime": 112,
+  "Popularity": 0.238165363541847,
+  "ProductionCompanies": [],
+  "ProductionCountries": [],
+  "SpokenLanguages": [
+    {
+      "Iso_639_1": "de",
+      "Name": "Deutsch"
+    }
+  ],
+  "AlternativeTitles": {
+    "Id": 297023,
+    "Titles": []
+  },
+  "Releases": {
+    "Id": 297023,
+    "Countries": [
+      {
+        "Iso_3166_1": "IT",
+        "ReleaseDate": "2014-10-17T00:00:00"
+      }
+    ]
+  },
+  "Credits": {
+    "Id": 297023,
+    "Cast": [
+      {
+        "Id": 104243,
+        "Name": "Florian David Fitz",
+        "Character": "Fabian Groys",
+        "Order": 1,
+        "ProfilePath": "/5lN9fHZIWxluXK8UOlHXo0Zv2BJ.jpg"
+      },
+      {
+        "Id": 1372896,
+        "Name": "Lilith Stangenberg",
+        "Character": "Nadja",
+        "Order": 2,
+        "CastId": 1
+      },
+      {
+        "Id": 49332,
+        "Name": "Horst Kotterba",
+        "Character": "Hannes Hubach",
+        "Order": 3,
+        "CastId": 2
+      },
+      {
+        "Id": 54948,
+        "Name": "Ursina Lardi",
+        "Character": "Corinna von May",
+        "Order": 4,
+        "CastId": 3
+      },
+      {
+        "Id": 50185,
+        "Name": "David C. Bunners",
+        "Character": "General Halmer",
+        "Order": 5,
+        "CastId": 4
+      },
+      {
+        "Id": 1372897,
+        "Name": "Tilo Werner",
+        "Character": "Joker",
+        "Order": 6,
+        "CastId": 5
+      },
+      {
+        "Id": 46216,
+        "Name": "Niels-Bruno Schmidt",
+        "Character": "Arbeiter",
+        "Order": 7,
+        "CastId": 6
+      },
+      {
+        "Id": 46216,
+        "Name": "Niels-Bruno Schmidt",
+        "Character": "Arbeiter",
+        "Order": 8,
+        "CastId": 7
+      },
+      {
+        "Id": 54666,
+        "Name": "Irina Potapenko",
+        "Character": "Frau Kodolski",
+        "Order": 9,
+        "CastId": 8
+      },
+      {
+        "Id": 5445,
+        "Name": "Zinedine Soualem",
+        "Character": "Dan",
+        "Order": 10,
+        "CastId": 9,
+        "ProfilePath": "/fSXaPheMM4e6BUxPMaXrjIi8k4N.jpg"
+      },
+      {
+        "Id": 16797,
+        "Name": "Karl Fischer",
+        "Character": "Dellbrück",
+        "Order": 11,
+        "CastId": 10,
+        "ProfilePath": "/93b1fNVXKicTNGKwJEFtftwUege.jpg"
+      },
+      {
+        "Id": 50956,
+        "Name": "Maya Bothe",
+        "Character": "Monika Karen",
+        "Order": 12,
+        "CastId": 11
+      },
+      {
+        "Id": 123609,
+        "Name": "Jean-Paul Comart",
+        "Character": "Jaali",
+        "Order": 13,
+        "CastId": 12,
+        "ProfilePath": "/gzXTCvr7BI60ZGkvqwIPCuPcIDz.jpg"
+      }
+    ],
+    "Crew": [
+      {
+        "Id": 73577,
+        "Name": "Christoph Hochhäusler",
+        "Department": "Directing",
+        "Job": "Director"
+      },
+      {
+        "Id": 73577,
+        "Name": "Christoph Hochhäusler",
+        "Department": "Writing",
+        "Job": "Writer"
+      }
+    ]
+  },
+  "Images": {
+    "Backdrops": [],
+    "Posters": [
+      {
+        "FilePath": "/cj4ZDDDPNPaoHhBFRCVWiQiBH0J.jpg",
+        "Width": 1000,
+        "Height": 1416,
+        "Iso_639_1": "en",
+        "AspectRatio": 0.706214689265537
+      }
+    ]
+  },
+  "Keywords": {
+    "Id": 297023,
+    "Keywords": []
+  },
+  "Trailers": {
+    "Id": 297023,
+    "Quicktime": [],
+    "Youtube": []
+  },
+  "Translations": {
+    "Id": 297023,
+    "Translations": [
+      {
+        "Iso_639_1": "en",
+        "Name": "English",
+        "EnglishName": "English"
+      },
+      {
+        "Iso_639_1": "de",
+        "Name": "Deutsch",
+        "EnglishName": "German"
+      }
+    ]
+  }
+}

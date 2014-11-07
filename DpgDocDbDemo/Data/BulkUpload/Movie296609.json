@@ -1,0 +1,122 @@
+{
+  "Id": 296609,
+  "ImdbId": "tt3484360",
+  "Title": "Fado Camané",
+  "OriginalTitle": "Fado Camané",
+  "Status": "Released",
+  "Overview": "Documentary about the Portuguese singer Camané and the process of creating one of fado's key works, revealing a rigorous search that allows him to achieve masterful interpretations.",
+  "Genres": [
+    {
+      "Id": 99,
+      "Name": "Documentary"
+    }
+  ],
+  "ReleaseDate": "2014-10-17T00:00:00",
+  "Runtime": 72,
+  "Popularity": 0.266366013902138,
+  "ProductionCompanies": [],
+  "ProductionCountries": [
+    {
+      "Iso_3166_1": "PT",
+      "Name": "Portugal"
+    }
+  ],
+  "SpokenLanguages": [
+    {
+      "Iso_639_1": "pt",
+      "Name": "Português"
+    }
+  ],
+  "AlternativeTitles": {
+    "Id": 296609,
+    "Titles": []
+  },
+  "Releases": {
+    "Id": 296609,
+    "Countries": [
+      {
+        "Iso_3166_1": "PT",
+        "ReleaseDate": "2014-10-17T00:00:00"
+      }
+    ]
+  },
+  "Credits": {
+    "Id": 296609,
+    "Cast": [
+      {
+        "Id": 1151218,
+        "Name": "Camané",
+        "Order": 1,
+        "ProfilePath": "/Ls16pCWubaNCPcWy1si5a7CErP.jpg"
+      },
+      {
+        "Id": 1199830,
+        "Name": "José Mário Branco",
+        "Order": 2,
+        "CastId": 1,
+        "ProfilePath": "/j6hAUUq31LDLfAWBfL03JL7R1pd.jpg"
+      },
+      {
+        "Id": 536709,
+        "Name": "Manuela de Freitas",
+        "Order": 3,
+        "CastId": 2
+      },
+      {
+        "Id": 1372246,
+        "Name": "José Manuel Neto",
+        "Order": 4,
+        "CastId": 3
+      },
+      {
+        "Id": 1372247,
+        "Name": "Carlos Manuel Proença",
+        "Order": 5,
+        "CastId": 4
+      },
+      {
+        "Id": 1372248,
+        "Name": "Carlos Bica",
+        "Order": 6,
+        "CastId": 5
+      }
+    ],
+    "Crew": [
+      {
+        "Id": 1075116,
+        "Name": "Bruno de Almeida",
+        "Department": "Directing",
+        "Job": "Director"
+      },
+      {
+        "Id": 1075116,
+        "Name": "Bruno de Almeida",
+        "Department": "Production",
+        "Job": "Producer"
+      }
+    ]
+  },
+  "Images": {
+    "Backdrops": [],
+    "Posters": []
+  },
+  "Keywords": {
+    "Id": 296609,
+    "Keywords": []
+  },
+  "Trailers": {
+    "Id": 296609,
+    "Quicktime": [],
+    "Youtube": []
+  },
+  "Translations": {
+    "Id": 296609,
+    "Translations": [
+      {
+        "Iso_639_1": "en",
+        "Name": "English",
+        "EnglishName": "English"
+      }
+    ]
+  }
+}

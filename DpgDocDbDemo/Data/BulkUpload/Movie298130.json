@@ -1,0 +1,73 @@
+{
+  "Id": 298130,
+  "Title": "Dog People",
+  "OriginalTitle": "Gente Perra",
+  "Status": "Released",
+  "Overview": "Set in the future, this is the bizarre history of a colonial Admiral and the brutality he inflicted on the mythical Dog People as he searched for South American gold.",
+  "Genres": [],
+  "ReleaseDate": "2014-10-17T00:00:00",
+  "Runtime": 25,
+  "Popularity": 0.270845708298156,
+  "ProductionCompanies": [],
+  "ProductionCountries": [
+    {
+      "Iso_3166_1": "DE",
+      "Name": "Germany"
+    }
+  ],
+  "SpokenLanguages": [],
+  "AlternativeTitles": {
+    "Id": 298130,
+    "Titles": []
+  },
+  "Releases": {
+    "Id": 298130,
+    "Countries": [
+      {
+        "Iso_3166_1": "GB",
+        "ReleaseDate": "2014-10-17T00:00:00"
+      }
+    ]
+  },
+  "Credits": {
+    "Id": 298130,
+    "Cast": [],
+    "Crew": [
+      {
+        "Id": 1375288,
+        "Name": "Anja Dornieden",
+        "Department": "Directing",
+        "Job": "Director"
+      },
+      {
+        "Id": 1375289,
+        "Name": "Juan David González Monroy",
+        "Department": "Directing",
+        "Job": "Director"
+      }
+    ]
+  },
+  "Images": {
+    "Backdrops": [],
+    "Posters": []
+  },
+  "Keywords": {
+    "Id": 298130,
+    "Keywords": []
+  },
+  "Trailers": {
+    "Id": 298130,
+    "Quicktime": [],
+    "Youtube": []
+  },
+  "Translations": {
+    "Id": 298130,
+    "Translations": [
+      {
+        "Iso_639_1": "en",
+        "Name": "English",
+        "EnglishName": "English"
+      }
+    ]
+  }
+}

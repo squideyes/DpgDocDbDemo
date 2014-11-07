@@ -1,0 +1,179 @@
+{
+  "Id": 277188,
+  "ImdbId": "tt3732474",
+  "Title": "Adventures of Gustav",
+  "OriginalTitle": "Gustavo Nuotykiai",
+  "Status": "Released",
+  "Overview": "Adventures of Gustav is a spectacular CGI / live-action family film with unique visuals. The main characters Gustav and Professor Easter Christmassen are well known and beloved by local audiences from educational and award winning TV series for family ‘Gustav’s encyclopedia’ broadcast since 1999 on National Public Television Channel in Lithuania. This show has been introducing children to the world and its wonders for 20 years already.",
+  "Homepage": "http://taurasfilms.com/our-films/adventures-of-gustav/",
+  "PosterPath": "/yB6cgoEeEjiIZPMAIZ9Gcx5ZOrr.jpg",
+  "Genres": [
+    {
+      "Id": 12,
+      "Name": "Adventure"
+    },
+    {
+      "Id": 10751,
+      "Name": "Family"
+    }
+  ],
+  "ReleaseDate": "2014-10-17T00:00:00",
+  "Runtime": 100,
+  "Popularity": 0.268460212347729,
+  "ProductionCompanies": [
+    {
+      "Name": "Tauras Films",
+      "Id": 14480
+    }
+  ],
+  "ProductionCountries": [
+    {
+      "Iso_3166_1": "LT",
+      "Name": "Lithuania"
+    }
+  ],
+  "SpokenLanguages": [
+    {
+      "Iso_639_1": "lt",
+      "Name": "Lietuvikai"
+    }
+  ],
+  "AlternativeTitles": {
+    "Id": 277188,
+    "Titles": []
+  },
+  "Releases": {
+    "Id": 277188,
+    "Countries": [
+      {
+        "Iso_3166_1": "LT",
+        "ReleaseDate": "2014-10-17T00:00:00"
+      }
+    ]
+  },
+  "Credits": {
+    "Id": 277188,
+    "Cast": [
+      {
+        "Id": 1331376,
+        "Name": "Audrius Rakauskas",
+        "Character": "Gustav",
+        "Order": 1,
+        "CastId": 5
+      },
+      {
+        "Id": 1331448,
+        "Name": "Marijonas Mikutavičius",
+        "Order": 2,
+        "CastId": 6
+      },
+      {
+        "Id": 1341427,
+        "Name": "Andrius Žebrauskas",
+        "Order": 3,
+        "CastId": 7
+      },
+      {
+        "Id": 1153574,
+        "Name": "Arūnas Sakalauskas",
+        "Order": 4,
+        "CastId": 8
+      }
+    ],
+    "Crew": [
+      {
+        "Id": 224123,
+        "Name": "Vaidas Lekavičius",
+        "Department": "Directing",
+        "Job": "Director"
+      },
+      {
+        "Id": 1331375,
+        "Name": "Augustinas Gricius",
+        "Department": "Directing",
+        "Job": "Director"
+      },
+      {
+        "Id": 224123,
+        "Name": "Vaidas Lekavičius",
+        "Department": "Writing",
+        "Job": "Writer"
+      },
+      {
+        "Id": 1331376,
+        "Name": "Audrius Rakauskas",
+        "Department": "Writing",
+        "Job": "Writer"
+      },
+      {
+        "Id": 1331375,
+        "Name": "Augustinas Gricius",
+        "Department": "Writing",
+        "Job": "Writer"
+      }
+    ]
+  },
+  "Images": {
+    "Backdrops": [],
+    "Posters": [
+      {
+        "FilePath": "/yB6cgoEeEjiIZPMAIZ9Gcx5ZOrr.jpg",
+        "Width": 716,
+        "Height": 1024,
+        "Iso_639_1": "en",
+        "AspectRatio": 0.69921875,
+        "VoteAverage": 5.3125,
+        "VoteCount": 1
+      },
+      {
+        "FilePath": "/wMMcjQG3weKoWN2fCiJMkhSJvAE.jpg",
+        "Width": 718,
+        "Height": 1024,
+        "Iso_639_1": "en",
+        "AspectRatio": 0.701171875
+      },
+      {
+        "FilePath": "/28z6kAypce4QYs9QLcd9WIoDzT.jpg",
+        "Width": 716,
+        "Height": 1024,
+        "Iso_639_1": "lt",
+        "AspectRatio": 0.69921875
+      }
+    ]
+  },
+  "Keywords": {
+    "Id": 277188,
+    "Keywords": []
+  },
+  "Trailers": {
+    "Id": 277188,
+    "Quicktime": [],
+    "Youtube": [
+      {
+        "Name": "Official trailer",
+        "Size": "HD",
+        "Source": "nvoRcjJpnLg"
+      }
+    ]
+  },
+  "Translations": {
+    "Id": 277188,
+    "Translations": [
+      {
+        "Iso_639_1": "en",
+        "Name": "English",
+        "EnglishName": "English"
+      },
+      {
+        "Iso_639_1": "lt",
+        "Name": "Lietuvikai",
+        "EnglishName": "Lithuanian"
+      },
+      {
+        "Iso_639_1": "ru",
+        "Name": "Pусский",
+        "EnglishName": "Russian"
+      }
+    ]
+  }
+}

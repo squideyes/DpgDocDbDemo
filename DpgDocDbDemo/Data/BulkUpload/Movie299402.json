@@ -1,0 +1,109 @@
+{
+  "Id": 299402,
+  "Title": "Shock Value: The Movie—How Dan O’Bannon and Some USC Outsiders Helped Invent Modern Horror",
+  "OriginalTitle": "Shock Value: The Movie—How Dan O’Bannon and Some USC Outsiders Helped Invent Modern Horror",
+  "Status": "Released",
+  "Overview": "Image Archive archivist Dino Everett assembled a feature-length compilation of SCA student works from the late ’60s and ’70s.  The compilation features recently uncovered and previously unseen student films by O’Bannon and John Carpenter — including their very first pairing in 1968, Good Morning Dan!  BLOOD BATH (1969, written and directed by Dan O’Bannon) B/W (original 16mm) 7 min.  THE DEMON (1970, written and directed by Charles Adair) B/W (original 16mm) 19 min.  GOOD MORNING DAN (1968, written and directed by Dan O’Bannon, camera by John Carpenter) Color (original 8mm) 19 min.  CAPTAIN VOYEUR (1969, written and directed by John Carpenter) B/W (original 16mm) 7 min.  BLOOD BATH (1976, written and directed by Dan O’Bannon) Red tint (original 16mm blown up to 35mm) 8 min.  JUDSON'S RELEASE (1971, written by Alec Lorimore, directed by Terence H. Winkless) (original 16mm) Color 15 min.  Total program time: 80 minutes.",
+  "PosterPath": "/vObSAccl2CvV9oEbXVhVyHA38c2.jpg",
+  "Genres": [
+    {
+      "Id": 27,
+      "Name": "Horror"
+    }
+  ],
+  "ReleaseDate": "2014-10-10T00:00:00",
+  "Runtime": 80,
+  "Popularity": 0.2307617737,
+  "ProductionCompanies": [],
+  "ProductionCountries": [],
+  "SpokenLanguages": [],
+  "AlternativeTitles": {
+    "Id": 299402,
+    "Titles": []
+  },
+  "Releases": {
+    "Id": 299402,
+    "Countries": [
+      {
+        "Iso_3166_1": "US",
+        "ReleaseDate": "2014-10-10T00:00:00"
+      }
+    ]
+  },
+  "Credits": {
+    "Id": 299402,
+    "Cast": [],
+    "Crew": [
+      {
+        "Id": 5045,
+        "Name": "Dan O'Bannon",
+        "Department": "Writing",
+        "Job": "Writer",
+        "ProfilePath": "/slLZWXZ1lmdF763166ATRRI200n.jpg"
+      },
+      {
+        "Id": 11770,
+        "Name": "John Carpenter",
+        "Department": "Directing",
+        "Job": "Director",
+        "ProfilePath": "/5Xv3IyZaXJ2qw4ZgRmuIcdtU8xU.jpg"
+      },
+      {
+        "Id": 5045,
+        "Name": "Dan O'Bannon",
+        "Department": "Directing",
+        "Job": "Director",
+        "ProfilePath": "/slLZWXZ1lmdF763166ATRRI200n.jpg"
+      },
+      {
+        "Id": 1018956,
+        "Name": "Charles Adair",
+        "Department": "Directing",
+        "Job": "Director"
+      }
+    ]
+  },
+  "Images": {
+    "Backdrops": [],
+    "Posters": [
+      {
+        "FilePath": "/vObSAccl2CvV9oEbXVhVyHA38c2.jpg",
+        "Width": 864,
+        "Height": 1308,
+        "AspectRatio": 0.660550458715596
+      }
+    ]
+  },
+  "Keywords": {
+    "Id": 299402,
+    "Keywords": [
+      {
+        "Id": 208056,
+        "Name": "student films"
+      },
+      {
+        "Id": 208057,
+        "Name": "short films"
+      },
+      {
+        "Id": 208058,
+        "Name": "usc"
+      }
+    ]
+  },
+  "Trailers": {
+    "Id": 299402,
+    "Quicktime": [],
+    "Youtube": []
+  },
+  "Translations": {
+    "Id": 299402,
+    "Translations": [
+      {
+        "Iso_639_1": "en",
+        "Name": "English",
+        "EnglishName": "English"
+      }
+    ]
+  }
+}

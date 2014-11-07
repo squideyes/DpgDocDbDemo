@@ -1,0 +1,196 @@
+{
+  "Id": 297098,
+  "ImdbId": "tt4079776",
+  "Title": "Chelsea Handler Uganda Be Kidding Me Live",
+  "OriginalTitle": "Chelsea Handler Uganda Be Kidding Me Live",
+  "Status": "Released",
+  "Tagline": "I've decided to go on tour and support my new book, Uganda Be Kidding Me. I think we all know how much I love the sound of my own voice!",
+  "Overview": "A culmination of Chelsea Handler's stand-up comedy tour in support of her fourth New York Times #1 Bestseller, Uganda Be Kidding Me.",
+  "Homepage": "http://www.chelseahandler.com/news/227993",
+  "BackdropPath": "/nQ527E96LLwS4ExF4GPPZaJEmgw.jpg",
+  "PosterPath": "/nbM3KHWvqvUGpJlzUSrQAKXJsqx.jpg",
+  "Genres": [
+    {
+      "Id": 35,
+      "Name": "Comedy"
+    }
+  ],
+  "ReleaseDate": "2014-10-10T00:00:00",
+  "Runtime": 71,
+  "Popularity": 0.412338395630015,
+  "VoteAverage": 8.4,
+  "VoteCount": 4,
+  "ProductionCompanies": [],
+  "ProductionCountries": [
+    {
+      "Iso_3166_1": "US",
+      "Name": "United States of America"
+    }
+  ],
+  "SpokenLanguages": [
+    {
+      "Iso_639_1": "en",
+      "Name": "English"
+    }
+  ],
+  "AlternativeTitles": {
+    "Id": 297098,
+    "Titles": []
+  },
+  "Releases": {
+    "Id": 297098,
+    "Countries": [
+      {
+        "Iso_3166_1": "US",
+        "ReleaseDate": "2014-10-10T00:00:00"
+      }
+    ]
+  },
+  "Credits": {
+    "Id": 297098,
+    "Cast": [
+      {
+        "Id": 151254,
+        "Name": "Chelsea Handler",
+        "Character": "Herself",
+        "Order": 1,
+        "ProfilePath": "/pACHYdiEy4NHtu4bJIgKqeRji85.jpg"
+      }
+    ],
+    "Crew": [
+      {
+        "Id": 24946,
+        "Name": "James Yukich",
+        "Department": "Directing",
+        "Job": "Director"
+      },
+      {
+        "Id": 151254,
+        "Name": "Chelsea Handler",
+        "Department": "Writing",
+        "Job": "Writer",
+        "ProfilePath": "/pACHYdiEy4NHtu4bJIgKqeRji85.jpg"
+      },
+      {
+        "Id": 1373054,
+        "Name": "Tom Brunelle",
+        "Department": "Production",
+        "Job": "Executive Producer"
+      },
+      {
+        "Id": 151254,
+        "Name": "Chelsea Handler",
+        "Department": "Production",
+        "Job": "Executive Producer",
+        "ProfilePath": "/pACHYdiEy4NHtu4bJIgKqeRji85.jpg"
+      },
+      {
+        "Id": 1373055,
+        "Name": "Brad Wollack",
+        "Department": "Production",
+        "Job": "Executive Producer"
+      },
+      {
+        "Id": 1373056,
+        "Name": "Lisa Nishimura",
+        "Department": "Production",
+        "Job": "Executive Producer"
+      },
+      {
+        "Id": 1373057,
+        "Name": "Rob Guillermo",
+        "Department": "Production",
+        "Job": "Executive Producer"
+      },
+      {
+        "Id": 1373058,
+        "Name": "Kristen Zolner",
+        "Department": "Production",
+        "Job": "Executive Producer"
+      }
+    ]
+  },
+  "Images": {
+    "Backdrops": [
+      {
+        "FilePath": "/nQ527E96LLwS4ExF4GPPZaJEmgw.jpg",
+        "Width": 1920,
+        "Height": 1080,
+        "AspectRatio": 1.77777777777778,
+        "VoteAverage": 5.41125541125541,
+        "VoteCount": 3
+      },
+      {
+        "FilePath": "/z2SyEy0JTyNjy9wdS6wRewtBxIR.jpg",
+        "Width": 1280,
+        "Height": 720,
+        "AspectRatio": 1.77777777777778,
+        "VoteAverage": 5.38461538461539,
+        "VoteCount": 2
+      },
+      {
+        "FilePath": "/8oeUO35eaDScLFByBSRENY6eesO.jpg",
+        "Width": 1920,
+        "Height": 1080,
+        "AspectRatio": 1.77777777777778,
+        "VoteAverage": 5.37728937728938,
+        "VoteCount": 2
+      }
+    ],
+    "Posters": [
+      {
+        "FilePath": "/nbM3KHWvqvUGpJlzUSrQAKXJsqx.jpg",
+        "Width": 2000,
+        "Height": 3000,
+        "Iso_639_1": "en",
+        "AspectRatio": 0.666666666666667,
+        "VoteAverage": 5.38461538461539,
+        "VoteCount": 2
+      },
+      {
+        "FilePath": "/oLfpeh2A1oGi8tTOV29Iiy2Rgjj.jpg",
+        "Width": 2000,
+        "Height": 3000,
+        "Iso_639_1": "zu",
+        "AspectRatio": 0.666666666666667,
+        "VoteAverage": 5.17316017316017,
+        "VoteCount": 3
+      }
+    ]
+  },
+  "Keywords": {
+    "Id": 297098,
+    "Keywords": [
+      {
+        "Id": 199355,
+        "Name": "stand-up comedy"
+      }
+    ]
+  },
+  "Trailers": {
+    "Id": 297098,
+    "Quicktime": [],
+    "Youtube": [
+      {
+        "Name": "Chelsea Handler Uganda Be Kidding Me Tour Rules (Part 1)",
+        "Size": "Standard",
+        "Source": "-rAACNt12Rc"
+      }
+    ]
+  },
+  "Translations": {
+    "Id": 297098,
+    "Translations": [
+      {
+        "Iso_639_1": "en",
+        "Name": "English",
+        "EnglishName": "English"
+      },
+      {
+        "Iso_639_1": "fi",
+        "Name": "suomi",
+        "EnglishName": "Finnish"
+      }
+    ]
+  }
+}

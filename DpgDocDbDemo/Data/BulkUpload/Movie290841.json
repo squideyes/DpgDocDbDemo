@@ -1,0 +1,118 @@
+{
+  "Id": 290841,
+  "ImdbId": "tt3885932",
+  "Title": "Winx Club: The Mystery of the Abyss",
+  "OriginalTitle": "Winx Club: Il mistero degli abissi",
+  "Status": "Released",
+  "BackdropPath": "/ghadzSLfv7vR6Q83d9KOMVzWrw9.jpg",
+  "PosterPath": "/gk3bdGe9nqQ7AWAKF6vOk1i1uxZ.jpg",
+  "Genres": [
+    {
+      "Id": 16,
+      "Name": "Animation"
+    },
+    {
+      "Id": 14,
+      "Name": "Fantasy"
+    },
+    {
+      "Id": 10751,
+      "Name": "Family"
+    }
+  ],
+  "ReleaseDate": "2014-10-10T00:00:00",
+  "Runtime": 0,
+  "Popularity": 0.190011764631572,
+  "ProductionCompanies": [],
+  "ProductionCountries": [],
+  "SpokenLanguages": [],
+  "AlternativeTitles": {
+    "Id": 290841,
+    "Titles": []
+  },
+  "Releases": {
+    "Id": 290841,
+    "Countries": [
+      {
+        "Iso_3166_1": "IT",
+        "ReleaseDate": "2014-09-04T00:00:00"
+      },
+      {
+        "Iso_3166_1": "US",
+        "Certification": "G",
+        "ReleaseDate": "2014-10-10T00:00:00"
+      }
+    ]
+  },
+  "Credits": {
+    "Id": 290841,
+    "Cast": [],
+    "Crew": [
+      {
+        "Id": 1227477,
+        "Name": "Iginio Straffi",
+        "Department": "Directing",
+        "Job": "Director"
+      },
+      {
+        "Id": 1227477,
+        "Name": "Iginio Straffi",
+        "Department": "Writing",
+        "Job": "Screenplay"
+      },
+      {
+        "Id": 1266719,
+        "Name": "Giovanni Masini",
+        "Department": "Writing",
+        "Job": "Screenplay"
+      }
+    ]
+  },
+  "Images": {
+    "Backdrops": [
+      {
+        "FilePath": "/ghadzSLfv7vR6Q83d9KOMVzWrw9.jpg",
+        "Width": 1280,
+        "Height": 720,
+        "AspectRatio": 1.77777777777778
+      }
+    ],
+    "Posters": [
+      {
+        "FilePath": "/gk3bdGe9nqQ7AWAKF6vOk1i1uxZ.jpg",
+        "Width": 500,
+        "Height": 750,
+        "AspectRatio": 0.666666666666667
+      }
+    ]
+  },
+  "Keywords": {
+    "Id": 290841,
+    "Keywords": []
+  },
+  "Trailers": {
+    "Id": 290841,
+    "Quicktime": [],
+    "Youtube": []
+  },
+  "Translations": {
+    "Id": 290841,
+    "Translations": [
+      {
+        "Iso_639_1": "it",
+        "Name": "Italiano",
+        "EnglishName": "Italian"
+      },
+      {
+        "Iso_639_1": "ru",
+        "Name": "Pусский",
+        "EnglishName": "Russian"
+      },
+      {
+        "Iso_639_1": "en",
+        "Name": "English",
+        "EnglishName": "English"
+      }
+    ]
+  }
+}

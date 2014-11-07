@@ -1,0 +1,55 @@
+{
+  "Id": 296455,
+  "Title": "Awake: The Life of Yoganda",
+  "OriginalTitle": "Awake: The Life of Yoganda",
+  "Status": "Released",
+  "Overview": "Archival material from the life of Yogananda, AWAKE is the story of the universal struggle of all beings to free themselves from suffering and to seek lasting happiness.",
+  "Genres": [],
+  "ReleaseDate": "2014-10-10T00:00:00",
+  "Runtime": 0,
+  "Popularity": 0.17464229985059,
+  "ProductionCompanies": [],
+  "ProductionCountries": [],
+  "SpokenLanguages": [],
+  "AlternativeTitles": {
+    "Id": 296455,
+    "Titles": []
+  },
+  "Releases": {
+    "Id": 296455,
+    "Countries": [
+      {
+        "Iso_3166_1": "US",
+        "ReleaseDate": "2014-10-10T00:00:00"
+      }
+    ]
+  },
+  "Credits": {
+    "Id": 296455,
+    "Cast": [],
+    "Crew": []
+  },
+  "Images": {
+    "Backdrops": [],
+    "Posters": []
+  },
+  "Keywords": {
+    "Id": 296455,
+    "Keywords": []
+  },
+  "Trailers": {
+    "Id": 296455,
+    "Quicktime": [],
+    "Youtube": []
+  },
+  "Translations": {
+    "Id": 296455,
+    "Translations": [
+      {
+        "Iso_639_1": "en",
+        "Name": "English",
+        "EnglishName": "English"
+      }
+    ]
+  }
+}

@@ -1,0 +1,101 @@
+{
+  "Id": 299523,
+  "Title": "diaenoxe guili guili",
+  "OriginalTitle": "diaenoxe guili guili",
+  "Status": "Released",
+  "Tagline": "art, fractal",
+  "Overview": "fractal art",
+  "PosterPath": "/5cL6KXJnn4TMp0hy5AWuDBbr2Tu.jpg",
+  "Genres": [
+    {
+      "Id": 16,
+      "Name": "Animation"
+    }
+  ],
+  "ReleaseDate": "2014-10-28T00:00:00",
+  "Runtime": 0,
+  "Popularity": 0.642889267,
+  "ProductionCompanies": [
+    {
+      "Name": "Polygraphie",
+      "Id": 36670
+    }
+  ],
+  "ProductionCountries": [
+    {
+      "Iso_3166_1": "FR",
+      "Name": "France"
+    }
+  ],
+  "SpokenLanguages": [],
+  "AlternativeTitles": {
+    "Id": 299523,
+    "Titles": [
+      {
+        "Iso_3166_1": "FR",
+        "Title": "DIAENOXE TRANSITIONS"
+      }
+    ]
+  },
+  "Releases": {
+    "Id": 299523,
+    "Countries": [
+      {
+        "Iso_3166_1": "FR",
+        "Certification": "U",
+        "ReleaseDate": "2014-10-28T00:00:00"
+      }
+    ]
+  },
+  "Credits": {
+    "Id": 299523,
+    "Cast": [
+      {
+        "Id": 1378870,
+        "Name": "Philippe Rivrain",
+        "Character": "artist polygraph",
+        "Order": 1
+      }
+    ],
+    "Crew": []
+  },
+  "Images": {
+    "Backdrops": [],
+    "Posters": [
+      {
+        "FilePath": "/5cL6KXJnn4TMp0hy5AWuDBbr2Tu.jpg",
+        "Width": 594,
+        "Height": 800,
+        "AspectRatio": 0.7425
+      }
+    ]
+  },
+  "Keywords": {
+    "Id": 299523,
+    "Keywords": [
+      {
+        "Id": 206885,
+        "Name": "experimental animation"
+      },
+      {
+        "Id": 208093,
+        "Name": "fractal"
+      }
+    ]
+  },
+  "Trailers": {
+    "Id": 299523,
+    "Quicktime": [],
+    "Youtube": []
+  },
+  "Translations": {
+    "Id": 299523,
+    "Translations": [
+      {
+        "Iso_639_1": "en",
+        "Name": "English",
+        "EnglishName": "English"
+      }
+    ]
+  }
+}

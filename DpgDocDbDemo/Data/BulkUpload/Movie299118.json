@@ -1,0 +1,154 @@
+{
+  "Id": 299118,
+  "ImdbId": "tt3832158",
+  "Title": "Der Kleine Medicus - Geheimnisvolle Mission im Körper",
+  "OriginalTitle": "Der Kleine Medicus - Geheimnisvolle Mission im Körper",
+  "Status": "Released",
+  "PosterPath": "/hUwEhqoLEwwL3C4pGgmvVMU1flR.jpg",
+  "Genres": [
+    {
+      "Id": 16,
+      "Name": "Animation"
+    },
+    {
+      "Id": 10751,
+      "Name": "Family"
+    }
+  ],
+  "ReleaseDate": "2014-10-30T00:00:00",
+  "Popularity": 0.69976044125,
+  "ProductionCompanies": [
+    {
+      "Name": "Beta Film",
+      "Id": 1080
+    },
+    {
+      "Name": "WunderWerk",
+      "Id": 36357
+    },
+    {
+      "Name": "DKM",
+      "Id": 36358
+    },
+    {
+      "Name": "Zeitsprung Pictures",
+      "Id": 35389
+    },
+    {
+      "Name": "Senator Film Produktion",
+      "Id": 191
+    }
+  ],
+  "ProductionCountries": [
+    {
+      "Iso_3166_1": "DE",
+      "Name": "Germany"
+    }
+  ],
+  "SpokenLanguages": [
+    {
+      "Iso_639_1": "de",
+      "Name": "Deutsch"
+    }
+  ],
+  "AlternativeTitles": {
+    "Id": 299118,
+    "Titles": []
+  },
+  "Releases": {
+    "Id": 299118,
+    "Countries": [
+      {
+        "Iso_3166_1": "DE",
+        "Certification": "0",
+        "ReleaseDate": "2014-10-30T00:00:00"
+      },
+      {
+        "Iso_3166_1": "AT",
+        "ReleaseDate": "2014-10-31T00:00:00"
+      }
+    ]
+  },
+  "Credits": {
+    "Id": 299118,
+    "Cast": [
+      {
+        "Id": 1859,
+        "Name": "Christiane Paul",
+        "Character": "Micro Minitec",
+        "Order": 1,
+        "ProfilePath": "/uDgcUFWHFky6wVRI4vrPJOg9J5D.jpg"
+      },
+      {
+        "Id": 1111703,
+        "Name": "Malte Arkona",
+        "Character": "Rappel",
+        "Order": 2,
+        "CastId": 1
+      },
+      {
+        "Id": 48291,
+        "Name": "Bernhard Hoëcker",
+        "Character": "Serge",
+        "Order": 3,
+        "CastId": 2
+      },
+      {
+        "Id": 1377783,
+        "Name": "Dietrich Grönemeyer",
+        "Character": "Computerstimme",
+        "Order": 4,
+        "CastId": 3
+      }
+    ],
+    "Crew": [
+      {
+        "Id": 1377784,
+        "Name": "Peter Claridge",
+        "Department": "Directing",
+        "Job": "Director"
+      },
+      {
+        "Id": 1377783,
+        "Name": "Dietrich Grönemeyer",
+        "Department": "Writing",
+        "Job": "Novel"
+      }
+    ]
+  },
+  "Images": {
+    "Backdrops": [],
+    "Posters": [
+      {
+        "FilePath": "/hUwEhqoLEwwL3C4pGgmvVMU1flR.jpg",
+        "Width": 2000,
+        "Height": 2829,
+        "AspectRatio": 0.706963591375044
+      }
+    ]
+  },
+  "Keywords": {
+    "Id": 299118,
+    "Keywords": [
+      {
+        "Id": 3722,
+        "Name": "human body"
+      }
+    ]
+  },
+  "Trailers": {
+    "Id": 299118,
+    "Quicktime": [],
+    "Youtube": []
+  },
+  "Translations": {
+    "Id": 299118,
+    "Translations": [
+      {
+        "Iso_639_1": "de",
+        "Name": "Deutsch",
+        "EnglishName": "German"
+      }
+    ]
+  }
+}

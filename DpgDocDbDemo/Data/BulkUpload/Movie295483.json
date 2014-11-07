@@ -1,0 +1,82 @@
+{
+  "Id": 295483,
+  "ImdbId": "tt2704210",
+  "Title": "All You Need Is Love",
+  "OriginalTitle": "All You Need Is Love",
+  "Status": "Released",
+  "Overview": "All You Need Is Love focuses on the many thousands of children that exist in and around the Thai-Burma border and specifically through the children of Good Morning School in Mae Sot, Thailand. By introducing you to their lives, their hopes and their dreams, we hope that we can show how the power of the positive works in extreme circumstances.",
+  "BackdropPath": "/8FO2wtewfXqb5sJiRYe7fEOodVF.jpg",
+  "PosterPath": "/wnFy0xofpVwn1Pkaazi38iLFNLQ.jpg",
+  "Genres": [],
+  "ReleaseDate": "2014-10-31T00:00:00",
+  "Runtime": 90,
+  "Popularity": 1.34282562148935,
+  "ProductionCompanies": [],
+  "ProductionCountries": [],
+  "SpokenLanguages": [],
+  "AlternativeTitles": {
+    "Id": 295483,
+    "Titles": []
+  },
+  "Releases": {
+    "Id": 295483,
+    "Countries": [
+      {
+        "Iso_3166_1": "US",
+        "ReleaseDate": "2014-10-31T00:00:00"
+      }
+    ]
+  },
+  "Credits": {
+    "Id": 295483,
+    "Cast": [],
+    "Crew": [
+      {
+        "Id": 1044069,
+        "Name": "Stuart Cameron",
+        "Department": "Directing",
+        "Job": "Director"
+      }
+    ]
+  },
+  "Images": {
+    "Backdrops": [
+      {
+        "FilePath": "/8FO2wtewfXqb5sJiRYe7fEOodVF.jpg",
+        "Width": 1920,
+        "Height": 1080,
+        "AspectRatio": 1.77777777777778
+      }
+    ],
+    "Posters": [
+      {
+        "FilePath": "/wnFy0xofpVwn1Pkaazi38iLFNLQ.jpg",
+        "Width": 1000,
+        "Height": 1500,
+        "Iso_639_1": "en",
+        "AspectRatio": 0.666666666666667,
+        "VoteAverage": 5.3125,
+        "VoteCount": 1
+      }
+    ]
+  },
+  "Keywords": {
+    "Id": 295483,
+    "Keywords": []
+  },
+  "Trailers": {
+    "Id": 295483,
+    "Quicktime": [],
+    "Youtube": []
+  },
+  "Translations": {
+    "Id": 295483,
+    "Translations": [
+      {
+        "Iso_639_1": "en",
+        "Name": "English",
+        "EnglishName": "English"
+      }
+    ]
+  }
+}

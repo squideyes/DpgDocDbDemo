@@ -1,0 +1,185 @@
+{
+  "Id": 264525,
+  "ImdbId": "tt3970854",
+  "Title": "Suspicious Truth",
+  "OriginalTitle": "La dictadura perfecta",
+  "Status": "Post Production",
+  "Overview": "TV MX, the powerful Mexican Television Corporation, discloses a story that involves Governor Carmelo Vargas in illegal business. The Governor, to try to clean up its image, decides to negotiate an agreement with the Television. Carlos Rojo, a young producer on the rise, and Ricardo Diaz, TV MX star reporter, are commissioned to achieve the difficult task of changing the perception the public has of the corrupt and folkloric “Gober”. They start to walk a plan known as “Chinese box” which is to generate a scandal, and then another ... and another, to try to distract public opinion and make the move from being the Despicable Governor to a presidential candidate who will become the “Savior of the Country”... Will they succeed?",
+  "Homepage": "http://www.ladictaduraperfecta.com/",
+  "PosterPath": "/wBcuejVGjd5Mf4XyPoqu9qcIuW2.jpg",
+  "Genres": [
+    {
+      "Id": 35,
+      "Name": "Comedy"
+    }
+  ],
+  "ReleaseDate": "2014-10-16T00:00:00",
+  "Runtime": 143,
+  "Popularity": 0.518258590677516,
+  "ProductionCompanies": [
+    {
+      "Name": "Bandidos Films",
+      "Id": 21805
+    }
+  ],
+  "ProductionCountries": [
+    {
+      "Iso_3166_1": "MX",
+      "Name": "Mexico"
+    }
+  ],
+  "SpokenLanguages": [],
+  "AlternativeTitles": {
+    "Id": 264525,
+    "Titles": [
+      {
+        "Iso_3166_1": "MX",
+        "Title": "La verdad sospechosa"
+      }
+    ]
+  },
+  "Releases": {
+    "Id": 264525,
+    "Countries": [
+      {
+        "Iso_3166_1": "MX",
+        "ReleaseDate": "2014-10-16T00:00:00"
+      }
+    ]
+  },
+  "Credits": {
+    "Id": 264525,
+    "Cast": [
+      {
+        "Id": 7370,
+        "Name": "Damián Alcázar",
+        "Order": 1,
+        "CastId": 3,
+        "ProfilePath": "/kGdrBKHr01ZzX4fDwpSo4fNVst7.jpg"
+      },
+      {
+        "Id": 220496,
+        "Name": "Alfonso Herrera",
+        "Order": 2,
+        "CastId": 4,
+        "ProfilePath": "/uAn7o5DYhD28whTOaeVgROLgATf.jpg"
+      },
+      {
+        "Id": 76857,
+        "Name": "Joaquín Cosio",
+        "Order": 3,
+        "CastId": 5,
+        "ProfilePath": "/nRdZ0BNi8JOG7cJ10OTZeVmDxTE.jpg"
+      },
+      {
+        "Id": 937314,
+        "Name": "Osvaldo Benavides",
+        "Order": 4,
+        "CastId": 6
+      },
+      {
+        "Id": 545346,
+        "Name": "Silvia Navarro",
+        "Order": 5,
+        "CastId": 7,
+        "ProfilePath": "/jpIDHnFutlflb06epKWnXdDyK9Z.jpg"
+      },
+      {
+        "Id": 1048704,
+        "Name": "Flavio Medina",
+        "Order": 6,
+        "CastId": 8
+      },
+      {
+        "Id": 145217,
+        "Name": "Saúl Lisazo",
+        "Order": 7,
+        "CastId": 9
+      },
+      {
+        "Id": 127825,
+        "Name": "Dagoberto Gama",
+        "Order": 8,
+        "CastId": 10
+      },
+      {
+        "Id": 112131,
+        "Name": "Enrique Arreola",
+        "Order": 9,
+        "CastId": 11
+      },
+      {
+        "Id": 946533,
+        "Name": "Arath de la Torre",
+        "Order": 10,
+        "CastId": 12
+      },
+      {
+        "Id": 76855,
+        "Name": "Tony Dalton",
+        "Order": 11,
+        "CastId": 13,
+        "ProfilePath": "/m1QrVXE5d7zhZj9eXDvemDfc9YV.jpg"
+      }
+    ],
+    "Crew": [
+      {
+        "Id": 76864,
+        "Name": "Luis Estrada",
+        "Department": "Directing",
+        "Job": "Director"
+      },
+      {
+        "Id": 76864,
+        "Name": "Luis Estrada",
+        "Department": "Writing",
+        "Job": "Screenplay"
+      },
+      {
+        "Id": 76869,
+        "Name": "Jaime Sampietro",
+        "Department": "Writing",
+        "Job": "Screenplay"
+      }
+    ]
+  },
+  "Images": {
+    "Backdrops": [],
+    "Posters": [
+      {
+        "FilePath": "/wBcuejVGjd5Mf4XyPoqu9qcIuW2.jpg",
+        "Width": 600,
+        "Height": 850,
+        "AspectRatio": 0.705882352941177
+      }
+    ]
+  },
+  "Keywords": {
+    "Id": 264525,
+    "Keywords": [
+      {
+        "Id": 3586,
+        "Name": "tv station"
+      },
+      {
+        "Id": 156024,
+        "Name": "corrupt politician"
+      }
+    ]
+  },
+  "Trailers": {
+    "Id": 264525,
+    "Quicktime": [],
+    "Youtube": []
+  },
+  "Translations": {
+    "Id": 264525,
+    "Translations": [
+      {
+        "Iso_639_1": "en",
+        "Name": "English",
+        "EnglishName": "English"
+      }
+    ]
+  }
+}

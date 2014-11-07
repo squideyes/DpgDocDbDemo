@@ -1,0 +1,332 @@
+{
+  "Id": 289471,
+  "Title": "Kuzpups the Musical",
+  "OriginalTitle": "Kuzpups the Musical",
+  "Status": "Released",
+  "Tagline": "Kuzpups the Musical",
+  "Overview": "Kuzpups the Musical is a Kuzkid Original movie about Roscoe, Missy, Pippin and Oliver (Kuzpups) that go on an adventure to return the Golden Dog Treat to Mount Naws. As the four pups travel on their journey, they mix in many original songs created by the Director and CEO of Kuzkid, Dale Gray.",
+  "Homepage": "https://sites.google.com/site/kuzkidsandkuzpups/kuzpupsthemusical",
+  "BackdropPath": "/9hn3CbAO8KWBftLhEV1gnKDQvpu.jpg",
+  "PosterPath": "/tOWKOZSl300673HDQBqKH0H0LGG.jpg",
+  "Genres": [
+    {
+      "Id": 28,
+      "Name": "Action"
+    },
+    {
+      "Id": 12,
+      "Name": "Adventure"
+    },
+    {
+      "Id": 16,
+      "Name": "Animation"
+    },
+    {
+      "Id": 35,
+      "Name": "Comedy"
+    },
+    {
+      "Id": 10751,
+      "Name": "Family"
+    }
+  ],
+  "ReleaseDate": "2014-10-24T00:00:00",
+  "Budget": 3,
+  "Runtime": 25,
+  "Popularity": 0.389653696590052,
+  "VoteAverage": 10.0,
+  "VoteCount": 1,
+  "ProductionCompanies": [
+    {
+      "Name": "Kuzpups",
+      "Id": 31341
+    },
+    {
+      "Name": "Kuzkids",
+      "Id": 21358
+    },
+    {
+      "Name": "Dale and Roscoe Publishing",
+      "Id": 21359
+    }
+  ],
+  "ProductionCountries": [
+    {
+      "Iso_3166_1": "US",
+      "Name": "United States of America"
+    }
+  ],
+  "SpokenLanguages": [],
+  "AlternativeTitles": {
+    "Id": 289471,
+    "Titles": [
+      {
+        "Iso_3166_1": "US",
+        "Title": "Kuzpups the Musical"
+      },
+      {
+        "Iso_3166_1": "ES",
+        "Title": "Kuzpups el músico"
+      }
+    ]
+  },
+  "Releases": {
+    "Id": 289471,
+    "Countries": [
+      {
+        "Iso_3166_1": "US",
+        "Certification": "G",
+        "ReleaseDate": "2014-10-24T00:00:00"
+      }
+    ]
+  },
+  "Credits": {
+    "Id": 289471,
+    "Cast": [
+      {
+        "Id": 1318384,
+        "Name": "Charlie G",
+        "Character": "Charlie G",
+        "Order": 1,
+        "ProfilePath": "/ww6BP6IaMdvbBd2qiiDcVgcVFnU.jpg"
+      },
+      {
+        "Id": 1318374,
+        "Name": "Dale G",
+        "Character": "Dale G",
+        "Order": 2,
+        "CastId": 1
+      },
+      {
+        "Id": 1318381,
+        "Name": "Meghan H",
+        "Character": "Meghan H",
+        "Order": 3,
+        "CastId": 2
+      },
+      {
+        "Id": 1318383,
+        "Name": "Katie H",
+        "Character": "Katie H",
+        "Order": 4,
+        "CastId": 3
+      },
+      {
+        "Id": 1318380,
+        "Name": "Libby T",
+        "Character": "Libby T",
+        "Order": 5,
+        "CastId": 4
+      },
+      {
+        "Id": 1318378,
+        "Name": "Ben T",
+        "Character": "Ben T",
+        "Order": 6,
+        "CastId": 5,
+        "ProfilePath": "/1AfWVg2r4Ijd5qrQN8b9xTGe3Tu.jpg"
+      },
+      {
+        "Id": 1318379,
+        "Name": "Emma T",
+        "Character": "Emma T",
+        "Order": 7,
+        "CastId": 6,
+        "ProfilePath": "/4eKK12kzD3R6oX4u6HLfwlcy72M.jpg"
+      },
+      {
+        "Id": 1318382,
+        "Name": "Grace T",
+        "Character": "Grace T",
+        "Order": 8,
+        "CastId": 7,
+        "ProfilePath": "/btBKAeVlDO80xurzjnhGV6wNRnv.jpg"
+      },
+      {
+        "Id": 1318375,
+        "Name": "Roscoe Gray",
+        "Character": "Roscoe Gray",
+        "Order": 9,
+        "CastId": 19
+      },
+      {
+        "Id": 1358439,
+        "Name": "Missy Narcavage",
+        "Character": "Missy N",
+        "Order": 10,
+        "CastId": 20
+      },
+      {
+        "Id": 1358440,
+        "Name": "Oliver Tarnosky",
+        "Character": "Oliver",
+        "Order": 11,
+        "CastId": 21
+      },
+      {
+        "Id": 1358441,
+        "Name": "Pippin Hoehler",
+        "Character": "Pippin",
+        "Order": 12,
+        "CastId": 22
+      },
+      {
+        "Id": 1358442,
+        "Name": "Willow E",
+        "Character": "Treavor Cujo",
+        "Order": 13,
+        "CastId": 23
+      }
+    ],
+    "Crew": [
+      {
+        "Id": 1318374,
+        "Name": "Dale G",
+        "Department": "Directing",
+        "Job": "Director"
+      },
+      {
+        "Id": 1318374,
+        "Name": "Dale G",
+        "Department": "Camera",
+        "Job": "Camera Operator"
+      },
+      {
+        "Id": 1318382,
+        "Name": "Grace T",
+        "Department": "Camera",
+        "Job": "Camera Operator",
+        "ProfilePath": "/btBKAeVlDO80xurzjnhGV6wNRnv.jpg"
+      },
+      {
+        "Id": 1344517,
+        "Name": "Joe N",
+        "Department": "Production",
+        "Job": "Producer"
+      },
+      {
+        "Id": 1318381,
+        "Name": "Meghan H",
+        "Department": "Production",
+        "Job": "Producer"
+      },
+      {
+        "Id": 1318378,
+        "Name": "Ben T",
+        "Department": "Production",
+        "Job": "Producer",
+        "ProfilePath": "/1AfWVg2r4Ijd5qrQN8b9xTGe3Tu.jpg"
+      },
+      {
+        "Id": 1318374,
+        "Name": "Dale G",
+        "Department": "Editing",
+        "Job": "Editor"
+      },
+      {
+        "Id": 1318374,
+        "Name": "Dale G",
+        "Department": "Writing",
+        "Job": "Writer"
+      },
+      {
+        "Id": 1318374,
+        "Name": "Dale G",
+        "Department": "Visual Effects",
+        "Job": "Animation Director"
+      },
+      {
+        "Id": 1318375,
+        "Name": "Roscoe Gray",
+        "Department": "Editing",
+        "Job": "Editor"
+      },
+      {
+        "Id": 1318375,
+        "Name": "Roscoe Gray",
+        "Department": "Visual Effects",
+        "Job": "Animation"
+      }
+    ]
+  },
+  "Images": {
+    "Backdrops": [
+      {
+        "FilePath": "/9hn3CbAO8KWBftLhEV1gnKDQvpu.jpg",
+        "Width": 1920,
+        "Height": 1080,
+        "AspectRatio": 1.77777777777778
+      }
+    ],
+    "Posters": [
+      {
+        "FilePath": "/tOWKOZSl300673HDQBqKH0H0LGG.jpg",
+        "Width": 600,
+        "Height": 900,
+        "AspectRatio": 0.666666666666667
+      }
+    ]
+  },
+  "Keywords": {
+    "Id": 289471,
+    "Keywords": [
+      {
+        "Id": 1321,
+        "Name": "gold"
+      },
+      {
+        "Id": 1721,
+        "Name": "fight"
+      },
+      {
+        "Id": 3347,
+        "Name": "volcano"
+      },
+      {
+        "Id": 164364,
+        "Name": "vacuum cleaner"
+      }
+    ]
+  },
+  "Trailers": {
+    "Id": 289471,
+    "Quicktime": [],
+    "Youtube": [
+      {
+        "Name": "Kuzpups the Musical mini advertisement",
+        "Size": "Standard",
+        "Source": "PX7pcG5LOeQ"
+      },
+      {
+        "Name": "Kuzpups the Musical Trailer",
+        "Size": "Standard",
+        "Source": "v82GU6a3GZA"
+      },
+      {
+        "Name": "Kuzpups the Musical (Full Movie)",
+        "Size": "HD",
+        "Source": "RuWc0Hg7be4"
+      },
+      {
+        "Name": "Greenscreen footage",
+        "Size": "Standard",
+        "Source": "h0Xzz2DOJho"
+      },
+      {
+        "Name": "Pre-Production",
+        "Size": "Standard",
+        "Source": "4QaSyNCyyX4"
+      }
+    ]
+  },
+  "Translations": {
+    "Id": 289471,
+    "Translations": [
+      {
+        "Iso_639_1": "en",
+        "Name": "English",
+        "EnglishName": "English"
+      }
+    ]
+  }
+}

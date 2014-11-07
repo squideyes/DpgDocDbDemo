@@ -1,0 +1,191 @@
+{
+  "Id": 294736,
+  "ImdbId": "tt3207160",
+  "Title": "Misfire",
+  "OriginalTitle": "Misfire",
+  "Status": "Released",
+  "Tagline": "When action is the only answer.",
+  "Overview": "WKBA kickboxing champion and hard-action star Gary Daniels (The Expendables) takes to the screen in a border-crossing, barrier smashing all-action explosion that pits his will to live against the merciless murder machine of a Mexican drug cartel.  Hardened DEA agent Cole finds himself sucked into the deadly underworld of Tijuanna in search of his ex-wife, a journalist who may have gone too far in search of a story. She’s been abducted by a charismatic Cartel boss who publicly aspires to public office while privately slaughtering anyone who gets in his way. Now, in a place where two cultures clash and life is cheaper than bullets, Cole is about to discover the cost of shooting to kill when you Misfire.",
+  "PosterPath": "/4xjRZsv4URXgabmPxPPaTLNEZJw.jpg",
+  "Genres": [
+    {
+      "Id": 28,
+      "Name": "Action"
+    },
+    {
+      "Id": 53,
+      "Name": "Thriller"
+    }
+  ],
+  "ReleaseDate": "2014-10-21T00:00:00",
+  "Runtime": 85,
+  "Popularity": 0.687832425004362,
+  "VoteAverage": 4.0,
+  "VoteCount": 1,
+  "ProductionCompanies": [],
+  "ProductionCountries": [],
+  "SpokenLanguages": [
+    {
+      "Iso_639_1": "en",
+      "Name": "English"
+    }
+  ],
+  "AlternativeTitles": {
+    "Id": 294736,
+    "Titles": []
+  },
+  "Releases": {
+    "Id": 294736,
+    "Countries": [
+      {
+        "Iso_3166_1": "US",
+        "ReleaseDate": "2014-10-21T00:00:00"
+      },
+      {
+        "Iso_3166_1": "GB",
+        "Certification": "12",
+        "ReleaseDate": "2014-10-06T00:00:00"
+      }
+    ]
+  },
+  "Credits": {
+    "Id": 294736,
+    "Cast": [
+      {
+        "Id": 68559,
+        "Name": "Gary Daniels",
+        "Character": "Cole",
+        "Order": 1,
+        "ProfilePath": "/qLzJNzU1mjkywkDSwUZ3xmqGdcu.jpg"
+      },
+      {
+        "Id": 1367285,
+        "Name": "Vannessa Vasquez",
+        "Character": "Gracie",
+        "Order": 2,
+        "CastId": 1
+      },
+      {
+        "Id": 178009,
+        "Name": "Michael Greco",
+        "Character": "Johnny",
+        "Order": 3,
+        "CastId": 2,
+        "ProfilePath": "/Aemvnkj1HGRfgYPZhr3C3HZXLV4.jpg"
+      },
+      {
+        "Id": 1043808,
+        "Name": "Luis Gatica",
+        "Character": "Raul",
+        "Order": 4,
+        "CastId": 3
+      },
+      {
+        "Id": 1367286,
+        "Name": "Geoffrey Ross",
+        "Character": "Fitz",
+        "Order": 5,
+        "CastId": 4
+      },
+      {
+        "Id": 1367287,
+        "Name": "Patricia Peinado Cruz",
+        "Character": "Sarah",
+        "Order": 6,
+        "CastId": 5
+      }
+    ],
+    "Crew": [
+      {
+        "Id": 115091,
+        "Name": "R. Ellis Frazier",
+        "Department": "Directing",
+        "Job": "Director"
+      }
+    ]
+  },
+  "Images": {
+    "Backdrops": [],
+    "Posters": [
+      {
+        "FilePath": "/4xjRZsv4URXgabmPxPPaTLNEZJw.jpg",
+        "Width": 1400,
+        "Height": 2100,
+        "Iso_639_1": "en",
+        "AspectRatio": 0.666666666666667,
+        "VoteAverage": 5.3125,
+        "VoteCount": 1
+      },
+      {
+        "FilePath": "/iwYTIlaJVRzI2s7wtHvDoRzY5zL.jpg",
+        "Width": 1400,
+        "Height": 2100,
+        "Iso_639_1": "en",
+        "AspectRatio": 0.666666666666667,
+        "VoteAverage": 5.29761904761905,
+        "VoteCount": 1
+      },
+      {
+        "FilePath": "/d6owMRYXYqK3MyBb1uj43ZrAEG6.jpg",
+        "Width": 1400,
+        "Height": 2100,
+        "Iso_639_1": "en",
+        "AspectRatio": 0.666666666666667,
+        "VoteAverage": 5.26785714285714,
+        "VoteCount": 1
+      },
+      {
+        "FilePath": "/sjcT5HifJbWRzLZTT1G0PZ6HDEE.jpg",
+        "Width": 1400,
+        "Height": 2100,
+        "Iso_639_1": "en",
+        "AspectRatio": 0.666666666666667,
+        "VoteAverage": 5.26785714285714,
+        "VoteCount": 1
+      },
+      {
+        "FilePath": "/uXYQJ0l0ohIPKEGilLjjxZbd1FE.jpg",
+        "Width": 600,
+        "Height": 900,
+        "Iso_639_1": "en",
+        "AspectRatio": 0.666666666666667,
+        "VoteAverage": 5.17113095238095,
+        "VoteCount": 1
+      }
+    ]
+  },
+  "Keywords": {
+    "Id": 294736,
+    "Keywords": []
+  },
+  "Trailers": {
+    "Id": 294736,
+    "Quicktime": [],
+    "Youtube": []
+  },
+  "Translations": {
+    "Id": 294736,
+    "Translations": [
+      {
+        "Iso_639_1": "en",
+        "Name": "English",
+        "EnglishName": "English"
+      },
+      {
+        "Iso_639_1": "es",
+        "Name": "Español",
+        "EnglishName": "Spanish"
+      },
+      {
+        "Iso_639_1": "de",
+        "Name": "Deutsch",
+        "EnglishName": "German"
+      },
+      {
+        "Iso_639_1": "nl",
+        "Name": "Nederlands",
+        "EnglishName": "Dutch"
+      }
+    ]
+  }
+}

@@ -1,0 +1,213 @@
+{
+  "Id": 277547,
+  "ImdbId": "tt2139555",
+  "Title": "Playing It Cool",
+  "OriginalTitle": "Playing It Cool",
+  "Status": "Post Production",
+  "Overview": "The story of a young man disillusioned by love who meets a breathtaking young woman at a charity dinner by pretending to be a philanthropist. Turns out that she’s engaged to a guy who doesn’t like her going on dates. Challenged by the chase, and egged on by his eclectic friends, he feigns a platonic relationship in order to keep seeing her as he tries to conquer her heart",
+  "BackdropPath": "/p2xsKjitpliqyfZCYmbfTpuPDk0.jpg",
+  "PosterPath": "/8Du2oygSMUgicUUihRE1ePZZzhH.jpg",
+  "Genres": [
+    {
+      "Id": 35,
+      "Name": "Comedy"
+    },
+    {
+      "Id": 10749,
+      "Name": "Romance"
+    }
+  ],
+  "ReleaseDate": "2014-10-22T00:00:00",
+  "Runtime": 0,
+  "Popularity": 1.2842660664219,
+  "VoteAverage": 8.0,
+  "VoteCount": 1,
+  "ProductionCompanies": [],
+  "ProductionCountries": [
+    {
+      "Iso_3166_1": "US",
+      "Name": "United States of America"
+    }
+  ],
+  "SpokenLanguages": [
+    {
+      "Iso_639_1": "en",
+      "Name": "English"
+    }
+  ],
+  "AlternativeTitles": {
+    "Id": 277547,
+    "Titles": []
+  },
+  "Releases": {
+    "Id": 277547,
+    "Countries": [
+      {
+        "Iso_3166_1": "US",
+        "ReleaseDate": "2014-10-22T00:00:00"
+      },
+      {
+        "Iso_3166_1": "BG",
+        "Certification": "C",
+        "ReleaseDate": "2014-11-14T00:00:00"
+      }
+    ]
+  },
+  "Credits": {
+    "Id": 277547,
+    "Cast": [
+      {
+        "Id": 16828,
+        "Name": "Chris Evans",
+        "Character": "Narrator",
+        "Order": 1,
+        "CastId": 3,
+        "ProfilePath": "/ueIzur9vURNLoqZCdfWltnpuZTq.jpg"
+      },
+      {
+        "Id": 11705,
+        "Name": "Michelle Monaghan",
+        "Order": 2,
+        "CastId": 4,
+        "ProfilePath": "/9W7xBcdBeFjoZVCwP2iROk1jtkV.jpg"
+      },
+      {
+        "Id": 41089,
+        "Name": "Martin Starr",
+        "Order": 3,
+        "CastId": 5,
+        "ProfilePath": "/rpjKbiS2z4miGHTXbndlSzl7Xnk.jpg"
+      },
+      {
+        "Id": 119592,
+        "Name": "Aubrey Plaza",
+        "Order": 4,
+        "CastId": 6,
+        "ProfilePath": "/2XGSggdxneGZM7zkyuWfIs5VdKr.jpg"
+      },
+      {
+        "Id": 1771,
+        "Name": "Giovanni Ribisi",
+        "Order": 5,
+        "CastId": 7,
+        "ProfilePath": "/mLQrEU7X7GD5V7i1clGRqpg8PVk.jpg"
+      },
+      {
+        "Id": 67600,
+        "Name": "Ashley Tisdale",
+        "Order": 6,
+        "CastId": 8,
+        "ProfilePath": "/ysrSDV4QctmpMyVTwGnowKEOVqW.jpg"
+      },
+      {
+        "Id": 9657,
+        "Name": "Patrick Warburton",
+        "Order": 7,
+        "CastId": 9,
+        "ProfilePath": "/cq8zZ6YfBrq2k4F4aHYLSP9QOJS.jpg"
+      },
+      {
+        "Id": 17052,
+        "Name": "Topher Grace",
+        "Order": 8,
+        "CastId": 10,
+        "ProfilePath": "/nM4H9Uqn2V4shWCxxnDqT6ZaJOu.jpg"
+      },
+      {
+        "Id": 53650,
+        "Name": "Anthony Mackie",
+        "Order": 9,
+        "CastId": 11,
+        "ProfilePath": "/5VGGJ0Co8SC94iiedWb2o3C36T.jpg"
+      },
+      {
+        "Id": 65524,
+        "Name": "Ioan Gruffudd",
+        "Order": 10,
+        "CastId": 12,
+        "ProfilePath": "/i55A4qrsbXaJYIZqrywZE0xwErt.jpg"
+      },
+      {
+        "Id": 36422,
+        "Name": "Luke Wilson",
+        "Character": "Samson",
+        "Order": 11,
+        "CastId": 13,
+        "ProfilePath": "/n7CRA7h1z3FVOzBJ5EjfSrPQbvl.jpg"
+      }
+    ],
+    "Crew": [
+      {
+        "Id": 1331991,
+        "Name": "Justin Reardon",
+        "Department": "Directing",
+        "Job": "Director"
+      },
+      {
+        "Id": 1331992,
+        "Name": "Chris Shafer",
+        "Department": "Writing",
+        "Job": "Screenplay"
+      },
+      {
+        "Id": 1331993,
+        "Name": "Paul Vicknair",
+        "Department": "Writing",
+        "Job": "Screenplay"
+      }
+    ]
+  },
+  "Images": {
+    "Backdrops": [
+      {
+        "FilePath": "/p2xsKjitpliqyfZCYmbfTpuPDk0.jpg",
+        "Width": 1280,
+        "Height": 720,
+        "AspectRatio": 1.77777777777778
+      }
+    ],
+    "Posters": [
+      {
+        "FilePath": "/8Du2oygSMUgicUUihRE1ePZZzhH.jpg",
+        "Width": 600,
+        "Height": 894,
+        "Iso_639_1": "en",
+        "AspectRatio": 0.671140939597315
+      }
+    ]
+  },
+  "Keywords": {
+    "Id": 277547,
+    "Keywords": []
+  },
+  "Trailers": {
+    "Id": 277547,
+    "Quicktime": [],
+    "Youtube": []
+  },
+  "Translations": {
+    "Id": 277547,
+    "Translations": [
+      {
+        "Iso_639_1": "en",
+        "Name": "English",
+        "EnglishName": "English"
+      },
+      {
+        "Iso_639_1": "bg",
+        "Name": "български език",
+        "EnglishName": "Bulgarian"
+      },
+      {
+        "Iso_639_1": "fr",
+        "Name": "Français",
+        "EnglishName": "French"
+      },
+      {
+        "Iso_639_1": "el",
+        "Name": "ελληνικά",
+        "EnglishName": "Greek"
+      }
+    ]
+  }
+}

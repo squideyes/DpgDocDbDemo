@@ -1,0 +1,62 @@
+{
+  "Id": 298438,
+  "Title": "We Had the Experience but Missed the Meaning",
+  "OriginalTitle": "We Had the Experience but Missed the Meaning",
+  "Status": "Released",
+  "Overview": "Crossing desert and sea, screen and page, between Los Angeles and San Diego, and a moment in a story by Adolfo Bioy Casares.",
+  "Genres": [],
+  "ReleaseDate": "2014-10-19T00:00:00",
+  "Runtime": 8,
+  "Popularity": 0.240163464043918,
+  "ProductionCompanies": [],
+  "ProductionCountries": [],
+  "SpokenLanguages": [],
+  "AlternativeTitles": {
+    "Id": 298438,
+    "Titles": []
+  },
+  "Releases": {
+    "Id": 298438,
+    "Countries": [
+      {
+        "Iso_3166_1": "US",
+        "ReleaseDate": "2014-10-19T00:00:00"
+      }
+    ]
+  },
+  "Credits": {
+    "Id": 298438,
+    "Cast": [],
+    "Crew": [
+      {
+        "Id": 1277877,
+        "Name": "Laida Lertxundi",
+        "Department": "Directing",
+        "Job": "Director"
+      }
+    ]
+  },
+  "Images": {
+    "Backdrops": [],
+    "Posters": []
+  },
+  "Keywords": {
+    "Id": 298438,
+    "Keywords": []
+  },
+  "Trailers": {
+    "Id": 298438,
+    "Quicktime": [],
+    "Youtube": []
+  },
+  "Translations": {
+    "Id": 298438,
+    "Translations": [
+      {
+        "Iso_639_1": "en",
+        "Name": "English",
+        "EnglishName": "English"
+      }
+    ]
+  }
+}

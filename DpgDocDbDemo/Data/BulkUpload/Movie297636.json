@@ -1,0 +1,321 @@
+{
+  "Id": 297636,
+  "ImdbId": "tt3177720",
+  "Title": "Landauer",
+  "OriginalTitle": "Landauer - Der Präsident",
+  "Status": "Released",
+  "Overview": "The story of former Bayern Munich president Kurt Landauer, a Bavarian jew ousted by the National Socialists and brought to the concentration camp of Dachau, where he survived to come back and start to rebuild his old club after World War II.",
+  "Homepage": "http://www.kurtlandauer.de",
+  "BackdropPath": "/4TZmbKtlU19ZlX5nGFBKZAvtL0h.jpg",
+  "PosterPath": "/9HUbS10hXNQ6GvsEF4l8hj2xQ0O.jpg",
+  "Genres": [
+    {
+      "Id": 18,
+      "Name": "Drama"
+    },
+    {
+      "Id": 10770,
+      "Name": "TV Movie"
+    }
+  ],
+  "ReleaseDate": "2014-10-15T00:00:00",
+  "Budget": 6400000,
+  "Runtime": 89,
+  "Popularity": 0.449564124439194,
+  "ProductionCompanies": [
+    {
+      "Name": "Zeitsprung Pictures",
+      "Id": 35389
+    }
+  ],
+  "ProductionCountries": [
+    {
+      "Iso_3166_1": "DE",
+      "Name": "Germany"
+    }
+  ],
+  "SpokenLanguages": [
+    {
+      "Iso_639_1": "de",
+      "Name": "Deutsch"
+    }
+  ],
+  "AlternativeTitles": {
+    "Id": 297636,
+    "Titles": []
+  },
+  "Releases": {
+    "Id": 297636,
+    "Countries": [
+      {
+        "Iso_3166_1": "DE",
+        "ReleaseDate": "2014-10-15T00:00:00"
+      }
+    ]
+  },
+  "Credits": {
+    "Id": 297636,
+    "Cast": [
+      {
+        "Id": 11610,
+        "Name": "Josef Bierbichler",
+        "Character": "Kurt Landauer",
+        "ProfilePath": "/70QfluR686mnu9VB5e9egdnG5Nq.jpg"
+      },
+      {
+        "Id": 49018,
+        "Name": "Jeanette Hain",
+        "Character": "Maria Baumann",
+        "Order": 1,
+        "CastId": 1,
+        "ProfilePath": "/ltjkltILmKWksGSzBMVJNwjkdnd.jpg"
+      },
+      {
+        "Id": 1081,
+        "Name": "Herbert Knaup",
+        "Character": "Sigi Hermann",
+        "Order": 2,
+        "CastId": 28,
+        "ProfilePath": "/cH0TG69o6Sc6of7ZaZP9BwQ3tHX.jpg"
+      },
+      {
+        "Id": 78233,
+        "Name": "Andreas Lust",
+        "Character": "Conny Heidkamp",
+        "Order": 4,
+        "CastId": 3
+      },
+      {
+        "Id": 929427,
+        "Name": "Andrea Wenzl",
+        "Character": "Inge Streicher",
+        "Order": 5,
+        "CastId": 4
+      },
+      {
+        "Id": 49704,
+        "Name": "Eisi Gulp",
+        "Character": "Radschuweit",
+        "Order": 6,
+        "CastId": 5
+      },
+      {
+        "Id": 1374402,
+        "Name": "Bernhard Butz",
+        "Character": "Goschner",
+        "Order": 7,
+        "CastId": 6
+      },
+      {
+        "Id": 94251,
+        "Name": "Markus Böker",
+        "Character": "Colonel Kronbaum",
+        "Order": 8,
+        "CastId": 7,
+        "ProfilePath": "/iG3pxH4hSnZ6fcFEcNDKT0vShqF.jpg"
+      },
+      {
+        "Id": 1323749,
+        "Name": "Daniel Christensen",
+        "Character": "Bayern player 3",
+        "Order": 9,
+        "CastId": 8
+      },
+      {
+        "Id": 78231,
+        "Name": "Johannes Krisch",
+        "Character": "Möllinger",
+        "Order": 10,
+        "CastId": 9
+      },
+      {
+        "Id": 72597,
+        "Name": "Andreas Lechner",
+        "Character": "Wirt Wehmeier",
+        "Order": 11,
+        "CastId": 10
+      },
+      {
+        "Id": 36867,
+        "Name": "Thomas Meinhardt",
+        "Character": "SS-Mann",
+        "Order": 12,
+        "CastId": 11
+      },
+      {
+        "Id": 1374403,
+        "Name": "Martin Möllinger",
+        "Character": "Johannes Lechner",
+        "Order": 13,
+        "CastId": 12
+      },
+      {
+        "Id": 1374404,
+        "Name": "Lukas Ober",
+        "Character": "Uri Siegl",
+        "Order": 14,
+        "CastId": 13
+      },
+      {
+        "Id": 1374405,
+        "Name": "Hubert Pöllmann",
+        "Character": "heckler",
+        "Order": 15,
+        "CastId": 14
+      },
+      {
+        "Id": 1374406,
+        "Name": "Matthias Ransberger",
+        "Character": "Bayern player 2",
+        "Order": 16,
+        "CastId": 15
+      },
+      {
+        "Id": 1374407,
+        "Name": "Alexander Reichtmayer",
+        "Character": "Small Pole",
+        "Order": 17,
+        "CastId": 16
+      },
+      {
+        "Id": 1291449,
+        "Name": "Harry Täschner",
+        "Character": "Karl Scharnagl",
+        "Order": 18,
+        "CastId": 17
+      },
+      {
+        "Id": 1374410,
+        "Name": "Leni Wesselman",
+        "Character": "Sekretärin Scharnagl",
+        "Order": 19,
+        "CastId": 18
+      },
+      {
+        "Id": 1374412,
+        "Name": "Billie Zöckler",
+        "Character": "Old Woman",
+        "Order": 20,
+        "CastId": 19
+      }
+    ],
+    "Crew": [
+      {
+        "Id": 74008,
+        "Name": "Hans Steinbichler",
+        "Department": "Directing",
+        "Job": "Director"
+      },
+      {
+        "Id": 1323343,
+        "Name": "Dirk Kämper",
+        "Department": "Writing",
+        "Job": "Writer"
+      },
+      {
+        "Id": 1374414,
+        "Name": "Cornelius Conrad",
+        "Department": "Crew",
+        "Job": "Commissioning Editor"
+      },
+      {
+        "Id": 239809,
+        "Name": "Till Derenbach",
+        "Department": "Production",
+        "Job": "Line Producer"
+      },
+      {
+        "Id": 1374415,
+        "Name": "Karoline Gees",
+        "Department": "Production",
+        "Job": "Producer"
+      },
+      {
+        "Id": 22693,
+        "Name": "Mark Horyna",
+        "Department": "Production",
+        "Job": "Producer"
+      },
+      {
+        "Id": 193542,
+        "Name": "Daniel Mann",
+        "Department": "Writing",
+        "Job": "Creative Producer"
+      },
+      {
+        "Id": 22694,
+        "Name": "Michael Souvignier",
+        "Department": "Production",
+        "Job": "Producer"
+      }
+    ]
+  },
+  "Images": {
+    "Backdrops": [
+      {
+        "FilePath": "/4TZmbKtlU19ZlX5nGFBKZAvtL0h.jpg",
+        "Width": 1280,
+        "Height": 720,
+        "AspectRatio": 1.77777777777778
+      }
+    ],
+    "Posters": [
+      {
+        "FilePath": "/9HUbS10hXNQ6GvsEF4l8hj2xQ0O.jpg",
+        "Width": 922,
+        "Height": 1229,
+        "AspectRatio": 0.75020341741253
+      }
+    ]
+  },
+  "Keywords": {
+    "Id": 297636,
+    "Keywords": [
+      {
+        "Id": 2606,
+        "Name": "jew"
+      },
+      {
+        "Id": 5565,
+        "Name": "biography"
+      },
+      {
+        "Id": 10117,
+        "Name": "football"
+      },
+      {
+        "Id": 11054,
+        "Name": "sports"
+      },
+      {
+        "Id": 192500,
+        "Name": "world war"
+      },
+      {
+        "Id": 207689,
+        "Name": "bayern munich"
+      }
+    ]
+  },
+  "Trailers": {
+    "Id": 297636,
+    "Quicktime": [],
+    "Youtube": [
+      {
+        "Name": "Landauer - Der Präsident (Trailer)",
+        "Size": "HD",
+        "Source": "nimpWjLIkiQ"
+      }
+    ]
+  },
+  "Translations": {
+    "Id": 297636,
+    "Translations": [
+      {
+        "Iso_639_1": "en",
+        "Name": "English",
+        "EnglishName": "English"
+      }
+    ]
+  }
+}

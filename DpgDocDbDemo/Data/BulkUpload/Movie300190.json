@@ -1,0 +1,100 @@
+{
+  "Id": 300190,
+  "Title": "lynda.com: Foundations Of Programming [fundamentals]",
+  "OriginalTitle": "lynda.com: Foundations Of Programming [fundamentals]",
+  "Status": "Released",
+  "Tagline": "lynda.com: Foundations Of Programming [fundamentals]",
+  "Overview": "This course provides the core knowledge to begin programming in any language. Simon Allardice uses JavaScript to explore the core syntax of a programming language, and shows how to write and execute your first application and understand what's going on under the hood. The course covers creating small programs to explore conditions, loops, variables, and expressions; working with different kinds of data and seeing how they affect memory; writing modular code; and how to debug, all using different approaches to constructing software applications.  Finally, the course compares how code is written in several different languages, the libraries and frameworks that have grown around them, and the reasons to choose each one.",
+  "Homepage": "http://www.lynda.com",
+  "BackdropPath": "/g1CAhSk10tWEKJXawg94x1XAsqS.jpg",
+  "PosterPath": "/p7wdkmS1EpOOTwvvzrf8nI4SW9e.jpg",
+  "Genres": [],
+  "ReleaseDate": "2014-10-31T00:00:00",
+  "Runtime": 100,
+  "Popularity": 1.104785,
+  "VoteAverage": 9.0,
+  "VoteCount": 1,
+  "ProductionCompanies": [],
+  "ProductionCountries": [
+    {
+      "Iso_3166_1": "US",
+      "Name": "United States of America"
+    }
+  ],
+  "SpokenLanguages": [
+    {
+      "Iso_639_1": "en",
+      "Name": "English"
+    }
+  ],
+  "AlternativeTitles": {
+    "Id": 300190,
+    "Titles": [
+      {
+        "Iso_3166_1": "US",
+        "Title": "Foundations Of Programming: fundamentals"
+      }
+    ]
+  },
+  "Releases": {
+    "Id": 300190,
+    "Countries": [
+      {
+        "Iso_3166_1": "US",
+        "Certification": "PG-13",
+        "ReleaseDate": "2014-10-31T00:00:00"
+      }
+    ]
+  },
+  "Credits": {
+    "Id": 300190,
+    "Cast": [],
+    "Crew": []
+  },
+  "Images": {
+    "Backdrops": [
+      {
+        "FilePath": "/g1CAhSk10tWEKJXawg94x1XAsqS.jpg",
+        "Width": 1280,
+        "Height": 720,
+        "AspectRatio": 1.77777777777778
+      }
+    ],
+    "Posters": [
+      {
+        "FilePath": "/p7wdkmS1EpOOTwvvzrf8nI4SW9e.jpg",
+        "Width": 1000,
+        "Height": 1500,
+        "AspectRatio": 0.666666666666667
+      }
+    ]
+  },
+  "Keywords": {
+    "Id": 300190,
+    "Keywords": [
+      {
+        "Id": 196056,
+        "Name": "computer programming"
+      },
+      {
+        "Id": 208188,
+        "Name": "java"
+      }
+    ]
+  },
+  "Trailers": {
+    "Id": 300190,
+    "Quicktime": [],
+    "Youtube": []
+  },
+  "Translations": {
+    "Id": 300190,
+    "Translations": [
+      {
+        "Iso_639_1": "en",
+        "Name": "English",
+        "EnglishName": "English"
+      }
+    ]
+  }
+}

@@ -1,0 +1,105 @@
+{
+  "Id": 300403,
+  "ImdbId": "tt2390792",
+  "Title": "Shana, das Wolfsmädchen",
+  "OriginalTitle": "Shana, das Wolfsmädchen",
+  "Status": "Released",
+  "BackdropPath": "/cxATdAKTMSWAOeB6EZKsLJvuaD.jpg",
+  "PosterPath": "/rsDbh0Xlms76FC8mCriJxPCSjqj.jpg",
+  "Genres": [
+    {
+      "Id": 12,
+      "Name": "Adventure"
+    },
+    {
+      "Id": 18,
+      "Name": "Drama"
+    },
+    {
+      "Id": 10402,
+      "Name": "Music"
+    }
+  ],
+  "ReleaseDate": "2014-11-01T00:00:00",
+  "Popularity": 1.31589,
+  "ProductionCompanies": [],
+  "ProductionCountries": [],
+  "SpokenLanguages": [
+    {
+      "Iso_639_1": "fr",
+      "Name": "Français"
+    },
+    {
+      "Iso_639_1": "en",
+      "Name": "English"
+    },
+    {
+      "Iso_639_1": "de",
+      "Name": "Deutsch"
+    }
+  ],
+  "AlternativeTitles": {
+    "Id": 300403,
+    "Titles": [
+      {
+        "Iso_3166_1": "SZ",
+        "Title": "SHANA - The Wolf's Music"
+      },
+      {
+        "Iso_3166_1": "DE",
+        "Title": "Shana - Das Wolfsmädchen"
+      }
+    ]
+  },
+  "Releases": {
+    "Id": 300403,
+    "Countries": [
+      {
+        "Iso_3166_1": "DE",
+        "ReleaseDate": "2014-11-01T00:00:00"
+      }
+    ]
+  },
+  "Credits": {
+    "Id": 300403,
+    "Cast": [],
+    "Crew": []
+  },
+  "Images": {
+    "Backdrops": [
+      {
+        "FilePath": "/cxATdAKTMSWAOeB6EZKsLJvuaD.jpg",
+        "Width": 1280,
+        "Height": 720,
+        "AspectRatio": 1.77777777777778
+      }
+    ],
+    "Posters": [
+      {
+        "FilePath": "/rsDbh0Xlms76FC8mCriJxPCSjqj.jpg",
+        "Width": 500,
+        "Height": 750,
+        "AspectRatio": 0.666666666666667
+      }
+    ]
+  },
+  "Keywords": {
+    "Id": 300403,
+    "Keywords": []
+  },
+  "Trailers": {
+    "Id": 300403,
+    "Quicktime": [],
+    "Youtube": []
+  },
+  "Translations": {
+    "Id": 300403,
+    "Translations": [
+      {
+        "Iso_639_1": "de",
+        "Name": "Deutsch",
+        "EnglishName": "German"
+      }
+    ]
+  }
+}

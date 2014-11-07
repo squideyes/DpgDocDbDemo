@@ -1,0 +1,220 @@
+{
+  "Id": 254323,
+  "ImdbId": "tt3469918",
+  "Title": "Jack",
+  "OriginalTitle": "Jack",
+  "Status": "Released",
+  "Overview": "Although he is only ten years old, Jack is responsible for himself and his little brother Manuel and this fills him with pride. Their single mother works during the day and often goes out at night. There’s no father in sight. One day, Manuel burns himself with boiling hot water while bathing and Jack is blamed for the incident. It's reason enough for social services to put him in a home where he is dreadfully homesick. He soon gets into trouble and bolts, heading for home. He arrives back, only to find his mother is once again absent. Jack and Manuel roam the city in search of her. They sleep in parks and in an underground car park, run away from the police and encounter adults, some of whom help and others who are indifferent.",
+  "Homepage": "http://www.jack-film.de/",
+  "BackdropPath": "/rnctGTCAuMeoEJTKorT6uk2r9iS.jpg",
+  "PosterPath": "/2L0HNaffFLLhYWwkWdqt47k2Z4W.jpg",
+  "Genres": [
+    {
+      "Id": 18,
+      "Name": "Drama"
+    }
+  ],
+  "ReleaseDate": "2014-10-09T00:00:00",
+  "Runtime": 103,
+  "Popularity": 0.222411930962705,
+  "ProductionCompanies": [],
+  "ProductionCountries": [
+    {
+      "Iso_3166_1": "DE",
+      "Name": "Germany"
+    }
+  ],
+  "SpokenLanguages": [
+    {
+      "Iso_639_1": "de",
+      "Name": "Deutsch"
+    }
+  ],
+  "AlternativeTitles": {
+    "Id": 254323,
+    "Titles": []
+  },
+  "Releases": {
+    "Id": 254323,
+    "Countries": [
+      {
+        "Iso_3166_1": "DE",
+        "Certification": "6",
+        "ReleaseDate": "2014-10-09T00:00:00"
+      }
+    ]
+  },
+  "Credits": {
+    "Id": 254323,
+    "Cast": [
+      {
+        "Id": 1290504,
+        "Name": "Ivo Pietzcker",
+        "Character": "Jack",
+        "CastId": 4
+      },
+      {
+        "Id": 1290505,
+        "Name": "Georg Arms",
+        "Character": "Manuel",
+        "Order": 1,
+        "CastId": 5
+      },
+      {
+        "Id": 1290506,
+        "Name": "Jodine Johne",
+        "Order": 2,
+        "CastId": 6
+      },
+      {
+        "Id": 1290507,
+        "Name": "Johann Fohl",
+        "Character": "Polizist",
+        "Order": 3,
+        "CastId": 7
+      },
+      {
+        "Id": 583034,
+        "Name": "Luise Heyer",
+        "Character": "Sanna",
+        "Order": 4,
+        "CastId": 8
+      },
+      {
+        "Id": 1290508,
+        "Name": "Johannes Langer",
+        "Character": "Herr Beck",
+        "Order": 5,
+        "CastId": 9
+      },
+      {
+        "Id": 52722,
+        "Name": "Jacob Matschenz",
+        "Character": "Philipp",
+        "Order": 6,
+        "CastId": 10,
+        "ProfilePath": "/7TjZ9BDZckXx7DvK7BJ6fbQq5oj.jpg"
+      },
+      {
+        "Id": 557955,
+        "Name": "Nele Mueller-Stöfen",
+        "Character": "Becki",
+        "Order": 7,
+        "CastId": 11
+      },
+      {
+        "Id": 5514,
+        "Name": "Vincent Redetzki",
+        "Character": "Jonas",
+        "Order": 8,
+        "CastId": 12
+      },
+      {
+        "Id": 1290509,
+        "Name": "Sebastian Stielke",
+        "Character": "Passant Steurink",
+        "Order": 9,
+        "CastId": 13
+      }
+    ],
+    "Crew": [
+      {
+        "Id": 221522,
+        "Name": "Edward Berger",
+        "Department": "Directing",
+        "Job": "Director"
+      },
+      {
+        "Id": 221522,
+        "Name": "Edward Berger",
+        "Department": "Writing",
+        "Job": "Screenplay"
+      },
+      {
+        "Id": 557955,
+        "Name": "Nele Mueller-Stöfen",
+        "Department": "Writing",
+        "Job": "Screenplay"
+      }
+    ]
+  },
+  "Images": {
+    "Backdrops": [
+      {
+        "FilePath": "/rnctGTCAuMeoEJTKorT6uk2r9iS.jpg",
+        "Width": 2048,
+        "Height": 1152,
+        "AspectRatio": 1.77777777777778
+      },
+      {
+        "FilePath": "/vqTCLRdB8F0kgs63rANHfgyBzl4.jpg",
+        "Width": 2048,
+        "Height": 1152,
+        "AspectRatio": 1.77777777777778
+      },
+      {
+        "FilePath": "/3OKjB3TVI4mPywA1lzNOJLi5cH1.jpg",
+        "Width": 2048,
+        "Height": 1152,
+        "AspectRatio": 1.77777777777778
+      },
+      {
+        "FilePath": "/wabfDbfF0PmaEu8q7zoeVqFFEB.jpg",
+        "Width": 2048,
+        "Height": 1152,
+        "AspectRatio": 1.77777777777778
+      },
+      {
+        "FilePath": "/i1cVrWY4gZet1Vy3oZw7dI1lA4Z.jpg",
+        "Width": 2048,
+        "Height": 1152,
+        "AspectRatio": 1.77777777777778
+      },
+      {
+        "FilePath": "/4hqScDXcqZYgYXzgGuyLSC7Z59k.jpg",
+        "Width": 2048,
+        "Height": 1152,
+        "AspectRatio": 1.77777777777778
+      }
+    ],
+    "Posters": [
+      {
+        "FilePath": "/2L0HNaffFLLhYWwkWdqt47k2Z4W.jpg",
+        "Width": 572,
+        "Height": 809,
+        "AspectRatio": 0.707045735475896
+      },
+      {
+        "FilePath": "/Any5hs05z1Uz7dY3f2SLWE4CkMS.jpg",
+        "Width": 1600,
+        "Height": 2265,
+        "Iso_639_1": "de",
+        "AspectRatio": 0.706401766004415
+      }
+    ]
+  },
+  "Keywords": {
+    "Id": 254323,
+    "Keywords": []
+  },
+  "Trailers": {
+    "Id": 254323,
+    "Quicktime": [],
+    "Youtube": []
+  },
+  "Translations": {
+    "Id": 254323,
+    "Translations": [
+      {
+        "Iso_639_1": "en",
+        "Name": "English",
+        "EnglishName": "English"
+      },
+      {
+        "Iso_639_1": "de",
+        "Name": "Deutsch",
+        "EnglishName": "German"
+      }
+    ]
+  }
+}

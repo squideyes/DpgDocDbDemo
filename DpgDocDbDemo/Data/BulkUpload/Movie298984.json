@@ -1,0 +1,102 @@
+{
+  "Id": 298984,
+  "Title": "Hasse Brontén - Live från Gröna Lundsteatern",
+  "OriginalTitle": "Hasse Brontén - Live från Gröna Lundsteatern",
+  "Status": "Released",
+  "Overview": "Comedian Hasse Bronten ,former police who changed career to comedian, appearing at Gröna Lund Theatre. Hasse has collected his best jokes and packed them into a wonderfully fun show .",
+  "BackdropPath": "/6v1EJz44FOXpYJxycgCZIYwKG09.jpg",
+  "PosterPath": "/wNX2zpb6pW0VrZifuyLjLZuExoe.jpg",
+  "Genres": [
+    {
+      "Id": 35,
+      "Name": "Comedy"
+    }
+  ],
+  "ReleaseDate": "2014-10-19T00:00:00",
+  "Runtime": 44,
+  "Popularity": 0.38418010491,
+  "VoteAverage": 6.5,
+  "VoteCount": 1,
+  "ProductionCompanies": [],
+  "ProductionCountries": [],
+  "SpokenLanguages": [
+    {
+      "Iso_639_1": "sv",
+      "Name": "svenska"
+    }
+  ],
+  "AlternativeTitles": {
+    "Id": 298984,
+    "Titles": []
+  },
+  "Releases": {
+    "Id": 298984,
+    "Countries": [
+      {
+        "Iso_3166_1": "SE",
+        "ReleaseDate": "2014-10-19T00:00:00"
+      }
+    ]
+  },
+  "Credits": {
+    "Id": 298984,
+    "Cast": [
+      {
+        "Id": 117332,
+        "Name": "Hasse Brontén",
+        "Character": "Hasse Brontén",
+        "Order": 1,
+        "ProfilePath": "/vcaKo2s7Czlg6aT3pqP1vF0IBcO.jpg"
+      }
+    ],
+    "Crew": []
+  },
+  "Images": {
+    "Backdrops": [
+      {
+        "FilePath": "/6v1EJz44FOXpYJxycgCZIYwKG09.jpg",
+        "Width": 1280,
+        "Height": 720,
+        "AspectRatio": 1.77777777777778
+      }
+    ],
+    "Posters": [
+      {
+        "FilePath": "/wNX2zpb6pW0VrZifuyLjLZuExoe.jpg",
+        "Width": 500,
+        "Height": 750,
+        "Iso_639_1": "sv",
+        "AspectRatio": 0.666666666666667
+      }
+    ]
+  },
+  "Keywords": {
+    "Id": 298984,
+    "Keywords": [
+      {
+        "Id": 199355,
+        "Name": "stand-up comedy"
+      }
+    ]
+  },
+  "Trailers": {
+    "Id": 298984,
+    "Quicktime": [],
+    "Youtube": []
+  },
+  "Translations": {
+    "Id": 298984,
+    "Translations": [
+      {
+        "Iso_639_1": "en",
+        "Name": "English",
+        "EnglishName": "English"
+      },
+      {
+        "Iso_639_1": "sv",
+        "Name": "svenska",
+        "EnglishName": "Swedish"
+      }
+    ]
+  }
+}

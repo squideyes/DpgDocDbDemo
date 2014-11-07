@@ -1,0 +1,64 @@
+{
+  "Id": 299100,
+  "ImdbId": "tt3885320",
+  "Title": "The Sickness of Lucius Frost",
+  "OriginalTitle": "The Sickness of Lucius Frost",
+  "Status": "Released",
+  "Overview": "Imagine you waken to find yourself in a strange, decaying new land. Only, this new homeland is a breeding ground for the damned...evil spirits roam about, torturing the scattered few innocents hiding in it's hills. The unfortunate discover that at night, the worst of these beasts are released. This is now the existence of one Lucius Frost, a writer who uses his writing to exist in this hellish environment. A road that heads out of the hills leads through the rumored haunted highway, but the few who have trekked this path have never returned. What happened to them? On the brink of insanity, Lucius is forced to find out, accompanied by his spirit guide Aandeg. What they discover will be beyond their worst nightmares, and possibly open more doors than they wished to have found.",
+  "PosterPath": "/gOxliidimBdAZ95S8fEscGpzXkt.jpg",
+  "Genres": [],
+  "ReleaseDate": "2014-10-26T00:00:00",
+  "Runtime": 80,
+  "Popularity": 0.62135564011,
+  "ProductionCompanies": [],
+  "ProductionCountries": [],
+  "SpokenLanguages": [],
+  "AlternativeTitles": {
+    "Id": 299100,
+    "Titles": []
+  },
+  "Releases": {
+    "Id": 299100,
+    "Countries": [
+      {
+        "Iso_3166_1": "US",
+        "ReleaseDate": "2014-10-26T00:00:00"
+      }
+    ]
+  },
+  "Credits": {
+    "Id": 299100,
+    "Cast": [],
+    "Crew": []
+  },
+  "Images": {
+    "Backdrops": [],
+    "Posters": [
+      {
+        "FilePath": "/gOxliidimBdAZ95S8fEscGpzXkt.jpg",
+        "Width": 2000,
+        "Height": 2952,
+        "AspectRatio": 0.677506775067751
+      }
+    ]
+  },
+  "Keywords": {
+    "Id": 299100,
+    "Keywords": []
+  },
+  "Trailers": {
+    "Id": 299100,
+    "Quicktime": [],
+    "Youtube": []
+  },
+  "Translations": {
+    "Id": 299100,
+    "Translations": [
+      {
+        "Iso_639_1": "en",
+        "Name": "English",
+        "EnglishName": "English"
+      }
+    ]
+  }
+}

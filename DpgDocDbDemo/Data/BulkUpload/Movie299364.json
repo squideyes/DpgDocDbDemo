@@ -1,0 +1,194 @@
+{
+  "Id": 299364,
+  "ImdbId": "tt4147074",
+  "Title": "Un parallèle plus tard",
+  "OriginalTitle": "Un parallèle plus tard",
+  "Status": "Released",
+  "Overview": "Léandre is a Montreal computer scientist in charge of the protection of the Minister of Public Safety. After selling secret information to the Mafia, he realizes he’s been directly implicated in an attack on the politician. If things weren't bad enough, Léandre ends up in the hospital because of awfully painful kidney stones. He then decides to leave his problems and his girlfriend behind to find refuge with his aunt in his small hometown of Havre-St-Pierre. Hiding from everyone that he’s wanted by the police, Léandre renews his relationships with his childhood friends and his childhood sweetheart, Ève.",
+  "BackdropPath": "/y9RZBf8ZUTVqFrhGmZdKhSMZFRJ.jpg",
+  "PosterPath": "/lGpwGJ8CMhcGKaxZnA9EGagyOVG.jpg",
+  "Genres": [
+    {
+      "Id": 18,
+      "Name": "Drama"
+    }
+  ],
+  "ReleaseDate": "2014-10-24T00:00:00",
+  "Runtime": 83,
+  "Popularity": 0.4198084215,
+  "ProductionCompanies": [
+    {
+      "Name": "1976 Productions",
+      "Id": 7824
+    }
+  ],
+  "ProductionCountries": [
+    {
+      "Iso_3166_1": "CA",
+      "Name": "Canada"
+    }
+  ],
+  "SpokenLanguages": [
+    {
+      "Iso_639_1": "fr",
+      "Name": "Français"
+    }
+  ],
+  "AlternativeTitles": {
+    "Id": 299364,
+    "Titles": []
+  },
+  "Releases": {
+    "Id": 299364,
+    "Countries": [
+      {
+        "Iso_3166_1": "CA",
+        "ReleaseDate": "2014-10-24T00:00:00"
+      }
+    ]
+  },
+  "Credits": {
+    "Id": 299364,
+    "Cast": [
+      {
+        "Id": 145457,
+        "Name": "Sophie Desmarais",
+        "Character": "Ève",
+        "Order": 1,
+        "ProfilePath": "/2UDtObCYSI2sr7rDY6BaHR7EorE.jpg"
+      },
+      {
+        "Id": 1015840,
+        "Name": "Maxime Dumontier",
+        "Character": "Léandre",
+        "Order": 2,
+        "CastId": 1,
+        "ProfilePath": "/e7cXIV36hVN6kopglje7GxumU6F.jpg"
+      },
+      {
+        "Id": 1378418,
+        "Name": "Mickaël Gouin",
+        "Character": "Jomphe",
+        "Order": 3,
+        "CastId": 2,
+        "ProfilePath": "/qwyWg4S0EopX5YyOqAGubhUiWy9.jpg"
+      },
+      {
+        "Id": 590840,
+        "Name": "Louise Richer",
+        "Character": "Michelle",
+        "Order": 4,
+        "CastId": 3,
+        "ProfilePath": "/1u7NSq6OFfzd6SYO1igyHBva5q4.jpg"
+      },
+      {
+        "Id": 1378419,
+        "Name": "Fanny Migneault-Lecavalier",
+        "Character": "Claire",
+        "Order": 5,
+        "CastId": 4
+      },
+      {
+        "Id": 145101,
+        "Name": "Pierre Rivard ",
+        "Character": "Père d'Ève",
+        "Order": 6,
+        "CastId": 5
+      }
+    ],
+    "Crew": [
+      {
+        "Id": 1378420,
+        "Name": "Sébastien Landry",
+        "Department": "Directing",
+        "Job": "Director"
+      },
+      {
+        "Id": 1378421,
+        "Name": "Alexandre Soublière",
+        "Department": "Writing",
+        "Job": "Writer"
+      },
+      {
+        "Id": 1378420,
+        "Name": "Sébastien Landry",
+        "Department": "Writing",
+        "Job": "Co-Writer"
+      },
+      {
+        "Id": 1378422,
+        "Name": "Nicolas Comeau",
+        "Department": "Production",
+        "Job": "Producer"
+      },
+      {
+        "Id": 1378420,
+        "Name": "Sébastien Landry",
+        "Department": "Production",
+        "Job": "Co-Producer"
+      }
+    ]
+  },
+  "Images": {
+    "Backdrops": [
+      {
+        "FilePath": "/y9RZBf8ZUTVqFrhGmZdKhSMZFRJ.jpg",
+        "Width": 1920,
+        "Height": 1080,
+        "AspectRatio": 1.77777777777778
+      },
+      {
+        "FilePath": "/6xPH3EBPgSjk8l1wBgHjuLY7oZL.jpg",
+        "Width": 1920,
+        "Height": 1080,
+        "AspectRatio": 1.77777777777778
+      },
+      {
+        "FilePath": "/hE023jGV4H9ukJWCrbfrDQZeQBD.jpg",
+        "Width": 1920,
+        "Height": 1080,
+        "AspectRatio": 1.77777777777778
+      }
+    ],
+    "Posters": [
+      {
+        "FilePath": "/lGpwGJ8CMhcGKaxZnA9EGagyOVG.jpg",
+        "Width": 2000,
+        "Height": 3000,
+        "AspectRatio": 0.666666666666667
+      }
+    ]
+  },
+  "Keywords": {
+    "Id": 299364,
+    "Keywords": [
+      {
+        "Id": 1415,
+        "Name": "small town"
+      },
+      {
+        "Id": 7956,
+        "Name": "cowardice"
+      },
+      {
+        "Id": 193983,
+        "Name": "escaping problems"
+      }
+    ]
+  },
+  "Trailers": {
+    "Id": 299364,
+    "Quicktime": [],
+    "Youtube": []
+  },
+  "Translations": {
+    "Id": 299364,
+    "Translations": [
+      {
+        "Iso_639_1": "en",
+        "Name": "English",
+        "EnglishName": "English"
+      }
+    ]
+  }
+}

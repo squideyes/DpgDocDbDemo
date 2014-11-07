@@ -1,0 +1,100 @@
+{
+  "Id": 297305,
+  "Title": "Geschlossene Gesellschaft - Der Missbrauch an der Odenwaldschule",
+  "OriginalTitle": "Geschlossene Gesellschaft - Der Missbrauch an der Odenwaldschule",
+  "Status": "Released",
+  "PosterPath": "/f7HryrcNTkLY6stfj3AwSHWh8Av.jpg",
+  "Genres": [
+    {
+      "Id": 99,
+      "Name": "Documentary"
+    }
+  ],
+  "ReleaseDate": "2014-10-17T00:00:00",
+  "Popularity": 0.190428086465491,
+  "ProductionCompanies": [
+    {
+      "Name": "Real Fiction",
+      "Id": 1933
+    }
+  ],
+  "ProductionCountries": [
+    {
+      "Iso_3166_1": "DE",
+      "Name": "Germany"
+    }
+  ],
+  "SpokenLanguages": [
+    {
+      "Iso_639_1": "de",
+      "Name": "Deutsch"
+    }
+  ],
+  "AlternativeTitles": {
+    "Id": 297305,
+    "Titles": []
+  },
+  "Releases": {
+    "Id": 297305,
+    "Countries": [
+      {
+        "Iso_3166_1": "DE",
+        "Certification": "12",
+        "ReleaseDate": "2014-10-17T00:00:00"
+      }
+    ]
+  },
+  "Credits": {
+    "Id": 297305,
+    "Cast": [],
+    "Crew": [
+      {
+        "Id": 240638,
+        "Name": "Regina Schilling",
+        "Department": "Art",
+        "Job": "Art Direction"
+      },
+      {
+        "Id": 1373522,
+        "Name": "Luzia Schmid",
+        "Department": "Art",
+        "Job": "Art Direction"
+      }
+    ]
+  },
+  "Images": {
+    "Backdrops": [],
+    "Posters": [
+      {
+        "FilePath": "/f7HryrcNTkLY6stfj3AwSHWh8Av.jpg",
+        "Width": 800,
+        "Height": 1133,
+        "AspectRatio": 0.706090026478376
+      }
+    ]
+  },
+  "Keywords": {
+    "Id": 297305,
+    "Keywords": [
+      {
+        "Id": 7967,
+        "Name": "dokumentarfilm"
+      }
+    ]
+  },
+  "Trailers": {
+    "Id": 297305,
+    "Quicktime": [],
+    "Youtube": []
+  },
+  "Translations": {
+    "Id": 297305,
+    "Translations": [
+      {
+        "Iso_639_1": "de",
+        "Name": "Deutsch",
+        "EnglishName": "German"
+      }
+    ]
+  }
+}

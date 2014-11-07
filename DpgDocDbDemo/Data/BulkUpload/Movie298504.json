@@ -1,0 +1,200 @@
+{
+  "Id": 298504,
+  "ImdbId": "tt3445438",
+  "Title": "Die Vampirschwestern 2",
+  "OriginalTitle": "Die Vampirschwestern 2",
+  "Status": "Released",
+  "Overview": "The vampire sisters are back for their next adventure.",
+  "Homepage": "http://www.vampirschwestern2.de/",
+  "PosterPath": "/jt1wxvUijegHm8o0vDj5uL7VoQe.jpg",
+  "Genres": [
+    {
+      "Id": 12,
+      "Name": "Adventure"
+    },
+    {
+      "Id": 35,
+      "Name": "Comedy"
+    }
+  ],
+  "ReleaseDate": "2014-10-16T00:00:00",
+  "Runtime": 94,
+  "Popularity": 0.552565676991819,
+  "ProductionCompanies": [
+    {
+      "Name": "Claussen Wöbke Putz Filmproduktion",
+      "Id": 4340
+    },
+    {
+      "Name": "Cobra Film GmbH",
+      "Id": 14876
+    },
+    {
+      "Name": "Deutsche Columbia Pictures Film Produktion",
+      "Id": 26976
+    },
+    {
+      "Name": "Dor Film-West Produktionsgesellschaft",
+      "Id": 14877
+    }
+  ],
+  "ProductionCountries": [
+    {
+      "Iso_3166_1": "DE",
+      "Name": "Germany"
+    }
+  ],
+  "SpokenLanguages": [
+    {
+      "Iso_639_1": "de",
+      "Name": "Deutsch"
+    }
+  ],
+  "AlternativeTitles": {
+    "Id": 298504,
+    "Titles": [
+      {
+        "Iso_3166_1": "DE",
+        "Title": "Die Vampirschwestern 2 - Fledermäuse im Bauch!"
+      }
+    ]
+  },
+  "Releases": {
+    "Id": 298504,
+    "Countries": [
+      {
+        "Iso_3166_1": "DE",
+        "Certification": "6",
+        "ReleaseDate": "2014-10-16T00:00:00"
+      }
+    ]
+  },
+  "Credits": {
+    "Id": 298504,
+    "Cast": [
+      {
+        "Id": 57361,
+        "Name": "Diana Amft",
+        "Character": "Krankenschwester Ursula",
+        "Order": 1,
+        "ProfilePath": "/hWGCR5n6HsPjxWizcGUCkoZ3hYx.jpg"
+      },
+      {
+        "Id": 1277150,
+        "Name": "Laura Roge",
+        "Character": "Dakaria Tepes",
+        "Order": 2,
+        "CastId": 1
+      },
+      {
+        "Id": 1859,
+        "Name": "Christiane Paul",
+        "Character": "Elvira Tepes",
+        "Order": 3,
+        "CastId": 2,
+        "ProfilePath": "/uDgcUFWHFky6wVRI4vrPJOg9J5D.jpg"
+      },
+      {
+        "Id": 173239,
+        "Name": "Marta Martin",
+        "Character": "Silvania Tepes",
+        "Order": 4,
+        "CastId": 3
+      },
+      {
+        "Id": 3933,
+        "Name": "Stipe Erceg",
+        "Character": "Mihai Tepes",
+        "Order": 5,
+        "CastId": 7,
+        "ProfilePath": "/s0Lx2gI5PKHXYmIU3kOD0h1PJCG.jpg"
+      },
+      {
+        "Id": 19927,
+        "Name": "Michael Kessler",
+        "Character": "Dirk van Kombast",
+        "Order": 6,
+        "CastId": 8
+      },
+      {
+        "Id": 2341,
+        "Name": "Richy Müller",
+        "Character": "Ali Bin Schick",
+        "Order": 7,
+        "CastId": 9,
+        "ProfilePath": "/uRHbuPfF818cC107BedRzzzQsqp.jpg"
+      }
+    ],
+    "Crew": [
+      {
+        "Id": 147428,
+        "Name": "Wolfgang Groos",
+        "Department": "Directing",
+        "Job": "Director"
+      },
+      {
+        "Id": 1204558,
+        "Name": "Ursula Gruber",
+        "Department": "Writing",
+        "Job": "Screenplay"
+      },
+      {
+        "Id": 1376304,
+        "Name": "Franziska Gehm",
+        "Department": "Writing",
+        "Job": "Novel"
+      }
+    ]
+  },
+  "Images": {
+    "Backdrops": [],
+    "Posters": [
+      {
+        "FilePath": "/jt1wxvUijegHm8o0vDj5uL7VoQe.jpg",
+        "Width": 1974,
+        "Height": 2800,
+        "Iso_639_1": "de",
+        "AspectRatio": 0.705
+      }
+    ]
+  },
+  "Keywords": {
+    "Id": 298504,
+    "Keywords": [
+      {
+        "Id": 170173,
+        "Name": "children's book"
+      },
+      {
+        "Id": 184949,
+        "Name": "vampires"
+      }
+    ]
+  },
+  "Trailers": {
+    "Id": 298504,
+    "Quicktime": [],
+    "Youtube": [
+      {
+        "Name": "Official German Trailer",
+        "Size": "HD",
+        "Source": "e7oOMLQYc5o"
+      }
+    ]
+  },
+  "Translations": {
+    "Id": 298504,
+    "Translations": [
+      {
+        "Iso_639_1": "en",
+        "Name": "English",
+        "EnglishName": "English"
+      },
+      {
+        "Iso_639_1": "de",
+        "Name": "Deutsch",
+        "EnglishName": "German"
+      }
+    ]
+  }
+}

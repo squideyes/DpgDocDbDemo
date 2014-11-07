@@ -1,0 +1,56 @@
+{
+  "Id": 298927,
+  "ImdbId": "tt4059818",
+  "Title": "Warsaw Uprising",
+  "OriginalTitle": "Warsaw Uprising",
+  "Status": "Released",
+  "Overview": "Documentary film about the Warsaw Uprising of 1944 through the eyes of a US Airman.",
+  "Genres": [],
+  "ReleaseDate": "2014-10-31T00:00:00",
+  "Runtime": 0,
+  "Popularity": 1.2970558990875,
+  "ProductionCompanies": [],
+  "ProductionCountries": [],
+  "SpokenLanguages": [],
+  "AlternativeTitles": {
+    "Id": 298927,
+    "Titles": []
+  },
+  "Releases": {
+    "Id": 298927,
+    "Countries": [
+      {
+        "Iso_3166_1": "US",
+        "ReleaseDate": "2014-10-31T00:00:00"
+      }
+    ]
+  },
+  "Credits": {
+    "Id": 298927,
+    "Cast": [],
+    "Crew": []
+  },
+  "Images": {
+    "Backdrops": [],
+    "Posters": []
+  },
+  "Keywords": {
+    "Id": 298927,
+    "Keywords": []
+  },
+  "Trailers": {
+    "Id": 298927,
+    "Quicktime": [],
+    "Youtube": []
+  },
+  "Translations": {
+    "Id": 298927,
+    "Translations": [
+      {
+        "Iso_639_1": "en",
+        "Name": "English",
+        "EnglishName": "English"
+      }
+    ]
+  }
+}

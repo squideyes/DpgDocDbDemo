@@ -1,0 +1,201 @@
+{
+  "Id": 277432,
+  "ImdbId": "tt2461132",
+  "Title": "Happy New Year",
+  "OriginalTitle": "Happy New Year",
+  "Status": "Released",
+  "Overview": "Happy New Year is an upcoming Bollywood Action-Comedy dealing some con-artists ready to make the best of their skills with full fun, drama and action.",
+  "BackdropPath": "/b0PItArx5btSTyO5MFvdZekwyJv.jpg",
+  "PosterPath": "/7tltLDg8gCiu8XqKUUiWRUGR8qm.jpg",
+  "Genres": [
+    {
+      "Id": 28,
+      "Name": "Action"
+    },
+    {
+      "Id": 35,
+      "Name": "Comedy"
+    },
+    {
+      "Id": 18,
+      "Name": "Drama"
+    },
+    {
+      "Id": 10749,
+      "Name": "Romance"
+    }
+  ],
+  "ReleaseDate": "2014-10-23T00:00:00",
+  "Runtime": 180,
+  "Popularity": 1.27511175877675,
+  "VoteAverage": 6.8,
+  "VoteCount": 5,
+  "ProductionCompanies": [
+    {
+      "Name": "Red Chillies Entertainment",
+      "Id": 2343
+    }
+  ],
+  "ProductionCountries": [
+    {
+      "Iso_3166_1": "IN",
+      "Name": "India"
+    }
+  ],
+  "SpokenLanguages": [
+    {
+      "Iso_639_1": "hi",
+      "Name": "हिन्दी"
+    }
+  ],
+  "AlternativeTitles": {
+    "Id": 277432,
+    "Titles": []
+  },
+  "Releases": {
+    "Id": 277432,
+    "Countries": [
+      {
+        "Iso_3166_1": "IN",
+        "ReleaseDate": "2014-10-23T00:00:00"
+      },
+      {
+        "Iso_3166_1": "FR",
+        "ReleaseDate": "2014-10-24T00:00:00"
+      }
+    ]
+  },
+  "Credits": {
+    "Id": 277432,
+    "Cast": [
+      {
+        "Id": 35742,
+        "Name": "Shahrukh Khan",
+        "Order": 1,
+        "ProfilePath": "/5T5E8nVrxV9ytSRYyf0P2Uo31IC.jpg"
+      },
+      {
+        "Id": 53975,
+        "Name": "Deepika Padukone",
+        "Order": 2,
+        "CastId": 1,
+        "ProfilePath": "/kQbY89OOJhS33LVwGsLXmBOVqNc.jpg"
+      },
+      {
+        "Id": 35793,
+        "Name": "Abhishek Bachchan",
+        "Order": 3,
+        "CastId": 2,
+        "ProfilePath": "/1rsgbAdguvxIMHHHNlxQHZYUAVr.jpg"
+      },
+      {
+        "Id": 86014,
+        "Name": "Jackie Shroff",
+        "Order": 4,
+        "CastId": 3,
+        "ProfilePath": "/nbKG1vfnWdSauxBtzzoctuJEpHe.jpg"
+      },
+      {
+        "Id": 35779,
+        "Name": "Boman Irani",
+        "Order": 5,
+        "CastId": 4,
+        "ProfilePath": "/ybhFam8adUpWz3Re49T8uDm8DcT.jpg"
+      },
+      {
+        "Id": 95750,
+        "Name": "Sonu Sood",
+        "Order": 6,
+        "CastId": 5,
+        "ProfilePath": "/9sbcrUaHcSxRFXfkQ4shF4rj1EF.jpg"
+      }
+    ],
+    "Crew": [
+      {
+        "Id": 8311,
+        "Name": "Farah Khan",
+        "Department": "Directing",
+        "Job": "Director",
+        "ProfilePath": "/l0jw1cr6WvpjF2grO1JBqUOBcEx.jpg"
+      },
+      {
+        "Id": 53973,
+        "Name": "Gauri Khan",
+        "Department": "Production",
+        "Job": "Producer",
+        "ProfilePath": "/p2Bvql0WN7ekTKBx8vvhmY6R70C.jpg"
+      },
+      {
+        "Id": 37240,
+        "Name": "Sandeep Chowta",
+        "Department": "Sound",
+        "Job": "Music"
+      }
+    ]
+  },
+  "Images": {
+    "Backdrops": [
+      {
+        "FilePath": "/b0PItArx5btSTyO5MFvdZekwyJv.jpg",
+        "Width": 1920,
+        "Height": 1080,
+        "AspectRatio": 1.77777777777778
+      },
+      {
+        "FilePath": "/t3nq4J0k9WtpcPGnofCDwzjzUEJ.jpg",
+        "Width": 1920,
+        "Height": 1080,
+        "AspectRatio": 1.77777777777778
+      }
+    ],
+    "Posters": [
+      {
+        "FilePath": "/7tltLDg8gCiu8XqKUUiWRUGR8qm.jpg",
+        "Width": 1221,
+        "Height": 1600,
+        "AspectRatio": 0.763125
+      },
+      {
+        "FilePath": "/7Nu2kaqIPXLWHKVrPEZNOyyXX9z.jpg",
+        "Width": 1000,
+        "Height": 1500,
+        "AspectRatio": 0.666666666666667
+      },
+      {
+        "FilePath": "/dMVfyBNKmmRtx2zjPpJNbdCHvI3.jpg",
+        "Width": 500,
+        "Height": 750,
+        "AspectRatio": 0.666666666666667
+      }
+    ]
+  },
+  "Keywords": {
+    "Id": 277432,
+    "Keywords": [
+      {
+        "Id": 10453,
+        "Name": "con artist"
+      }
+    ]
+  },
+  "Trailers": {
+    "Id": 277432,
+    "Quicktime": [],
+    "Youtube": []
+  },
+  "Translations": {
+    "Id": 277432,
+    "Translations": [
+      {
+        "Iso_639_1": "en",
+        "Name": "English",
+        "EnglishName": "English"
+      },
+      {
+        "Iso_639_1": "fr",
+        "Name": "Français",
+        "EnglishName": "French"
+      }
+    ]
+  }
+}

@@ -1,0 +1,208 @@
+{
+  "Id": 297726,
+  "Title": "NJPW King of Pro-Wrestling",
+  "OriginalTitle": "NJPW King of Pro-Wrestling",
+  "Status": "Released",
+  "Overview": "King of Pro-Wrestling (2014) was a professional wrestling pay-per-view (PPV) promoted by New Japan Pro Wrestling (NJPW). The event took place on October 13, 2014, in Tokyo at Ryōgoku Kokugikan and featured ten matches, six of which were contested for championships. It was the third event under the King of Pro-Wrestling name.",
+  "Homepage": "http://www.njpw.co.jp/",
+  "BackdropPath": "/cPAgWmMaWKY99dpB9NafzhGLFzp.jpg",
+  "PosterPath": "/jpJjfxq9uNJFZoPhydNK7cR32iO.jpg",
+  "BelongsToCollection": [
+    {
+      "Id": 272125,
+      "Name": "New Japan Pro Wrestling 2014",
+      "PosterPath": "/qFPN0FcFhCBGuwUhNRd6128T7DA.jpg",
+      "BackdropPath": "/syzcqEJzE8d7Pav4yqKiOKTJW8W.jpg"
+    }
+  ],
+  "Genres": [],
+  "ReleaseDate": "2014-10-13T00:00:00",
+  "Runtime": 240,
+  "Popularity": 0.188999508158231,
+  "ProductionCompanies": [],
+  "ProductionCountries": [],
+  "SpokenLanguages": [],
+  "AlternativeTitles": {
+    "Id": 297726,
+    "Titles": []
+  },
+  "Releases": {
+    "Id": 297726,
+    "Countries": [
+      {
+        "Iso_3166_1": "JP",
+        "ReleaseDate": "2014-10-13T00:00:00"
+      }
+    ]
+  },
+  "Credits": {
+    "Id": 297726,
+    "Cast": [
+      {
+        "Id": 1081432,
+        "Name": "A.J. Styles",
+        "Order": 1,
+        "ProfilePath": "/qXz4mOy0Yg2zZcamj3F3ug9bmuk.jpg"
+      },
+      {
+        "Id": 1197225,
+        "Name": "Kazuchika Okada",
+        "Order": 2,
+        "CastId": 1,
+        "ProfilePath": "/6SeZeZLCpkCSg5MOAl7flZa8xYf.jpg"
+      },
+      {
+        "Id": 1197223,
+        "Name": "Hiroshi Tanahashi",
+        "Order": 3,
+        "CastId": 2,
+        "ProfilePath": "/At2XZxQIWAzUdA7OZ3VpKfsxiur.jpg"
+      },
+      {
+        "Id": 1197221,
+        "Name": "Tetsuya Naito",
+        "Order": 4,
+        "CastId": 3,
+        "ProfilePath": "/9tCEcAV8P2bNI244KbtYGvbQEpg.jpg"
+      },
+      {
+        "Id": 1276869,
+        "Name": "Yujiro Kushida",
+        "Character": "KUSHIDA",
+        "Order": 6,
+        "CastId": 5
+      },
+      {
+        "Id": 1278218,
+        "Name": "Matt Massie",
+        "Character": "Matt Jackson",
+        "Order": 7,
+        "CastId": 6
+      },
+      {
+        "Id": 1278219,
+        "Name": "Nick Massie",
+        "Character": "Nick Jackson",
+        "Order": 8,
+        "CastId": 7
+      },
+      {
+        "Id": 1237790,
+        "Name": "Patrick Martin",
+        "Character": "Alex Shelley",
+        "Order": 10,
+        "CastId": 9,
+        "ProfilePath": "/gnmeoOkBJKba1FthF60lnLql5yF.jpg"
+      },
+      {
+        "Id": 1263403,
+        "Name": "Nobuo Yoshihashi",
+        "Character": "YOSHI-HASHI",
+        "Order": 11,
+        "CastId": 10
+      },
+      {
+        "Id": 1237802,
+        "Name": "Shinsuke Nakamura",
+        "Order": 12,
+        "CastId": 11,
+        "ProfilePath": "/4OSt5ckjPWAkSacEM19fdA8UHh4.jpg"
+      },
+      {
+        "Id": 1281805,
+        "Name": "Hirooki Goto",
+        "Order": 13,
+        "CastId": 12
+      },
+      {
+        "Id": 1197227,
+        "Name": "Katsuyori Shibata",
+        "Order": 14,
+        "CastId": 13
+      },
+      {
+        "Id": 1197226,
+        "Name": "Tomohiro Ishii",
+        "Order": 15,
+        "CastId": 14
+      },
+      {
+        "Id": 1197232,
+        "Name": "Yujiro Takahashi",
+        "Order": 16,
+        "CastId": 15
+      },
+      {
+        "Id": 1276870,
+        "Name": "Ryusuke Taguchi",
+        "Order": 17,
+        "CastId": 16
+      },
+      {
+        "Id": 1374518,
+        "Name": "Kyosuke Mikami",
+        "Character": "El Desperado",
+        "Order": 18,
+        "CastId": 17
+      },
+      {
+        "Id": 1263396,
+        "Name": "Alex Sherman",
+        "Character": "Alex Koslov",
+        "Order": 19,
+        "CastId": 18
+      },
+      {
+        "Id": 1237812,
+        "Name": "Rocky Romero",
+        "Order": 20,
+        "CastId": 19
+      },
+      {
+        "Id": 1263397,
+        "Name": "John R. Rivera",
+        "Character": "Rocky Romero",
+        "Order": 21,
+        "CastId": 20
+      }
+    ],
+    "Crew": []
+  },
+  "Images": {
+    "Backdrops": [
+      {
+        "FilePath": "/cPAgWmMaWKY99dpB9NafzhGLFzp.jpg",
+        "Width": 1920,
+        "Height": 1080,
+        "AspectRatio": 1.77777777777778
+      }
+    ],
+    "Posters": [
+      {
+        "FilePath": "/jpJjfxq9uNJFZoPhydNK7cR32iO.jpg",
+        "Width": 533,
+        "Height": 750,
+        "AspectRatio": 0.710666666666667
+      }
+    ]
+  },
+  "Keywords": {
+    "Id": 297726,
+    "Keywords": []
+  },
+  "Trailers": {
+    "Id": 297726,
+    "Quicktime": [],
+    "Youtube": []
+  },
+  "Translations": {
+    "Id": 297726,
+    "Translations": [
+      {
+        "Iso_639_1": "en",
+        "Name": "English",
+        "EnglishName": "English"
+      }
+    ]
+  }
+}

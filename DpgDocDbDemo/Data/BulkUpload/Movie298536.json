@@ -1,0 +1,68 @@
+{
+  "Id": 298536,
+  "Title": "Oka Laila Kosam",
+  "OriginalTitle": "Oka Laila Kosam",
+  "Status": "Released",
+  "Overview": "Karthik is a rich post graduate from ISB who completes his studies and comes back to India after a world tour. One fine day, he spots Nandana and falls head over heels for her. However Nandana develops hatred for Karthik because of few circumstances. When Karthik proposes to her, she rejects him point blank. Karthik's maternal uncle Pandu returns from Dubai and because of his hatred towards Karthik, he plans to take revenge by letting Karthik's parents arrange a bride for marriage against his wishes. The bride accidentally turns out to be Nandana and Karthik accepts to marry her. She is not interested but she can't oppose her father because of her love towards her father. When she tries to reject the marriage, both of their parents complete the procedures and they are pronounced engaged.",
+  "PosterPath": "/wAGUq9ZmNn4tD5N4zAMfHGF3MZS.jpg",
+  "Genres": [],
+  "ReleaseDate": "2014-10-17T00:00:00",
+  "Revenue": 100,
+  "Budget": 200,
+  "Runtime": 150,
+  "Popularity": 0.220882533586195,
+  "VoteAverage": 5.0,
+  "VoteCount": 1,
+  "ProductionCompanies": [],
+  "ProductionCountries": [],
+  "SpokenLanguages": [],
+  "AlternativeTitles": {
+    "Id": 298536,
+    "Titles": []
+  },
+  "Releases": {
+    "Id": 298536,
+    "Countries": [
+      {
+        "Iso_3166_1": "IN",
+        "Certification": "U",
+        "ReleaseDate": "2014-10-17T00:00:00"
+      }
+    ]
+  },
+  "Credits": {
+    "Id": 298536,
+    "Cast": [],
+    "Crew": []
+  },
+  "Images": {
+    "Backdrops": [],
+    "Posters": [
+      {
+        "FilePath": "/wAGUq9ZmNn4tD5N4zAMfHGF3MZS.jpg",
+        "Width": 1024,
+        "Height": 1451,
+        "AspectRatio": 0.705720192970365
+      }
+    ]
+  },
+  "Keywords": {
+    "Id": 298536,
+    "Keywords": []
+  },
+  "Trailers": {
+    "Id": 298536,
+    "Quicktime": [],
+    "Youtube": []
+  },
+  "Translations": {
+    "Id": 298536,
+    "Translations": [
+      {
+        "Iso_639_1": "en",
+        "Name": "English",
+        "EnglishName": "English"
+      }
+    ]
+  }
+}

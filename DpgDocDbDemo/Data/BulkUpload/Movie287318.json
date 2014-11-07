@@ -1,0 +1,207 @@
+{
+  "Id": 287318,
+  "ImdbId": "tt3743206",
+  "Title": "3 Scream Queens",
+  "OriginalTitle": "3 Scream Queens",
+  "Status": "Released",
+  "Tagline": "THE LEGENDARY SCREAM QUEENS ARE BACK!",
+  "Overview": "Alexis, Sylvia and Ellen are a trio of legendary scream queens. After the head of a motion picture studio invites them out to a very special screening in exchange for the possibility of a lead role in an upcoming horror film, the three women slowly become suspicious... not only of their circumstances, but also each other. They begin to realize that the horrific footage they are watching might be real and that they might be trapped in the deserted studio with a bonafide killer.",
+  "Homepage": "http://www.rapidheart.com/3-scream-queens/",
+  "PosterPath": "/1FBdiKcyyBu41oKDKpPpPgd0pZu.jpg",
+  "Genres": [
+    {
+      "Id": 27,
+      "Name": "Horror"
+    }
+  ],
+  "ReleaseDate": "2014-10-28T00:00:00",
+  "Budget": 1000000,
+  "Runtime": 75,
+  "Popularity": 0.713327838761451,
+  "ProductionCompanies": [
+    {
+      "Name": "Rapid Heart Pictures",
+      "Id": 4881
+    }
+  ],
+  "ProductionCountries": [
+    {
+      "Iso_3166_1": "US",
+      "Name": "United States of America"
+    }
+  ],
+  "SpokenLanguages": [
+    {
+      "Iso_639_1": "en",
+      "Name": "English"
+    }
+  ],
+  "AlternativeTitles": {
+    "Id": 287318,
+    "Titles": []
+  },
+  "Releases": {
+    "Id": 287318,
+    "Countries": [
+      {
+        "Iso_3166_1": "US",
+        "Certification": "NR",
+        "ReleaseDate": "2014-10-28T00:00:00"
+      }
+    ]
+  },
+  "Credits": {
+    "Id": 287318,
+    "Cast": [
+      {
+        "Id": 97619,
+        "Name": "Linnea Quigley",
+        "Character": "Alexis",
+        "Order": 1,
+        "CastId": 6,
+        "ProfilePath": "/nvOxpSqSQWwS5rUUMCGp30FcLCF.jpg"
+      },
+      {
+        "Id": 97698,
+        "Name": "Michelle Bauer",
+        "Character": "Sylvia",
+        "Order": 2,
+        "CastId": 7,
+        "ProfilePath": "/AorWpo8IlArSP4IlNYXmVYFGg7i.jpg"
+      },
+      {
+        "Id": 97621,
+        "Name": "Brinke Stevens",
+        "Character": "Ellen",
+        "Order": 3,
+        "CastId": 8,
+        "ProfilePath": "/htk0urihmeLULILQNvA1NsOfeKY.jpg"
+      },
+      {
+        "Id": 229686,
+        "Name": "Kyle Morris",
+        "Character": "Bosley",
+        "Order": 4,
+        "CastId": 9,
+        "ProfilePath": "/bzhwdCpgN1QlwlU4iRpSXu3c0Mk.jpg"
+      },
+      {
+        "Id": 1353926,
+        "Name": "Orel De La Mota",
+        "Character": "Chad",
+        "Order": 5,
+        "CastId": 10,
+        "ProfilePath": "/sAkS2kBeXVFdAyxqqvriBGzJAnd.jpg"
+      },
+      {
+        "Id": 1353927,
+        "Name": "Brandon T. Collins",
+        "Character": "Biff",
+        "Order": 6,
+        "CastId": 11,
+        "ProfilePath": "/rQILb4dwYq2bpeLs4A26vFrS0yT.jpg"
+      },
+      {
+        "Id": 1353928,
+        "Name": "Tadd Fulton",
+        "Character": "Clyde",
+        "Order": 7,
+        "CastId": 12,
+        "ProfilePath": "/p9rZvgXidOMhHmwMFCEgWb7pPEm.jpg"
+      },
+      {
+        "Id": 1353929,
+        "Name": "Todd Maurer",
+        "Character": "Brad",
+        "Order": 8,
+        "CastId": 13,
+        "ProfilePath": "/6n66YowYljDyk52i5hcFuunr8Lq.jpg"
+      },
+      {
+        "Id": 1353930,
+        "Name": "Alberto Carapia",
+        "Character": "Justin",
+        "Order": 9,
+        "CastId": 14
+      },
+      {
+        "Id": 1329632,
+        "Name": "Adam Graff",
+        "Order": 10,
+        "CastId": 15
+      }
+    ],
+    "Crew": [
+      {
+        "Id": 97618,
+        "Name": "David DeCoteau",
+        "Department": "Directing",
+        "Job": "Director",
+        "ProfilePath": "/nFOFizArK1Vwoo2v4HRKdKXJlrl.jpg"
+      },
+      {
+        "Id": 98117,
+        "Name": "Matthew Jason Walsh",
+        "Department": "Writing",
+        "Job": "Writer"
+      },
+      {
+        "Id": 97618,
+        "Name": "David DeCoteau",
+        "Department": "Production",
+        "Job": "Producer",
+        "ProfilePath": "/nFOFizArK1Vwoo2v4HRKdKXJlrl.jpg"
+      },
+      {
+        "Id": 1099663,
+        "Name": "Harry Manfredini",
+        "Department": "Sound",
+        "Job": "Music"
+      },
+      {
+        "Id": 97618,
+        "Name": "David DeCoteau",
+        "Department": "Crew",
+        "Job": "Cinematography",
+        "ProfilePath": "/nFOFizArK1Vwoo2v4HRKdKXJlrl.jpg"
+      },
+      {
+        "Id": 1099665,
+        "Name": "Andy Theiss",
+        "Department": "Sound",
+        "Job": "Sound mixer"
+      }
+    ]
+  },
+  "Images": {
+    "Backdrops": [],
+    "Posters": [
+      {
+        "FilePath": "/1FBdiKcyyBu41oKDKpPpPgd0pZu.jpg",
+        "Width": 500,
+        "Height": 750,
+        "Iso_639_1": "en",
+        "AspectRatio": 0.666666666666667
+      }
+    ]
+  },
+  "Keywords": {
+    "Id": 287318,
+    "Keywords": []
+  },
+  "Trailers": {
+    "Id": 287318,
+    "Quicktime": [],
+    "Youtube": []
+  },
+  "Translations": {
+    "Id": 287318,
+    "Translations": [
+      {
+        "Iso_639_1": "en",
+        "Name": "English",
+        "EnglishName": "English"
+      }
+    ]
+  }
+}

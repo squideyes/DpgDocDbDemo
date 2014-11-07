@@ -1,0 +1,76 @@
+{
+  "Id": 291935,
+  "Title": "Transcalar Investment Vehicles",
+  "OriginalTitle": "Transcalar Investment Vehicles",
+  "Status": "Released",
+  "Overview": "This fragmented post-apocalyptic narrative utilises live action, song and mind-bending animation to explore the uncertain aftermath of a cataclysmic investment crisis.",
+  "Genres": [],
+  "ReleaseDate": "2014-10-17T00:00:00",
+  "Runtime": 50,
+  "Popularity": 0.336433528207992,
+  "ProductionCompanies": [
+    {
+      "Name": "The Errorists",
+      "Id": 32775
+    }
+  ],
+  "ProductionCountries": [
+    {
+      "Iso_3166_1": "DE",
+      "Name": "Germany"
+    },
+    {
+      "Iso_3166_1": "GB",
+      "Name": "United Kingdom"
+    }
+  ],
+  "SpokenLanguages": [],
+  "AlternativeTitles": {
+    "Id": 291935,
+    "Titles": []
+  },
+  "Releases": {
+    "Id": 291935,
+    "Countries": [
+      {
+        "Iso_3166_1": "GB",
+        "ReleaseDate": "2014-10-17T00:00:00"
+      }
+    ]
+  },
+  "Credits": {
+    "Id": 291935,
+    "Cast": [],
+    "Crew": [
+      {
+        "Id": 1375280,
+        "Name": "Hilary Koob-Sassen",
+        "Department": "Directing",
+        "Job": "Director"
+      }
+    ]
+  },
+  "Images": {
+    "Backdrops": [],
+    "Posters": []
+  },
+  "Keywords": {
+    "Id": 291935,
+    "Keywords": []
+  },
+  "Trailers": {
+    "Id": 291935,
+    "Quicktime": [],
+    "Youtube": []
+  },
+  "Translations": {
+    "Id": 291935,
+    "Translations": [
+      {
+        "Iso_639_1": "en",
+        "Name": "English",
+        "EnglishName": "English"
+      }
+    ]
+  }
+}

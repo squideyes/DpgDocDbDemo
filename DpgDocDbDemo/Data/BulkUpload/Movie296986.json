@@ -1,0 +1,115 @@
+{
+  "Id": 296986,
+  "Title": "Star Wars Uncut: The Empire Strikes Back",
+  "OriginalTitle": "Star Wars Uncut: The Empire Strikes Back",
+  "Status": "Released",
+  "Tagline": "The world remakes a classic",
+  "Overview": "With more than 480 fan-made segments culled from over 1,500 submissions, The Empire Strikes Back Uncut (also known as ESB Uncut) features a stunning mash-up of styles and filmmaking techniques, including live action, animation, and stop-motion. The project launched in 2013, with fans claiming 15-second scenes to reimagine as they saw fit – resulting in sequences created with everything from action figures to cardboard props to stunning visual effects. Helmed by Casey Pugh, who oversaw 2010’s Emmy-winning Star Wars Uncut, the new film has a wonderful homemade charm, stands as an affectionate tribute to The Empire Strikes Back, and is a testament to the talent, imagination, and dedication of Star Wars fans.",
+  "Homepage": "http://www.starwarsuncut.com/empire",
+  "BackdropPath": "/yL4D3hpR2VDroV5ODnD0jle6JAH.jpg",
+  "PosterPath": "/jxp6mqfqk4JRbBxUhJHWZfvkuip.jpg",
+  "BelongsToCollection": [
+    {
+      "Id": 297056,
+      "Name": "Star Wars Uncut Collection",
+      "PosterPath": "/4vfopKBHgrSd0bGOkt5CNUpH71k.jpg"
+    }
+  ],
+  "Genres": [
+    {
+      "Id": 878,
+      "Name": "Science Fiction"
+    }
+  ],
+  "ReleaseDate": "2014-10-10T00:00:00",
+  "Runtime": 128,
+  "Popularity": 0.292070985192488,
+  "VoteAverage": 10.0,
+  "VoteCount": 1,
+  "ProductionCompanies": [],
+  "ProductionCountries": [],
+  "SpokenLanguages": [
+    {
+      "Iso_639_1": "en",
+      "Name": "English"
+    }
+  ],
+  "AlternativeTitles": {
+    "Id": 296986,
+    "Titles": [
+      {
+        "Iso_3166_1": "US",
+        "Title": "The Empire Strikes Back Uncut"
+      }
+    ]
+  },
+  "Releases": {
+    "Id": 296986,
+    "Countries": [
+      {
+        "Iso_3166_1": "US",
+        "ReleaseDate": "2014-10-10T00:00:00"
+      }
+    ]
+  },
+  "Credits": {
+    "Id": 296986,
+    "Cast": [],
+    "Crew": []
+  },
+  "Images": {
+    "Backdrops": [
+      {
+        "FilePath": "/yL4D3hpR2VDroV5ODnD0jle6JAH.jpg",
+        "Width": 1280,
+        "Height": 720,
+        "AspectRatio": 1.77777777777778
+      }
+    ],
+    "Posters": [
+      {
+        "FilePath": "/jxp6mqfqk4JRbBxUhJHWZfvkuip.jpg",
+        "Width": 500,
+        "Height": 750,
+        "AspectRatio": 0.666666666666667,
+        "VoteAverage": 5.29017857142857,
+        "VoteCount": 1
+      }
+    ]
+  },
+  "Keywords": {
+    "Id": 296986,
+    "Keywords": [
+      {
+        "Id": 195245,
+        "Name": "star wars fan film"
+      }
+    ]
+  },
+  "Trailers": {
+    "Id": 296986,
+    "Quicktime": [],
+    "Youtube": [
+      {
+        "Name": "Teaser",
+        "Size": "HD",
+        "Source": "-7ZL-pJn9Jo"
+      },
+      {
+        "Name": "Trailer",
+        "Size": "HD",
+        "Source": "TuzoB17Dmgk"
+      }
+    ]
+  },
+  "Translations": {
+    "Id": 296986,
+    "Translations": [
+      {
+        "Iso_639_1": "en",
+        "Name": "English",
+        "EnglishName": "English"
+      }
+    ]
+  }
+}

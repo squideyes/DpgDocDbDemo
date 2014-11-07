@@ -1,0 +1,64 @@
+{
+  "Id": 299969,
+  "ImdbId": "tt4128102",
+  "Title": "Marvel 75 Years: From Pulp to Pop!",
+  "OriginalTitle": "Marvel 75 Years: From Pulp to Pop!",
+  "Status": "Released",
+  "Overview": "In celebration of the publisher's 75th anniversary, the hour-long special will take a detailed look at the company's journey from fledgling comics publisher to multi-media juggernaut. Hosted by Emily VanCamp (S.H.I.E.L.D. Agent Sharon Carter), the documentary-style feature will include interviews with comic book icons, pop culture authorities, and Hollywood stars.  The special also promises an \"extraordinary peek into Marvel's future!\" Might Marvel release the first official footage from next year's Avengers: Age of Ultron or Ant-Man? If they do, you'll know about it here.",
+  "PosterPath": "/yU3gLSchEVavZ5TU5UAxX8hi5m7.jpg",
+  "Genres": [],
+  "ReleaseDate": "2014-11-04T00:00:00",
+  "Runtime": 60,
+  "Popularity": 1.7573625,
+  "ProductionCompanies": [],
+  "ProductionCountries": [],
+  "SpokenLanguages": [],
+  "AlternativeTitles": {
+    "Id": 299969,
+    "Titles": []
+  },
+  "Releases": {
+    "Id": 299969,
+    "Countries": [
+      {
+        "Iso_3166_1": "US",
+        "ReleaseDate": "2014-11-04T00:00:00"
+      }
+    ]
+  },
+  "Credits": {
+    "Id": 299969,
+    "Cast": [],
+    "Crew": []
+  },
+  "Images": {
+    "Backdrops": [],
+    "Posters": [
+      {
+        "FilePath": "/yU3gLSchEVavZ5TU5UAxX8hi5m7.jpg",
+        "Width": 565,
+        "Height": 850,
+        "AspectRatio": 0.664705882352941
+      }
+    ]
+  },
+  "Keywords": {
+    "Id": 299969,
+    "Keywords": []
+  },
+  "Trailers": {
+    "Id": 299969,
+    "Quicktime": [],
+    "Youtube": []
+  },
+  "Translations": {
+    "Id": 299969,
+    "Translations": [
+      {
+        "Iso_639_1": "en",
+        "Name": "English",
+        "EnglishName": "English"
+      }
+    ]
+  }
+}

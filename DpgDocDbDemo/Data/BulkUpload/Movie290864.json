@@ -1,0 +1,145 @@
+{
+  "Id": 290864,
+  "ImdbId": "tt2952602",
+  "Title": "Kung Fu Jungle",
+  "OriginalTitle": "Kung Fu Jungle",
+  "Status": "Released",
+  "Tagline": "Kung Fu is a Skill for Killing",
+  "Overview": "A martial arts instructor (Donnie Yen) working at a police academy gets imprisoned after killing a man by accident. But when a vicious killer (Wang Baoqiang) starts targeting martial arts masters, the instructor offers to help the police in return for his freedom.",
+  "PosterPath": "/5RR2nUIXEzycly6XDrDMeeywhfu.jpg",
+  "Genres": [
+    {
+      "Id": 28,
+      "Name": "Action"
+    },
+    {
+      "Id": 80,
+      "Name": "Crime"
+    },
+    {
+      "Id": 53,
+      "Name": "Thriller"
+    }
+  ],
+  "ReleaseDate": "2014-10-31T00:00:00",
+  "Runtime": 0,
+  "Popularity": 2.12040324831897,
+  "ProductionCompanies": [],
+  "ProductionCountries": [],
+  "SpokenLanguages": [],
+  "AlternativeTitles": {
+    "Id": 290864,
+    "Titles": [
+      {
+        "Iso_3166_1": "HK",
+        "Title": "Yat ku chan dik mou lam"
+      }
+    ]
+  },
+  "Releases": {
+    "Id": 290864,
+    "Countries": [
+      {
+        "Iso_3166_1": "HK",
+        "ReleaseDate": "2014-10-31T00:00:00"
+      }
+    ]
+  },
+  "Credits": {
+    "Id": 290864,
+    "Cast": [
+      {
+        "Id": 1341,
+        "Name": "Donnie Yen",
+        "Character": "Hahou Mo",
+        "Order": 1,
+        "ProfilePath": "/vlKBbOc0htUsDGvcxeULcFXDMRo.jpg"
+      },
+      {
+        "Id": 130598,
+        "Name": "Fan Siu-Wong",
+        "Order": 5,
+        "CastId": 4,
+        "ProfilePath": "/tFfXqPjqhVItv5lkUVtSMbw1SPd.jpg"
+      },
+      {
+        "Id": 1018707,
+        "Name": "Bai Bing",
+        "Order": 7,
+        "CastId": 6,
+        "ProfilePath": "/sPVfjVAe7WIVXlcv6hX45vSJ6CX.jpg"
+      },
+      {
+        "Id": 71051,
+        "Name": "Wang Baoqiang",
+        "Order": 8,
+        "CastId": 8,
+        "ProfilePath": "/dVeiIJE6H8ykieNb5cl81gCPL9j.jpg"
+      },
+      {
+        "Id": 66762,
+        "Name": "Charlie Yeung",
+        "Order": 9,
+        "CastId": 9,
+        "ProfilePath": "/lImfxZvj75ietpOR9NZC8zXmuco.jpg"
+      }
+    ],
+    "Crew": [
+      {
+        "Id": 70703,
+        "Name": "Teddy Chan",
+        "Department": "Directing",
+        "Job": "Director"
+      }
+    ]
+  },
+  "Images": {
+    "Backdrops": [],
+    "Posters": [
+      {
+        "FilePath": "/5RR2nUIXEzycly6XDrDMeeywhfu.jpg",
+        "Width": 863,
+        "Height": 1233,
+        "AspectRatio": 0.699918896999189
+      }
+    ]
+  },
+  "Keywords": {
+    "Id": 290864,
+    "Keywords": [
+      {
+        "Id": 779,
+        "Name": "martial arts"
+      },
+      {
+        "Id": 780,
+        "Name": "kung fu"
+      },
+      {
+        "Id": 10714,
+        "Name": "serial killer"
+      }
+    ]
+  },
+  "Trailers": {
+    "Id": 290864,
+    "Quicktime": [],
+    "Youtube": [
+      {
+        "Name": "Final Trailer",
+        "Size": "HD",
+        "Source": "http://youtu.be/w0HP6S9vHr8"
+      }
+    ]
+  },
+  "Translations": {
+    "Id": 290864,
+    "Translations": [
+      {
+        "Iso_639_1": "en",
+        "Name": "English",
+        "EnglishName": "English"
+      }
+    ]
+  }
+}

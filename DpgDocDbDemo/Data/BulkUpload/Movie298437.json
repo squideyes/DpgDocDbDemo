@@ -1,0 +1,63 @@
+{
+  "Id": 298437,
+  "Title": "Atlantis",
+  "OriginalTitle": "Atlantis",
+  "Status": "Released",
+  "Overview": "A documentary portrait of Utopia, loosely framed by Plato’s invocation of the lost continent of Atlantis in 360 BC and its re-resurrection via a 1970s science fiction pulp novel.",
+  "Genres": [],
+  "ReleaseDate": "2014-10-19T00:00:00",
+  "Runtime": 23,
+  "Popularity": 0.311465859688682,
+  "ProductionCompanies": [],
+  "ProductionCountries": [],
+  "SpokenLanguages": [],
+  "AlternativeTitles": {
+    "Id": 298437,
+    "Titles": []
+  },
+  "Releases": {
+    "Id": 298437,
+    "Countries": [
+      {
+        "Iso_3166_1": "MT",
+        "ReleaseDate": "2014-10-19T00:00:00"
+      }
+    ]
+  },
+  "Credits": {
+    "Id": 298437,
+    "Cast": [],
+    "Crew": [
+      {
+        "Id": 1070225,
+        "Name": "Ben Russell",
+        "Department": "Directing",
+        "Job": "Director",
+        "ProfilePath": "/rnfWU6L9Azcr3peAwYMYuZi59oi.jpg"
+      }
+    ]
+  },
+  "Images": {
+    "Backdrops": [],
+    "Posters": []
+  },
+  "Keywords": {
+    "Id": 298437,
+    "Keywords": []
+  },
+  "Trailers": {
+    "Id": 298437,
+    "Quicktime": [],
+    "Youtube": []
+  },
+  "Translations": {
+    "Id": 298437,
+    "Translations": [
+      {
+        "Iso_639_1": "en",
+        "Name": "English",
+        "EnglishName": "English"
+      }
+    ]
+  }
+}

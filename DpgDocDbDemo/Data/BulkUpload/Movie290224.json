@@ -1,0 +1,224 @@
+{
+  "Id": 290224,
+  "ImdbId": "tt2596476",
+  "Title": "Hellmouth",
+  "OriginalTitle": "Hellmouth",
+  "Status": "Released",
+  "Tagline": "He Carries Death...And A Shovel",
+  "Overview": "Hot off the heels of Septic Man and Ejecta, genre studio Foresight Features and Pontypool writer Tony Burgess have unleashed the trailer for their third collaboration, and the company's most ambitious film to date, the horror fantasy throwback HELLMOUTH.  A visual mindwarp in the vein of F.W. Murnau meets Tim Burton, HELLMOUTH is director John Geddes' (Exit Humanity) love letter to an era of forgotten cinema.  Veteran actor in over 200 films, Hoser horror hero Stephen McHattie (300) is back, taking on two bigs roles within the film, including the leading role as a dying gravekeeper who must pass through Hell to save the soul of a beautiful woman, (Siobhan Giles Murphy). Full of gothic graveyards and monster mayhem, HELLMOUTH is based on an original screenplay by award-winning punk bard Tony Burgess.  The film co-stars Julian Richings (Supernatural), Bruce McDonald (Hardcore Logo), Boyd Banks (Dawn of the Dead), and Ari Millen (Orphan Black).",
+  "Homepage": "http://www.foresightfeatures.com",
+  "PosterPath": "/pUVqx7PhjWzElQUdo5n6pbW5fHv.jpg",
+  "Genres": [],
+  "ReleaseDate": "2014-10-17T00:00:00",
+  "Runtime": 95,
+  "Popularity": 0.216418106255875,
+  "ProductionCompanies": [
+    {
+      "Name": "Foresight Features",
+      "Id": 17561
+    }
+  ],
+  "ProductionCountries": [
+    {
+      "Iso_3166_1": "CA",
+      "Name": "Canada"
+    }
+  ],
+  "SpokenLanguages": [
+    {
+      "Iso_639_1": "en",
+      "Name": "English"
+    }
+  ],
+  "AlternativeTitles": {
+    "Id": 290224,
+    "Titles": []
+  },
+  "Releases": {
+    "Id": 290224,
+    "Countries": [
+      {
+        "Iso_3166_1": "CA",
+        "ReleaseDate": "2014-10-17T00:00:00"
+      }
+    ]
+  },
+  "Credits": {
+    "Id": 290224,
+    "Cast": [
+      {
+        "Id": 230,
+        "Name": "Stephen McHattie",
+        "Character": "Faye",
+        "CastId": 15,
+        "ProfilePath": "/iGkMgtmCQGc3Tbk1P7TS76j0PMP.jpg"
+      },
+      {
+        "Id": 115664,
+        "Name": "Siobhan Murphy",
+        "Character": "Faye",
+        "Order": 1,
+        "CastId": 21
+      },
+      {
+        "Id": 20196,
+        "Name": "Boyd Banks",
+        "Character": "Mr. Whinny",
+        "Order": 2,
+        "CastId": 16,
+        "ProfilePath": "/mDsIaLKyGqyV1Nt0pV9joGkQNSP.jpg"
+      },
+      {
+        "Id": 2320,
+        "Name": "Julian Richings",
+        "Character": "Smiley",
+        "Order": 3,
+        "CastId": 17,
+        "ProfilePath": "/bbVRUCBwztY0mUzXdAmMgHocNSU.jpg"
+      },
+      {
+        "Id": 933123,
+        "Name": "Mark Gibson",
+        "Character": "Cliff Ryan",
+        "Order": 4,
+        "CastId": 18
+      },
+      {
+        "Id": 90684,
+        "Name": "Tony Burgess",
+        "Character": "Tips",
+        "Order": 5,
+        "CastId": 22
+      },
+      {
+        "Id": 1359997,
+        "Name": "Ari Millen",
+        "Character": "Henry",
+        "Order": 6,
+        "CastId": 23
+      }
+    ],
+    "Crew": [
+      {
+        "Id": 90684,
+        "Name": "Tony Burgess",
+        "Department": "Writing",
+        "Job": "Writer"
+      },
+      {
+        "Id": 123707,
+        "Name": "John Geddes",
+        "Department": "Directing",
+        "Job": "Director"
+      },
+      {
+        "Id": 512444,
+        "Name": "Chad Archibald",
+        "Department": "Production",
+        "Job": "Producer"
+      },
+      {
+        "Id": 1195181,
+        "Name": "Cody Calahan",
+        "Department": "Production",
+        "Job": "Producer"
+      },
+      {
+        "Id": 1317872,
+        "Name": "Jesse Thomas Cook",
+        "Department": "Production",
+        "Job": "Executive Producer"
+      },
+      {
+        "Id": 1317872,
+        "Name": "Jesse Thomas Cook",
+        "Department": "Production",
+        "Job": "Producer"
+      },
+      {
+        "Id": 123707,
+        "Name": "John Geddes",
+        "Department": "Production",
+        "Job": "Executive Producer"
+      },
+      {
+        "Id": 123707,
+        "Name": "John Geddes",
+        "Department": "Production",
+        "Job": "Producer"
+      },
+      {
+        "Id": 1359991,
+        "Name": "Michael Glynn Macdonald",
+        "Department": "Production",
+        "Job": "Executive Producer"
+      },
+      {
+        "Id": 1359992,
+        "Name": "Matt Hemeon",
+        "Department": "Production",
+        "Job": "Executive Producer"
+      },
+      {
+        "Id": 1359993,
+        "Name": "Stephen McHattie",
+        "Department": "Production",
+        "Job": "Co-Producer"
+      },
+      {
+        "Id": 1359994,
+        "Name": "Matt Wiele",
+        "Department": "Production",
+        "Job": "Executive Producer"
+      },
+      {
+        "Id": 1359995,
+        "Name": "Matt Wiele",
+        "Department": "Production",
+        "Job": "Producer"
+      },
+      {
+        "Id": 1359996,
+        "Name": "Christian Burgess",
+        "Department": "Production",
+        "Job": "Associate Producer"
+      }
+    ]
+  },
+  "Images": {
+    "Backdrops": [],
+    "Posters": [
+      {
+        "FilePath": "/pUVqx7PhjWzElQUdo5n6pbW5fHv.jpg",
+        "Width": 600,
+        "Height": 889,
+        "AspectRatio": 0.674915635545557
+      }
+    ]
+  },
+  "Keywords": {
+    "Id": 290224,
+    "Keywords": []
+  },
+  "Trailers": {
+    "Id": 290224,
+    "Quicktime": [],
+    "Youtube": [
+      {
+        "Name": "Hellmouth Trailer",
+        "Size": "HD",
+        "Source": "http://youtu.be/E3amgam8SbE"
+      }
+    ]
+  },
+  "Translations": {
+    "Id": 290224,
+    "Translations": [
+      {
+        "Iso_639_1": "en",
+        "Name": "English",
+        "EnglishName": "English"
+      }
+    ]
+  }
+}

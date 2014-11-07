@@ -1,0 +1,307 @@
+{
+  "Id": 245916,
+  "ImdbId": "tt1216491",
+  "Title": "Kill the Messenger",
+  "OriginalTitle": "Kill the Messenger",
+  "Status": "Released",
+  "Overview": "A reporter becomes the target of a vicious smear campaign that drives him to the point of suicide after he exposes the CIA's role in arming Contra rebels in Nicaragua and importing cocaine into California. Based on the true story of journalist Gary Webb.",
+  "BackdropPath": "/6AocjTM7B0RII4qrXG40wI1rEF3.jpg",
+  "PosterPath": "/iyUfJso5kCqWwh2oth8a0NUlwnd.jpg",
+  "Genres": [
+    {
+      "Id": 80,
+      "Name": "Crime"
+    },
+    {
+      "Id": 18,
+      "Name": "Drama"
+    }
+  ],
+  "ReleaseDate": "2014-10-10T00:00:00",
+  "Runtime": 112,
+  "Popularity": 0.584324246411844,
+  "VoteAverage": 5.3,
+  "VoteCount": 3,
+  "ProductionCompanies": [
+    {
+      "Name": "The Combine",
+      "Id": 27450
+    },
+    {
+      "Name": "Bluegrass Films",
+      "Id": 27451
+    }
+  ],
+  "ProductionCountries": [
+    {
+      "Iso_3166_1": "US",
+      "Name": "United States of America"
+    }
+  ],
+  "SpokenLanguages": [
+    {
+      "Iso_639_1": "en",
+      "Name": "English"
+    }
+  ],
+  "AlternativeTitles": {
+    "Id": 245916,
+    "Titles": [
+      {
+        "Iso_3166_1": "HU",
+        "Title": "Jobb ha hallgatsz"
+      }
+    ]
+  },
+  "Releases": {
+    "Id": 245916,
+    "Countries": [
+      {
+        "Iso_3166_1": "US",
+        "Certification": "R",
+        "ReleaseDate": "2014-10-10T00:00:00"
+      },
+      {
+        "Iso_3166_1": "SE",
+        "ReleaseDate": "2014-11-13T00:00:00"
+      },
+      {
+        "Iso_3166_1": "GB",
+        "ReleaseDate": "2014-11-27T00:00:00"
+      },
+      {
+        "Iso_3166_1": "HU",
+        "Certification": "16",
+        "ReleaseDate": "2014-10-09T00:00:00"
+      },
+      {
+        "Iso_3166_1": "DE",
+        "ReleaseDate": "2015-03-12T00:00:00"
+      }
+    ]
+  },
+  "Credits": {
+    "Id": 245916,
+    "Cast": [
+      {
+        "Id": 17628,
+        "Name": "Mary Elizabeth Winstead",
+        "Character": "Dawn Garcia",
+        "CastId": 7,
+        "ProfilePath": "/j7m1eVjIavBcZkh1f8AAjMf3N5J.jpg"
+      },
+      {
+        "Id": 17604,
+        "Name": "Jeremy Renner",
+        "Character": "Gary Webb",
+        "Order": 1,
+        "CastId": 8,
+        "ProfilePath": "/pFOLCHkbTDzJ79dri1Iyz0cpAi4.jpg"
+      },
+      {
+        "Id": 3968,
+        "Name": "Michael Sheen",
+        "Order": 2,
+        "CastId": 9,
+        "ProfilePath": "/rbDgZ38bn22MUC2mMpkrG0L6nhB.jpg"
+      },
+      {
+        "Id": 11477,
+        "Name": "Ray Liotta",
+        "Order": 3,
+        "CastId": 10,
+        "ProfilePath": "/o4jJSH3sri9dSIJwsCgT4de1535.jpg"
+      },
+      {
+        "Id": 567102,
+        "Name": "King",
+        "Order": 4,
+        "CastId": 11
+      },
+      {
+        "Id": 418,
+        "Name": "Robert Patrick",
+        "Character": "Ronny Quail",
+        "Order": 5,
+        "CastId": 12,
+        "ProfilePath": "/1Sp3MxGwb7wbLGsLjzpotlbOaSk.jpg"
+      },
+      {
+        "Id": 1271,
+        "Name": "Andy García",
+        "Order": 6,
+        "CastId": 13,
+        "ProfilePath": "/q3LAfRFLNhnNrIp7BFthDDosEHt.jpg"
+      },
+      {
+        "Id": 3627,
+        "Name": "Paz Vega",
+        "Character": "Coral Baca",
+        "Order": 7,
+        "CastId": 14,
+        "ProfilePath": "/8aVfJnS3yI0n6aKaDFzxHdtn3Wt.jpg"
+      }
+    ],
+    "Crew": [
+      {
+        "Id": 84931,
+        "Name": "Michael Cuesta",
+        "Department": "Directing",
+        "Job": "Director",
+        "ProfilePath": "/n3iTN6e1Bq13WlalqddULpsnEUn.jpg"
+      },
+      {
+        "Id": 1192754,
+        "Name": "Peter Landesman",
+        "Department": "Writing",
+        "Job": "Screenplay"
+      },
+      {
+        "Id": 5378,
+        "Name": "Pamela Abdy",
+        "Department": "Production",
+        "Job": "Producer"
+      },
+      {
+        "Id": 79665,
+        "Name": "Naomi Despres",
+        "Department": "Production",
+        "Job": "Producer"
+      },
+      {
+        "Id": 17604,
+        "Name": "Jeremy Renner",
+        "Department": "Production",
+        "Job": "Producer",
+        "ProfilePath": "/pFOLCHkbTDzJ79dri1Iyz0cpAi4.jpg"
+      },
+      {
+        "Id": 19282,
+        "Name": "Scott Stuber",
+        "Department": "Production",
+        "Job": "Producer"
+      }
+    ]
+  },
+  "Images": {
+    "Backdrops": [
+      {
+        "FilePath": "/6AocjTM7B0RII4qrXG40wI1rEF3.jpg",
+        "Width": 1920,
+        "Height": 1080,
+        "AspectRatio": 1.77777777777778,
+        "VoteAverage": 5.3125,
+        "VoteCount": 1
+      },
+      {
+        "FilePath": "/kydnushxZFah73tESUJJwY7ateU.jpg",
+        "Width": 1425,
+        "Height": 802,
+        "AspectRatio": 1.77680798004988,
+        "VoteAverage": 5.20879120879121,
+        "VoteCount": 2
+      },
+      {
+        "FilePath": "/auraZ2csuYucppmcFFfsXJVUaSk.jpg",
+        "Width": 1596,
+        "Height": 898,
+        "AspectRatio": 1.77728285077951,
+        "VoteAverage": 5.2014652014652,
+        "VoteCount": 2
+      },
+      {
+        "FilePath": "/aTFSYmrzDnLRLAutRvCgsRyhZ17.jpg",
+        "Width": 1920,
+        "Height": 1080,
+        "AspectRatio": 1.77777777777778,
+        "VoteAverage": 5.18681318681319,
+        "VoteCount": 2
+      },
+      {
+        "FilePath": "/sOmJMtEA6F1Y3yonOZeuvgDU7jw.jpg",
+        "Width": 1280,
+        "Height": 720,
+        "AspectRatio": 1.77777777777778,
+        "VoteAverage": 5.14285714285714,
+        "VoteCount": 2
+      }
+    ],
+    "Posters": [
+      {
+        "FilePath": "/iyUfJso5kCqWwh2oth8a0NUlwnd.jpg",
+        "Width": 1000,
+        "Height": 1500,
+        "Iso_639_1": "en",
+        "AspectRatio": 0.666666666666667,
+        "VoteAverage": 5.3125,
+        "VoteCount": 1
+      },
+      {
+        "FilePath": "/bMEotVQWO2juPKb9lnGw7lV74f8.jpg",
+        "Width": 863,
+        "Height": 1280,
+        "Iso_639_1": "en",
+        "AspectRatio": 0.67421875,
+        "VoteAverage": 5.2014652014652,
+        "VoteCount": 2
+      },
+      {
+        "FilePath": "/5og3DiXmsDsRRZF1dFveCcoEGVe.jpg",
+        "Width": 666,
+        "Height": 1000,
+        "Iso_639_1": "ru",
+        "AspectRatio": 0.666
+      }
+    ]
+  },
+  "Keywords": {
+    "Id": 245916,
+    "Keywords": []
+  },
+  "Trailers": {
+    "Id": 245916,
+    "Quicktime": [],
+    "Youtube": [
+      {
+        "Name": "trailer",
+        "Size": "HD",
+        "Source": "e0gbQk38F0g"
+      }
+    ]
+  },
+  "Translations": {
+    "Id": 245916,
+    "Translations": [
+      {
+        "Iso_639_1": "en",
+        "Name": "English",
+        "EnglishName": "English"
+      },
+      {
+        "Iso_639_1": "ru",
+        "Name": "Pусский",
+        "EnglishName": "Russian"
+      },
+      {
+        "Iso_639_1": "es",
+        "Name": "Español",
+        "EnglishName": "Spanish"
+      },
+      {
+        "Iso_639_1": "fr",
+        "Name": "Français",
+        "EnglishName": "French"
+      },
+      {
+        "Iso_639_1": "hu",
+        "Name": "Magyar",
+        "EnglishName": "Hungarian"
+      },
+      {
+        "Iso_639_1": "de",
+        "Name": "Deutsch",
+        "EnglishName": "German"
+      }
+    ]
+  }
+}

@@ -1,0 +1,62 @@
+{
+  "Id": 298125,
+  "Title": "Wotruba",
+  "OriginalTitle": "Wotruba",
+  "Status": "Released",
+  "Overview": "Vienna’s unique Church of the Most Holy Trinity, a walk-in sculpture by architect Fritz Wotruba, is reconstructed into a new narrative through the assemblage of photographs.",
+  "Genres": [],
+  "ReleaseDate": "2014-10-17T00:00:00",
+  "Runtime": 16,
+  "Popularity": 0.220845839652656,
+  "ProductionCompanies": [],
+  "ProductionCountries": [],
+  "SpokenLanguages": [],
+  "AlternativeTitles": {
+    "Id": 298125,
+    "Titles": []
+  },
+  "Releases": {
+    "Id": 298125,
+    "Countries": [
+      {
+        "Iso_3166_1": "GB",
+        "ReleaseDate": "2014-10-17T00:00:00"
+      }
+    ]
+  },
+  "Credits": {
+    "Id": 298125,
+    "Cast": [],
+    "Crew": [
+      {
+        "Id": 1195497,
+        "Name": "Thomas Draschan",
+        "Department": "Directing",
+        "Job": "Director"
+      }
+    ]
+  },
+  "Images": {
+    "Backdrops": [],
+    "Posters": []
+  },
+  "Keywords": {
+    "Id": 298125,
+    "Keywords": []
+  },
+  "Trailers": {
+    "Id": 298125,
+    "Quicktime": [],
+    "Youtube": []
+  },
+  "Translations": {
+    "Id": 298125,
+    "Translations": [
+      {
+        "Iso_639_1": "en",
+        "Name": "English",
+        "EnglishName": "English"
+      }
+    ]
+  }
+}

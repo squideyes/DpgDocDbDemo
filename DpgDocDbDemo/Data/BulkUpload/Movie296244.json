@@ -1,0 +1,183 @@
+{
+  "Id": 296244,
+  "ImdbId": "tt3949586",
+  "Title": "Plague",
+  "OriginalTitle": "Plague",
+  "Status": "Released",
+  "Overview": "An independent Australian horror/drama that explores the societal norms that break down among a small group of survivors in a post-apocalyptic world. Ravenous hordes of infected zombies terrorize the survivors, but it is the horror within their own sanctuary that they must fear the most.",
+  "Homepage": "http://www.plaguefilm.com/",
+  "Genres": [
+    {
+      "Id": 18,
+      "Name": "Drama"
+    },
+    {
+      "Id": 27,
+      "Name": "Horror"
+    }
+  ],
+  "ReleaseDate": "2014-10-30T00:00:00",
+  "Runtime": 86,
+  "Popularity": 1.04662856141405,
+  "VoteAverage": 7.0,
+  "VoteCount": 1,
+  "ProductionCompanies": [
+    {
+      "Name": "Burning Ships Productions",
+      "Id": 34627
+    }
+  ],
+  "ProductionCountries": [
+    {
+      "Iso_3166_1": "AU",
+      "Name": "Australia"
+    }
+  ],
+  "SpokenLanguages": [],
+  "AlternativeTitles": {
+    "Id": 296244,
+    "Titles": []
+  },
+  "Releases": {
+    "Id": 296244,
+    "Countries": [
+      {
+        "Iso_3166_1": "AU",
+        "ReleaseDate": "2014-10-30T00:00:00"
+      }
+    ]
+  },
+  "Credits": {
+    "Id": 296244,
+    "Cast": [
+      {
+        "Id": 1371536,
+        "Name": "Tegan Crowley",
+        "Character": "Evie",
+        "Order": 1,
+        "CastId": 5
+      },
+      {
+        "Id": 1371537,
+        "Name": "Scott Marcus",
+        "Character": "John",
+        "Order": 2,
+        "CastId": 6
+      },
+      {
+        "Id": 1371538,
+        "Name": "Steven Kennedy",
+        "Character": "Charlie",
+        "Order": 3,
+        "CastId": 7
+      },
+      {
+        "Id": 80270,
+        "Name": "Don Bridges",
+        "Character": "Gary",
+        "Order": 4,
+        "CastId": 8
+      },
+      {
+        "Id": 1292190,
+        "Name": "Nick Stribakos",
+        "Character": "Bob",
+        "Order": 5,
+        "CastId": 9
+      },
+      {
+        "Id": 1371539,
+        "Name": "Sarah Ranken",
+        "Character": "Sammy",
+        "Order": 6,
+        "CastId": 10
+      },
+      {
+        "Id": 1371540,
+        "Name": "Liza Dennis",
+        "Character": "Marge",
+        "Order": 7,
+        "CastId": 11
+      },
+      {
+        "Id": 1371541,
+        "Name": "Benjamin Rigby",
+        "Character": "Corporal Davies",
+        "Order": 8,
+        "CastId": 12
+      }
+    ],
+    "Crew": [
+      {
+        "Id": 1371533,
+        "Name": "Kostas Ouzas",
+        "Department": "Directing",
+        "Job": "Director"
+      },
+      {
+        "Id": 1371534,
+        "Name": "Nick Kozakis",
+        "Department": "Directing",
+        "Job": "Director"
+      },
+      {
+        "Id": 1371533,
+        "Name": "Kostas Ouzas",
+        "Department": "Writing",
+        "Job": "Writer"
+      },
+      {
+        "Id": 1371535,
+        "Name": "Tim Metherall",
+        "Department": "Camera",
+        "Job": "Director of Photography"
+      },
+      {
+        "Id": 1371534,
+        "Name": "Nick Kozakis",
+        "Department": "Editing",
+        "Job": "Editor"
+      }
+    ]
+  },
+  "Images": {
+    "Backdrops": [],
+    "Posters": []
+  },
+  "Keywords": {
+    "Id": 296244,
+    "Keywords": [
+      {
+        "Id": 3094,
+        "Name": "australian"
+      },
+      {
+        "Id": 11004,
+        "Name": "rural setting"
+      },
+      {
+        "Id": 34221,
+        "Name": "gender roles"
+      },
+      {
+        "Id": 186565,
+        "Name": "zombie apocalypse"
+      }
+    ]
+  },
+  "Trailers": {
+    "Id": 296244,
+    "Quicktime": [],
+    "Youtube": []
+  },
+  "Translations": {
+    "Id": 296244,
+    "Translations": [
+      {
+        "Iso_639_1": "en",
+        "Name": "English",
+        "EnglishName": "English"
+      }
+    ]
+  }
+}

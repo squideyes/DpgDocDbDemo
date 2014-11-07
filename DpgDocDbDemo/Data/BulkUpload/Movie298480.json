@@ -1,0 +1,87 @@
+{
+  "Id": 298480,
+  "Title": "Negro",
+  "OriginalTitle": "Negro",
+  "Status": "Released",
+  "Overview": "After many years, Julian returns to the house where he grew up. He finds a closet that takes him back into the one of his most painful memories, one caused by his father.",
+  "Genres": [],
+  "ReleaseDate": "2014-10-18T00:00:00",
+  "Runtime": 9,
+  "Popularity": 0.229850039698142,
+  "ProductionCompanies": [],
+  "ProductionCountries": [],
+  "SpokenLanguages": [],
+  "AlternativeTitles": {
+    "Id": 298480,
+    "Titles": []
+  },
+  "Releases": {
+    "Id": 298480,
+    "Countries": [
+      {
+        "Iso_3166_1": "MX",
+        "ReleaseDate": "2014-10-18T00:00:00"
+      }
+    ]
+  },
+  "Credits": {
+    "Id": 298480,
+    "Cast": [
+      {
+        "Id": 1376411,
+        "Name": "Fernando Álvarez Rebeil",
+        "Order": 1,
+        "CastId": 2
+      },
+      {
+        "Id": 974819,
+        "Name": "Ignacio Guadalupe",
+        "Order": 2,
+        "CastId": 3
+      },
+      {
+        "Id": 1376412,
+        "Name": "Jerónimo Juárez",
+        "Order": 3,
+        "CastId": 4
+      }
+    ],
+    "Crew": [
+      {
+        "Id": 1262266,
+        "Name": "Daniel Castro Zimbrón",
+        "Department": "Directing",
+        "Job": "Director"
+      },
+      {
+        "Id": 1262266,
+        "Name": "Daniel Castro Zimbrón",
+        "Department": "Writing",
+        "Job": "Screenplay"
+      }
+    ]
+  },
+  "Images": {
+    "Backdrops": [],
+    "Posters": []
+  },
+  "Keywords": {
+    "Id": 298480,
+    "Keywords": []
+  },
+  "Trailers": {
+    "Id": 298480,
+    "Quicktime": [],
+    "Youtube": []
+  },
+  "Translations": {
+    "Id": 298480,
+    "Translations": [
+      {
+        "Iso_639_1": "en",
+        "Name": "English",
+        "EnglishName": "English"
+      }
+    ]
+  }
+}

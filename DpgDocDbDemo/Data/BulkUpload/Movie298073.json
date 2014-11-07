@@ -1,0 +1,139 @@
+{
+  "Id": 298073,
+  "ImdbId": "tt3959662",
+  "Title": "Chuzhaya voyna",
+  "OriginalTitle": "Chuzhaya voyna",
+  "Status": "Released",
+  "Tagline": "The untold harrowing true story of Russia's top secret, covert operations carried out in North Vietnam during the infamous Vietnam War.",
+  "Overview": "The Soldier tells us about the military operations taking place in the years 1965-1973 when a group of Russian military operatives carried out the advisory support of North Vietnam as well as covert operations to capture the spoils (the enemy's new war technologies) It is the story of a soldier named Paul who was sent from Moscow military school in Vietnam where he discovers a traitor among his colleagues. However, through a turn of events, he becomes a traitor in the eyes of the commander, and he has to run from his comrades to complete the operation and prove that he is not guilty. Along the way, he joins forces with a North Vietnamese man and an escaped military pilot. The three men make a plan to leave the territory of Vietnam but the road to freedom is full of dangers and surprises. In the end, Paul finds the original traitor and destroys him but he still has to prove his innocence.",
+  "BackdropPath": "/a1TpBqmo3fL3vMwSeZd4i35RNxW.jpg",
+  "PosterPath": "/nbiq7XQFgH06qyn7jxzI0lIhhgu.jpg",
+  "Genres": [
+    {
+      "Id": 10752,
+      "Name": "War"
+    }
+  ],
+  "ReleaseDate": "2014-10-24T00:00:00",
+  "Runtime": 86,
+  "Popularity": 0.585025326032744,
+  "VoteAverage": 5.5,
+  "VoteCount": 1,
+  "ProductionCompanies": [
+    {
+      "Name": "VMI Worldwide",
+      "Id": 23688
+    }
+  ],
+  "ProductionCountries": [
+    {
+      "Iso_3166_1": "RU",
+      "Name": "Russian Federation"
+    }
+  ],
+  "SpokenLanguages": [
+    {
+      "Iso_639_1": "ru",
+      "Name": "Pусский"
+    }
+  ],
+  "AlternativeTitles": {
+    "Id": 298073,
+    "Titles": [
+      {
+        "Iso_3166_1": "DE",
+        "Title": "The Soldier - Unter falscher Flagge"
+      }
+    ]
+  },
+  "Releases": {
+    "Id": 298073,
+    "Countries": [
+      {
+        "Iso_3166_1": "DE",
+        "Certification": "16",
+        "ReleaseDate": "2014-10-24T00:00:00"
+      }
+    ]
+  },
+  "Credits": {
+    "Id": 298073,
+    "Cast": [
+      {
+        "Id": 235993,
+        "Name": "Artyom Tkachenko",
+        "Order": 1,
+        "ProfilePath": "/shR163acqHF1ACaZTpa4LFC4Has.jpg"
+      },
+      {
+        "Id": 29838,
+        "Name": "Aleksandr Samoylenko",
+        "Order": 2,
+        "CastId": 1
+      },
+      {
+        "Id": 581278,
+        "Name": "Vyacheslav Krikunov",
+        "Order": 3,
+        "CastId": 2
+      }
+    ],
+    "Crew": [
+      {
+        "Id": 236809,
+        "Name": "Aleksandr Chernyaev",
+        "Department": "Directing",
+        "Job": "Director"
+      },
+      {
+        "Id": 1375226,
+        "Name": "Nikolay Shedrin",
+        "Department": "Writing",
+        "Job": "Writer"
+      }
+    ]
+  },
+  "Images": {
+    "Backdrops": [
+      {
+        "FilePath": "/a1TpBqmo3fL3vMwSeZd4i35RNxW.jpg",
+        "Width": 1280,
+        "Height": 720,
+        "AspectRatio": 1.77777777777778
+      }
+    ],
+    "Posters": [
+      {
+        "FilePath": "/nbiq7XQFgH06qyn7jxzI0lIhhgu.jpg",
+        "Width": 765,
+        "Height": 1080,
+        "Iso_639_1": "de",
+        "AspectRatio": 0.708333333333333
+      }
+    ]
+  },
+  "Keywords": {
+    "Id": 298073,
+    "Keywords": []
+  },
+  "Trailers": {
+    "Id": 298073,
+    "Quicktime": [],
+    "Youtube": []
+  },
+  "Translations": {
+    "Id": 298073,
+    "Translations": [
+      {
+        "Iso_639_1": "en",
+        "Name": "English",
+        "EnglishName": "English"
+      },
+      {
+        "Iso_639_1": "de",
+        "Name": "Deutsch",
+        "EnglishName": "German"
+      }
+    ]
+  }
+}

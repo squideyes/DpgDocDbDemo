@@ -1,0 +1,236 @@
+{
+  "Id": 244580,
+  "ImdbId": "tt1864405",
+  "Title": "Low Down",
+  "OriginalTitle": "Low Down",
+  "Status": "Released",
+  "Overview": "Based on Amy Jo Albany's memoir, Low Down explores her heart-wrenching journey to adulthood while being raised by her father, bebop pianist Joe Albany, as he teeters between incarceration and addiction in the urban decay and waning bohemia of Hollywood in the 1970s.",
+  "PosterPath": "/J0gVKBN0BjD9wfkn6JXr1Kbyu5.jpg",
+  "Genres": [
+    {
+      "Id": 18,
+      "Name": "Drama"
+    }
+  ],
+  "ReleaseDate": "2014-10-24T00:00:00",
+  "Runtime": 119,
+  "Popularity": 0.576113538322706,
+  "VoteAverage": 4.0,
+  "VoteCount": 1,
+  "ProductionCompanies": [],
+  "ProductionCountries": [],
+  "SpokenLanguages": [
+    {
+      "Iso_639_1": "en",
+      "Name": "English"
+    }
+  ],
+  "AlternativeTitles": {
+    "Id": 244580,
+    "Titles": []
+  },
+  "Releases": {
+    "Id": 244580,
+    "Countries": [
+      {
+        "Iso_3166_1": "US",
+        "Certification": "R",
+        "ReleaseDate": "2014-10-24T00:00:00"
+      }
+    ]
+  },
+  "Credits": {
+    "Id": 244580,
+    "Cast": [
+      {
+        "Id": 16861,
+        "Name": "John Hawkes",
+        "Character": "Joe Albany",
+        "CastId": 2,
+        "ProfilePath": "/bz4usMR7NWEgVgWTxVBLEjCo3Dv.jpg"
+      },
+      {
+        "Id": 18050,
+        "Name": "Elle Fanning",
+        "Character": "Amy Albany",
+        "Order": 1,
+        "CastId": 3,
+        "ProfilePath": "/g3UprFCW6CGEhmySoBzaNQYk0i2.jpg"
+      },
+      {
+        "Id": 515,
+        "Name": "Glenn Close",
+        "Character": "Gram",
+        "Order": 2,
+        "CastId": 4,
+        "ProfilePath": "/fF6tCfuvuUhaePm5onUNnIE4FvL.jpg"
+      },
+      {
+        "Id": 22970,
+        "Name": "Peter Dinklage",
+        "Character": "Alain",
+        "Order": 3,
+        "CastId": 5,
+        "ProfilePath": "/xuB7b4GbARu4HN6gq5zMqjGbkwF.jpg"
+      },
+      {
+        "Id": 17286,
+        "Name": "Lena Headey",
+        "Character": "Sheila Albany",
+        "Order": 4,
+        "CastId": 6,
+        "ProfilePath": "/wcpy6J7KLzmVt0METboX3CZ0Jp.jpg"
+      },
+      {
+        "Id": 1237,
+        "Name": "Michael Peter Balzary",
+        "Character": "Hobbs",
+        "Order": 5,
+        "CastId": 7,
+        "ProfilePath": "/sKZq4DWMszQiSYUmNho1Y6ORhIw.jpg"
+      }
+    ],
+    "Crew": [
+      {
+        "Id": 1075514,
+        "Name": "Jeff Preiss",
+        "Department": "Directing",
+        "Job": "Director"
+      },
+      {
+        "Id": 1084983,
+        "Name": "Christopher Blauvelt",
+        "Department": "Camera",
+        "Job": "Director of Photography"
+      },
+      {
+        "Id": 70723,
+        "Name": "Topper Lilien",
+        "Department": "Writing",
+        "Job": "Screenplay"
+      },
+      {
+        "Id": 1279865,
+        "Name": "Amy Albany",
+        "Department": "Writing",
+        "Job": "Screenplay"
+      },
+      {
+        "Id": 1279865,
+        "Name": "Amy Albany",
+        "Department": "Writing",
+        "Job": "Novel"
+      },
+      {
+        "Id": 1279866,
+        "Name": "Michael Saia",
+        "Department": "Editing",
+        "Job": "Editor"
+      },
+      {
+        "Id": 17172,
+        "Name": "Albert Berger",
+        "Department": "Production",
+        "Job": "Producer"
+      },
+      {
+        "Id": 977206,
+        "Name": "Mindy Goldberg",
+        "Department": "Production",
+        "Job": "Producer"
+      },
+      {
+        "Id": 17173,
+        "Name": "Ron Yerxa",
+        "Department": "Production",
+        "Job": "Producer"
+      },
+      {
+        "Id": 1364237,
+        "Name": "Ohad Talmor",
+        "Department": "Sound",
+        "Job": "Original Music Composer"
+      },
+      {
+        "Id": 1186191,
+        "Name": "Elliott Hostetter",
+        "Department": "Art",
+        "Job": "Production Design"
+      },
+      {
+        "Id": 1364238,
+        "Name": "Chilly Nathan",
+        "Department": "Art",
+        "Job": "Set Decoration"
+      },
+      {
+        "Id": 1364239,
+        "Name": "Mark Robert Taylor",
+        "Department": "Art",
+        "Job": "Art Direction"
+      },
+      {
+        "Id": 188097,
+        "Name": "Jennifer Johnson",
+        "Department": "Costume & Make-Up",
+        "Job": "Costume Design"
+      },
+      {
+        "Id": 6959,
+        "Name": "Justine Baddeley",
+        "Department": "Production",
+        "Job": "Casting"
+      },
+      {
+        "Id": 961165,
+        "Name": "Kim Davis-Wagner",
+        "Department": "Production",
+        "Job": "Casting"
+      }
+    ]
+  },
+  "Images": {
+    "Backdrops": [],
+    "Posters": [
+      {
+        "FilePath": "/J0gVKBN0BjD9wfkn6JXr1Kbyu5.jpg",
+        "Width": 675,
+        "Height": 997,
+        "Iso_639_1": "en",
+        "AspectRatio": 0.67703109327984,
+        "VoteAverage": 5.29761904761905,
+        "VoteCount": 1
+      }
+    ]
+  },
+  "Keywords": {
+    "Id": 244580,
+    "Keywords": []
+  },
+  "Trailers": {
+    "Id": 244580,
+    "Quicktime": [],
+    "Youtube": [
+      {
+        "Name": "Sundance 2014 Interview",
+        "Size": "HD",
+        "Source": "_0GGjRFeLss"
+      }
+    ]
+  },
+  "Translations": {
+    "Id": 244580,
+    "Translations": [
+      {
+        "Iso_639_1": "en",
+        "Name": "English",
+        "EnglishName": "English"
+      },
+      {
+        "Iso_639_1": "ru",
+        "Name": "Pусский",
+        "EnglishName": "Russian"
+      }
+    ]
+  }
+}

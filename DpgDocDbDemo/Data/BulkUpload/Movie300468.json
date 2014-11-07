@@ -1,0 +1,70 @@
+{
+  "Id": 300468,
+  "Title": "Mo’ne Davis: Throw Like A Girl",
+  "OriginalTitle": "Mo’ne Davis: Throw Like A Girl",
+  "Status": "Released",
+  "Overview": "The best summer of her life is only the beginning for 13-year-old Mo’ne Davis. With the support of her family and passion for sports, Mo’ne stands for girls who want to play with the boys. She embodies the spirit that drives an athlete to push further, work harder, and overcome challenges. Are you ready to listen to her open letter, America?",
+  "Genres": [],
+  "ReleaseDate": "2014-10-21T00:00:00",
+  "Runtime": 16,
+  "Popularity": 0.5248,
+  "ProductionCompanies": [],
+  "ProductionCountries": [],
+  "SpokenLanguages": [],
+  "AlternativeTitles": {
+    "Id": 300468,
+    "Titles": []
+  },
+  "Releases": {
+    "Id": 300468,
+    "Countries": [
+      {
+        "Iso_3166_1": "US",
+        "ReleaseDate": "2014-10-21T00:00:00"
+      }
+    ]
+  },
+  "Credits": {
+    "Id": 300468,
+    "Cast": [
+      {
+        "Id": 1380652,
+        "Name": "Mo'ne Davis",
+        "Order": 1,
+        "CastId": 1
+      }
+    ],
+    "Crew": [
+      {
+        "Id": 5281,
+        "Name": "Spike Lee",
+        "Department": "Directing",
+        "Job": "Director",
+        "ProfilePath": "/BRq4UHdeI6QUd17vcD9Hnxf0ch.jpg"
+      }
+    ]
+  },
+  "Images": {
+    "Backdrops": [],
+    "Posters": []
+  },
+  "Keywords": {
+    "Id": 300468,
+    "Keywords": []
+  },
+  "Trailers": {
+    "Id": 300468,
+    "Quicktime": [],
+    "Youtube": []
+  },
+  "Translations": {
+    "Id": 300468,
+    "Translations": [
+      {
+        "Iso_639_1": "en",
+        "Name": "English",
+        "EnglishName": "English"
+      }
+    ]
+  }
+}

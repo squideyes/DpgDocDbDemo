@@ -1,0 +1,70 @@
+{
+  "Id": 298249,
+  "Title": "Phish - 2014/10/18 - Seattle, WA",
+  "OriginalTitle": "Phish - 2014/10/18 - Seattle, WA",
+  "Status": "Released",
+  "Overview": "Saturday, 10/18/2014  Key Arena, Seattle, WA\r Set 1: Cavern, Wilson &gt; Rift, The Moma Dance, The Line, Sugar Shack, Lawn Boy, Kill Devil Falls, Wolfman's Brother, Sparkle &gt; Bathtub Gin\r Set 2: Down with Disease[1] &gt; Golden Age &gt; Fuego &gt; Light -&gt; Cities &gt; 46 Days &gt; Sand &gt; Backwards Down the Number Line, Bold As Love\r Encore: Meatstick &gt; Character Zero",
+  "Homepage": "http://phish.net/setlists/?d=2014-10-18",
+  "PosterPath": "/s3HU7MfqXXi3zfgyGZHcDb0tcJn.jpg",
+  "Genres": [],
+  "ReleaseDate": "2014-10-19T00:00:00",
+  "Runtime": 0,
+  "Popularity": 0.240747540982281,
+  "ProductionCompanies": [],
+  "ProductionCountries": [],
+  "SpokenLanguages": [],
+  "AlternativeTitles": {
+    "Id": 298249,
+    "Titles": []
+  },
+  "Releases": {
+    "Id": 298249,
+    "Countries": [
+      {
+        "Iso_3166_1": "US",
+        "ReleaseDate": "2014-10-19T00:00:00"
+      }
+    ]
+  },
+  "Credits": {
+    "Id": 298249,
+    "Cast": [],
+    "Crew": []
+  },
+  "Images": {
+    "Backdrops": [],
+    "Posters": [
+      {
+        "FilePath": "/s3HU7MfqXXi3zfgyGZHcDb0tcJn.jpg",
+        "Width": 757,
+        "Height": 1048,
+        "AspectRatio": 0.722328244274809
+      },
+      {
+        "FilePath": "/guRAAa0GHDHHpewdMgGHfhaYVFe.jpg",
+        "Width": 757,
+        "Height": 1048,
+        "AspectRatio": 0.722328244274809
+      }
+    ]
+  },
+  "Keywords": {
+    "Id": 298249,
+    "Keywords": []
+  },
+  "Trailers": {
+    "Id": 298249,
+    "Quicktime": [],
+    "Youtube": []
+  },
+  "Translations": {
+    "Id": 298249,
+    "Translations": [
+      {
+        "Iso_639_1": "en",
+        "Name": "English",
+        "EnglishName": "English"
+      }
+    ]
+  }
+}

@@ -1,0 +1,160 @@
+{
+  "Id": 297693,
+  "ImdbId": "tt2087982",
+  "Title": "The Knife That Killed Me",
+  "OriginalTitle": "The Knife That Killed Me",
+  "Status": "Released",
+  "Overview": "A journey through the memories of teenager Paul Varderman as he reflects on the events leading to the fatal moment his life is cut short. Paul moves to a new school and becomes involved with 'The Freaks', a group on the periphery of school life, those who don't fit in: scene kids, emo kids, indie kids. Outsiders. At the same time he attracts the attention of the schools twisted and manipulative bully, Roth. When Paul delivers a message from Roth to the leader of a gang at a rival school, it sparks a dangerous feud. Faced with growing pressures from both groups, Paul must decide where his friendship lies, a decision that may cost him his life.",
+  "PosterPath": "/mDrmYkfGbcfFz9CPaLi8q7WGJsD.jpg",
+  "Genres": [
+    {
+      "Id": 18,
+      "Name": "Drama"
+    }
+  ],
+  "ReleaseDate": "2014-10-24T00:00:00",
+  "Budget": 5000000,
+  "Runtime": 95,
+  "Popularity": 0.48819554716788,
+  "ProductionCompanies": [
+    {
+      "Name": "Focus Features",
+      "Id": 10146
+    },
+    {
+      "Name": "Universal Pictures (UK)",
+      "Id": 7606
+    }
+  ],
+  "ProductionCountries": [
+    {
+      "Iso_3166_1": "GB",
+      "Name": "United Kingdom"
+    }
+  ],
+  "SpokenLanguages": [
+    {
+      "Iso_639_1": "en",
+      "Name": "English"
+    }
+  ],
+  "AlternativeTitles": {
+    "Id": 297693,
+    "Titles": []
+  },
+  "Releases": {
+    "Id": 297693,
+    "Countries": [
+      {
+        "Iso_3166_1": "GB",
+        "ReleaseDate": "2014-10-24T00:00:00"
+      }
+    ]
+  },
+  "Credits": {
+    "Id": 297693,
+    "Cast": [
+      {
+        "Id": 233093,
+        "Name": "Jack McMullen",
+        "Character": "Paul",
+        "Order": 1,
+        "CastId": 2,
+        "ProfilePath": "/88HPiFqrD2CT3VzU4eUQRMVN5Ip.jpg"
+      },
+      {
+        "Id": 81598,
+        "Name": "Reece Dinsdale",
+        "Character": "Paul's Dad",
+        "Order": 2,
+        "CastId": 3,
+        "ProfilePath": "/tweweQueKMVMzJ1xDBw5iZ7MOw8.jpg"
+      },
+      {
+        "Id": 1374478,
+        "Name": "Jamie Shelton",
+        "Character": "Roth",
+        "Order": 3,
+        "CastId": 4
+      },
+      {
+        "Id": 97581,
+        "Name": "Oliver Lee",
+        "Character": "Shane",
+        "Order": 4,
+        "CastId": 5
+      }
+    ],
+    "Crew": [
+      {
+        "Id": 1374474,
+        "Name": "Kit Monkman",
+        "Department": "Directing",
+        "Job": "Director"
+      },
+      {
+        "Id": 1374476,
+        "Name": "Marcus Romer",
+        "Department": "Directing",
+        "Job": "Director"
+      },
+      {
+        "Id": 1378023,
+        "Name": "Thomas Mattinson",
+        "Department": "Production",
+        "Job": "Producer"
+      },
+      {
+        "Id": 54742,
+        "Name": "Alan Latham",
+        "Department": "Production",
+        "Job": "Producer"
+      },
+      {
+        "Id": 1378024,
+        "Name": "Anthony McGowan",
+        "Department": "Writing",
+        "Job": "Writer"
+      }
+    ]
+  },
+  "Images": {
+    "Backdrops": [],
+    "Posters": [
+      {
+        "FilePath": "/mDrmYkfGbcfFz9CPaLi8q7WGJsD.jpg",
+        "Width": 1000,
+        "Height": 1500,
+        "Iso_639_1": "en",
+        "AspectRatio": 0.666666666666667,
+        "VoteAverage": 5.3125,
+        "VoteCount": 1
+      }
+    ]
+  },
+  "Keywords": {
+    "Id": 297693,
+    "Keywords": []
+  },
+  "Trailers": {
+    "Id": 297693,
+    "Quicktime": [],
+    "Youtube": [
+      {
+        "Name": "The Knife That Killed Me (2014) - Trailer (First Look)",
+        "Size": "Standard",
+        "Source": "vu689ONneAI"
+      }
+    ]
+  },
+  "Translations": {
+    "Id": 297693,
+    "Translations": [
+      {
+        "Iso_639_1": "en",
+        "Name": "English",
+        "EnglishName": "English"
+      }
+    ]
+  }
+}

@@ -1,0 +1,164 @@
+{
+  "Id": 293456,
+  "ImdbId": "tt3496334",
+  "Title": "For Some Inexplicable Reason",
+  "OriginalTitle": "VAN valami furcsa és megmagyarázhatatlan",
+  "Status": "Released",
+  "Overview": "A trip to Lisbon helps a nerdy guy who is quickly approaching 30 finally get his mojo back.",
+  "PosterPath": "/gxFAA4CXQqmRNyu4vVyal6dqJEo.jpg",
+  "Genres": [
+    {
+      "Id": 18,
+      "Name": "Drama"
+    }
+  ],
+  "ReleaseDate": "2014-10-30T00:00:00",
+  "Runtime": 96,
+  "Popularity": 0.958018381433006,
+  "ProductionCompanies": [
+    {
+      "Name": "Színház- és Filmmüvészeti Egyetem",
+      "Id": 17881
+    },
+    {
+      "Name": "Proton Cinema",
+      "Id": 17173
+    }
+  ],
+  "ProductionCountries": [
+    {
+      "Iso_3166_1": "HU",
+      "Name": "Hungary"
+    }
+  ],
+  "SpokenLanguages": [
+    {
+      "Iso_639_1": "hu",
+      "Name": "Magyar"
+    }
+  ],
+  "AlternativeTitles": {
+    "Id": 293456,
+    "Titles": [
+      {
+        "Iso_3166_1": "CZ",
+        "Title": "Jsou v e ci divné a nevysv e tlitelné"
+      },
+      {
+        "Iso_3166_1": "RS",
+        "Title": "Iz nepoznatog razloga"
+      }
+    ]
+  },
+  "Releases": {
+    "Id": 293456,
+    "Countries": [
+      {
+        "Iso_3166_1": "HU",
+        "ReleaseDate": "2014-10-30T00:00:00"
+      }
+    ]
+  },
+  "Credits": {
+    "Id": 293456,
+    "Cast": [
+      {
+        "Id": 1365216,
+        "Name": "Áron Ferenczik",
+        "Character": "Áron Szentesi",
+        "Order": 1,
+        "CastId": 4
+      },
+      {
+        "Id": 1365217,
+        "Name": "Miklós Horváth",
+        "Character": "Miklós Hamza",
+        "Order": 2,
+        "CastId": 5
+      },
+      {
+        "Id": 1365218,
+        "Name": "Bálint Györiványi",
+        "Character": "Bálint Györvári",
+        "Order": 3,
+        "CastId": 6
+      },
+      {
+        "Id": 1365219,
+        "Name": "Tamás Owczarek",
+        "Character": "Tamás Juhász",
+        "Order": 4,
+        "CastId": 7
+      },
+      {
+        "Id": 1365220,
+        "Name": "Roland Lukács",
+        "Character": "Roland",
+        "Order": 5,
+        "CastId": 8
+      }
+    ],
+    "Crew": [
+      {
+        "Id": 1365212,
+        "Name": "Gábor Reisz",
+        "Department": "Directing",
+        "Job": "Director"
+      },
+      {
+        "Id": 1365213,
+        "Name": "Gábor Reisz",
+        "Department": "Writing",
+        "Job": "Writer"
+      },
+      {
+        "Id": 1365214,
+        "Name": "Júlia Berkes",
+        "Department": "Production",
+        "Job": "Producer"
+      },
+      {
+        "Id": 1365215,
+        "Name": "Miklós Bosnyák",
+        "Department": "Production",
+        "Job": "Producer"
+      }
+    ]
+  },
+  "Images": {
+    "Backdrops": [],
+    "Posters": [
+      {
+        "FilePath": "/gxFAA4CXQqmRNyu4vVyal6dqJEo.jpg",
+        "Width": 666,
+        "Height": 942,
+        "AspectRatio": 0.707006369426752
+      }
+    ]
+  },
+  "Keywords": {
+    "Id": 293456,
+    "Keywords": []
+  },
+  "Trailers": {
+    "Id": 293456,
+    "Quicktime": [],
+    "Youtube": [
+      {
+        "Name": "Trailer",
+        "Size": "Standard",
+        "Source": "rbyOcZHGjZc"
+      }
+    ]
+  },
+  "Translations": {
+    "Id": 293456,
+    "Translations": [
+      {
+        "Iso_639_1": "en",
+        "Name": "English",
+        "EnglishName": "English"
+      }
+    ]
+  }
+}

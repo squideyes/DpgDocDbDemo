@@ -1,0 +1,221 @@
+{
+  "Id": 293572,
+  "ImdbId": "tt1958043",
+  "Title": "The Houses October Built",
+  "OriginalTitle": "The Houses October Built",
+  "Status": "Released",
+  "Overview": "Beneath the fake blood and cheap masks of countless haunted house attractions across the country, there are whispers of truly terrifying alternatives. Looking to find an authentic, blood-curdling good fright for Halloween, five friends set off on a road trip in an RV to track down these underground Haunts. Just when their search seems to reach a dead end, strange and disturbing things start happening and it becomes clear that the Haunt has come to them…",
+  "BackdropPath": "/1qj5WV9qOna2ghWHZLVfpgujd0S.jpg",
+  "PosterPath": "/b4FCnCClSVTHK55QiNwS9p9IeCF.jpg",
+  "Genres": [
+    {
+      "Id": 27,
+      "Name": "Horror"
+    }
+  ],
+  "ReleaseDate": "2014-10-10T00:00:00",
+  "Runtime": 91,
+  "Popularity": 1.61187753345602,
+  "VoteAverage": 7.0,
+  "VoteCount": 2,
+  "ProductionCompanies": [],
+  "ProductionCountries": [
+    {
+      "Iso_3166_1": "US",
+      "Name": "United States of America"
+    }
+  ],
+  "SpokenLanguages": [
+    {
+      "Iso_639_1": "en",
+      "Name": "English"
+    }
+  ],
+  "AlternativeTitles": {
+    "Id": 293572,
+    "Titles": []
+  },
+  "Releases": {
+    "Id": 293572,
+    "Countries": [
+      {
+        "Iso_3166_1": "US",
+        "ReleaseDate": "2014-10-10T00:00:00"
+      }
+    ]
+  },
+  "Credits": {
+    "Id": 293572,
+    "Cast": [
+      {
+        "Id": 1368972,
+        "Name": "Brandy Schaefer",
+        "Character": "Brandy",
+        "Order": 1,
+        "CastId": 1
+      },
+      {
+        "Id": 1368973,
+        "Name": "Zack Andrews",
+        "Character": "Zack",
+        "Order": 2,
+        "CastId": 2
+      },
+      {
+        "Id": 1368971,
+        "Name": "Bobby Roe",
+        "Character": "Bobby",
+        "Order": 3,
+        "CastId": 3
+      },
+      {
+        "Id": 1368974,
+        "Name": "Mikey Roe",
+        "Character": "Mikey",
+        "Order": 4,
+        "CastId": 4
+      },
+      {
+        "Id": 1368975,
+        "Name": "Jeff Larson",
+        "Character": "Jeff",
+        "Order": 5,
+        "CastId": 5
+      },
+      {
+        "Id": 1148624,
+        "Name": "Chloë Crampton",
+        "Character": "Porcelain",
+        "Order": 6,
+        "CastId": 6
+      },
+      {
+        "Id": 1243166,
+        "Name": "Jim Tavaré",
+        "Character": "Splitz",
+        "Order": 7,
+        "CastId": 7
+      },
+      {
+        "Id": 13101,
+        "Name": "Ian Roberts",
+        "Character": "Feaster Bunny",
+        "Order": 8,
+        "CastId": 8,
+        "ProfilePath": "/yVLXoRloTMZGoZIoaFLcyPrp1yV.jpg"
+      },
+      {
+        "Id": 1368976,
+        "Name": "Ashley Whelan",
+        "Character": "Girl Being Strangled",
+        "Order": 9,
+        "CastId": 9
+      },
+      {
+        "Id": 1207696,
+        "Name": "Tansy Alexander",
+        "Character": "Trannyotomy",
+        "Order": 10,
+        "CastId": 10
+      },
+      {
+        "Id": 1368977,
+        "Name": "Amber Campisi",
+        "Character": "Amber",
+        "Order": 11,
+        "CastId": 11
+      },
+      {
+        "Id": 1001689,
+        "Name": "Sam Munoz",
+        "Character": "Octane",
+        "Order": 12,
+        "CastId": 12
+      },
+      {
+        "Id": 1368978,
+        "Name": "Dan Merket",
+        "Character": "Skeleton Crew 2",
+        "Order": 13,
+        "CastId": 13
+      },
+      {
+        "Id": 1368979,
+        "Name": "Angelica L. Van Horn",
+        "Character": "Porcelain",
+        "Order": 14,
+        "CastId": 14
+      },
+      {
+        "Id": 1368980,
+        "Name": "Kahl Brice",
+        "Character": "Head Clown",
+        "Order": 15,
+        "CastId": 15
+      }
+    ],
+    "Crew": [
+      {
+        "Id": 1368971,
+        "Name": "Bobby Roe",
+        "Department": "Directing",
+        "Job": "Director"
+      }
+    ]
+  },
+  "Images": {
+    "Backdrops": [
+      {
+        "FilePath": "/1qj5WV9qOna2ghWHZLVfpgujd0S.jpg",
+        "Width": 1920,
+        "Height": 1080,
+        "AspectRatio": 1.77777777777778
+      }
+    ],
+    "Posters": [
+      {
+        "FilePath": "/b4FCnCClSVTHK55QiNwS9p9IeCF.jpg",
+        "Width": 509,
+        "Height": 755,
+        "Iso_639_1": "en",
+        "AspectRatio": 0.674172185430464
+      }
+    ]
+  },
+  "Keywords": {
+    "Id": 293572,
+    "Keywords": [
+      {
+        "Id": 3358,
+        "Name": "haunted house"
+      },
+      {
+        "Id": 163053,
+        "Name": "found footage"
+      },
+      {
+        "Id": 207399,
+        "Name": "october"
+      },
+      {
+        "Id": 207400,
+        "Name": "haunted attractions"
+      }
+    ]
+  },
+  "Trailers": {
+    "Id": 293572,
+    "Quicktime": [],
+    "Youtube": []
+  },
+  "Translations": {
+    "Id": 293572,
+    "Translations": [
+      {
+        "Iso_639_1": "en",
+        "Name": "English",
+        "EnglishName": "English"
+      }
+    ]
+  }
+}

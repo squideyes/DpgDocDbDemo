@@ -1,0 +1,94 @@
+{
+  "Id": 296892,
+  "ImdbId": "tt4010306",
+  "Title": "Jigariyaa",
+  "OriginalTitle": "Jigariyaa",
+  "Status": "Released",
+  "Overview": "Shaamu falls in love with Raadha at first sight. As they grow close to each other, destiny takes another turn.",
+  "PosterPath": "/eRuWI6zd8jtkKspDpZk2bNpjwcw.jpg",
+  "Genres": [],
+  "ReleaseDate": "2014-10-10T00:00:00",
+  "Runtime": 0,
+  "Popularity": 0.174678720736392,
+  "ProductionCompanies": [],
+  "ProductionCountries": [],
+  "SpokenLanguages": [],
+  "AlternativeTitles": {
+    "Id": 296892,
+    "Titles": []
+  },
+  "Releases": {
+    "Id": 296892,
+    "Countries": [
+      {
+        "Iso_3166_1": "IN",
+        "Certification": "UA",
+        "ReleaseDate": "2014-10-10T00:00:00"
+      }
+    ]
+  },
+  "Credits": {
+    "Id": 296892,
+    "Cast": [
+      {
+        "Id": 1372696,
+        "Name": "Cherry Mardia",
+        "Character": "Raadha",
+        "Order": 1
+      },
+      {
+        "Id": 1372697,
+        "Name": "Harshvardhan Deo",
+        "Character": "Shaamu",
+        "Order": 2,
+        "CastId": 2
+      }
+    ],
+    "Crew": [
+      {
+        "Id": 1267404,
+        "Name": "Raj Purohit",
+        "Department": "Directing",
+        "Job": "Director"
+      }
+    ]
+  },
+  "Images": {
+    "Backdrops": [],
+    "Posters": [
+      {
+        "FilePath": "/eRuWI6zd8jtkKspDpZk2bNpjwcw.jpg",
+        "Width": 585,
+        "Height": 910,
+        "AspectRatio": 0.642857142857143,
+        "VoteAverage": 5.27529761904762,
+        "VoteCount": 1
+      }
+    ]
+  },
+  "Keywords": {
+    "Id": 296892,
+    "Keywords": []
+  },
+  "Trailers": {
+    "Id": 296892,
+    "Quicktime": [],
+    "Youtube": [
+      {
+        "Name": "Jigariyaa Theatrical Trailer",
+        "Size": "Standard",
+        "Source": "OhO08fqA5-o"
+      }
+    ]
+  },
+  "Translations": {
+    "Id": 296892,
+    "Translations": [
+      {
+        "Iso_639_1": "en",
+        "Name": "English",
+        "EnglishName": "English"
+      }
+    ]
+  }
+}

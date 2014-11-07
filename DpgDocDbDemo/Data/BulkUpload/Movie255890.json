@@ -1,0 +1,255 @@
+{
+  "Id": 255890,
+  "ImdbId": "tt3148952",
+  "Title": "The Circle",
+  "OriginalTitle": "Der Kreis",
+  "Status": "Released",
+  "Overview": "Zürich in the mid 50‘s: The young shy teacher Ernst Ostertag becomes a member of the gay organisation DER KREIS. There he gets to know the transvesti- te star Röbi Rapp – and immediately falls head over heels in love with him. Röbi and Ernst live through the high point and the eventual decline of the organization, which in the whole of Europe is seen as the pioneer of gay eman- cipation. Ernst finds himself torn between his bour- geois existence and his commitment to homosexuality, for Röbi it is about his first serious love relationship. A relationship which will last a lifetime. The film looks back from the present to the time when the „Mother“ of all European homosexual or- ganizations had its high point to the time it slowly fell apart. While the repression against homosexu- als became increasingly more intense in Zurich, two young and very different men fight for their love and – together with their friends – for the rights of gays.",
+  "PosterPath": "/uXM5kfmwVcyJd8RAFThoOugTXsd.jpg",
+  "Genres": [
+    {
+      "Id": 99,
+      "Name": "Documentary"
+    },
+    {
+      "Id": 18,
+      "Name": "Drama"
+    }
+  ],
+  "ReleaseDate": "2014-10-23T00:00:00",
+  "Runtime": 100,
+  "Popularity": 0.257457614791656,
+  "ProductionCompanies": [
+    {
+      "Name": "SRF zwei",
+      "Id": 28317
+    },
+    {
+      "Name": "Contrast Film",
+      "Id": 32784
+    }
+  ],
+  "ProductionCountries": [
+    {
+      "Iso_3166_1": "CH",
+      "Name": "Switzerland"
+    }
+  ],
+  "SpokenLanguages": [
+    {
+      "Iso_639_1": "de",
+      "Name": "Deutsch"
+    },
+    {
+      "Iso_639_1": "fr",
+      "Name": "Français"
+    }
+  ],
+  "AlternativeTitles": {
+    "Id": 255890,
+    "Titles": []
+  },
+  "Releases": {
+    "Id": 255890,
+    "Countries": [
+      {
+        "Iso_3166_1": "DE",
+        "ReleaseDate": "2014-10-23T00:00:00"
+      },
+      {
+        "Iso_3166_1": "CH",
+        "ReleaseDate": "2014-09-18T00:00:00"
+      }
+    ]
+  },
+  "Credits": {
+    "Id": 255890,
+    "Cast": [
+      {
+        "Id": 1363012,
+        "Name": "Babett Arens",
+        "Character": "Romy",
+        "Order": 1,
+        "CastId": 1
+      },
+      {
+        "Id": 1139639,
+        "Name": "Aaron Hitz",
+        "Character": "Willi Öttli",
+        "Order": 2,
+        "CastId": 2
+      },
+      {
+        "Id": 1086278,
+        "Name": "Martin Hug",
+        "Character": "Kommissar Baumgartner",
+        "Order": 3,
+        "CastId": 3
+      },
+      {
+        "Id": 69963,
+        "Name": "Matthias Hungerbühler",
+        "Character": "Ernst",
+        "Order": 4,
+        "CastId": 4
+      },
+      {
+        "Id": 233968,
+        "Name": "Peter Jecklin",
+        "Character": "Max",
+        "Order": 5,
+        "CastId": 5
+      },
+      {
+        "Id": 233967,
+        "Name": "Ueli Jäggi",
+        "Character": "Martin",
+        "Order": 6,
+        "CastId": 6
+      },
+      {
+        "Id": 1170041,
+        "Name": "Sebastian Ledesma",
+        "Character": "Rinaldi",
+        "Order": 7,
+        "CastId": 7
+      },
+      {
+        "Id": 90119,
+        "Name": "Marie Leuenberger",
+        "Character": "Gabi",
+        "Order": 8,
+        "CastId": 8
+      },
+      {
+        "Id": 1363013,
+        "Name": "Matthias Meier",
+        "Character": "Jean-Martin",
+        "Order": 9,
+        "CastId": 9
+      },
+      {
+        "Id": 1172806,
+        "Name": "Markus Merz",
+        "Character": "Kommissar Stamm",
+        "Order": 10,
+        "CastId": 10
+      },
+      {
+        "Id": 7817,
+        "Name": "Antoine Monot Jr.",
+        "Character": "Gian",
+        "Order": 11,
+        "CastId": 11
+      },
+      {
+        "Id": 1363014,
+        "Name": "Sven Schelker",
+        "Character": "Röbi",
+        "Order": 12,
+        "CastId": 12
+      },
+      {
+        "Id": 105930,
+        "Name": "Ruth Schwegler",
+        "Character": "Salome",
+        "Order": 13,
+        "CastId": 13
+      },
+      {
+        "Id": 1029268,
+        "Name": "Maja Stolle",
+        "Character": "Sue",
+        "Order": 14,
+        "CastId": 14
+      },
+      {
+        "Id": 32645,
+        "Name": "Marianne Sägebrecht",
+        "Character": "Erika",
+        "Order": 15,
+        "CastId": 15,
+        "ProfilePath": "/a1HimFtezDRtRgpmQ35oaGnZQh2.jpg"
+      },
+      {
+        "Id": 62892,
+        "Name": "Anatole Taubman",
+        "Character": "Felix",
+        "Order": 16,
+        "CastId": 16,
+        "ProfilePath": "/lvfnlcPeyFa2gBJgScUcTKfpVth.jpg"
+      },
+      {
+        "Id": 1363015,
+        "Name": "Stefan Witschi",
+        "Character": "Rolf",
+        "Order": 17,
+        "CastId": 17
+      }
+    ],
+    "Crew": [
+      {
+        "Id": 1160284,
+        "Name": "Stefan Haupt",
+        "Department": "Directing",
+        "Job": "Director"
+      },
+      {
+        "Id": 1363016,
+        "Name": "Urs Frey",
+        "Department": "Production",
+        "Job": "Producer"
+      },
+      {
+        "Id": 1363017,
+        "Name": "Ivan Madeo",
+        "Department": "Production",
+        "Job": "Executive Producer"
+      },
+      {
+        "Id": 1363018,
+        "Name": "Federico Bettini",
+        "Department": "Sound",
+        "Job": "Music Editor"
+      }
+    ]
+  },
+  "Images": {
+    "Backdrops": [],
+    "Posters": [
+      {
+        "FilePath": "/uXM5kfmwVcyJd8RAFThoOugTXsd.jpg",
+        "Width": 717,
+        "Height": 1024,
+        "Iso_639_1": "de",
+        "AspectRatio": 0.7001953125,
+        "VoteAverage": 5.29761904761905,
+        "VoteCount": 1
+      }
+    ]
+  },
+  "Keywords": {
+    "Id": 255890,
+    "Keywords": []
+  },
+  "Trailers": {
+    "Id": 255890,
+    "Quicktime": [],
+    "Youtube": []
+  },
+  "Translations": {
+    "Id": 255890,
+    "Translations": [
+      {
+        "Iso_639_1": "en",
+        "Name": "English",
+        "EnglishName": "English"
+      },
+      {
+        "Iso_639_1": "de",
+        "Name": "Deutsch",
+        "EnglishName": "German"
+      }
+    ]
+  }
+}

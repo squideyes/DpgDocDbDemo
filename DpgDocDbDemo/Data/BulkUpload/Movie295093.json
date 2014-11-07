@@ -1,0 +1,86 @@
+{
+  "Id": 295093,
+  "Title": "Le Moment de la Manière",
+  "OriginalTitle": "Le Moment de la Manière",
+  "Status": "Released",
+  "PosterPath": "/w2RDcwSH5UKt51B0l1sukSwvP8l.jpg",
+  "Genres": [
+    {
+      "Id": 99,
+      "Name": "Documentary"
+    }
+  ],
+  "ReleaseDate": "2014-10-22T00:00:00",
+  "Popularity": 0.202729068041516,
+  "ProductionCompanies": [],
+  "ProductionCountries": [],
+  "SpokenLanguages": [
+    {
+      "Iso_639_1": "fr",
+      "Name": "Français"
+    }
+  ],
+  "AlternativeTitles": {
+    "Id": 295093,
+    "Titles": []
+  },
+  "Releases": {
+    "Id": 295093,
+    "Countries": [
+      {
+        "Iso_3166_1": "FR",
+        "ReleaseDate": "2014-10-22T00:00:00"
+      }
+    ]
+  },
+  "Credits": {
+    "Id": 295093,
+    "Cast": [
+      {
+        "Id": 1367802,
+        "Name": "Anne Matalon",
+        "Order": 1,
+        "CastId": 1
+      }
+    ],
+    "Crew": [
+      {
+        "Id": 1367801,
+        "Name": "Anne Kunvari",
+        "Department": "Directing",
+        "Job": "Director"
+      }
+    ]
+  },
+  "Images": {
+    "Backdrops": [],
+    "Posters": [
+      {
+        "FilePath": "/w2RDcwSH5UKt51B0l1sukSwvP8l.jpg",
+        "Width": 500,
+        "Height": 752,
+        "Iso_639_1": "fr",
+        "AspectRatio": 0.664893617021277
+      }
+    ]
+  },
+  "Keywords": {
+    "Id": 295093,
+    "Keywords": []
+  },
+  "Trailers": {
+    "Id": 295093,
+    "Quicktime": [],
+    "Youtube": []
+  },
+  "Translations": {
+    "Id": 295093,
+    "Translations": [
+      {
+        "Iso_639_1": "fr",
+        "Name": "Français",
+        "EnglishName": "French"
+      }
+    ]
+  }
+}

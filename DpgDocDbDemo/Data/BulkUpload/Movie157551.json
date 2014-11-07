@@ -1,0 +1,63 @@
+{
+  "Id": 157551,
+  "ImdbId": "tt2173218",
+  "Title": "The Wicked Hollows",
+  "OriginalTitle": "The Wicked Hollows",
+  "Status": "Released",
+  "Overview": "A group of friends on their last trip together as free men before going on their own different paths after High School find themselves camping out in the haunted swamp where they face their fears in the flesh.",
+  "Genres": [],
+  "ReleaseDate": "2014-10-31T00:00:00",
+  "Runtime": 0,
+  "Popularity": 1.17493180979534,
+  "ProductionCompanies": [],
+  "ProductionCountries": [],
+  "SpokenLanguages": [],
+  "AlternativeTitles": {
+    "Id": 157551,
+    "Titles": []
+  },
+  "Releases": {
+    "Id": 157551,
+    "Countries": [
+      {
+        "Iso_3166_1": "US",
+        "ReleaseDate": "2014-10-31T00:00:00"
+      }
+    ]
+  },
+  "Credits": {
+    "Id": 157551,
+    "Cast": [],
+    "Crew": [
+      {
+        "Id": 1138799,
+        "Name": "Mathew Fisher",
+        "Department": "Directing",
+        "Job": "Director"
+      }
+    ]
+  },
+  "Images": {
+    "Backdrops": [],
+    "Posters": []
+  },
+  "Keywords": {
+    "Id": 157551,
+    "Keywords": []
+  },
+  "Trailers": {
+    "Id": 157551,
+    "Quicktime": [],
+    "Youtube": []
+  },
+  "Translations": {
+    "Id": 157551,
+    "Translations": [
+      {
+        "Iso_639_1": "en",
+        "Name": "English",
+        "EnglishName": "English"
+      }
+    ]
+  }
+}

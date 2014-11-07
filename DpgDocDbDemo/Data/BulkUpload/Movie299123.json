@@ -1,0 +1,123 @@
+{
+  "Id": 299123,
+  "Title": "Looking for Kadija",
+  "OriginalTitle": "Looking for Kadija",
+  "Status": "Released",
+  "BackdropPath": "/pIEdZsmsp6nmuEvoxpgjIEqiNbp.jpg",
+  "PosterPath": "/8bXujJ8pkSM0GlAVc5i1hI5LjF0.jpg",
+  "Genres": [
+    {
+      "Id": 99,
+      "Name": "Documentary"
+    },
+    {
+      "Id": 36,
+      "Name": "History"
+    },
+    {
+      "Id": 10749,
+      "Name": "Romance"
+    },
+    {
+      "Id": 10752,
+      "Name": "War"
+    }
+  ],
+  "ReleaseDate": "2014-10-19T00:00:00",
+  "Popularity": 0.16429514406,
+  "ProductionCompanies": [],
+  "ProductionCountries": [],
+  "SpokenLanguages": [],
+  "AlternativeTitles": {
+    "Id": 299123,
+    "Titles": []
+  },
+  "Releases": {
+    "Id": 299123,
+    "Countries": [
+      {
+        "Iso_3166_1": "IT",
+        "ReleaseDate": "2014-10-19T00:00:00"
+      }
+    ]
+  },
+  "Credits": {
+    "Id": 299123,
+    "Cast": [],
+    "Crew": [
+      {
+        "Id": 1377798,
+        "Name": "Francesco Giuseppe Raganato",
+        "Department": "Directing",
+        "Job": "Director"
+      },
+      {
+        "Id": 1377798,
+        "Name": "Francesco Giuseppe Raganato",
+        "Department": "Writing",
+        "Job": "Screenplay"
+      },
+      {
+        "Id": 1377799,
+        "Name": "Alessandro Caruso",
+        "Department": "Writing",
+        "Job": "Screenplay"
+      },
+      {
+        "Id": 550304,
+        "Name": "Chiara Laudani",
+        "Department": "Writing",
+        "Job": "Screenplay"
+      },
+      {
+        "Id": 1377800,
+        "Name": "Giulia Tagliavia",
+        "Department": "Sound",
+        "Job": "Original Music Composer"
+      },
+      {
+        "Id": 1276769,
+        "Name": "Santi Pulvirenti",
+        "Department": "Sound",
+        "Job": "Original Music Composer"
+      }
+    ]
+  },
+  "Images": {
+    "Backdrops": [
+      {
+        "FilePath": "/pIEdZsmsp6nmuEvoxpgjIEqiNbp.jpg",
+        "Width": 1280,
+        "Height": 720,
+        "AspectRatio": 1.77777777777778
+      }
+    ],
+    "Posters": [
+      {
+        "FilePath": "/8bXujJ8pkSM0GlAVc5i1hI5LjF0.jpg",
+        "Width": 500,
+        "Height": 750,
+        "AspectRatio": 0.666666666666667
+      }
+    ]
+  },
+  "Keywords": {
+    "Id": 299123,
+    "Keywords": []
+  },
+  "Trailers": {
+    "Id": 299123,
+    "Quicktime": [],
+    "Youtube": []
+  },
+  "Translations": {
+    "Id": 299123,
+    "Translations": [
+      {
+        "Iso_639_1": "it",
+        "Name": "Italiano",
+        "EnglishName": "Italian"
+      }
+    ]
+  }
+}

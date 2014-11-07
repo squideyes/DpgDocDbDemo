@@ -1,0 +1,359 @@
+{
+  "Id": 164251,
+  "ImdbId": "tt1247690",
+  "Title": "Serena",
+  "OriginalTitle": "Serena",
+  "Status": "Post Production",
+  "Overview": "Set in 1930s North Carolina, George Pemberton's timber empire is in jeopardy when it becomes clear that his wife, Serena, is as barren as the land he harvests.",
+  "BackdropPath": "/25FQ1nkKe8ze93fPcF2TU7gIUgA.jpg",
+  "PosterPath": "/2MlVOOIWAs4isqKwbb3clIA99In.jpg",
+  "Genres": [
+    {
+      "Id": 18,
+      "Name": "Drama"
+    }
+  ],
+  "ReleaseDate": "2014-10-12T00:00:00",
+  "Runtime": 102,
+  "Popularity": 0.966565053946536,
+  "VoteAverage": 9.0,
+  "VoteCount": 2,
+  "ProductionCompanies": [
+    {
+      "Name": "2929 Productions",
+      "Id": 846
+    },
+    {
+      "Name": "Nick Wechsler Productions",
+      "Id": 8073
+    }
+  ],
+  "ProductionCountries": [
+    {
+      "Iso_3166_1": "CZ",
+      "Name": "Czech Republic"
+    },
+    {
+      "Iso_3166_1": "US",
+      "Name": "United States of America"
+    }
+  ],
+  "SpokenLanguages": [
+    {
+      "Iso_639_1": "en",
+      "Name": "English"
+    }
+  ],
+  "AlternativeTitles": {
+    "Id": 164251,
+    "Titles": []
+  },
+  "Releases": {
+    "Id": 164251,
+    "Countries": [
+      {
+        "Iso_3166_1": "DE",
+        "ReleaseDate": "2014-12-18T00:00:00"
+      },
+      {
+        "Iso_3166_1": "ES",
+        "ReleaseDate": "2014-10-31T00:00:00"
+      },
+      {
+        "Iso_3166_1": "FR",
+        "ReleaseDate": "2014-11-12T00:00:00"
+      },
+      {
+        "Iso_3166_1": "IT",
+        "ReleaseDate": "2014-10-30T00:00:00"
+      },
+      {
+        "Iso_3166_1": "GB",
+        "ReleaseDate": "2014-10-12T00:00:00"
+      },
+      {
+        "Iso_3166_1": "IN",
+        "ReleaseDate": "2014-10-13T00:00:00"
+      },
+      {
+        "Iso_3166_1": "IE",
+        "ReleaseDate": "2014-10-23T00:00:00"
+      },
+      {
+        "Iso_3166_1": "RO",
+        "ReleaseDate": "2014-10-23T00:00:00"
+      },
+      {
+        "Iso_3166_1": "AZ",
+        "ReleaseDate": "2014-10-29T00:00:00"
+      },
+      {
+        "Iso_3166_1": "KZ",
+        "ReleaseDate": "2014-10-29T00:00:00"
+      },
+      {
+        "Iso_3166_1": "RU",
+        "ReleaseDate": "2014-10-29T00:00:00"
+      },
+      {
+        "Iso_3166_1": "UA",
+        "ReleaseDate": "2014-10-29T00:00:00"
+      },
+      {
+        "Iso_3166_1": "NZ",
+        "ReleaseDate": "2014-11-05T00:00:00"
+      },
+      {
+        "Iso_3166_1": "FI",
+        "ReleaseDate": "2014-11-06T00:00:00"
+      },
+      {
+        "Iso_3166_1": "PT",
+        "ReleaseDate": "2014-11-19T00:00:00"
+      },
+      {
+        "Iso_3166_1": "AU",
+        "ReleaseDate": "2014-11-26T00:00:00"
+      },
+      {
+        "Iso_3166_1": "DK",
+        "ReleaseDate": "2014-11-26T00:00:00"
+      },
+      {
+        "Iso_3166_1": "EE",
+        "ReleaseDate": "2014-12-04T00:00:00"
+      },
+      {
+        "Iso_3166_1": "LT",
+        "ReleaseDate": "2014-12-04T00:00:00"
+      },
+      {
+        "Iso_3166_1": "AT",
+        "ReleaseDate": "2014-12-09T00:00:00"
+      },
+      {
+        "Iso_3166_1": "GR",
+        "ReleaseDate": "2014-12-17T00:00:00"
+      },
+      {
+        "Iso_3166_1": "SG",
+        "ReleaseDate": "2014-12-17T00:00:00"
+      },
+      {
+        "Iso_3166_1": "LV",
+        "ReleaseDate": "2014-12-18T00:00:00"
+      },
+      {
+        "Iso_3166_1": "TH",
+        "ReleaseDate": "2014-12-24T00:00:00"
+      },
+      {
+        "Iso_3166_1": "TW",
+        "ReleaseDate": "2014-12-30T00:00:00"
+      },
+      {
+        "Iso_3166_1": "NL",
+        "ReleaseDate": "2015-02-04T00:00:00"
+      },
+      {
+        "Iso_3166_1": "US",
+        "ReleaseDate": "2015-02-25T00:00:00"
+      },
+      {
+        "Iso_3166_1": "AR",
+        "ReleaseDate": "2015-03-25T00:00:00"
+      }
+    ]
+  },
+  "Credits": {
+    "Id": 164251,
+    "Cast": [
+      {
+        "Id": 72129,
+        "Name": "Jennifer Lawrence",
+        "Character": "Serena Pemberton",
+        "CastId": 1,
+        "ProfilePath": "/uTpFqeQTrMSoAahFWUTLakJ4OVF.jpg"
+      },
+      {
+        "Id": 51329,
+        "Name": "Bradley Cooper",
+        "Character": "George Pemberton",
+        "Order": 1,
+        "CastId": 2,
+        "ProfilePath": "/ifjdzZtkR5S5ifSSNQZsVarqFxD.jpg"
+      },
+      {
+        "Id": 7026,
+        "Name": "Rhys Ifans",
+        "Character": "Galloway",
+        "Order": 2,
+        "CastId": 3,
+        "ProfilePath": "/p0rbwzc4Yj2oHW0iiln0X0Wx9EK.jpg"
+      },
+      {
+        "Id": 13014,
+        "Name": "Toby Jones",
+        "Character": "Sheriff McDowell",
+        "Order": 3,
+        "CastId": 4,
+        "ProfilePath": "/8HDeyCbDzjeylqfDIIs8Bmv40vX.jpg"
+      },
+      {
+        "Id": 80154,
+        "Name": "Blake Ritson",
+        "Character": "Lowenstein",
+        "Order": 4,
+        "CastId": 5
+      }
+    ],
+    "Crew": [
+      {
+        "Id": 1011,
+        "Name": "Susanne Bier",
+        "Department": "Directing",
+        "Job": "Director",
+        "ProfilePath": "/8NTh0eXu3AADWHCvTO4SaZlZGpf.jpg"
+      },
+      {
+        "Id": 20293,
+        "Name": "Christopher Kyle",
+        "Department": "Writing",
+        "Job": "Writer"
+      },
+      {
+        "Id": 1154189,
+        "Name": "Ron Rash",
+        "Department": "Crew",
+        "Job": "Script"
+      },
+      {
+        "Id": 1030,
+        "Name": "Pernille Bech Christensen",
+        "Department": "Editing",
+        "Job": "Editor"
+      },
+      {
+        "Id": 182931,
+        "Name": "Simon Webb",
+        "Department": "Editing",
+        "Job": "Editor"
+      }
+    ]
+  },
+  "Images": {
+    "Backdrops": [
+      {
+        "FilePath": "/25FQ1nkKe8ze93fPcF2TU7gIUgA.jpg",
+        "Width": 1280,
+        "Height": 720,
+        "AspectRatio": 1.77777777777778
+      },
+      {
+        "FilePath": "/dCgErytI4RDcK9eI6LcJ1CHT6k.jpg",
+        "Width": 1920,
+        "Height": 1080,
+        "AspectRatio": 1.77777777777778
+      },
+      {
+        "FilePath": "/mQOfqNbhgeAi1kCbrM9lB2s4aqc.jpg",
+        "Width": 1280,
+        "Height": 720,
+        "AspectRatio": 1.77777777777778
+      },
+      {
+        "FilePath": "/oOp4hb4RB4sUH72tNQ40bW5EQDF.jpg",
+        "Width": 1920,
+        "Height": 1080,
+        "AspectRatio": 1.77777777777778
+      }
+    ],
+    "Posters": [
+      {
+        "FilePath": "/2MlVOOIWAs4isqKwbb3clIA99In.jpg",
+        "Width": 797,
+        "Height": 1191,
+        "Iso_639_1": "en",
+        "AspectRatio": 0.669185558354324,
+        "VoteAverage": 5.3125,
+        "VoteCount": 1
+      },
+      {
+        "FilePath": "/92YdIzU0zfCEGEPCdCqVZW7eiTh.jpg",
+        "Width": 1000,
+        "Height": 1500,
+        "Iso_639_1": "en",
+        "AspectRatio": 0.666666666666667
+      },
+      {
+        "FilePath": "/1zF77QHRTaSxa6RPv54APZyIlhj.jpg",
+        "Width": 1000,
+        "Height": 1500,
+        "Iso_639_1": "es",
+        "AspectRatio": 0.666666666666667
+      },
+      {
+        "FilePath": "/nZkqZOq3GngfmTvRO16ejNqfT8A.jpg",
+        "Width": 702,
+        "Height": 1000,
+        "Iso_639_1": "ru",
+        "AspectRatio": 0.702
+      },
+      {
+        "FilePath": "/ndCMr8n85SeqcPrNJvt9crRdxZd.jpg",
+        "Width": 500,
+        "Height": 750,
+        "AspectRatio": 0.666666666666667
+      }
+    ]
+  },
+  "Keywords": {
+    "Id": 164251,
+    "Keywords": []
+  },
+  "Trailers": {
+    "Id": 164251,
+    "Quicktime": [],
+    "Youtube": []
+  },
+  "Translations": {
+    "Id": 164251,
+    "Translations": [
+      {
+        "Iso_639_1": "en",
+        "Name": "English",
+        "EnglishName": "English"
+      },
+      {
+        "Iso_639_1": "de",
+        "Name": "Deutsch",
+        "EnglishName": "German"
+      },
+      {
+        "Iso_639_1": "fr",
+        "Name": "Français",
+        "EnglishName": "French"
+      },
+      {
+        "Iso_639_1": "pt",
+        "Name": "Português",
+        "EnglishName": "Portuguese"
+      },
+      {
+        "Iso_639_1": "it",
+        "Name": "Italiano",
+        "EnglishName": "Italian"
+      },
+      {
+        "Iso_639_1": "es",
+        "Name": "Español",
+        "EnglishName": "Spanish"
+      },
+      {
+        "Iso_639_1": "ru",
+        "Name": "Pусский",
+        "EnglishName": "Russian"
+      }
+    ]
+  }
+}

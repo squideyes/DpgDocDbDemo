@@ -1,0 +1,219 @@
+{
+  "Id": 298045,
+  "ImdbId": "tt3172644",
+  "Title": "Luna de Cigarras",
+  "OriginalTitle": "Luna de Cigarras",
+  "Status": "Released",
+  "BackdropPath": "/bP1Fk6xyYwSbczpwrHOH3MCTrLU.jpg",
+  "PosterPath": "/48DMHaht4XVnrreRymrc9xA0EGU.jpg",
+  "Genres": [
+    {
+      "Id": 35,
+      "Name": "Comedy"
+    },
+    {
+      "Id": 80,
+      "Name": "Crime"
+    }
+  ],
+  "ReleaseDate": "2014-10-17T00:00:00",
+  "Budget": 40000,
+  "Runtime": 0,
+  "Popularity": 0.323363722221847,
+  "VoteAverage": 7.0,
+  "VoteCount": 1,
+  "ProductionCompanies": [
+    {
+      "Name": "Paraguay",
+      "Id": 35631
+    }
+  ],
+  "ProductionCountries": [
+    {
+      "Iso_3166_1": "PY",
+      "Name": "Paraguay"
+    }
+  ],
+  "SpokenLanguages": [
+    {
+      "Iso_639_1": "gn"
+    },
+    {
+      "Iso_639_1": "es",
+      "Name": "Español"
+    }
+  ],
+  "AlternativeTitles": {
+    "Id": 298045,
+    "Titles": []
+  },
+  "Releases": {
+    "Id": 298045,
+    "Countries": [
+      {
+        "Iso_3166_1": "PY",
+        "Certification": "PM16",
+        "ReleaseDate": "2014-10-17T00:00:00"
+      }
+    ]
+  },
+  "Credits": {
+    "Id": 298045,
+    "Cast": [
+      {
+        "Id": 1293761,
+        "Name": "Nathan Christopher Haase",
+        "Character": "J.D. Flitner",
+        "CastId": 2
+      },
+      {
+        "Id": 1376052,
+        "Name": "Javier Enciso",
+        "Character": "Gatillo",
+        "Order": 1,
+        "CastId": 12
+      },
+      {
+        "Id": 1376053,
+        "Name": "Beto Barsotti",
+        "Character": "El Brasiguayo",
+        "Order": 2,
+        "CastId": 13
+      },
+      {
+        "Id": 1111722,
+        "Name": "Víctor Sosa",
+        "Character": "Rodrigo",
+        "Order": 3,
+        "CastId": 4
+      },
+      {
+        "Id": 1111723,
+        "Name": "Nico García",
+        "Character": "El Chino",
+        "Order": 4,
+        "CastId": 5
+      },
+      {
+        "Id": 1376054,
+        "Name": "Calolo Rodríguez",
+        "Character": "Torito",
+        "Order": 5,
+        "CastId": 14
+      },
+      {
+        "Id": 1376055,
+        "Name": "Ever Enciso",
+        "Character": "Duarte",
+        "Order": 6,
+        "CastId": 15
+      },
+      {
+        "Id": 1376057,
+        "Name": "Violeta Acuña",
+        "Character": "Bea",
+        "Order": 7,
+        "CastId": 17
+      },
+      {
+        "Id": 1376056,
+        "Name": "Sandra Kúku Flecha",
+        "Character": "Caficha",
+        "Order": 8,
+        "CastId": 16
+      },
+      {
+        "Id": 1376058,
+        "Name": "Andrea Quattrocchi",
+        "Character": "Sandra",
+        "Order": 9,
+        "CastId": 18
+      },
+      {
+        "Id": 1111721,
+        "Name": "Lali González",
+        "Character": "Mabel",
+        "Order": 10,
+        "CastId": 3
+      }
+    ],
+    "Crew": [
+      {
+        "Id": 1375184,
+        "Name": "Jorge Diaz de Bedoya",
+        "Department": "Directing",
+        "Job": "Director"
+      },
+      {
+        "Id": 1375184,
+        "Name": "Jorge Diaz de Bedoya",
+        "Department": "Writing",
+        "Job": "Screenplay"
+      }
+    ]
+  },
+  "Images": {
+    "Backdrops": [
+      {
+        "FilePath": "/bP1Fk6xyYwSbczpwrHOH3MCTrLU.jpg",
+        "Width": 1281,
+        "Height": 721,
+        "AspectRatio": 1.77669902912621
+      }
+    ],
+    "Posters": [
+      {
+        "FilePath": "/48DMHaht4XVnrreRymrc9xA0EGU.jpg",
+        "Width": 717,
+        "Height": 1024,
+        "Iso_639_1": "es",
+        "AspectRatio": 0.7001953125
+      }
+    ]
+  },
+  "Keywords": {
+    "Id": 298045,
+    "Keywords": [
+      {
+        "Id": 10085,
+        "Name": "betrayal"
+      },
+      {
+        "Id": 185526,
+        "Name": "whorehouse"
+      },
+      {
+        "Id": 192655,
+        "Name": "guns"
+      },
+      {
+        "Id": 197390,
+        "Name": "organ theft"
+      },
+      {
+        "Id": 206645,
+        "Name": "narco"
+      }
+    ]
+  },
+  "Trailers": {
+    "Id": 298045,
+    "Quicktime": [],
+    "Youtube": []
+  },
+  "Translations": {
+    "Id": 298045,
+    "Translations": [
+      {
+        "Iso_639_1": "es",
+        "Name": "Español",
+        "EnglishName": "Spanish"
+      },
+      {
+        "Iso_639_1": "en",
+        "Name": "English",
+        "EnglishName": "English"
+      }
+    ]
+  }
+}

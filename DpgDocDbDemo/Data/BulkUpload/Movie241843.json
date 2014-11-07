@@ -1,0 +1,171 @@
+{
+  "Id": 241843,
+  "ImdbId": "tt2490326",
+  "Title": "Cooties",
+  "OriginalTitle": "Cooties",
+  "Status": "Planned",
+  "Overview": "A mysterious virus hits an isolated elementary school, transforming the kids into a feral swarm of mass savages. An unlikely hero must lead a motley band of teachers in the fight of their lives.",
+  "BackdropPath": "/bes3M3qvpuWt7Qq5DSDdSybKQfg.jpg",
+  "PosterPath": "/yK0AUvkfkwailfh6Srz42ApYawM.jpg",
+  "Genres": [
+    {
+      "Id": 35,
+      "Name": "Comedy"
+    },
+    {
+      "Id": 27,
+      "Name": "Horror"
+    }
+  ],
+  "ReleaseDate": "2014-10-10T00:00:00",
+  "Runtime": 0,
+  "Popularity": 0.227505075878735,
+  "VoteAverage": 4.5,
+  "VoteCount": 1,
+  "ProductionCompanies": [],
+  "ProductionCountries": [],
+  "SpokenLanguages": [
+    {
+      "Iso_639_1": "en",
+      "Name": "English"
+    }
+  ],
+  "AlternativeTitles": {
+    "Id": 241843,
+    "Titles": []
+  },
+  "Releases": {
+    "Id": 241843,
+    "Countries": [
+      {
+        "Iso_3166_1": "US",
+        "ReleaseDate": "2014-10-10T00:00:00"
+      }
+    ]
+  },
+  "Credits": {
+    "Id": 241843,
+    "Cast": [
+      {
+        "Id": 109,
+        "Name": "Elijah Wood",
+        "CastId": 6,
+        "ProfilePath": "/c4fB3WAS7jN78rihw2kB81v6sez.jpg"
+      },
+      {
+        "Id": 17486,
+        "Name": "Alison Pill",
+        "Order": 1,
+        "CastId": 7,
+        "ProfilePath": "/97fKG7b311I7UPiMHc6qMH7i1Xj.jpg"
+      },
+      {
+        "Id": 11678,
+        "Name": "Rainn Wilson",
+        "Order": 2,
+        "CastId": 8,
+        "ProfilePath": "/Adq8cYhhzmSYRwMWDTc7O53L7FR.jpg"
+      },
+      {
+        "Id": 58737,
+        "Name": "Jack McBrayer",
+        "Order": 3,
+        "CastId": 9,
+        "ProfilePath": "/nTvIqj2pRhQPaaxB1CUj7QipY8j.jpg"
+      },
+      {
+        "Id": 476163,
+        "Name": "Nasim Pedrad",
+        "Order": 4,
+        "CastId": 11,
+        "ProfilePath": "/kA12uJDhiLW6xhTYJEwhMFjJBjb.jpg"
+      },
+      {
+        "Id": 2128,
+        "Name": "Leigh Whannell",
+        "Order": 5,
+        "CastId": 12,
+        "ProfilePath": "/cEy5gYVsjC7YL5Q53lkwjqYWP22.jpg"
+      },
+      {
+        "Id": 1215525,
+        "Name": "Jorge Garcia",
+        "Character": "Rick",
+        "Order": 6,
+        "CastId": 13,
+        "ProfilePath": "/sPvMz5gWUbYc1vw0waieVIhkyb0.jpg"
+      }
+    ],
+    "Crew": [
+      {
+        "Id": 1276823,
+        "Name": "Cary Murnion",
+        "Department": "Directing",
+        "Job": "Director"
+      },
+      {
+        "Id": 1276825,
+        "Name": "Jonathan Milott",
+        "Department": "Directing",
+        "Job": "Director"
+      },
+      {
+        "Id": 2128,
+        "Name": "Leigh Whannell",
+        "Department": "Writing",
+        "Job": "Writer",
+        "ProfilePath": "/cEy5gYVsjC7YL5Q53lkwjqYWP22.jpg"
+      },
+      {
+        "Id": 59595,
+        "Name": "Ian Brennan",
+        "Department": "Writing",
+        "Job": "Writer",
+        "ProfilePath": "/fGSLQRPAQvx58jQVZsWZit50fsQ.jpg"
+      },
+      {
+        "Id": 232858,
+        "Name": "Sarik Andreasyan",
+        "Department": "Production",
+        "Job": "Producer"
+      }
+    ]
+  },
+  "Images": {
+    "Backdrops": [
+      {
+        "FilePath": "/bes3M3qvpuWt7Qq5DSDdSybKQfg.jpg",
+        "Width": 1280,
+        "Height": 720,
+        "AspectRatio": 1.77777777777778
+      }
+    ],
+    "Posters": [
+      {
+        "FilePath": "/yK0AUvkfkwailfh6Srz42ApYawM.jpg",
+        "Width": 630,
+        "Height": 907,
+        "AspectRatio": 0.694597574421169
+      }
+    ]
+  },
+  "Keywords": {
+    "Id": 241843,
+    "Keywords": []
+  },
+  "Trailers": {
+    "Id": 241843,
+    "Quicktime": [],
+    "Youtube": []
+  },
+  "Translations": {
+    "Id": 241843,
+    "Translations": [
+      {
+        "Iso_639_1": "en",
+        "Name": "English",
+        "EnglishName": "English"
+      }
+    ]
+  }
+}

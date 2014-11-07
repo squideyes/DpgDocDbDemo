@@ -1,0 +1,152 @@
+{
+  "Id": 299026,
+  "Title": "Kemo & Comedy",
+  "OriginalTitle": "Kemo & Comedy",
+  "Status": "Released",
+  "PosterPath": "/o8GJUMpL0SyFED5GJLFDoYL5g8d.jpg",
+  "Genres": [
+    {
+      "Id": 35,
+      "Name": "Comedy"
+    }
+  ],
+  "ReleaseDate": "2014-10-20T00:00:00",
+  "Popularity": 0.221600182359,
+  "ProductionCompanies": [
+    {
+      "Name": "ArtPeople",
+      "Id": 12568
+    }
+  ],
+  "ProductionCountries": [
+    {
+      "Iso_3166_1": "DK",
+      "Name": "Denmark"
+    }
+  ],
+  "SpokenLanguages": [
+    {
+      "Iso_639_1": "da",
+      "Name": "Dansk"
+    }
+  ],
+  "AlternativeTitles": {
+    "Id": 299026,
+    "Titles": [
+      {
+        "Iso_3166_1": "DK",
+        "Title": "Geo Kemo og Comedy"
+      },
+      {
+        "Iso_3166_1": "DK",
+        "Title": "Kemo og Comedy"
+      }
+    ]
+  },
+  "Releases": {
+    "Id": 299026,
+    "Countries": [
+      {
+        "Iso_3166_1": "DK",
+        "ReleaseDate": "2014-10-20T00:00:00"
+      }
+    ]
+  },
+  "Credits": {
+    "Id": 299026,
+    "Cast": [
+      {
+        "Id": 221111,
+        "Name": "Anders Breinholt",
+        "Character": "Himself",
+        "Order": 2,
+        "CastId": 1,
+        "ProfilePath": "/2AtXUlt1fZvbXVl3lxma6thA9ZZ.jpg"
+      },
+      {
+        "Id": 91568,
+        "Name": "Carsten Bang",
+        "Character": "Himself",
+        "Order": 3,
+        "CastId": 2,
+        "ProfilePath": "/lWUSWZEd23qQ15DyqdxEUUtM7Nq.jpg"
+      },
+      {
+        "Id": 111076,
+        "Name": "Jan Gintberg",
+        "Character": "Himself",
+        "Order": 4,
+        "CastId": 3,
+        "ProfilePath": "/l9oQaeCSdlObdvDRxc6KfcjTink.jpg"
+      },
+      {
+        "Id": 1377498,
+        "Name": "Simon Troelsgaard",
+        "Character": "Himself",
+        "Order": 5,
+        "CastId": 4
+      },
+      {
+        "Id": 1377500,
+        "Name": "Maathias Kolstrup",
+        "Character": "Himself",
+        "Order": 6,
+        "CastId": 5
+      },
+      {
+        "Id": 1377501,
+        "Name": "Kasper Lund",
+        "Character": "Himself",
+        "Order": 7,
+        "CastId": 6
+      },
+      {
+        "Id": 1215846,
+        "Name": "Christian Geo Heltboe",
+        "Character": "Geo",
+        "Order": 8,
+        "CastId": 8
+      }
+    ],
+    "Crew": [
+      {
+        "Id": 1377496,
+        "Name": "Geo",
+        "Department": "Art",
+        "Job": "Art Direction"
+      }
+    ]
+  },
+  "Images": {
+    "Backdrops": [],
+    "Posters": [
+      {
+        "FilePath": "/o8GJUMpL0SyFED5GJLFDoYL5g8d.jpg",
+        "Width": 574,
+        "Height": 776,
+        "AspectRatio": 0.739690721649485,
+        "VoteAverage": 5.3125,
+        "VoteCount": 1
+      }
+    ]
+  },
+  "Keywords": {
+    "Id": 299026,
+    "Keywords": []
+  },
+  "Trailers": {
+    "Id": 299026,
+    "Quicktime": [],
+    "Youtube": []
+  },
+  "Translations": {
+    "Id": 299026,
+    "Translations": [
+      {
+        "Iso_639_1": "da",
+        "Name": "Dansk",
+        "EnglishName": "Danish"
+      }
+    ]
+  }
+}

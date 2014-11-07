@@ -1,0 +1,55 @@
+{
+  "Id": 296962,
+  "Title": "Bolshoi Ballet: The Legend Of Love",
+  "OriginalTitle": "Bolshoi Ballet: The Legend Of Love",
+  "Status": "Released",
+  "Overview": "This splendid tale of forbidden love, self-sacrifice, jealousy and suffering returns to the Bolshoi stage after a ten-year absence. The Legend of Love is one of Russian master Yuri Grigorovich’s earliest choreographic works, and its storyline explores the conflict between love and duty through its two heroines.",
+  "Genres": [],
+  "ReleaseDate": "2014-10-26T00:00:00",
+  "Runtime": 0,
+  "Popularity": 0.521520096504154,
+  "ProductionCompanies": [],
+  "ProductionCountries": [],
+  "SpokenLanguages": [],
+  "AlternativeTitles": {
+    "Id": 296962,
+    "Titles": []
+  },
+  "Releases": {
+    "Id": 296962,
+    "Countries": [
+      {
+        "Iso_3166_1": "US",
+        "ReleaseDate": "2014-10-26T00:00:00"
+      }
+    ]
+  },
+  "Credits": {
+    "Id": 296962,
+    "Cast": [],
+    "Crew": []
+  },
+  "Images": {
+    "Backdrops": [],
+    "Posters": []
+  },
+  "Keywords": {
+    "Id": 296962,
+    "Keywords": []
+  },
+  "Trailers": {
+    "Id": 296962,
+    "Quicktime": [],
+    "Youtube": []
+  },
+  "Translations": {
+    "Id": 296962,
+    "Translations": [
+      {
+        "Iso_639_1": "en",
+        "Name": "English",
+        "EnglishName": "English"
+      }
+    ]
+  }
+}

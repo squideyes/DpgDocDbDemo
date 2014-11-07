@@ -1,0 +1,84 @@
+{
+  "Id": 298938,
+  "Title": "… und dann kam Wanda",
+  "OriginalTitle": "… und dann kam Wanda",
+  "Status": "Released",
+  "BackdropPath": "/aDNtJRgc3VtujiLYfaCdnc31qWZ.jpg",
+  "PosterPath": "/jMa47PvK1AaQINoPfr5HgQmcNLY.jpg",
+  "Genres": [
+    {
+      "Id": 35,
+      "Name": "Comedy"
+    }
+  ],
+  "ReleaseDate": "2014-10-24T00:00:00",
+  "Popularity": 0.2436247950236,
+  "ProductionCompanies": [],
+  "ProductionCountries": [],
+  "SpokenLanguages": [
+    {
+      "Iso_639_1": "de",
+      "Name": "Deutsch"
+    }
+  ],
+  "AlternativeTitles": {
+    "Id": 298938,
+    "Titles": [
+      {
+        "Iso_3166_1": "DE",
+        "Title": "und dann kam Wanda"
+      }
+    ]
+  },
+  "Releases": {
+    "Id": 298938,
+    "Countries": [
+      {
+        "Iso_3166_1": "DE",
+        "ReleaseDate": "2014-10-24T00:00:00"
+      }
+    ]
+  },
+  "Credits": {
+    "Id": 298938,
+    "Cast": [],
+    "Crew": []
+  },
+  "Images": {
+    "Backdrops": [
+      {
+        "FilePath": "/aDNtJRgc3VtujiLYfaCdnc31qWZ.jpg",
+        "Width": 1280,
+        "Height": 720,
+        "AspectRatio": 1.77777777777778
+      }
+    ],
+    "Posters": [
+      {
+        "FilePath": "/jMa47PvK1AaQINoPfr5HgQmcNLY.jpg",
+        "Width": 500,
+        "Height": 750,
+        "AspectRatio": 0.666666666666667
+      }
+    ]
+  },
+  "Keywords": {
+    "Id": 298938,
+    "Keywords": []
+  },
+  "Trailers": {
+    "Id": 298938,
+    "Quicktime": [],
+    "Youtube": []
+  },
+  "Translations": {
+    "Id": 298938,
+    "Translations": [
+      {
+        "Iso_639_1": "de",
+        "Name": "Deutsch",
+        "EnglishName": "German"
+      }
+    ]
+  }
+}

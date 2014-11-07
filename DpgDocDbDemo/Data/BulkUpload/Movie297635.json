@@ -1,0 +1,77 @@
+{
+  "Id": 297635,
+  "Title": "Nouvelles, nouvelles",
+  "OriginalTitle": "Nouvelles, nouvelles",
+  "Status": "Released",
+  "Overview": "From the Festival du nouveau cinéma (Montreal) : That winter in Montréal, there is a girl. Three captains are wooing her. Cinema killed Jean-Baptiste Lamirande, the disastrous Liberator, who comes back to life just before Christmas. Héloïse, an amnesiac actress who lost her watch, has been reported missing.",
+  "Homepage": "http://www.nouveaucinema.ca/#/2014/programme/longs-metrages/51/10698",
+  "Genres": [],
+  "ReleaseDate": "2014-10-15T00:00:00",
+  "Runtime": 82,
+  "Popularity": 0.20125619707069,
+  "ProductionCompanies": [],
+  "ProductionCountries": [
+    {
+      "Iso_3166_1": "CA",
+      "Name": "Canada"
+    }
+  ],
+  "SpokenLanguages": [
+    {
+      "Iso_639_1": "en",
+      "Name": "English"
+    },
+    {
+      "Iso_639_1": "fr",
+      "Name": "Français"
+    }
+  ],
+  "AlternativeTitles": {
+    "Id": 297635,
+    "Titles": []
+  },
+  "Releases": {
+    "Id": 297635,
+    "Countries": [
+      {
+        "Iso_3166_1": "CA",
+        "ReleaseDate": "2014-10-15T00:00:00"
+      }
+    ]
+  },
+  "Credits": {
+    "Id": 297635,
+    "Cast": [],
+    "Crew": [
+      {
+        "Id": 1374400,
+        "Name": "Olivier Godin",
+        "Department": "Directing",
+        "Job": "Director"
+      }
+    ]
+  },
+  "Images": {
+    "Backdrops": [],
+    "Posters": []
+  },
+  "Keywords": {
+    "Id": 297635,
+    "Keywords": []
+  },
+  "Trailers": {
+    "Id": 297635,
+    "Quicktime": [],
+    "Youtube": []
+  },
+  "Translations": {
+    "Id": 297635,
+    "Translations": [
+      {
+        "Iso_639_1": "en",
+        "Name": "English",
+        "EnglishName": "English"
+      }
+    ]
+  }
+}

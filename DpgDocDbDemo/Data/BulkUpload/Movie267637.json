@@ -1,0 +1,54 @@
+{
+  "Id": 267637,
+  "ImdbId": "tt2136772",
+  "Title": "Negotiating Love",
+  "OriginalTitle": "Negotiating Love",
+  "Status": "Released",
+  "Genres": [],
+  "ReleaseDate": "2014-10-11T00:00:00",
+  "Popularity": 0.103049559880104,
+  "ProductionCompanies": [],
+  "ProductionCountries": [],
+  "SpokenLanguages": [],
+  "AlternativeTitles": {
+    "Id": 267637,
+    "Titles": []
+  },
+  "Releases": {
+    "Id": 267637,
+    "Countries": [
+      {
+        "Iso_3166_1": "DE",
+        "ReleaseDate": "2014-10-11T00:00:00"
+      }
+    ]
+  },
+  "Credits": {
+    "Id": 267637,
+    "Cast": [],
+    "Crew": []
+  },
+  "Images": {
+    "Backdrops": [],
+    "Posters": []
+  },
+  "Keywords": {
+    "Id": 267637,
+    "Keywords": []
+  },
+  "Trailers": {
+    "Id": 267637,
+    "Quicktime": [],
+    "Youtube": []
+  },
+  "Translations": {
+    "Id": 267637,
+    "Translations": [
+      {
+        "Iso_639_1": "de",
+        "Name": "Deutsch",
+        "EnglishName": "German"
+      }
+    ]
+  }
+}

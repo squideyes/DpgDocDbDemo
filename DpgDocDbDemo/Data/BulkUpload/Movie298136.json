@@ -1,0 +1,71 @@
+{
+  "Id": 298136,
+  "Title": "Call of North",
+  "OriginalTitle": "Call of North",
+  "Status": "Released",
+  "Overview": "Overlapping stories about a peoples’ relationship to the land and the traumatic past are evoked in this immersive film shot in Karelia, on the Artic Circle.",
+  "Genres": [],
+  "ReleaseDate": "2014-10-18T00:00:00",
+  "Runtime": 23,
+  "Popularity": 0.229885475348441,
+  "ProductionCompanies": [],
+  "ProductionCountries": [
+    {
+      "Iso_3166_1": "GB",
+      "Name": "United Kingdom"
+    },
+    {
+      "Iso_3166_1": "RU",
+      "Name": "Russian Federation"
+    }
+  ],
+  "SpokenLanguages": [],
+  "AlternativeTitles": {
+    "Id": 298136,
+    "Titles": []
+  },
+  "Releases": {
+    "Id": 298136,
+    "Countries": [
+      {
+        "Iso_3166_1": "GB",
+        "ReleaseDate": "2014-10-18T00:00:00"
+      }
+    ]
+  },
+  "Credits": {
+    "Id": 298136,
+    "Cast": [],
+    "Crew": [
+      {
+        "Id": 1375294,
+        "Name": "Ruth Maclennan",
+        "Department": "Directing",
+        "Job": "Director"
+      }
+    ]
+  },
+  "Images": {
+    "Backdrops": [],
+    "Posters": []
+  },
+  "Keywords": {
+    "Id": 298136,
+    "Keywords": []
+  },
+  "Trailers": {
+    "Id": 298136,
+    "Quicktime": [],
+    "Youtube": []
+  },
+  "Translations": {
+    "Id": 298136,
+    "Translations": [
+      {
+        "Iso_639_1": "en",
+        "Name": "English",
+        "EnglishName": "English"
+      }
+    ]
+  }
+}

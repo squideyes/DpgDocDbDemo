@@ -1,0 +1,72 @@
+{
+  "Id": 298013,
+  "ImdbId": "tt4118056",
+  "Title": "Abscence",
+  "OriginalTitle": "Ausencia",
+  "Status": "Released",
+  "Overview": "A short period in Serginho's life, after the escape of his father.",
+  "Genres": [],
+  "ReleaseDate": "2014-10-18T00:00:00",
+  "Runtime": 84,
+  "Popularity": 0.2298490162608,
+  "ProductionCompanies": [],
+  "ProductionCountries": [
+    {
+      "Iso_3166_1": "BR",
+      "Name": "Brazil"
+    },
+    {
+      "Iso_3166_1": "DE",
+      "Name": "Germany"
+    }
+  ],
+  "SpokenLanguages": [],
+  "AlternativeTitles": {
+    "Id": 298013,
+    "Titles": []
+  },
+  "Releases": {
+    "Id": 298013,
+    "Countries": [
+      {
+        "Iso_3166_1": "BR",
+        "ReleaseDate": "2014-10-18T00:00:00"
+      }
+    ]
+  },
+  "Credits": {
+    "Id": 298013,
+    "Cast": [],
+    "Crew": [
+      {
+        "Id": 994942,
+        "Name": "Chico Teixeira",
+        "Department": "Directing",
+        "Job": "Director"
+      }
+    ]
+  },
+  "Images": {
+    "Backdrops": [],
+    "Posters": []
+  },
+  "Keywords": {
+    "Id": 298013,
+    "Keywords": []
+  },
+  "Trailers": {
+    "Id": 298013,
+    "Quicktime": [],
+    "Youtube": []
+  },
+  "Translations": {
+    "Id": 298013,
+    "Translations": [
+      {
+        "Iso_639_1": "en",
+        "Name": "English",
+        "EnglishName": "English"
+      }
+    ]
+  }
+}

@@ -1,0 +1,101 @@
+{
+  "Id": 299531,
+  "Title": "Måns Möller: Jävla pajas - det här skojar du inte bort",
+  "OriginalTitle": "Måns Möller: Jävla pajas - det här skojar du inte bort",
+  "Status": "Released",
+  "PosterPath": "/bNbke6eAUsGADgk2EtZbSdWEuTo.jpg",
+  "Genres": [
+    {
+      "Id": 35,
+      "Name": "Comedy"
+    }
+  ],
+  "ReleaseDate": "2014-10-26T00:00:00",
+  "Popularity": 0.447695135,
+  "VoteAverage": 7.0,
+  "VoteCount": 1,
+  "ProductionCompanies": [
+    {
+      "Name": "Lifeline Entertainment",
+      "Id": 10953
+    }
+  ],
+  "ProductionCountries": [
+    {
+      "Iso_3166_1": "SE",
+      "Name": "Sweden"
+    }
+  ],
+  "SpokenLanguages": [
+    {
+      "Iso_639_1": "sv",
+      "Name": "svenska"
+    }
+  ],
+  "AlternativeTitles": {
+    "Id": 299531,
+    "Titles": []
+  },
+  "Releases": {
+    "Id": 299531,
+    "Countries": [
+      {
+        "Iso_3166_1": "SE",
+        "ReleaseDate": "2014-10-26T00:00:00"
+      }
+    ]
+  },
+  "Credits": {
+    "Id": 299531,
+    "Cast": [
+      {
+        "Id": 117331,
+        "Name": "Måns Möller",
+        "Character": "Himself",
+        "Order": 1,
+        "ProfilePath": "/bNbke6eAUsGADgk2EtZbSdWEuTo.jpg"
+      }
+    ],
+    "Crew": []
+  },
+  "Images": {
+    "Backdrops": [],
+    "Posters": [
+      {
+        "FilePath": "/bNbke6eAUsGADgk2EtZbSdWEuTo.jpg",
+        "Width": 2000,
+        "Height": 3000,
+        "Iso_639_1": "sv",
+        "AspectRatio": 0.666666666666667
+      }
+    ]
+  },
+  "Keywords": {
+    "Id": 299531,
+    "Keywords": [
+      {
+        "Id": 10610,
+        "Name": "live"
+      },
+      {
+        "Id": 199355,
+        "Name": "stand-up comedy"
+      }
+    ]
+  },
+  "Trailers": {
+    "Id": 299531,
+    "Quicktime": [],
+    "Youtube": []
+  },
+  "Translations": {
+    "Id": 299531,
+    "Translations": [
+      {
+        "Iso_639_1": "sv",
+        "Name": "svenska",
+        "EnglishName": "Swedish"
+      }
+    ]
+  }
+}

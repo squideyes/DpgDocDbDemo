@@ -1,0 +1,148 @@
+{
+  "Id": 299124,
+  "ImdbId": "tt3717056",
+  "Title": "Good luck finding yourself",
+  "OriginalTitle": "Good luck finding yourself",
+  "Status": "Released",
+  "Overview": "My mother will die. Jutta interprets the diagnosis of an incurable cancer as a spiritual crisis. Accompanied by Rainer Langhans, to whom she has a deep friendship since over 40 years, Jutta travels to India and goes on the search for a healing experience from within.",
+  "PosterPath": "/g7LVczfuAbbGsukS0qEM22fRhTS.jpg",
+  "Genres": [
+    {
+      "Id": 99,
+      "Name": "Documentary"
+    },
+    {
+      "Id": 18,
+      "Name": "Drama"
+    }
+  ],
+  "ReleaseDate": "2014-10-23T00:00:00",
+  "Runtime": 95,
+  "Popularity": 0.38122632355,
+  "ProductionCompanies": [
+    {
+      "Name": "Alpenrepublik Filmverleih",
+      "Id": 36364
+    }
+  ],
+  "ProductionCountries": [
+    {
+      "Iso_3166_1": "DE",
+      "Name": "Germany"
+    }
+  ],
+  "SpokenLanguages": [
+    {
+      "Iso_639_1": "de",
+      "Name": "Deutsch"
+    }
+  ],
+  "AlternativeTitles": {
+    "Id": 299124,
+    "Titles": []
+  },
+  "Releases": {
+    "Id": 299124,
+    "Countries": [
+      {
+        "Iso_3166_1": "DE",
+        "Certification": "6",
+        "ReleaseDate": "2014-10-23T00:00:00"
+      }
+    ]
+  },
+  "Credits": {
+    "Id": 299124,
+    "Cast": [
+      {
+        "Id": 1377801,
+        "Name": "Jutta Winkelmann",
+        "Character": "Herself",
+        "Order": 1
+      },
+      {
+        "Id": 1103699,
+        "Name": "Rainer Langhans",
+        "Character": "Himself",
+        "Order": 2,
+        "CastId": 1
+      },
+      {
+        "Id": 1377802,
+        "Name": "Brigitte Streubel",
+        "Character": "Herself",
+        "Order": 3,
+        "CastId": 2
+      },
+      {
+        "Id": 1377803,
+        "Name": "Christa Ritter",
+        "Character": "Herself",
+        "Order": 4,
+        "CastId": 3
+      }
+    ],
+    "Crew": [
+      {
+        "Id": 1377804,
+        "Name": "Severin Winzenburg",
+        "Department": "Directing",
+        "Job": "Director"
+      },
+      {
+        "Id": 1377804,
+        "Name": "Severin Winzenburg",
+        "Department": "Writing",
+        "Job": "Writer"
+      }
+    ]
+  },
+  "Images": {
+    "Backdrops": [],
+    "Posters": [
+      {
+        "FilePath": "/g7LVczfuAbbGsukS0qEM22fRhTS.jpg",
+        "Width": 1200,
+        "Height": 1699,
+        "AspectRatio": 0.706297822248381
+      }
+    ]
+  },
+  "Keywords": {
+    "Id": 299124,
+    "Keywords": [
+      {
+        "Id": 10163,
+        "Name": "cancer"
+      },
+      {
+        "Id": 34079,
+        "Name": "death "
+      },
+      {
+        "Id": 176561,
+        "Name": "spiritualism"
+      }
+    ]
+  },
+  "Trailers": {
+    "Id": 299124,
+    "Quicktime": [],
+    "Youtube": []
+  },
+  "Translations": {
+    "Id": 299124,
+    "Translations": [
+      {
+        "Iso_639_1": "de",
+        "Name": "Deutsch",
+        "EnglishName": "German"
+      },
+      {
+        "Iso_639_1": "en",
+        "Name": "English",
+        "EnglishName": "English"
+      }
+    ]
+  }
+}

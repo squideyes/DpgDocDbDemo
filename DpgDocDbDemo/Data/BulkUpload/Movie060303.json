@@ -1,0 +1,198 @@
+{
+  "Id": 60303,
+  "ImdbId": "tt1456504",
+  "Title": "The Secret of Loch Ness II",
+  "OriginalTitle": "Das zweite Wunder von Loch Ness",
+  "Status": "Released",
+  "Overview": "Eleven year old Tim plays fate and takes a flight to Scotland with his father Eric. They were happy there two years ago, shortly before his mother Anna died in a car accident. In Scotland, Tim combs through the Hartspring Castle and whose crypt. He finds a chart with Celtic characters, that refers to the true existence of the legendary Loch Ness monster.",
+  "PosterPath": "/1BHopwpOOTgVPLN0RGyTk7G8PES.jpg",
+  "Genres": [
+    {
+      "Id": 12,
+      "Name": "Adventure"
+    },
+    {
+      "Id": 10751,
+      "Name": "Family"
+    }
+  ],
+  "ReleaseDate": "2014-10-19T00:00:00",
+  "Runtime": 95,
+  "Popularity": 0.450388080029713,
+  "VoteAverage": 3.0,
+  "VoteCount": 1,
+  "ProductionCompanies": [],
+  "ProductionCountries": [
+    {
+      "Iso_3166_1": "DE",
+      "Name": "Germany"
+    }
+  ],
+  "SpokenLanguages": [
+    {
+      "Iso_639_1": "de",
+      "Name": "Deutsch"
+    }
+  ],
+  "AlternativeTitles": {
+    "Id": 60303,
+    "Titles": [
+      {
+        "Iso_3166_1": "DE",
+        "Title": "Das zweite Wunder von Loch Ness"
+      },
+      {
+        "Iso_3166_1": "FR",
+        "Title": "Retour au Loch Ness"
+      },
+      {
+        "Iso_3166_1": "US",
+        "Title": "The Secret of Loch Ness II"
+      }
+    ]
+  },
+  "Releases": {
+    "Id": 60303,
+    "Countries": [
+      {
+        "Iso_3166_1": "DE",
+        "Certification": "12",
+        "ReleaseDate": "2010-09-27T00:00:00"
+      },
+      {
+        "Iso_3166_1": "US",
+        "Certification": "PG-13",
+        "ReleaseDate": "2014-10-19T00:00:00"
+      }
+    ]
+  },
+  "Credits": {
+    "Id": 60303,
+    "Cast": [
+      {
+        "Id": 52039,
+        "Name": "Lukas Schust",
+        "Character": "Tim Winter",
+        "CastId": 4,
+        "ProfilePath": "/cGygU5yXedbC5ajdALUgMs3xgXU.jpg"
+      },
+      {
+        "Id": 685,
+        "Name": "Nina Kronjäger",
+        "Character": "Emma",
+        "Order": 1,
+        "CastId": 6
+      },
+      {
+        "Id": 38458,
+        "Name": "Jasmin Schwiers",
+        "Character": "Sheila",
+        "Order": 2,
+        "CastId": 7
+      },
+      {
+        "Id": 224162,
+        "Name": "Serge Falck",
+        "Character": "Paul",
+        "Order": 3,
+        "CastId": 8,
+        "ProfilePath": "/8CxvtrvTh5rSsO0bEQGOxaZZrvS.jpg"
+      },
+      {
+        "Id": 32586,
+        "Name": "Thomas Fritsch",
+        "Character": "Merlin",
+        "Order": 4,
+        "CastId": 9,
+        "ProfilePath": "/ijYaZcNHV1YKAw1ZamPjIC1dOHu.jpg"
+      },
+      {
+        "Id": 848,
+        "Name": "Hans Werner Meyer",
+        "Character": "Eric Winter",
+        "Order": 5,
+        "CastId": 12,
+        "ProfilePath": "/fz211JlJ6QrWPVZTj8x817NBiow.jpg"
+      }
+    ],
+    "Crew": [
+      {
+        "Id": 52041,
+        "Name": "Michael Rowitz",
+        "Department": "Directing",
+        "Job": "Director"
+      },
+      {
+        "Id": 56608,
+        "Name": "Mathias Lösel",
+        "Department": "Writing",
+        "Job": "Writer"
+      },
+      {
+        "Id": 52041,
+        "Name": "Michael Rowitz",
+        "Department": "Writing",
+        "Job": "Writer"
+      }
+    ]
+  },
+  "Images": {
+    "Backdrops": [],
+    "Posters": [
+      {
+        "FilePath": "/1BHopwpOOTgVPLN0RGyTk7G8PES.jpg",
+        "Width": 666,
+        "Height": 940,
+        "Iso_639_1": "de",
+        "AspectRatio": 0.708510638297872,
+        "VoteAverage": 5.3125,
+        "VoteCount": 1
+      },
+      {
+        "FilePath": "/dmUjxTZ591tkMCXcvmCfQzXpZi9.jpg",
+        "Width": 457,
+        "Height": 640,
+        "AspectRatio": 0.7140625
+      }
+    ]
+  },
+  "Keywords": {
+    "Id": 60303,
+    "Keywords": []
+  },
+  "Trailers": {
+    "Id": 60303,
+    "Quicktime": [],
+    "Youtube": []
+  },
+  "Translations": {
+    "Id": 60303,
+    "Translations": [
+      {
+        "Iso_639_1": "fr",
+        "Name": "Français",
+        "EnglishName": "French"
+      },
+      {
+        "Iso_639_1": "de",
+        "Name": "Deutsch",
+        "EnglishName": "German"
+      },
+      {
+        "Iso_639_1": "en",
+        "Name": "English",
+        "EnglishName": "English"
+      },
+      {
+        "Iso_639_1": "it",
+        "Name": "Italiano",
+        "EnglishName": "Italian"
+      },
+      {
+        "Iso_639_1": "es",
+        "Name": "Español",
+        "EnglishName": "Spanish"
+      }
+    ]
+  }
+}

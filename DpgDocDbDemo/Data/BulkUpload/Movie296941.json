@@ -1,0 +1,97 @@
+{
+  "Id": 296941,
+  "ImdbId": "tt4047350",
+  "Title": "The Hacker Wars",
+  "OriginalTitle": "The Hacker Wars",
+  "Status": "Released",
+  "Overview": "The War has already begun!",
+  "PosterPath": "/xmX86AEvvdOKmEi5SN1C17ATaaM.jpg",
+  "Genres": [
+    {
+      "Id": 99,
+      "Name": "Documentary"
+    }
+  ],
+  "ReleaseDate": "2014-10-17T00:00:00",
+  "Runtime": 91,
+  "Popularity": 0.386020995156353,
+  "ProductionCompanies": [],
+  "ProductionCountries": [
+    {
+      "Iso_3166_1": "US",
+      "Name": "United States of America"
+    }
+  ],
+  "SpokenLanguages": [
+    {
+      "Iso_639_1": "en",
+      "Name": "English"
+    }
+  ],
+  "AlternativeTitles": {
+    "Id": 296941,
+    "Titles": []
+  },
+  "Releases": {
+    "Id": 296941,
+    "Countries": [
+      {
+        "Iso_3166_1": "US",
+        "ReleaseDate": "2014-10-17T00:00:00"
+      }
+    ]
+  },
+  "Credits": {
+    "Id": 296941,
+    "Cast": [],
+    "Crew": [
+      {
+        "Id": 1372762,
+        "Name": "Vivien Lesnik Weisman",
+        "Department": "Directing",
+        "Job": "Director"
+      }
+    ]
+  },
+  "Images": {
+    "Backdrops": [],
+    "Posters": [
+      {
+        "FilePath": "/xmX86AEvvdOKmEi5SN1C17ATaaM.jpg",
+        "Width": 2000,
+        "Height": 3000,
+        "Iso_639_1": "en",
+        "AspectRatio": 0.666666666666667,
+        "VoteAverage": 5.28273809523809,
+        "VoteCount": 1
+      },
+      {
+        "FilePath": "/57p3NPXwZVEjtIHkvfDijQhFkmd.jpg",
+        "Width": 1024,
+        "Height": 1517,
+        "AspectRatio": 0.675016479894529,
+        "VoteAverage": 5.17113095238095,
+        "VoteCount": 1
+      }
+    ]
+  },
+  "Keywords": {
+    "Id": 296941,
+    "Keywords": []
+  },
+  "Trailers": {
+    "Id": 296941,
+    "Quicktime": [],
+    "Youtube": []
+  },
+  "Translations": {
+    "Id": 296941,
+    "Translations": [
+      {
+        "Iso_639_1": "en",
+        "Name": "English",
+        "EnglishName": "English"
+      }
+    ]
+  }
+}

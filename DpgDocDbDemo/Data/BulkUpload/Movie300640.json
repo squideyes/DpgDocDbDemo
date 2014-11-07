@@ -1,0 +1,282 @@
+{
+  "Id": 300640,
+  "ImdbId": "tt3498956",
+  "Title": "Wedding Planner Mystery",
+  "OriginalTitle": "Wedding Planner Mystery",
+  "Status": "Released",
+  "Overview": "Wedding Planner Mystery follows the exploits of a quirky but lovable event planner who makes murder as fun as can be. Homicide doesn't follow our heroine; she seeks it out. Using her circle of contacts, her friendship with a reporter and the same research skills that enable her to plan distinctive events - if an unsolved murder occurs in Seattle, Carnegie will find out about it.",
+  "PosterPath": "/kanAvw1BjgbV6SIjZdcBRfYtKmk.jpg",
+  "Genres": [
+    {
+      "Id": 18,
+      "Name": "Drama"
+    },
+    {
+      "Id": 9648,
+      "Name": "Mystery"
+    }
+  ],
+  "ReleaseDate": "2014-10-19T00:00:00",
+  "Runtime": 83,
+  "ProductionCompanies": [],
+  "ProductionCountries": [],
+  "SpokenLanguages": [
+    {
+      "Iso_639_1": "en",
+      "Name": "English"
+    }
+  ],
+  "AlternativeTitles": {
+    "Id": 300640,
+    "Titles": []
+  },
+  "Releases": {
+    "Id": 300640,
+    "Countries": [
+      {
+        "Iso_3166_1": "US",
+        "Certification": "PG",
+        "ReleaseDate": "2014-10-19T00:00:00"
+      }
+    ]
+  },
+  "Credits": {
+    "Id": 300640,
+    "Cast": [
+      {
+        "Id": 46897,
+        "Name": "Erica Durance",
+        "Character": "Carnegie Kincaid",
+        "Order": 1,
+        "CastId": 1,
+        "ProfilePath": "/rNadmNwfATIBboIzE9HGaeeBlVr.jpg"
+      },
+      {
+        "Id": 134673,
+        "Name": "Andrew W. Walker",
+        "Character": "Aaron Gold",
+        "Order": 2,
+        "CastId": 2,
+        "ProfilePath": "/tIXOvMadH1JI13DFOTnpAfrvQiV.jpg"
+      },
+      {
+        "Id": 63738,
+        "Name": "Brandon Beemer",
+        "Character": "Holt Walker",
+        "Order": 3,
+        "CastId": 3,
+        "ProfilePath": "/d9ALDR1jnHqZYxVxBUA3r6pFO0r.jpg"
+      },
+      {
+        "Id": 65730,
+        "Name": "Rick Ravanello",
+        "Character": "Detective Borden",
+        "Order": 4,
+        "CastId": 4,
+        "ProfilePath": "/tQqdbPyol2awlcZhlouaYqtO6YB.jpg"
+      },
+      {
+        "Id": 60606,
+        "Name": "Julian Christopher",
+        "Character": "Eddie Breen",
+        "Order": 5,
+        "CastId": 5
+      },
+      {
+        "Id": 58902,
+        "Name": "Zahf Paroo",
+        "Character": "John Nevin",
+        "Order": 6,
+        "CastId": 6,
+        "ProfilePath": "/jFrVBricxCWGIRYV7XxvNYM9Jcp.jpg"
+      },
+      {
+        "Id": 27775,
+        "Name": "Chelan Simmons",
+        "Character": "Nicky Parry",
+        "Order": 7,
+        "CastId": 7,
+        "ProfilePath": "/gNeWQz9oqFiZ8B8Tsr8Nmu5km28.jpg"
+      },
+      {
+        "Id": 58804,
+        "Name": "Gabrielle Rose",
+        "Character": "Clara Parry",
+        "Order": 8,
+        "CastId": 8,
+        "ProfilePath": "/wHJfGv13nIsph7Oam0Mf3boxDHK.jpg"
+      },
+      {
+        "Id": 80405,
+        "Name": "Karen Holness",
+        "Character": "Lily",
+        "Order": 9,
+        "CastId": 9,
+        "ProfilePath": "/8oHU4uwOJqyFL3nE8bs4gf3N6zq.jpg"
+      },
+      {
+        "Id": 1368508,
+        "Name": "Oliver Rice",
+        "Character": "Lance Solveto",
+        "Order": 10,
+        "CastId": 10
+      },
+      {
+        "Id": 204778,
+        "Name": "John Treleaven",
+        "Character": "Keith Gutherbridge",
+        "Order": 11,
+        "CastId": 11
+      },
+      {
+        "Id": 1289082,
+        "Name": "Kevan Ohtsji",
+        "Character": "Ray",
+        "Order": 12,
+        "CastId": 12,
+        "ProfilePath": "/uu9EDH1u2Wam5k9Xrzd18oPpULO.jpg"
+      },
+      {
+        "Id": 59230,
+        "Name": "Laura Soltis",
+        "Character": "Dorothy",
+        "Order": 13,
+        "CastId": 13
+      },
+      {
+        "Id": 1073525,
+        "Name": "Chelsey Reist",
+        "Character": "Diane Parry",
+        "Order": 14,
+        "CastId": 14,
+        "ProfilePath": "/3I2SEPmU89qv5Zw8T4n0xPH9Y4L.jpg"
+      },
+      {
+        "Id": 1239269,
+        "Name": "Billy Mitchell",
+        "Character": "Doug Parry",
+        "Order": 15,
+        "CastId": 15
+      },
+      {
+        "Id": 1368729,
+        "Name": "Adam Lolacher",
+        "Character": "Theo",
+        "Order": 16,
+        "CastId": 16
+      },
+      {
+        "Id": 1226011,
+        "Name": "Barbara Kottmeier",
+        "Character": "Michelle Parry",
+        "Order": 17,
+        "CastId": 17
+      },
+      {
+        "Id": 997197,
+        "Name": "Nelson Wong",
+        "Character": "Kenny Staffer",
+        "Order": 18,
+        "CastId": 18
+      },
+      {
+        "Id": 1381294,
+        "Name": "Clayton Chitty",
+        "Character": "Shawn",
+        "Order": 19,
+        "CastId": 19
+      },
+      {
+        "Id": 1381295,
+        "Name": "Anthony Konechny",
+        "Character": "Buff Guy",
+        "Order": 20,
+        "CastId": 20
+      },
+      {
+        "Id": 60613,
+        "Name": "Brenda Crichlow",
+        "Character": "Sally",
+        "Order": 21,
+        "CastId": 21
+      },
+      {
+        "Id": 60613,
+        "Name": "Brenda Crichlow",
+        "Character": "Reverend",
+        "Order": 22,
+        "CastId": 22
+      },
+      {
+        "Id": 1381296,
+        "Name": "Nancy Amelia Bell",
+        "Character": "Queen Mary",
+        "Order": 23,
+        "CastId": 23
+      },
+      {
+        "Id": 1381297,
+        "Name": "Cameron Dent",
+        "Character": "Switchblade",
+        "Order": 24,
+        "CastId": 24
+      }
+    ],
+    "Crew": [
+      {
+        "Id": 80523,
+        "Name": "Ron Oliver",
+        "Department": "Directing",
+        "Job": "Director"
+      },
+      {
+        "Id": 1381298,
+        "Name": "Deborah Donnelly",
+        "Department": "Writing",
+        "Job": "Novel"
+      },
+      {
+        "Id": 1224879,
+        "Name": "Darcy Meyers",
+        "Department": "Writing",
+        "Job": "Screenplay"
+      },
+      {
+        "Id": 1110710,
+        "Name": "Meyer Shwarzstein",
+        "Department": "Production",
+        "Job": "Executive Producer"
+      }
+    ]
+  },
+  "Images": {
+    "Backdrops": [],
+    "Posters": [
+      {
+        "FilePath": "/kanAvw1BjgbV6SIjZdcBRfYtKmk.jpg",
+        "Width": 600,
+        "Height": 900,
+        "AspectRatio": 0.666666666666667
+      }
+    ]
+  },
+  "Keywords": {
+    "Id": 300640,
+    "Keywords": []
+  },
+  "Trailers": {
+    "Id": 300640,
+    "Quicktime": [],
+    "Youtube": []
+  },
+  "Translations": {
+    "Id": 300640,
+    "Translations": [
+      {
+        "Iso_639_1": "en",
+        "Name": "English",
+        "EnglishName": "English"
+      }
+    ]
+  }
+}

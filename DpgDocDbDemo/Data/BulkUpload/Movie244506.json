@@ -1,0 +1,284 @@
+{
+  "Id": 244506,
+  "ImdbId": "tt2994190",
+  "Title": "Camp X-Ray",
+  "OriginalTitle": "Camp X-Ray",
+  "Status": "Released",
+  "Overview": "A young woman joins the military to be part of something bigger than herself and her small-town roots. Instead, she ends up as a new guard at Guantanamo Bay, where her mission is far from black and white. Surrounded by hostile jihadists and aggressive squadmates, she strikes up an unusual friendship with one of the detainees.",
+  "BackdropPath": "/2R07sv0C7HS1bHdeO5fDfIQplOM.jpg",
+  "PosterPath": "/2jJxvDhJn8NURUXfSQXC9wTG4X4.jpg",
+  "Genres": [
+    {
+      "Id": 18,
+      "Name": "Drama"
+    }
+  ],
+  "ReleaseDate": "2014-10-17T00:00:00",
+  "Runtime": 111,
+  "Popularity": 2.40587727789305,
+  "VoteAverage": 7.2,
+  "VoteCount": 11,
+  "ProductionCompanies": [
+    {
+      "Name": "Gotham Group",
+      "Id": 3672
+    },
+    {
+      "Name": "Upload Films",
+      "Id": 6724
+    }
+  ],
+  "ProductionCountries": [
+    {
+      "Iso_3166_1": "US",
+      "Name": "United States of America"
+    }
+  ],
+  "SpokenLanguages": [
+    {
+      "Iso_639_1": "en",
+      "Name": "English"
+    }
+  ],
+  "AlternativeTitles": {
+    "Id": 244506,
+    "Titles": []
+  },
+  "Releases": {
+    "Id": 244506,
+    "Countries": [
+      {
+        "Iso_3166_1": "US",
+        "Certification": "R",
+        "ReleaseDate": "2014-10-17T00:00:00"
+      }
+    ]
+  },
+  "Credits": {
+    "Id": 244506,
+    "Cast": [
+      {
+        "Id": 37917,
+        "Name": "Kristen Stewart",
+        "Character": "Amy Cole",
+        "CastId": 2,
+        "ProfilePath": "/e3PsBYlpDSp1CaLNDWh42GIpDGF.jpg"
+      },
+      {
+        "Id": 559566,
+        "Name": "Peyman Moaadi",
+        "Character": "Ali (as Payman Maadi)",
+        "Order": 1,
+        "CastId": 3,
+        "ProfilePath": "/eLD0NU2F0rkbjcPWPtrOHvgmLv1.jpg"
+      },
+      {
+        "Id": 52704,
+        "Name": "Lane Garrison",
+        "Character": "Randy",
+        "Order": 2,
+        "CastId": 4,
+        "ProfilePath": "/aTITQgb1tnn9cTeXSlNIrS2gIKJ.jpg"
+      },
+      {
+        "Id": 73127,
+        "Name": "Joseph Julian Soria",
+        "Character": "Rico",
+        "Order": 3,
+        "CastId": 5,
+        "ProfilePath": "/rExZoFprIcbZUYwMBSCw3iuLswo.jpg"
+      },
+      {
+        "Id": 3911,
+        "Name": "John Carroll Lynch",
+        "Character": "Col. Drummond",
+        "Order": 4,
+        "CastId": 6,
+        "ProfilePath": "/5eEGOANKnCCj7FLa3oV28gGYWkW.jpg"
+      },
+      {
+        "Id": 100602,
+        "Name": "Julia Duffy",
+        "Character": "Betty",
+        "Order": 5,
+        "CastId": 7,
+        "ProfilePath": "/xyBp5eeugdrM0DFBBPjQu47hYLQ.jpg"
+      }
+    ],
+    "Crew": [
+      {
+        "Id": 1279781,
+        "Name": "Peter Sattler",
+        "Department": "Directing",
+        "Job": "Director",
+        "ProfilePath": "/MBCBAoqZcqrUFqoJRSatktQf7a.jpg"
+      },
+      {
+        "Id": 1279781,
+        "Name": "Peter Sattler",
+        "Department": "Writing",
+        "Job": "Screenplay",
+        "ProfilePath": "/MBCBAoqZcqrUFqoJRSatktQf7a.jpg"
+      },
+      {
+        "Id": 53894,
+        "Name": "Gina Kwon",
+        "Department": "Production",
+        "Job": "Producer"
+      },
+      {
+        "Id": 960350,
+        "Name": "James Laxton",
+        "Department": "Camera",
+        "Job": "Director of Photography"
+      },
+      {
+        "Id": 1279784,
+        "Name": "Jess Stroup",
+        "Department": "Sound",
+        "Job": "Original Music Composer"
+      },
+      {
+        "Id": 964509,
+        "Name": "Geraud Brisson",
+        "Department": "Editing",
+        "Job": "Editor"
+      },
+      {
+        "Id": 1147603,
+        "Name": "Richard A. Wright",
+        "Department": "Art",
+        "Job": "Production Design"
+      }
+    ]
+  },
+  "Images": {
+    "Backdrops": [
+      {
+        "FilePath": "/2R07sv0C7HS1bHdeO5fDfIQplOM.jpg",
+        "Width": 3840,
+        "Height": 2160,
+        "AspectRatio": 1.77777777777778,
+        "VoteAverage": 5.3125,
+        "VoteCount": 1
+      },
+      {
+        "FilePath": "/zrEYhAASBIoGRYKX8cQjl4Y8w9l.jpg",
+        "Width": 1778,
+        "Height": 1000,
+        "AspectRatio": 1.778,
+        "VoteAverage": 5.27472527472527,
+        "VoteCount": 2
+      },
+      {
+        "FilePath": "/sVBNUANm6wKS6MH0Rm9tsU1Pbwr.jpg",
+        "Width": 3840,
+        "Height": 2160,
+        "AspectRatio": 1.77777777777778,
+        "VoteAverage": 5.24542124542125,
+        "VoteCount": 2
+      },
+      {
+        "FilePath": "/plS5RNLym918h2soTqOLE3AdbyC.jpg",
+        "Width": 1920,
+        "Height": 1080,
+        "AspectRatio": 1.77777777777778,
+        "VoteAverage": 5.21611721611722,
+        "VoteCount": 2
+      },
+      {
+        "FilePath": "/43NxE2apxrFnS8goKdezLPtDqIz.jpg",
+        "Width": 1920,
+        "Height": 1080,
+        "AspectRatio": 1.77777777777778,
+        "VoteAverage": 5.21577380952381,
+        "VoteCount": 1
+      },
+      {
+        "FilePath": "/uqtJhpVyJdkvdMaW373HjSOQ709.jpg",
+        "Width": 1280,
+        "Height": 720,
+        "AspectRatio": 1.77777777777778
+      }
+    ],
+    "Posters": [
+      {
+        "FilePath": "/2jJxvDhJn8NURUXfSQXC9wTG4X4.jpg",
+        "Width": 1400,
+        "Height": 2100,
+        "Iso_639_1": "en",
+        "AspectRatio": 0.666666666666667,
+        "VoteAverage": 5.37728937728938,
+        "VoteCount": 2
+      },
+      {
+        "FilePath": "/yOahq3K9WynNPE6qTg5h3ZI1EGH.jpg",
+        "Width": 1400,
+        "Height": 2100,
+        "Iso_639_1": "en",
+        "AspectRatio": 0.666666666666667,
+        "VoteAverage": 5.36263736263736,
+        "VoteCount": 2
+      },
+      {
+        "FilePath": "/tnbpnFb0MpWAppXV37NT9eMwhAa.jpg",
+        "Width": 1400,
+        "Height": 2100,
+        "Iso_639_1": "en",
+        "AspectRatio": 0.666666666666667,
+        "VoteAverage": 5.28205128205128,
+        "VoteCount": 2
+      }
+    ]
+  },
+  "Keywords": {
+    "Id": 244506,
+    "Keywords": []
+  },
+  "Trailers": {
+    "Id": 244506,
+    "Quicktime": [],
+    "Youtube": [
+      {
+        "Name": "Official Trailer",
+        "Size": "HD",
+        "Source": "_1MDrwqjeGo"
+      }
+    ]
+  },
+  "Translations": {
+    "Id": 244506,
+    "Translations": [
+      {
+        "Iso_639_1": "en",
+        "Name": "English",
+        "EnglishName": "English"
+      },
+      {
+        "Iso_639_1": "ru",
+        "Name": "Pусский",
+        "EnglishName": "Russian"
+      },
+      {
+        "Iso_639_1": "fr",
+        "Name": "Français",
+        "EnglishName": "French"
+      },
+      {
+        "Iso_639_1": "de",
+        "Name": "Deutsch",
+        "EnglishName": "German"
+      },
+      {
+        "Iso_639_1": "da",
+        "Name": "Dansk",
+        "EnglishName": "Danish"
+      },
+      {
+        "Iso_639_1": "es",
+        "Name": "Español",
+        "EnglishName": "Spanish"
+      }
+    ]
+  }
+}

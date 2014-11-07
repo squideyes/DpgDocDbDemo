@@ -1,0 +1,95 @@
+{
+  "Id": 298915,
+  "Title": "Mickey Mouse Clubhouse Superadventure!",
+  "OriginalTitle": "Mickey Mouse Clubhouse Superadventure!",
+  "Status": "Released",
+  "BackdropPath": "/7bOTfonM4XmIhcNh9xJgwctb841.jpg",
+  "PosterPath": "/2DnUctNyad1u5pem9qX00r8e8wE.jpg",
+  "Genres": [
+    {
+      "Id": 16,
+      "Name": "Animation"
+    }
+  ],
+  "ReleaseDate": "2014-10-24T00:00:00",
+  "Popularity": 0.2936238062809,
+  "ProductionCompanies": [
+    {
+      "Name": "Walt Disney",
+      "Id": 5888
+    }
+  ],
+  "ProductionCountries": [
+    {
+      "Iso_3166_1": "US",
+      "Name": "United States of America"
+    }
+  ],
+  "SpokenLanguages": [
+    {
+      "Iso_639_1": "pt",
+      "Name": "Português"
+    }
+  ],
+  "AlternativeTitles": {
+    "Id": 298915,
+    "Titles": []
+  },
+  "Releases": {
+    "Id": 298915,
+    "Countries": [
+      {
+        "Iso_3166_1": "BR",
+        "Certification": "A",
+        "ReleaseDate": "2014-10-24T00:00:00"
+      }
+    ]
+  },
+  "Credits": {
+    "Id": 298915,
+    "Cast": [],
+    "Crew": []
+  },
+  "Images": {
+    "Backdrops": [
+      {
+        "FilePath": "/7bOTfonM4XmIhcNh9xJgwctb841.jpg",
+        "Width": 1920,
+        "Height": 1080,
+        "AspectRatio": 1.77777777777778
+      }
+    ],
+    "Posters": [
+      {
+        "FilePath": "/2DnUctNyad1u5pem9qX00r8e8wE.jpg",
+        "Width": 567,
+        "Height": 794,
+        "AspectRatio": 0.714105793450882
+      }
+    ]
+  },
+  "Keywords": {
+    "Id": 298915,
+    "Keywords": [
+      {
+        "Id": 3870,
+        "Name": "mickey mouse"
+      }
+    ]
+  },
+  "Trailers": {
+    "Id": 298915,
+    "Quicktime": [],
+    "Youtube": []
+  },
+  "Translations": {
+    "Id": 298915,
+    "Translations": [
+      {
+        "Iso_639_1": "pt",
+        "Name": "Português",
+        "EnglishName": "Portuguese"
+      }
+    ]
+  }
+}

@@ -1,0 +1,119 @@
+{
+  "Id": 297398,
+  "Title": "Katy Perry: Getting Intimate",
+  "OriginalTitle": "Katy Perry: Getting Intimate",
+  "Status": "Released",
+  "Tagline": "Katy Perry: Getting Intimate",
+  "Overview": "Few know the real story of Katy's bumpy ride to pop super stardom and how success nearly passed her by. This inspiring biography goes beneath the candy coating of the Perry phenomenon to reveal a fantastic voyage of true perseverance, self belief and talent which led her to become one of the one of the most popular female singers in the world today. Combining unseen backstage and behind the scenes footage, the very latest compelling interviews from Katy Perry, John Mayer, Russell Brand and exclusive interviews with friends who share their memories. This program also features interviews with back up dancers, tour band mates, voices from the music industry, UK Celebrity Stylist Alex Longmore, Katy Perry biographer Alice Hudson, and many more!",
+  "Homepage": "https://itunes.apple.com/us/movie/katy-perry-getting-intimate/id907727254?ign-mpt=uo%3D4",
+  "PosterPath": "/a4jmSSCr5Y6MuWCn76GHBOH5Q0f.jpg",
+  "Genres": [
+    {
+      "Id": 99,
+      "Name": "Documentary"
+    },
+    {
+      "Id": 10402,
+      "Name": "Music"
+    }
+  ],
+  "ReleaseDate": "2014-10-08T00:00:00",
+  "Runtime": 1,
+  "Popularity": 0.182354466850922,
+  "VoteAverage": 10.0,
+  "VoteCount": 1,
+  "ProductionCompanies": [],
+  "ProductionCountries": [
+    {
+      "Iso_3166_1": "US",
+      "Name": "United States of America"
+    }
+  ],
+  "SpokenLanguages": [],
+  "AlternativeTitles": {
+    "Id": 297398,
+    "Titles": []
+  },
+  "Releases": {
+    "Id": 297398,
+    "Countries": [
+      {
+        "Iso_3166_1": "US",
+        "Certification": "PG",
+        "ReleaseDate": "2014-10-08T00:00:00"
+      }
+    ]
+  },
+  "Credits": {
+    "Id": 297398,
+    "Cast": [
+      {
+        "Id": 111455,
+        "Name": "Katy Perry",
+        "Character": "Singer",
+        "Order": 1,
+        "CastId": 4,
+        "ProfilePath": "/zzwHhXObX1cKcC79TAkSmYVP21s.jpg"
+      }
+    ],
+    "Crew": [
+      {
+        "Id": 111455,
+        "Name": "Katy Perry",
+        "Department": "Art",
+        "Job": "Other",
+        "ProfilePath": "/zzwHhXObX1cKcC79TAkSmYVP21s.jpg"
+      },
+      {
+        "Id": 85930,
+        "Name": "John Mayer",
+        "Department": "Art",
+        "Job": "Art Direction",
+        "ProfilePath": "/sn7uncx7HCMnXIfbbuZaVe58Q5s.jpg"
+      },
+      {
+        "Id": 59919,
+        "Name": "Russell Brand",
+        "Department": "Art",
+        "Job": "Production Design",
+        "ProfilePath": "/WwyYUbZYq4YJ7Zh7KTy1klJNso.jpg"
+      },
+      {
+        "Id": 1274292,
+        "Name": "Sonia Anderson",
+        "Department": "Art",
+        "Job": "Other"
+      }
+    ]
+  },
+  "Images": {
+    "Backdrops": [],
+    "Posters": [
+      {
+        "FilePath": "/a4jmSSCr5Y6MuWCn76GHBOH5Q0f.jpg",
+        "Width": 500,
+        "Height": 750,
+        "AspectRatio": 0.666666666666667
+      }
+    ]
+  },
+  "Keywords": {
+    "Id": 297398,
+    "Keywords": []
+  },
+  "Trailers": {
+    "Id": 297398,
+    "Quicktime": [],
+    "Youtube": []
+  },
+  "Translations": {
+    "Id": 297398,
+    "Translations": [
+      {
+        "Iso_639_1": "en",
+        "Name": "English",
+        "EnglishName": "English"
+      }
+    ]
+  }
+}

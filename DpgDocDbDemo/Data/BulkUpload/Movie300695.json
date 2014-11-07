@@ -1,0 +1,55 @@
+{
+  "Id": 300695,
+  "ImdbId": "tt3970280",
+  "Title": "A Magic Christmas",
+  "OriginalTitle": "A Magic Christmas",
+  "Status": "Released",
+  "Overview": "Jack Carter, a man constantly living in a state of regret, takes his technology-obsessed family, including their lovable dog Buster, on a Christmas vacation to the mountains in the hopes of reconnecting with them. While on vacation, Jack and his family run into an estranged, uber-competitive friend of Jack's, who now lives the life of luxury Jack pines for. Through a series of juvenile competitions, Jack realizes that the love of his family is more rewarding than anything money could buy.",
+  "Genres": [],
+  "ReleaseDate": "2014-10-08T00:00:00",
+  "Runtime": 0,
+  "ProductionCompanies": [],
+  "ProductionCountries": [],
+  "SpokenLanguages": [],
+  "AlternativeTitles": {
+    "Id": 300695,
+    "Titles": []
+  },
+  "Releases": {
+    "Id": 300695,
+    "Countries": [
+      {
+        "Iso_3166_1": "US",
+        "ReleaseDate": "2014-10-08T00:00:00"
+      }
+    ]
+  },
+  "Credits": {
+    "Id": 300695,
+    "Cast": [],
+    "Crew": []
+  },
+  "Images": {
+    "Backdrops": [],
+    "Posters": []
+  },
+  "Keywords": {
+    "Id": 300695,
+    "Keywords": []
+  },
+  "Trailers": {
+    "Id": 300695,
+    "Quicktime": [],
+    "Youtube": []
+  },
+  "Translations": {
+    "Id": 300695,
+    "Translations": [
+      {
+        "Iso_639_1": "en",
+        "Name": "English",
+        "EnglishName": "English"
+      }
+    ]
+  }
+}

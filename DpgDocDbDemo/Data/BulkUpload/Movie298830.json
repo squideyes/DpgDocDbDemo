@@ -1,0 +1,79 @@
+{
+  "Id": 298830,
+  "ImdbId": "tt3587064",
+  "Title": "The Dorm",
+  "OriginalTitle": "The Dorm",
+  "Status": "Released",
+  "Overview": "The film follows a student, Vivian (Alexis Knapp) who begins college as a shy, self-consciousness freshman but who, after becoming a dorm mate of the popular Sarah (Cassie Steele), begins a complete transformation.",
+  "Genres": [],
+  "ReleaseDate": "2014-10-26T00:00:00",
+  "Runtime": 90,
+  "Popularity": 0.88657187141175,
+  "ProductionCompanies": [],
+  "ProductionCountries": [],
+  "SpokenLanguages": [],
+  "AlternativeTitles": {
+    "Id": 298830,
+    "Titles": []
+  },
+  "Releases": {
+    "Id": 298830,
+    "Countries": [
+      {
+        "Iso_3166_1": "US",
+        "ReleaseDate": "2014-10-26T00:00:00"
+      }
+    ]
+  },
+  "Credits": {
+    "Id": 298830,
+    "Cast": [
+      {
+        "Id": 1228328,
+        "Name": "Cassie Steele",
+        "Character": "Sarah",
+        "Order": 1,
+        "CastId": 1
+      },
+      {
+        "Id": 999790,
+        "Name": "Alexis Knapp",
+        "Character": "Vivian",
+        "Order": 2,
+        "CastId": 2,
+        "ProfilePath": "/jhQeoRHhCig8dtJxthKChQmAERQ.jpg"
+      }
+    ],
+    "Crew": [
+      {
+        "Id": 56891,
+        "Name": "Rachel Talalay",
+        "Department": "Directing",
+        "Job": "Director"
+      }
+    ]
+  },
+  "Images": {
+    "Backdrops": [],
+    "Posters": []
+  },
+  "Keywords": {
+    "Id": 298830,
+    "Keywords": []
+  },
+  "Trailers": {
+    "Id": 298830,
+    "Quicktime": [],
+    "Youtube": []
+  },
+  "Translations": {
+    "Id": 298830,
+    "Translations": [
+      {
+        "Iso_639_1": "en",
+        "Name": "English",
+        "EnglishName": "English"
+      }
+    ]
+  }
+}

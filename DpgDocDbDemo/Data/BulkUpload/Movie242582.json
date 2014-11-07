@@ -1,0 +1,429 @@
+{
+  "Id": 242582,
+  "ImdbId": "tt2872718",
+  "Title": "Nightcrawler",
+  "OriginalTitle": "Nightcrawler",
+  "Status": "Post Production",
+  "Tagline": "The City Shines Brightest at Night",
+  "Overview": "A driven young man (Gyllenhaal) stumbles upon the underground world of L.A. freelance crime journalism.",
+  "BackdropPath": "/fqGL0uNRTbPTmiqC7lH5W7WU358.jpg",
+  "PosterPath": "/ciARJx8fJqum8uh6gLePaNoyYNY.jpg",
+  "Genres": [
+    {
+      "Id": 80,
+      "Name": "Crime"
+    },
+    {
+      "Id": 18,
+      "Name": "Drama"
+    },
+    {
+      "Id": 53,
+      "Name": "Thriller"
+    }
+  ],
+  "ReleaseDate": "2014-10-31T00:00:00",
+  "Runtime": 117,
+  "Popularity": 7.36627915053991,
+  "VoteAverage": 7.7,
+  "VoteCount": 15,
+  "ProductionCompanies": [
+    {
+      "Name": "Bold Films",
+      "Id": 2266
+    }
+  ],
+  "ProductionCountries": [
+    {
+      "Iso_3166_1": "US",
+      "Name": "United States of America"
+    }
+  ],
+  "SpokenLanguages": [
+    {
+      "Iso_639_1": "en",
+      "Name": "English"
+    }
+  ],
+  "AlternativeTitles": {
+    "Id": 242582,
+    "Titles": []
+  },
+  "Releases": {
+    "Id": 242582,
+    "Countries": [
+      {
+        "Iso_3166_1": "US",
+        "Certification": "R",
+        "ReleaseDate": "2014-10-31T00:00:00"
+      },
+      {
+        "Iso_3166_1": "DE",
+        "ReleaseDate": "2014-11-13T00:00:00"
+      },
+      {
+        "Iso_3166_1": "CA",
+        "ReleaseDate": "2014-09-04T00:00:00"
+      },
+      {
+        "Iso_3166_1": "CH",
+        "ReleaseDate": "2014-09-29T00:00:00"
+      },
+      {
+        "Iso_3166_1": "LB",
+        "ReleaseDate": "2014-10-22T00:00:00"
+      },
+      {
+        "Iso_3166_1": "IT",
+        "ReleaseDate": "2014-10-23T00:00:00"
+      },
+      {
+        "Iso_3166_1": "FI",
+        "ReleaseDate": "2014-10-28T00:00:00"
+      },
+      {
+        "Iso_3166_1": "AR",
+        "ReleaseDate": "2014-10-29T00:00:00"
+      },
+      {
+        "Iso_3166_1": "DK",
+        "ReleaseDate": "2014-10-29T00:00:00"
+      },
+      {
+        "Iso_3166_1": "MY",
+        "ReleaseDate": "2014-10-29T00:00:00"
+      },
+      {
+        "Iso_3166_1": "RU",
+        "ReleaseDate": "2014-10-29T00:00:00"
+      },
+      {
+        "Iso_3166_1": "BG",
+        "ReleaseDate": "2014-10-30T00:00:00"
+      },
+      {
+        "Iso_3166_1": "BS",
+        "ReleaseDate": "2014-10-30T00:00:00"
+      },
+      {
+        "Iso_3166_1": "GB",
+        "ReleaseDate": "2014-10-30T00:00:00"
+      },
+      {
+        "Iso_3166_1": "IE",
+        "ReleaseDate": "2014-10-30T00:00:00"
+      },
+      {
+        "Iso_3166_1": "IN",
+        "ReleaseDate": "2014-10-30T00:00:00"
+      },
+      {
+        "Iso_3166_1": "BE",
+        "ReleaseDate": "2014-11-04T00:00:00"
+      },
+      {
+        "Iso_3166_1": "NL",
+        "ReleaseDate": "2014-11-05T00:00:00"
+      },
+      {
+        "Iso_3166_1": "SE",
+        "ReleaseDate": "2014-11-07T00:00:00"
+      },
+      {
+        "Iso_3166_1": "AU",
+        "ReleaseDate": "2014-11-12T00:00:00"
+      },
+      {
+        "Iso_3166_1": "HU",
+        "ReleaseDate": "2014-11-12T00:00:00"
+      },
+      {
+        "Iso_3166_1": "PE",
+        "ReleaseDate": "2014-11-12T00:00:00"
+      },
+      {
+        "Iso_3166_1": "PT",
+        "ReleaseDate": "2014-11-12T00:00:00"
+      },
+      {
+        "Iso_3166_1": "AT",
+        "ReleaseDate": "2014-11-13T00:00:00"
+      },
+      {
+        "Iso_3166_1": "TW",
+        "ReleaseDate": "2014-11-13T00:00:00"
+      },
+      {
+        "Iso_3166_1": "LV",
+        "ReleaseDate": "2014-11-20T00:00:00"
+      },
+      {
+        "Iso_3166_1": "PL",
+        "ReleaseDate": "2014-11-20T00:00:00"
+      },
+      {
+        "Iso_3166_1": "FR",
+        "ReleaseDate": "2014-11-25T00:00:00"
+      },
+      {
+        "Iso_3166_1": "NZ",
+        "ReleaseDate": "2014-11-26T00:00:00"
+      },
+      {
+        "Iso_3166_1": "TR",
+        "ReleaseDate": "2014-11-27T00:00:00"
+      },
+      {
+        "Iso_3166_1": "SG",
+        "ReleaseDate": "2014-12-03T00:00:00"
+      },
+      {
+        "Iso_3166_1": "RO",
+        "ReleaseDate": "2014-12-04T00:00:00"
+      },
+      {
+        "Iso_3166_1": "BR",
+        "ReleaseDate": "2014-12-10T00:00:00"
+      },
+      {
+        "Iso_3166_1": "EE",
+        "ReleaseDate": "2015-01-01T00:00:00"
+      },
+      {
+        "Iso_3166_1": "CZ",
+        "ReleaseDate": "2015-01-28T00:00:00"
+      }
+    ]
+  },
+  "Credits": {
+    "Id": 242582,
+    "Cast": [
+      {
+        "Id": 131,
+        "Name": "Jake Gyllenhaal",
+        "Character": "Lou",
+        "CastId": 3,
+        "ProfilePath": "/wRgIPBzVzIIhWcdJAduPOKJJHsL.jpg"
+      },
+      {
+        "Id": 2053,
+        "Name": "Bill Paxton",
+        "Character": "Joe Loder",
+        "Order": 1,
+        "CastId": 4,
+        "ProfilePath": "/53Ln1wTC0OCLzBF4HNlwhMXYgOU.jpg"
+      },
+      {
+        "Id": 14343,
+        "Name": "Rene Russo",
+        "Character": "Nina Romina",
+        "Order": 2,
+        "CastId": 5,
+        "ProfilePath": "/aaPzuXRHdyxamPMXqu70okPaqvB.jpg"
+      },
+      {
+        "Id": 97604,
+        "Name": "Kevin Rahm",
+        "Character": "Frank Kruse",
+        "Order": 3,
+        "CastId": 6,
+        "ProfilePath": "/zhvROaAcr8f4rBNqRp5M9wYOEFH.jpg"
+      },
+      {
+        "Id": 53240,
+        "Name": "Riz Ahmed",
+        "Character": "Rick",
+        "Order": 4,
+        "CastId": 7,
+        "ProfilePath": "/u74E6LqKnLKrsfGdZ8oEGDfUdqL.jpg"
+      },
+      {
+        "Id": 18293,
+        "Name": "Kathleen York",
+        "Character": "Jackie",
+        "Order": 5,
+        "CastId": 8,
+        "ProfilePath": "/9tpL5j3Ba6yewjIwohTQxZtt1gM.jpg"
+      },
+      {
+        "Id": 59260,
+        "Name": "Ann Cusack",
+        "Character": "Linda",
+        "Order": 6,
+        "CastId": 9,
+        "ProfilePath": "/yQ68n8G6xl8TDMDr0534nnaGINS.jpg"
+      }
+    ],
+    "Crew": [
+      {
+        "Id": 57113,
+        "Name": "Dan Gilroy",
+        "Department": "Writing",
+        "Job": "Writer"
+      },
+      {
+        "Id": 57113,
+        "Name": "Dan Gilroy",
+        "Department": "Directing",
+        "Job": "Director"
+      }
+    ]
+  },
+  "Images": {
+    "Backdrops": [
+      {
+        "FilePath": "/fqGL0uNRTbPTmiqC7lH5W7WU358.jpg",
+        "Width": 1920,
+        "Height": 1080,
+        "AspectRatio": 1.77777777777778
+      },
+      {
+        "FilePath": "/ts4j3zYaPzdUVF3ijBeBdGVDWjX.jpg",
+        "Width": 1920,
+        "Height": 1080,
+        "AspectRatio": 1.77777777777778
+      },
+      {
+        "FilePath": "/vPOiG09Wzj1Yb7vpL8Prid1rdzZ.jpg",
+        "Width": 2000,
+        "Height": 1125,
+        "AspectRatio": 1.77777777777778
+      },
+      {
+        "FilePath": "/yKUQHQ2TeHktUmKxBxsXMXHdIlI.jpg",
+        "Width": 2500,
+        "Height": 1406,
+        "AspectRatio": 1.77809388335704
+      }
+    ],
+    "Posters": [
+      {
+        "FilePath": "/ciARJx8fJqum8uh6gLePaNoyYNY.jpg",
+        "Width": 1400,
+        "Height": 2100,
+        "Iso_639_1": "en",
+        "AspectRatio": 0.666666666666667,
+        "VoteAverage": 5.38734896943852,
+        "VoteCount": 4
+      },
+      {
+        "FilePath": "/6FbwJXaUhXpC4LX0BXrVWWHGVJZ.jpg",
+        "Width": 1000,
+        "Height": 1500,
+        "Iso_639_1": "en",
+        "AspectRatio": 0.666666666666667,
+        "VoteAverage": 5.3125,
+        "VoteCount": 1
+      },
+      {
+        "FilePath": "/8oPY6ULFOTbAEskySNhgsUIN4fW.jpg",
+        "Width": 2000,
+        "Height": 3000,
+        "Iso_639_1": "en",
+        "AspectRatio": 0.666666666666667,
+        "VoteAverage": 5.3125,
+        "VoteCount": 1
+      },
+      {
+        "FilePath": "/2VkNi1nXBt3FVJPG6fJw1m9gVn1.jpg",
+        "Width": 1900,
+        "Height": 2850,
+        "Iso_639_1": "en",
+        "AspectRatio": 0.666666666666667,
+        "VoteAverage": 5.29761904761905,
+        "VoteCount": 1
+      },
+      {
+        "FilePath": "/xbJ3PKQD03KCCq7Q49E2U75PcIE.jpg",
+        "Width": 570,
+        "Height": 889,
+        "Iso_639_1": "en",
+        "AspectRatio": 0.641169853768279,
+        "VoteAverage": 5.12265512265512,
+        "VoteCount": 3
+      },
+      {
+        "FilePath": "/5DyrdRVMdDcRIZSWfLuAiLXrqg2.jpg",
+        "Width": 1178,
+        "Height": 1600,
+        "Iso_639_1": "fr",
+        "AspectRatio": 0.73625
+      },
+      {
+        "FilePath": "/cID1TyS82Gm6NPFu4dEMEL2tdRs.jpg",
+        "Width": 705,
+        "Height": 1000,
+        "Iso_639_1": "ru",
+        "AspectRatio": 0.705
+      }
+    ]
+  },
+  "Keywords": {
+    "Id": 242582,
+    "Keywords": [
+      {
+        "Id": 917,
+        "Name": "journalism"
+      },
+      {
+        "Id": 1353,
+        "Name": "underground"
+      },
+      {
+        "Id": 208140,
+        "Name": "scrap metal"
+      }
+    ]
+  },
+  "Trailers": {
+    "Id": 242582,
+    "Quicktime": [],
+    "Youtube": [
+      {
+        "Name": "Nightcrawler Teaser Trailer #1",
+        "Size": "HD",
+        "Source": "1lEdwqwOttg"
+      },
+      {
+        "Name": "Trailer 1",
+        "Size": "HD",
+        "Source": "u1uP_8VJkDQ"
+      }
+    ]
+  },
+  "Translations": {
+    "Id": 242582,
+    "Translations": [
+      {
+        "Iso_639_1": "en",
+        "Name": "English",
+        "EnglishName": "English"
+      },
+      {
+        "Iso_639_1": "ru",
+        "Name": "Pусский",
+        "EnglishName": "Russian"
+      },
+      {
+        "Iso_639_1": "fr",
+        "Name": "Français",
+        "EnglishName": "French"
+      },
+      {
+        "Iso_639_1": "it",
+        "Name": "Italiano",
+        "EnglishName": "Italian"
+      },
+      {
+        "Iso_639_1": "de",
+        "Name": "Deutsch",
+        "EnglishName": "German"
+      },
+      {
+        "Iso_639_1": "nl",
+        "Name": "Nederlands",
+        "EnglishName": "Dutch"
+      }
+    ]
+  }
+}

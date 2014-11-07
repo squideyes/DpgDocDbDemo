@@ -1,0 +1,152 @@
+{
+  "Id": 282374,
+  "ImdbId": "tt1554929",
+  "Title": "Cure: The Life of Another",
+  "OriginalTitle": "Cure: Život druge",
+  "Status": "Released",
+  "Overview": "Linda and Eta, two 14-year-old girls, best of friends, retreat to a secluded beach beneath the cliffs of Dubrovnik; the morning after, only one of them returns.",
+  "Homepage": "http://www.cure-film.com/",
+  "PosterPath": "/ls2kSNwDtrLVyC9FKjlmzkUaJsZ.jpg",
+  "Genres": [],
+  "ReleaseDate": "2014-10-23T00:00:00",
+  "Runtime": 83,
+  "Popularity": 0.487667212766114,
+  "VoteAverage": 8.0,
+  "VoteCount": 1,
+  "ProductionCompanies": [],
+  "ProductionCountries": [],
+  "SpokenLanguages": [
+    {
+      "Iso_639_1": "de",
+      "Name": "Deutsch"
+    },
+    {
+      "Iso_639_1": "hr",
+      "Name": "Hrvatski"
+    }
+  ],
+  "AlternativeTitles": {
+    "Id": 282374,
+    "Titles": []
+  },
+  "Releases": {
+    "Id": 282374,
+    "Countries": [
+      {
+        "Iso_3166_1": "CH",
+        "ReleaseDate": "2014-10-23T00:00:00"
+      },
+      {
+        "Iso_3166_1": "BA",
+        "ReleaseDate": "2014-08-16T00:00:00"
+      }
+    ]
+  },
+  "Credits": {
+    "Id": 282374,
+    "Cast": [
+      {
+        "Id": 4635,
+        "Name": "Mirjana Karanović",
+        "Character": "Grandmother",
+        "CastId": 3,
+        "ProfilePath": "/ePGiGi0kuoWRYAj55DCHuRw7p2j.jpg"
+      },
+      {
+        "Id": 65073,
+        "Name": "Marija Škaričić",
+        "Character": "Etas mother",
+        "Order": 1,
+        "CastId": 4,
+        "ProfilePath": "/rcBC2ReaCX5TLcRzWDkuRXz3Bau.jpg"
+      },
+      {
+        "Id": 4637,
+        "Name": "Leon Lučev",
+        "Character": "Linda's father",
+        "Order": 2,
+        "CastId": 10,
+        "ProfilePath": "/szgSFL5uJOZkyMLQhtaOLmnRjkQ.jpg"
+      },
+      {
+        "Id": 133013,
+        "Name": "Franjo Dijak",
+        "Character": "Ivo",
+        "Order": 3,
+        "CastId": 6,
+        "ProfilePath": "/nmfC4K6Vgv2oxY1Ta2VXjvY2zq0.jpg"
+      },
+      {
+        "Id": 1342580,
+        "Name": "Lucija Radulovic",
+        "Character": "Eta",
+        "Order": 4,
+        "CastId": 7
+      },
+      {
+        "Id": 584874,
+        "Name": "Maja Zeco",
+        "Character": "Police woman / nun / cleaning lady",
+        "Order": 5,
+        "CastId": 8
+      },
+      {
+        "Id": 1342582,
+        "Name": "Sylvie Marinkovic",
+        "Character": "Linda",
+        "Order": 6,
+        "CastId": 9
+      }
+    ],
+    "Crew": [
+      {
+        "Id": 65061,
+        "Name": "Andrea Staka",
+        "Department": "Directing",
+        "Job": "Director"
+      },
+      {
+        "Id": 65061,
+        "Name": "Andrea Staka",
+        "Department": "Writing",
+        "Job": "Writer"
+      },
+      {
+        "Id": 65062,
+        "Name": "Marie Kreutzer",
+        "Department": "Writing",
+        "Job": "Writer"
+      }
+    ]
+  },
+  "Images": {
+    "Backdrops": [],
+    "Posters": [
+      {
+        "FilePath": "/ls2kSNwDtrLVyC9FKjlmzkUaJsZ.jpg",
+        "Width": 2000,
+        "Height": 2857,
+        "AspectRatio": 0.700035001750087
+      }
+    ]
+  },
+  "Keywords": {
+    "Id": 282374,
+    "Keywords": []
+  },
+  "Trailers": {
+    "Id": 282374,
+    "Quicktime": [],
+    "Youtube": []
+  },
+  "Translations": {
+    "Id": 282374,
+    "Translations": [
+      {
+        "Iso_639_1": "en",
+        "Name": "English",
+        "EnglishName": "English"
+      }
+    ]
+  }
+}

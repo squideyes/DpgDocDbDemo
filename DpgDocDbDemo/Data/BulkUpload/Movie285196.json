@@ -1,0 +1,91 @@
+{
+  "Id": 285196,
+  "ImdbId": "tt3690398",
+  "Title": "Good Girl",
+  "OriginalTitle": "Flink Pike",
+  "Status": "Released",
+  "Overview": "Successful documentary filmmaker Solveig Melkeraaen suffers a heavy clinical depression.  Treatment with electroshock therapy helps her, but when she falls into a second depression, she has to accept that being perfect is not an option. A feelgood film on depression.",
+  "PosterPath": "/fnZCQLvf0k1LoVfOmpVo8oLmfoY.jpg",
+  "Genres": [],
+  "ReleaseDate": "2014-10-10T00:00:00",
+  "Runtime": 72,
+  "Popularity": 0.195999575037669,
+  "ProductionCompanies": [],
+  "ProductionCountries": [],
+  "SpokenLanguages": [
+    {
+      "Iso_639_1": "no",
+      "Name": "Norsk"
+    }
+  ],
+  "AlternativeTitles": {
+    "Id": 285196,
+    "Titles": []
+  },
+  "Releases": {
+    "Id": 285196,
+    "Countries": [
+      {
+        "Iso_3166_1": "NO",
+        "ReleaseDate": "2014-10-10T00:00:00"
+      }
+    ]
+  },
+  "Credits": {
+    "Id": 285196,
+    "Cast": [
+      {
+        "Id": 1349622,
+        "Name": "Ravn Lanesskog",
+        "Character": "Himself",
+        "Order": 1,
+        "CastId": 1
+      },
+      {
+        "Id": 1349623,
+        "Name": "Solveig Melkeraaen",
+        "Character": "Herself",
+        "Order": 2,
+        "CastId": 2
+      }
+    ],
+    "Crew": [
+      {
+        "Id": 1349619,
+        "Name": "Solveig Melkeraaen",
+        "Department": "Directing",
+        "Job": "Director"
+      }
+    ]
+  },
+  "Images": {
+    "Backdrops": [],
+    "Posters": [
+      {
+        "FilePath": "/fnZCQLvf0k1LoVfOmpVo8oLmfoY.jpg",
+        "Width": 529,
+        "Height": 793,
+        "AspectRatio": 0.667087011349306
+      }
+    ]
+  },
+  "Keywords": {
+    "Id": 285196,
+    "Keywords": []
+  },
+  "Trailers": {
+    "Id": 285196,
+    "Quicktime": [],
+    "Youtube": []
+  },
+  "Translations": {
+    "Id": 285196,
+    "Translations": [
+      {
+        "Iso_639_1": "en",
+        "Name": "English",
+        "EnglishName": "English"
+      }
+    ]
+  }
+}

@@ -1,0 +1,192 @@
+{
+  "Id": 296627,
+  "ImdbId": "tt3837180",
+  "Title": "Njaan",
+  "OriginalTitle": "Njaan",
+  "Status": "Released",
+  "Tagline": "Self Portrait",
+  "Overview": "The movie is based on the acclaimed novel K T N Kottur Ezhuthum Jeevithavum by T. P. Rajeevan, which is set in the backdrop of India's freedom struggle and depicts a magical history of a Kerala village.",
+  "PosterPath": "/bLzSZYaCNob8SyEPGvI4m4Q9qTO.jpg",
+  "Genres": [
+    {
+      "Id": 18,
+      "Name": "Drama"
+    },
+    {
+      "Id": 36,
+      "Name": "History"
+    }
+  ],
+  "ReleaseDate": "2014-10-19T00:00:00",
+  "Runtime": 160,
+  "Popularity": 0.411430752663701,
+  "VoteAverage": 7.5,
+  "VoteCount": 1,
+  "ProductionCompanies": [],
+  "ProductionCountries": [
+    {
+      "Iso_3166_1": "IN",
+      "Name": "India"
+    }
+  ],
+  "SpokenLanguages": [
+    {
+      "Iso_639_1": "ml"
+    }
+  ],
+  "AlternativeTitles": {
+    "Id": 296627,
+    "Titles": []
+  },
+  "Releases": {
+    "Id": 296627,
+    "Countries": [
+      {
+        "Iso_3166_1": "IN",
+        "ReleaseDate": "2014-10-19T00:00:00"
+      }
+    ]
+  },
+  "Credits": {
+    "Id": 296627,
+    "Cast": [
+      {
+        "Id": 1115225,
+        "Name": "Dulquer Salmaan",
+        "Character": "K.T.N Kottoor and Ravi Chandrasekhar",
+        "Order": 1,
+        "ProfilePath": "/bdj9i6DvnTeSG5r3Nsl7RgMex9X.jpg"
+      },
+      {
+        "Id": 591117,
+        "Name": "Saiju Kurup",
+        "Character": "K.P.Kunjikannan",
+        "Order": 2,
+        "CastId": 1,
+        "ProfilePath": "/pS1RxgwLFCfU6CbKY25bCyj8vPW.jpg"
+      },
+      {
+        "Id": 141074,
+        "Name": "Suresh Krishna",
+        "Order": 3,
+        "CastId": 2,
+        "ProfilePath": "/x7SOJU2OH2RquzfiPNHxq60Hi9m.jpg"
+      },
+      {
+        "Id": 1188530,
+        "Name": "Hareesh Peradi",
+        "Character": "Nakulan",
+        "Order": 4,
+        "CastId": 3,
+        "ProfilePath": "/vHEKz9s8fbqew1AFFfVRHOK6cGn.jpg"
+      },
+      {
+        "Id": 1198713,
+        "Name": "Anumol",
+        "Character": "Janu",
+        "Order": 5,
+        "CastId": 4,
+        "ProfilePath": "/qNCBLtYDib6a5VK9vSCpIVKlDwq.jpg"
+      },
+      {
+        "Id": 1061924,
+        "Name": "Sajitha Madathil",
+        "Character": "Kurathi Kunjooli",
+        "Order": 6,
+        "CastId": 5,
+        "ProfilePath": "/aijktOCSw7YKq3ozmq34wwfSZP8.jpg"
+      },
+      {
+        "Id": 1199187,
+        "Name": "Renji Panicker",
+        "Character": "Kuttysankaran",
+        "Order": 7,
+        "CastId": 6
+      },
+      {
+        "Id": 1310402,
+        "Name": "Irshad",
+        "Order": 8,
+        "CastId": 7,
+        "ProfilePath": "/5B4QeO5WxeIYIKLQ95ayHxF7hkf.jpg"
+      },
+      {
+        "Id": 1160636,
+        "Name": "Joy Mathew",
+        "Character": "Himself",
+        "Order": 9,
+        "CastId": 8,
+        "ProfilePath": "/jH3fF6lHrLXDBeTUK3OtSZAKZ4U.jpg"
+      }
+    ],
+    "Crew": [
+      {
+        "Id": 588229,
+        "Name": "Ranjith",
+        "Department": "Directing",
+        "Job": "Director",
+        "ProfilePath": "/5iCUCgyjreX7RoYI8lbwRHILlTX.jpg"
+      },
+      {
+        "Id": 588229,
+        "Name": "Ranjith",
+        "Department": "Production",
+        "Job": "Producer",
+        "ProfilePath": "/5iCUCgyjreX7RoYI8lbwRHILlTX.jpg"
+      },
+      {
+        "Id": 1372286,
+        "Name": "T P Rajeevan",
+        "Department": "Writing",
+        "Job": "Story"
+      },
+      {
+        "Id": 979287,
+        "Name": "Bijibal",
+        "Department": "Sound",
+        "Job": "Music"
+      }
+    ]
+  },
+  "Images": {
+    "Backdrops": [],
+    "Posters": [
+      {
+        "FilePath": "/bLzSZYaCNob8SyEPGvI4m4Q9qTO.jpg",
+        "Width": 988,
+        "Height": 1454,
+        "AspectRatio": 0.679504814305364
+      }
+    ]
+  },
+  "Keywords": {
+    "Id": 296627,
+    "Keywords": []
+  },
+  "Trailers": {
+    "Id": 296627,
+    "Quicktime": [],
+    "Youtube": [
+      {
+        "Name": "Njaan Official Trailer",
+        "Size": "HD",
+        "Source": "2TI3tTLESbE"
+      },
+      {
+        "Name": "Teaser - 2",
+        "Size": "HD",
+        "Source": "TNk_sPNdhNg"
+      }
+    ]
+  },
+  "Translations": {
+    "Id": 296627,
+    "Translations": [
+      {
+        "Iso_639_1": "en",
+        "Name": "English",
+        "EnglishName": "English"
+      }
+    ]
+  }
+}

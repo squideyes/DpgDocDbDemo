@@ -1,0 +1,229 @@
+{
+  "Id": 297580,
+  "ImdbId": "tt3116438",
+  "Title": "Day of the Mummy",
+  "OriginalTitle": "Day of the Mummy",
+  "Status": "Released",
+  "Tagline": "Unlocked. Unburied. Unleashed. Undead.",
+  "Overview": "Welcome to Egypt, land of the Pharaohs. A place steeped in history and legend; Gods and spiritual guides; untold wealth – and the bone-cracking, blood-spilling guardians of its riches.  Jack Wells has arrived in Egypt in search of the famous diamond known as The Codex Stone. His journey leads him to the tomb of the cursed King Neferu, cursed not by name but by nature. With his centuries-old slumber disturbed by timeless human greed, the King rises from the dead with a blood-lust that cannot be quenched and a raging fury that will shred flesh from bone, bringing terrible and tormented death to all who dare witness the Day of the Mummy.",
+  "BackdropPath": "/aXa3gpuFL7rZXidfkZ1xq9KFW5X.jpg",
+  "PosterPath": "/wkItYH1tw98S1JIxQrgacfj78WY.jpg",
+  "Genres": [
+    {
+      "Id": 28,
+      "Name": "Action"
+    },
+    {
+      "Id": 12,
+      "Name": "Adventure"
+    },
+    {
+      "Id": 27,
+      "Name": "Horror"
+    }
+  ],
+  "ReleaseDate": "2014-10-21T00:00:00",
+  "Runtime": 76,
+  "Popularity": 0.490672272272812,
+  "ProductionCompanies": [
+    {
+      "Name": "Image Entertainment",
+      "Id": 3086
+    },
+    {
+      "Name": "Ruthless Pictures",
+      "Id": 17840
+    }
+  ],
+  "ProductionCountries": [
+    {
+      "Iso_3166_1": "VE",
+      "Name": "Venezuela"
+    }
+  ],
+  "SpokenLanguages": [
+    {
+      "Iso_639_1": "en",
+      "Name": "English"
+    }
+  ],
+  "AlternativeTitles": {
+    "Id": 297580,
+    "Titles": []
+  },
+  "Releases": {
+    "Id": 297580,
+    "Countries": [
+      {
+        "Iso_3166_1": "US",
+        "ReleaseDate": "2014-10-21T00:00:00"
+      },
+      {
+        "Iso_3166_1": "GB",
+        "Certification": "15",
+        "ReleaseDate": "2014-10-20T00:00:00"
+      }
+    ]
+  },
+  "Credits": {
+    "Id": 297580,
+    "Cast": [
+      {
+        "Id": 2047,
+        "Name": "Danny Glover",
+        "Character": "Carl",
+        "Order": 1,
+        "ProfilePath": "/jSNTEnm0Sxm8FRtoBfJmhmQyozH.jpg"
+      },
+      {
+        "Id": 18687,
+        "Name": "William McNamara",
+        "Character": "Jack Wells",
+        "Order": 2,
+        "CastId": 1,
+        "ProfilePath": "/c19069KdW7VW4h8Q5Cq35j8sOMl.jpg"
+      },
+      {
+        "Id": 225344,
+        "Name": "Andrea Monier",
+        "Character": "Kate",
+        "Order": 3,
+        "CastId": 2,
+        "ProfilePath": "/hbvV10VVlVKVD9LBrTJjVz75ZtA.jpg"
+      },
+      {
+        "Id": 1378009,
+        "Name": "Natalie De Luna",
+        "Character": "Merrien",
+        "Order": 5,
+        "CastId": 5,
+        "ProfilePath": "/iUr0jr9l84eF2kiX6QR59EJWX6L.jpg"
+      },
+      {
+        "Id": 1287450,
+        "Name": "Anthony Fanelli",
+        "Character": "Agent Miller",
+        "Order": 6,
+        "CastId": 6,
+        "ProfilePath": "/ynJiIInHIeMvMDKfk5AK18YwEqy.jpg"
+      },
+      {
+        "Id": 1165266,
+        "Name": "Michael Cortez",
+        "Character": "Hassan",
+        "Order": 7,
+        "CastId": 7,
+        "ProfilePath": "/3yG3X0u7SyOXxLigECC7xlohBO2.jpg"
+      },
+      {
+        "Id": 1378010,
+        "Name": "Brandon DeSpain",
+        "Character": "Neferu",
+        "Order": 8,
+        "CastId": 8,
+        "ProfilePath": "/32enI1CEJ7KrpQpVgMKS8RzCJ1c.jpg"
+      },
+      {
+        "Id": 1378013,
+        "Name": "Nimi Adokiye",
+        "Character": "Serah",
+        "Order": 9,
+        "CastId": 9,
+        "ProfilePath": "/d5vZMYQUsSsAVVmTdbxg7ityKiQ.jpg"
+      }
+    ],
+    "Crew": [
+      {
+        "Id": 1374237,
+        "Name": "Johnny Tabor",
+        "Department": "Directing",
+        "Job": "Director"
+      },
+      {
+        "Id": 1018948,
+        "Name": "Jesse Baget",
+        "Department": "Production",
+        "Job": "Producer"
+      },
+      {
+        "Id": 1378017,
+        "Name": "Lisandro Novillo",
+        "Department": "Production",
+        "Job": "Producer"
+      },
+      {
+        "Id": 1378022,
+        "Name": "Garry Charles",
+        "Department": "Writing",
+        "Job": "Writer"
+      }
+    ]
+  },
+  "Images": {
+    "Backdrops": [
+      {
+        "FilePath": "/aXa3gpuFL7rZXidfkZ1xq9KFW5X.jpg",
+        "Width": 1920,
+        "Height": 1080,
+        "AspectRatio": 1.77777777777778
+      }
+    ],
+    "Posters": [
+      {
+        "FilePath": "/1Gt165HGDnrywFlQrszf1msyXOp.jpg",
+        "Width": 1060,
+        "Height": 1500,
+        "AspectRatio": 0.706666666666667
+      },
+      {
+        "FilePath": "/wkItYH1tw98S1JIxQrgacfj78WY.jpg",
+        "Width": 1000,
+        "Height": 1500,
+        "Iso_639_1": "en",
+        "AspectRatio": 0.666666666666667
+      }
+    ]
+  },
+  "Keywords": {
+    "Id": 297580,
+    "Keywords": [
+      {
+        "Id": 2904,
+        "Name": "mummy"
+      },
+      {
+        "Id": 163338,
+        "Name": "egyptian mythology"
+      },
+      {
+        "Id": 191931,
+        "Name": "mummies"
+      },
+      {
+        "Id": 195419,
+        "Name": "point of view shot"
+      }
+    ]
+  },
+  "Trailers": {
+    "Id": 297580,
+    "Quicktime": [],
+    "Youtube": [
+      {
+        "Name": "Day of the Mummy Official Trailer #1 (2014) - Horror Movie HD",
+        "Size": "Standard",
+        "Source": "hqTE9FQPZeY"
+      }
+    ]
+  },
+  "Translations": {
+    "Id": 297580,
+    "Translations": [
+      {
+        "Iso_639_1": "en",
+        "Name": "English",
+        "EnglishName": "English"
+      }
+    ]
+  }
+}

@@ -1,0 +1,87 @@
+{
+  "Id": 298476,
+  "Title": "Superhéroes",
+  "OriginalTitle": "Superhéroes",
+  "Status": "Released",
+  "Overview": "The house is empty. Julio, the youngest of three children, spends his time playing alone while Genaro, his older brother, wants to draw him out of his dream world. But who’s the real hero here? And just who are the bad guys?",
+  "Genres": [],
+  "ReleaseDate": "2014-10-22T00:00:00",
+  "Runtime": 9,
+  "Popularity": 0.353054108657624,
+  "ProductionCompanies": [],
+  "ProductionCountries": [],
+  "SpokenLanguages": [],
+  "AlternativeTitles": {
+    "Id": 298476,
+    "Titles": []
+  },
+  "Releases": {
+    "Id": 298476,
+    "Countries": [
+      {
+        "Iso_3166_1": "MX",
+        "ReleaseDate": "2014-10-22T00:00:00"
+      }
+    ]
+  },
+  "Credits": {
+    "Id": 298476,
+    "Cast": [
+      {
+        "Id": 1376179,
+        "Name": "Jorge Cova Escobedo",
+        "Order": 1,
+        "CastId": 2
+      },
+      {
+        "Id": 1376180,
+        "Name": "Eduardo Gutiérrez Villarreal",
+        "Order": 2,
+        "CastId": 3
+      },
+      {
+        "Id": 1376182,
+        "Name": "José María Mansilla-Río",
+        "Order": 3,
+        "CastId": 4
+      }
+    ],
+    "Crew": [
+      {
+        "Id": 1376178,
+        "Name": "Sergio Díaz Ochoa",
+        "Department": "Directing",
+        "Job": "Director"
+      },
+      {
+        "Id": 1376178,
+        "Name": "Sergio Díaz Ochoa",
+        "Department": "Writing",
+        "Job": "Screenplay"
+      }
+    ]
+  },
+  "Images": {
+    "Backdrops": [],
+    "Posters": []
+  },
+  "Keywords": {
+    "Id": 298476,
+    "Keywords": []
+  },
+  "Trailers": {
+    "Id": 298476,
+    "Quicktime": [],
+    "Youtube": []
+  },
+  "Translations": {
+    "Id": 298476,
+    "Translations": [
+      {
+        "Iso_639_1": "en",
+        "Name": "English",
+        "EnglishName": "English"
+      }
+    ]
+  }
+}

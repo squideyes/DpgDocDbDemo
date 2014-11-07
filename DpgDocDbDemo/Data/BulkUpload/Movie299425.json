@@ -1,0 +1,138 @@
+{
+  "Id": 299425,
+  "Title": "Bellator 130",
+  "OriginalTitle": "Bellator 130",
+  "Status": "Released",
+  "Overview": "Bellator 130 took place on October 24, 2014 at the Kansas Star Arena in Mulvane, Kansas. The event aired live in prime time on Spike TV.",
+  "Homepage": "http://bellator.com/fight-card/bellator-130",
+  "BackdropPath": "/ukH91G6pzJokc8dWwy6NsoQe8ih.jpg",
+  "PosterPath": "/uydN7sVeobn5i8spZhjb5RiJK3S.jpg",
+  "Genres": [],
+  "ReleaseDate": "2014-10-24T00:00:00",
+  "Runtime": 95,
+  "Popularity": 0.3762097215,
+  "ProductionCompanies": [],
+  "ProductionCountries": [],
+  "SpokenLanguages": [],
+  "AlternativeTitles": {
+    "Id": 299425,
+    "Titles": [
+      {
+        "Iso_3166_1": "US",
+        "Title": "Bellator 130: Newton vs. Vassell"
+      },
+      {
+        "Iso_3166_1": "US",
+        "Title": "Bellator MMA 130"
+      }
+    ]
+  },
+  "Releases": {
+    "Id": 299425,
+    "Countries": [
+      {
+        "Iso_3166_1": "US",
+        "ReleaseDate": "2014-10-24T00:00:00"
+      }
+    ]
+  },
+  "Credits": {
+    "Id": 299425,
+    "Cast": [
+      {
+        "Id": 568626,
+        "Name": "Emanuel Newton",
+        "Character": "Himself",
+        "Order": 1
+      },
+      {
+        "Id": 1378524,
+        "Name": "Linton Vassell",
+        "Character": "Himself",
+        "Order": 2,
+        "CastId": 1
+      },
+      {
+        "Id": 1216786,
+        "Name": "Bobby Lashley",
+        "Character": "Himself",
+        "Order": 3,
+        "CastId": 2
+      },
+      {
+        "Id": 1378525,
+        "Name": "Karl Etherington",
+        "Character": "Himself",
+        "Order": 4,
+        "CastId": 3
+      },
+      {
+        "Id": 139439,
+        "Name": "Marloes Coenen",
+        "Character": "Herself",
+        "Order": 5,
+        "CastId": 4,
+        "ProfilePath": "/yjz0bLwjayB1SZNDFzqpkp0dKnc.jpg"
+      },
+      {
+        "Id": 1378526,
+        "Name": "Annalisa Bucci",
+        "Character": "Herself",
+        "Order": 6,
+        "CastId": 5
+      },
+      {
+        "Id": 108414,
+        "Name": "Dave Jansen",
+        "Character": "Himself",
+        "Order": 7,
+        "CastId": 6
+      },
+      {
+        "Id": 1044212,
+        "Name": "Rick Hawn",
+        "Character": "Himself",
+        "Order": 8,
+        "CastId": 7
+      }
+    ],
+    "Crew": []
+  },
+  "Images": {
+    "Backdrops": [
+      {
+        "FilePath": "/ukH91G6pzJokc8dWwy6NsoQe8ih.jpg",
+        "Width": 1920,
+        "Height": 1080,
+        "AspectRatio": 1.77777777777778
+      }
+    ],
+    "Posters": [
+      {
+        "FilePath": "/uydN7sVeobn5i8spZhjb5RiJK3S.jpg",
+        "Width": 1000,
+        "Height": 1330,
+        "AspectRatio": 0.75187969924812
+      }
+    ]
+  },
+  "Keywords": {
+    "Id": 299425,
+    "Keywords": []
+  },
+  "Trailers": {
+    "Id": 299425,
+    "Quicktime": [],
+    "Youtube": []
+  },
+  "Translations": {
+    "Id": 299425,
+    "Translations": [
+      {
+        "Iso_639_1": "en",
+        "Name": "English",
+        "EnglishName": "English"
+      }
+    ]
+  }
+}

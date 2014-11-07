@@ -1,0 +1,153 @@
+{
+  "Id": 297750,
+  "ImdbId": "tt3474752",
+  "Title": "La Banda dei Supereroi",
+  "OriginalTitle": "La Banda dei Supereroi",
+  "Status": "Released",
+  "PosterPath": "/hKfrRd0kHo2JpC5CDMfyaLtvMjZ.jpg",
+  "Genres": [
+    {
+      "Id": 35,
+      "Name": "Comedy"
+    }
+  ],
+  "ReleaseDate": "2014-10-16T00:00:00",
+  "Popularity": 0.1324283940546,
+  "ProductionCompanies": [],
+  "ProductionCountries": [],
+  "SpokenLanguages": [],
+  "AlternativeTitles": {
+    "Id": 297750,
+    "Titles": []
+  },
+  "Releases": {
+    "Id": 297750,
+    "Countries": [
+      {
+        "Iso_3166_1": "IT",
+        "ReleaseDate": "2014-10-16T00:00:00"
+      }
+    ]
+  },
+  "Credits": {
+    "Id": 297750,
+    "Cast": [
+      {
+        "Id": 1374567,
+        "Name": "Rachele Astuto",
+        "Order": 1,
+        "CastId": 4
+      },
+      {
+        "Id": 1374568,
+        "Name": "Tania Bambaci",
+        "Order": 2,
+        "CastId": 5
+      },
+      {
+        "Id": 1374569,
+        "Name": "Jacopo Francesco Cavallaro",
+        "Order": 3,
+        "CastId": 6
+      },
+      {
+        "Id": 1004907,
+        "Name": "Paola Crova",
+        "Order": 4,
+        "CastId": 7
+      },
+      {
+        "Id": 1374564,
+        "Name": "Davide Limone",
+        "Order": 5,
+        "CastId": 8
+      },
+      {
+        "Id": 1374570,
+        "Name": "Fabrizio Lo Feudo",
+        "Order": 6,
+        "CastId": 9
+      },
+      {
+        "Id": 1374571,
+        "Name": "Marco Mazzaglia",
+        "Order": 7,
+        "CastId": 10
+      },
+      {
+        "Id": 1374572,
+        "Name": "Marco Merrino",
+        "Order": 8,
+        "CastId": 11
+      },
+      {
+        "Id": 1374573,
+        "Name": "Angela Troina",
+        "Order": 9,
+        "CastId": 12
+      },
+      {
+        "Id": 1374574,
+        "Name": "Gianluca Verri",
+        "Order": 10,
+        "CastId": 13
+      }
+    ],
+    "Crew": [
+      {
+        "Id": 1374564,
+        "Name": "Davide Limone",
+        "Department": "Directing",
+        "Job": "Director"
+      },
+      {
+        "Id": 1374565,
+        "Name": "Adriana Marzagalli",
+        "Department": "Writing",
+        "Job": "Screenplay"
+      },
+      {
+        "Id": 1374566,
+        "Name": "Giovanni Marzagalli",
+        "Department": "Production",
+        "Job": "Producer"
+      },
+      {
+        "Id": 1336859,
+        "Name": "Andrea Bellucci",
+        "Department": "Sound",
+        "Job": "Original Music Composer"
+      }
+    ]
+  },
+  "Images": {
+    "Backdrops": [],
+    "Posters": [
+      {
+        "FilePath": "/hKfrRd0kHo2JpC5CDMfyaLtvMjZ.jpg",
+        "Width": 500,
+        "Height": 750,
+        "AspectRatio": 0.666666666666667
+      }
+    ]
+  },
+  "Keywords": {
+    "Id": 297750,
+    "Keywords": []
+  },
+  "Trailers": {
+    "Id": 297750,
+    "Quicktime": [],
+    "Youtube": []
+  },
+  "Translations": {
+    "Id": 297750,
+    "Translations": [
+      {
+        "Iso_639_1": "it",
+        "Name": "Italiano",
+        "EnglishName": "Italian"
+      }
+    ]
+  }
+}

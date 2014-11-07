@@ -1,0 +1,221 @@
+{
+  "Id": 286330,
+  "ImdbId": "tt3664432",
+  "Title": "Mau Mau Maria",
+  "OriginalTitle": "Mau Mau Maria",
+  "Status": "Released",
+  "Overview": "Three brothers are confronted with an imposing father who avail them the heritage, identity and emotional intelligence: seven weeks is the deadline for each of them find the respect and love of a woman.",
+  "PosterPath": "/4wZCQH2LywbAa2BjTWpmJR7uONw.jpg",
+  "Genres": [
+    {
+      "Id": 35,
+      "Name": "Comedy"
+    }
+  ],
+  "ReleaseDate": "2014-10-30T00:00:00",
+  "Runtime": 0,
+  "Popularity": 4.44746134612001E-05,
+  "ProductionCompanies": [],
+  "ProductionCountries": [
+    {
+      "Iso_3166_1": "PT",
+      "Name": "Portugal"
+    }
+  ],
+  "SpokenLanguages": [
+    {
+      "Iso_639_1": "pt",
+      "Name": "Português"
+    }
+  ],
+  "AlternativeTitles": {
+    "Id": 286330,
+    "Titles": []
+  },
+  "Releases": {
+    "Id": 286330,
+    "Countries": [
+      {
+        "Iso_3166_1": "PT",
+        "ReleaseDate": "2014-10-30T00:00:00"
+      }
+    ]
+  },
+  "Credits": {
+    "Id": 286330,
+    "Cast": [
+      {
+        "Id": 1352206,
+        "Name": "Inês Aires Pereira",
+        "Order": 1
+      },
+      {
+        "Id": 1352207,
+        "Name": "Diana Chaves",
+        "Character": "Victoria",
+        "Order": 2,
+        "CastId": 1
+      },
+      {
+        "Id": 1352208,
+        "Name": "Maria Botelho Moniz",
+        "Character": "Beatriz",
+        "Order": 3,
+        "CastId": 2
+      },
+      {
+        "Id": 1090804,
+        "Name": "Débora Monteiro",
+        "Character": "Acompanhante de Luxo",
+        "Order": 4,
+        "CastId": 3,
+        "ProfilePath": "/sJJNJZN75W6GKRtvZOoT1ytWJmF.jpg"
+      },
+      {
+        "Id": 938036,
+        "Name": "São José Correia",
+        "Character": "Sofia Parente",
+        "Order": 5,
+        "CastId": 4,
+        "ProfilePath": "/myXAqoJf2HmdSqsQMgRrrpYwjGV.jpg"
+      },
+      {
+        "Id": 1352210,
+        "Name": "António Raminhos",
+        "Character": "António de Mello Gonzaga",
+        "Order": 6,
+        "CastId": 5
+      },
+      {
+        "Id": 128447,
+        "Name": "José Pedro Gomes",
+        "Character": "Faustino Maria Gonzaga",
+        "Order": 7,
+        "CastId": 6,
+        "ProfilePath": "/9V0k9ACHFqkPh0q7lG8Qhj2JDvh.jpg"
+      },
+      {
+        "Id": 1352211,
+        "Name": "Ana Varela",
+        "Character": "Samantha",
+        "Order": 8,
+        "CastId": 7
+      },
+      {
+        "Id": 140464,
+        "Name": "Pedro Diogo",
+        "Character": "Gay",
+        "Order": 9,
+        "CastId": 8
+      },
+      {
+        "Id": 1172216,
+        "Name": "Margarida Moreira",
+        "Character": "Madalena Silva",
+        "Order": 10,
+        "CastId": 9
+      },
+      {
+        "Id": 1159332,
+        "Name": "Inês Castel-Branco",
+        "Character": "Joaninha",
+        "Order": 11,
+        "CastId": 10
+      },
+      {
+        "Id": 1202243,
+        "Name": "Rui Reininho",
+        "Character": "Rui",
+        "Order": 12,
+        "CastId": 11
+      },
+      {
+        "Id": 1292460,
+        "Name": "Victor de Sousa",
+        "Character": "Mordomo",
+        "Order": 13,
+        "CastId": 12
+      },
+      {
+        "Id": 1202235,
+        "Name": "Rita Camarneiro",
+        "Character": "Luísa Bernardes",
+        "Order": 14,
+        "CastId": 13
+      },
+      {
+        "Id": 1161634,
+        "Name": "Eduardo Madeira",
+        "Character": "João Maria Gonzaga",
+        "Order": 15,
+        "CastId": 14
+      },
+      {
+        "Id": 1203328,
+        "Name": "Marco Horácio",
+        "Character": "Pedro Maria Gonzaga",
+        "Order": 16,
+        "CastId": 15,
+        "ProfilePath": "/200040U3Ov2JddvCulImnyK7PYx.jpg"
+      },
+      {
+        "Id": 1339718,
+        "Name": "Luis Filipe Borges",
+        "Character": "Patrão",
+        "Order": 17,
+        "CastId": 16
+      }
+    ],
+    "Crew": [
+      {
+        "Id": 1352212,
+        "Name": "José Alberto Pinheiro",
+        "Department": "Directing",
+        "Job": "Director"
+      },
+      {
+        "Id": 1352213,
+        "Name": "Marta Gomes",
+        "Department": "Writing",
+        "Job": "Screenplay"
+      },
+      {
+        "Id": 1203328,
+        "Name": "Marco Horácio",
+        "Department": "Writing",
+        "Job": "Screenplay",
+        "ProfilePath": "/200040U3Ov2JddvCulImnyK7PYx.jpg"
+      }
+    ]
+  },
+  "Images": {
+    "Backdrops": [],
+    "Posters": [
+      {
+        "FilePath": "/4wZCQH2LywbAa2BjTWpmJR7uONw.jpg",
+        "Width": 1433,
+        "Height": 2048,
+        "AspectRatio": 0.69970703125
+      }
+    ]
+  },
+  "Keywords": {
+    "Id": 286330,
+    "Keywords": []
+  },
+  "Trailers": {
+    "Id": 286330,
+    "Quicktime": [],
+    "Youtube": []
+  },
+  "Translations": {
+    "Id": 286330,
+    "Translations": [
+      {
+        "Iso_639_1": "en",
+        "Name": "English",
+        "EnglishName": "English"
+      }
+    ]
+  }
+}

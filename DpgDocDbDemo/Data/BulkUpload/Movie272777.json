@@ -1,0 +1,95 @@
+{
+  "Id": 272777,
+  "ImdbId": "tt3257648",
+  "Title": "Waiting for August",
+  "OriginalTitle": "Waiting for August",
+  "Status": "Released",
+  "Overview": "Georgiana Halmac is turning 15 this winter, but she has no time for teenage dreams when her mother, whos on unemployment, moves to Torino to find work. Georgiana is left in charge of her six siblings in a social housing condo on the outskirts of Bacau, Romania. Caught between adolescence and the responsibilities of adulthood, Georgiana does the best she can, improvising with parenting advice from the television and the occasional phone call with her mother.  As she handles her own issues and high-school dramas, Georgiana must also deal with admonishing neighbours who threaten to turn the whole family into social services. With incredible calm and stoicism, Georgiana amazes as she holds everything together in an ingenious and delicate balance.",
+  "PosterPath": "/sx8z6vGjnlbSuaIzmu0IspFoxCb.jpg",
+  "Genres": [
+    {
+      "Id": 99,
+      "Name": "Documentary"
+    }
+  ],
+  "ReleaseDate": "2014-10-12T00:00:00",
+  "Runtime": 88,
+  "Popularity": 0.299472509525558,
+  "ProductionCompanies": [
+    {
+      "Name": "Clin d'oeil Films",
+      "Id": 32223
+    }
+  ],
+  "ProductionCountries": [
+    {
+      "Iso_3166_1": "BE",
+      "Name": "Belgium"
+    },
+    {
+      "Iso_3166_1": "RO",
+      "Name": "Romania"
+    }
+  ],
+  "SpokenLanguages": [
+    {
+      "Iso_639_1": "ro",
+      "Name": "Română"
+    }
+  ],
+  "AlternativeTitles": {
+    "Id": 272777,
+    "Titles": []
+  },
+  "Releases": {
+    "Id": 272777,
+    "Countries": [
+      {
+        "Iso_3166_1": "GB",
+        "ReleaseDate": "2014-10-12T00:00:00"
+      }
+    ]
+  },
+  "Credits": {
+    "Id": 272777,
+    "Cast": [],
+    "Crew": [
+      {
+        "Id": 1360770,
+        "Name": "Teodora Mihai",
+        "Department": "Directing",
+        "Job": "Director"
+      }
+    ]
+  },
+  "Images": {
+    "Backdrops": [],
+    "Posters": [
+      {
+        "FilePath": "/sx8z6vGjnlbSuaIzmu0IspFoxCb.jpg",
+        "Width": 834,
+        "Height": 1192,
+        "AspectRatio": 0.699664429530201
+      }
+    ]
+  },
+  "Keywords": {
+    "Id": 272777,
+    "Keywords": []
+  },
+  "Trailers": {
+    "Id": 272777,
+    "Quicktime": [],
+    "Youtube": []
+  },
+  "Translations": {
+    "Id": 272777,
+    "Translations": [
+      {
+        "Iso_639_1": "en",
+        "Name": "English",
+        "EnglishName": "English"
+      }
+    ]
+  }
+}

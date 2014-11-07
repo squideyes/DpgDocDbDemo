@@ -1,0 +1,254 @@
+{
+  "Id": 244264,
+  "ImdbId": "tt2034031",
+  "Title": "Laggies",
+  "OriginalTitle": "Laggies",
+  "Status": "Released",
+  "Overview": "Laggies is a coming of age story about a 28-year-old woman stuck in permanent adolescence. Unable to find her career calling, still hanging out with the same friends, and living with her high school boyfriend, Megan must finally navigate her own future when an unexpected marriage proposal sends her into a panic.",
+  "BackdropPath": "/9usU0DXFOZhN0KEotwvTtOPPs7H.jpg",
+  "PosterPath": "/mILGocKghMlrX67NUTDbzvqYwoE.jpg",
+  "Genres": [],
+  "ReleaseDate": "2014-10-24T00:00:00",
+  "Runtime": 100,
+  "Popularity": 0.698823680684426,
+  "ProductionCompanies": [],
+  "ProductionCountries": [],
+  "SpokenLanguages": [
+    {
+      "Iso_639_1": "en",
+      "Name": "English"
+    }
+  ],
+  "AlternativeTitles": {
+    "Id": 244264,
+    "Titles": []
+  },
+  "Releases": {
+    "Id": 244264,
+    "Countries": [
+      {
+        "Iso_3166_1": "US",
+        "Certification": "R",
+        "ReleaseDate": "2014-10-24T00:00:00"
+      },
+      {
+        "Iso_3166_1": "KZ",
+        "ReleaseDate": "2014-09-25T00:00:00"
+      },
+      {
+        "Iso_3166_1": "SG",
+        "ReleaseDate": "2014-10-09T00:00:00"
+      },
+      {
+        "Iso_3166_1": "IQ",
+        "ReleaseDate": "2014-10-16T00:00:00"
+      },
+      {
+        "Iso_3166_1": "LB",
+        "ReleaseDate": "2014-10-16T00:00:00"
+      }
+    ]
+  },
+  "Credits": {
+    "Id": 244264,
+    "Cast": [
+      {
+        "Id": 116,
+        "Name": "Keira Knightley",
+        "Character": "Megan",
+        "CastId": 5,
+        "ProfilePath": "/qioijC362oaHsRhup9WJi3MoARO.jpg"
+      },
+      {
+        "Id": 6807,
+        "Name": "Sam Rockwell",
+        "Character": "Craig",
+        "Order": 1,
+        "CastId": 6,
+        "ProfilePath": "/sKmpynD57Nwd62hrkjlXFK9hzGg.jpg"
+      },
+      {
+        "Id": 56734,
+        "Name": "Chloë Grace Moretz",
+        "Character": "Annika",
+        "Order": 2,
+        "CastId": 7,
+        "ProfilePath": "/vKjg1CU3lAkT5ByKaegor2zAeE4.jpg"
+      },
+      {
+        "Id": 475512,
+        "Name": "Ellie Kemper",
+        "Order": 3,
+        "CastId": 8,
+        "ProfilePath": "/tOelDZAM7N3WQwln6KiAlzxgmEK.jpg"
+      },
+      {
+        "Id": 60074,
+        "Name": "Jeff Garlin",
+        "Order": 4,
+        "CastId": 9,
+        "ProfilePath": "/ot2A7FxMFZFfuF3VBi4h9HNPkIA.jpg"
+      },
+      {
+        "Id": 4451,
+        "Name": "Mark Webber",
+        "Order": 5,
+        "CastId": 10,
+        "ProfilePath": "/6AA05AS6lnOjgFrA1nreIm9gBEP.jpg"
+      },
+      {
+        "Id": 109046,
+        "Name": "Tiya Sircar",
+        "Character": "Zareena",
+        "Order": 6,
+        "CastId": 11,
+        "ProfilePath": "/uqAiFL1P344fWa4cqfQhKWNoUyO.jpg"
+      },
+      {
+        "Id": 481337,
+        "Name": "Kaitlyn Dever",
+        "Order": 7,
+        "CastId": 12,
+        "ProfilePath": "/iBb8WjM1wwhvLGOIlqq8OZqrWwN.jpg"
+      }
+    ],
+    "Crew": [
+      {
+        "Id": 90492,
+        "Name": "Lynn Shelton",
+        "Department": "Directing",
+        "Job": "Director",
+        "ProfilePath": "/rKidRtakuSjXv13CjkYXcOeiKPq.jpg"
+      },
+      {
+        "Id": 1279521,
+        "Name": "Andrea Seigel",
+        "Department": "Writing",
+        "Job": "Screenplay"
+      },
+      {
+        "Id": 148735,
+        "Name": "Benjamin Kasulke",
+        "Department": "Camera",
+        "Job": "Director of Photography",
+        "ProfilePath": "/wfKNIexvvf7fPlOJcYogTsHaCfL.jpg"
+      },
+      {
+        "Id": 550438,
+        "Name": "Benjamin Gibbard",
+        "Department": "Sound",
+        "Job": "Original Music Composer",
+        "ProfilePath": "/9sDN2fglHlPWeUDgg3U721fErad.jpg"
+      }
+    ]
+  },
+  "Images": {
+    "Backdrops": [
+      {
+        "FilePath": "/9usU0DXFOZhN0KEotwvTtOPPs7H.jpg",
+        "Width": 1296,
+        "Height": 730,
+        "AspectRatio": 1.77534246575342
+      }
+    ],
+    "Posters": [
+      {
+        "FilePath": "/udVbfEgnJKCdTId4vfu0TyGnmtJ.jpg",
+        "Width": 1014,
+        "Height": 1500,
+        "Iso_639_1": "xx",
+        "AspectRatio": 0.676,
+        "VoteAverage": 5.3125,
+        "VoteCount": 1
+      },
+      {
+        "FilePath": "/mILGocKghMlrX67NUTDbzvqYwoE.jpg",
+        "Width": 1400,
+        "Height": 2100,
+        "Iso_639_1": "en",
+        "AspectRatio": 0.666666666666667,
+        "VoteAverage": 5.3125,
+        "VoteCount": 1
+      },
+      {
+        "FilePath": "/zhHlyduK5yD5ciIpWKIGcz39z2x.jpg",
+        "Width": 510,
+        "Height": 755,
+        "Iso_639_1": "xx",
+        "AspectRatio": 0.675496688741722,
+        "VoteAverage": 5.26739926739927,
+        "VoteCount": 2
+      },
+      {
+        "FilePath": "/n3m6oU3O7mWfzQva5fxx7tWGyXB.jpg",
+        "Width": 819,
+        "Height": 1280,
+        "Iso_639_1": "en",
+        "AspectRatio": 0.63984375,
+        "VoteAverage": 5.22321428571429,
+        "VoteCount": 1
+      },
+      {
+        "FilePath": "/aB0FnuiIWWewPE8061AxQf7Pgzg.jpg",
+        "Width": 675,
+        "Height": 1000,
+        "Iso_639_1": "en",
+        "AspectRatio": 0.675
+      },
+      {
+        "FilePath": "/etCwkEYudlGKRpAlvTK8MS8vC3u.jpg",
+        "Width": 708,
+        "Height": 1000,
+        "Iso_639_1": "ru",
+        "AspectRatio": 0.708
+      },
+      {
+        "FilePath": "/taH49rrdxfvNY6qzoHtuDQzJKkM.jpg",
+        "Width": 1024,
+        "Height": 1517,
+        "Iso_639_1": "en",
+        "AspectRatio": 0.675016479894529
+      }
+    ]
+  },
+  "Keywords": {
+    "Id": 244264,
+    "Keywords": []
+  },
+  "Trailers": {
+    "Id": 244264,
+    "Quicktime": [],
+    "Youtube": [
+      {
+        "Name": "Say When | Official UK Trailer (2014)",
+        "Size": "HD",
+        "Source": "4o8peGbqxeI"
+      },
+      {
+        "Name": "Laggies | Official Trailer HD | A24 Films",
+        "Size": "HD",
+        "Source": "xep7s36qZL0"
+      }
+    ]
+  },
+  "Translations": {
+    "Id": 244264,
+    "Translations": [
+      {
+        "Iso_639_1": "en",
+        "Name": "English",
+        "EnglishName": "English"
+      },
+      {
+        "Iso_639_1": "it",
+        "Name": "Italiano",
+        "EnglishName": "Italian"
+      },
+      {
+        "Iso_639_1": "ru",
+        "Name": "Pусский",
+        "EnglishName": "Russian"
+      }
+    ]
+  }
+}

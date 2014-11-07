@@ -1,0 +1,152 @@
+{
+  "Id": 290290,
+  "ImdbId": "tt2936978",
+  "Title": "War Book",
+  "OriginalTitle": "War Book",
+  "Status": "Released",
+  "Overview": "In a contemporary Commons briefing room, a government minister and several aids enact the ‘war book’ exercise: a protocol written in the 1950s which is periodically played out to test post-nuclear scenarios. Low-budget but high-concept, War Book is a terse drama of interpersonal politics with rat-a-tat-tat dialogue and sharp performances. (12 Angry Men, Sleuth and The Deal all feel like reference points.) Created by some of the UK’s most promising talents in down time between other projects, director/producer Tom Harper (Scouting Book for Boys, Woman in Black 2), screenwriter Jack Thorne (Skins, Scouting Book) and producer Lauren Dark bring together a top notch cast (including Sophie Okonedo, Ben Chaplin and Kerry Fox). Cold war anxiety is given contemporary relevance in this exploration of government arrogance and lack of accountability, and the terrifying fragility of world order when faced with the abyss of mutual destruction.",
+  "Genres": [],
+  "ReleaseDate": "2014-10-13T00:00:00",
+  "Runtime": 95,
+  "Popularity": 0.256321274287435,
+  "ProductionCompanies": [
+    {
+      "Name": "Sixteen Films",
+      "Id": 12695
+    },
+    {
+      "Name": "Archer's Mark",
+      "Id": 30601
+    }
+  ],
+  "ProductionCountries": [
+    {
+      "Iso_3166_1": "GB",
+      "Name": "United Kingdom"
+    }
+  ],
+  "SpokenLanguages": [],
+  "AlternativeTitles": {
+    "Id": 290290,
+    "Titles": []
+  },
+  "Releases": {
+    "Id": 290290,
+    "Countries": [
+      {
+        "Iso_3166_1": "GB",
+        "ReleaseDate": "2014-10-13T00:00:00"
+      }
+    ]
+  },
+  "Credits": {
+    "Id": 290290,
+    "Cast": [
+      {
+        "Id": 21343,
+        "Name": "Ben Chaplin",
+        "Order": 1,
+        "CastId": 2,
+        "ProfilePath": "/6isUJ1s5U1QfPgNDkK8nTEjlb5X.jpg"
+      },
+      {
+        "Id": 2598,
+        "Name": "Sophie Okonedo",
+        "Order": 2,
+        "CastId": 3,
+        "ProfilePath": "/5Yo3KGum1txRLmt6JZwQ5TYSIsg.jpg"
+      },
+      {
+        "Id": 63311,
+        "Name": "Shaun Evans",
+        "Order": 3,
+        "CastId": 4,
+        "ProfilePath": "/8sjgajgpLmlPFDIgagzHJ3OAhz5.jpg"
+      },
+      {
+        "Id": 221980,
+        "Name": "Nathan Stewart-Jarrett",
+        "Order": 4,
+        "CastId": 5,
+        "ProfilePath": "/vmTYlNIggaRg0jf8EAgkT3tcImN.jpg"
+      },
+      {
+        "Id": 17258,
+        "Name": "Kerry Fox",
+        "Order": 5,
+        "CastId": 6,
+        "ProfilePath": "/i2O8aHEPRFvuJwRpwDNg6jv8JT6.jpg"
+      },
+      {
+        "Id": 81840,
+        "Name": "Adeel Akhtar",
+        "Order": 6,
+        "CastId": 7,
+        "ProfilePath": "/m5nctbJLv1N8uaUxP2aoFySISlC.jpg"
+      },
+      {
+        "Id": 1320609,
+        "Name": "Phoebe Fox",
+        "Order": 7,
+        "CastId": 8
+      },
+      {
+        "Id": 77637,
+        "Name": "Antony Sher",
+        "Order": 8,
+        "CastId": 9
+      },
+      {
+        "Id": 110076,
+        "Name": "Nicholas Burns",
+        "Order": 9,
+        "CastId": 10,
+        "ProfilePath": "/30oqK87hjivdrX9AQXAK6COrHw3.jpg"
+      },
+      {
+        "Id": 61370,
+        "Name": "Morgan Walters",
+        "Order": 10,
+        "CastId": 11
+      }
+    ],
+    "Crew": [
+      {
+        "Id": 62880,
+        "Name": "Tom Harper",
+        "Department": "Directing",
+        "Job": "Director",
+        "ProfilePath": "/jPzXEb3EfAFpiOgeYpyWhl4c2gU.jpg"
+      },
+      {
+        "Id": 1221049,
+        "Name": "Jack Thorne",
+        "Department": "Writing",
+        "Job": "Writer"
+      }
+    ]
+  },
+  "Images": {
+    "Backdrops": [],
+    "Posters": []
+  },
+  "Keywords": {
+    "Id": 290290,
+    "Keywords": []
+  },
+  "Trailers": {
+    "Id": 290290,
+    "Quicktime": [],
+    "Youtube": []
+  },
+  "Translations": {
+    "Id": 290290,
+    "Translations": [
+      {
+        "Iso_639_1": "en",
+        "Name": "English",
+        "EnglishName": "English"
+      }
+    ]
+  }
+}

@@ -1,0 +1,136 @@
+{
+  "Id": 299470,
+  "ImdbId": "tt3742944",
+  "Title": "The Price of My Life",
+  "OriginalTitle": "Was bin ich wert?",
+  "Status": "Released",
+  "Overview": "A filmmaker travels around the world and considers the literal meaning of the concept of \"human capital.\" What am I worth? is the question that he asks himself and the people he talks to. Peter Scharf's discoveries are shocking, tragic and startling - and sometimes very funny.",
+  "BackdropPath": "/fAzUcb7jbLeHenukCzcWERSt3En.jpg",
+  "PosterPath": "/bKN448pQMimwPByloh6yrPMFdhr.jpg",
+  "Genres": [
+    {
+      "Id": 99,
+      "Name": "Documentary"
+    }
+  ],
+  "ReleaseDate": "2014-10-09T00:00:00",
+  "Runtime": 94,
+  "Popularity": 0.247968799,
+  "ProductionCompanies": [
+    {
+      "Name": "Bildersturm Filmproduktion",
+      "Id": 36620
+    }
+  ],
+  "ProductionCountries": [
+    {
+      "Iso_3166_1": "DE",
+      "Name": "Germany"
+    }
+  ],
+  "SpokenLanguages": [
+    {
+      "Iso_639_1": "de",
+      "Name": "Deutsch"
+    }
+  ],
+  "AlternativeTitles": {
+    "Id": 299470,
+    "Titles": []
+  },
+  "Releases": {
+    "Id": 299470,
+    "Countries": [
+      {
+        "Iso_3166_1": "DE",
+        "Certification": "0",
+        "ReleaseDate": "2014-10-09T00:00:00"
+      }
+    ]
+  },
+  "Credits": {
+    "Id": 299470,
+    "Cast": [
+      {
+        "Id": 1378702,
+        "Name": "Peter Scharf",
+        "Character": "Himself",
+        "Order": 1
+      }
+    ],
+    "Crew": [
+      {
+        "Id": 1378702,
+        "Name": "Peter Scharf",
+        "Department": "Directing",
+        "Job": "Director"
+      },
+      {
+        "Id": 1132175,
+        "Name": "Oliver Held",
+        "Department": "Directing",
+        "Job": "Director"
+      },
+      {
+        "Id": 1378702,
+        "Name": "Peter Scharf",
+        "Department": "Writing",
+        "Job": "Writer"
+      },
+      {
+        "Id": 1378706,
+        "Name": "Jörn Klare",
+        "Department": "Writing",
+        "Job": "Writer"
+      }
+    ]
+  },
+  "Images": {
+    "Backdrops": [
+      {
+        "FilePath": "/fAzUcb7jbLeHenukCzcWERSt3En.jpg",
+        "Width": 1920,
+        "Height": 1080,
+        "AspectRatio": 1.77777777777778
+      }
+    ],
+    "Posters": [
+      {
+        "FilePath": "/bKN448pQMimwPByloh6yrPMFdhr.jpg",
+        "Width": 847,
+        "Height": 1196,
+        "Iso_639_1": "de",
+        "AspectRatio": 0.70819397993311
+      }
+    ]
+  },
+  "Keywords": {
+    "Id": 299470,
+    "Keywords": [
+      {
+        "Id": 208069,
+        "Name": "human capital"
+      }
+    ]
+  },
+  "Trailers": {
+    "Id": 299470,
+    "Quicktime": [],
+    "Youtube": []
+  },
+  "Translations": {
+    "Id": 299470,
+    "Translations": [
+      {
+        "Iso_639_1": "de",
+        "Name": "Deutsch",
+        "EnglishName": "German"
+      },
+      {
+        "Iso_639_1": "en",
+        "Name": "English",
+        "EnglishName": "English"
+      }
+    ]
+  }
+}

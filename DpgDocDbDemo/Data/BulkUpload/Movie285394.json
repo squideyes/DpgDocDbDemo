@@ -1,0 +1,175 @@
+{
+  "Id": 285394,
+  "ImdbId": "tt3970310",
+  "Title": "Bouboule",
+  "OriginalTitle": "Bouboule",
+  "Status": "Released",
+  "Overview": "Weighing 100 kilos, 12 year old Kevin Bouboule’s life is far from easy. Since his father died, his existence has been plagued by his domineering mother and arrogant sisters, doctor visits and aqua gym classes. The other kids in the neighborhood bully him at every opportunity. Kevin wishes for nothing more than to finally be a man – and to embrace a girl. But these are just distant fantasies. Kevin finds comfort in crisps and crème brulée and drifts along in a colorful dream world full of lightness and joy. However, the state of his health is questionable, and if he doesn’t make an effort to change his lifestyle soon, his heart will fail. Kevin’s outlook is pretty bleak. Until, that is, he comes across Rocco, a German shepherd belonging to the burly guard Patrick, and befriends both the dog and its owner. With great affection and charm, Director Bruno Deville tells the story of an outsider you can’t help but like. Leading actor David Thielemans is a real discovery.",
+  "BackdropPath": "/kDhaeozcAamVnDhi35KydvvJr2V.jpg",
+  "PosterPath": "/tBcV0Jrwyr9edGWU3RBsCx17BT7.jpg",
+  "Genres": [
+    {
+      "Id": 35,
+      "Name": "Comedy"
+    }
+  ],
+  "ReleaseDate": "2014-11-05T00:00:00",
+  "Runtime": 0,
+  "Popularity": 1.51517396253182,
+  "ProductionCompanies": [
+    {
+      "Name": "ARP Sélection",
+      "Id": 189
+    }
+  ],
+  "ProductionCountries": [
+    {
+      "Iso_3166_1": "FR",
+      "Name": "France"
+    }
+  ],
+  "SpokenLanguages": [
+    {
+      "Iso_639_1": "fr",
+      "Name": "Français"
+    }
+  ],
+  "AlternativeTitles": {
+    "Id": 285394,
+    "Titles": []
+  },
+  "Releases": {
+    "Id": 285394,
+    "Countries": [
+      {
+        "Iso_3166_1": "FR",
+        "ReleaseDate": "2014-11-05T00:00:00"
+      }
+    ]
+  },
+  "Credits": {
+    "Id": 285394,
+    "Cast": [
+      {
+        "Id": 54292,
+        "Name": "Julie Ferrier",
+        "Character": "Mère de Kévin",
+        "Order": 1,
+        "ProfilePath": "/lDyve5gGt5KM4hWLeCCYY6XNUcg.jpg"
+      },
+      {
+        "Id": 145120,
+        "Name": "Swann Arlaud",
+        "Character": "Pat",
+        "Order": 2,
+        "CastId": 1,
+        "ProfilePath": "/w3RUD1yxVqAxAs1jsuqSk2CLkDN.jpg"
+      },
+      {
+        "Id": 1350080,
+        "Name": "David Thielemans",
+        "Character": "Kévin alias Bouboule",
+        "Order": 3,
+        "CastId": 3
+      }
+    ],
+    "Crew": [
+      {
+        "Id": 1350078,
+        "Name": "Bruno Deville",
+        "Department": "Directing",
+        "Job": "Director"
+      }
+    ]
+  },
+  "Images": {
+    "Backdrops": [
+      {
+        "FilePath": "/kDhaeozcAamVnDhi35KydvvJr2V.jpg",
+        "Width": 1280,
+        "Height": 720,
+        "AspectRatio": 1.77777777777778
+      },
+      {
+        "FilePath": "/i3qL3IYl2ffKUP9cEbtLQHBNdJP.jpg",
+        "Width": 1280,
+        "Height": 720,
+        "AspectRatio": 1.77777777777778
+      },
+      {
+        "FilePath": "/nrgWxaEkjKcngh63a6peWJnGAwO.jpg",
+        "Width": 1280,
+        "Height": 720,
+        "AspectRatio": 1.77777777777778
+      },
+      {
+        "FilePath": "/dxZeXlzfvvsnqPBn9QzB9D7WdD8.jpg",
+        "Width": 1600,
+        "Height": 900,
+        "AspectRatio": 1.77777777777778
+      },
+      {
+        "FilePath": "/9UVisI4syvLDQAMfh5TfzKTh6MV.jpg",
+        "Width": 1600,
+        "Height": 900,
+        "AspectRatio": 1.77777777777778
+      },
+      {
+        "FilePath": "/sMlytyROx4IDbpNAUQlVRadLhuj.jpg",
+        "Width": 1600,
+        "Height": 900,
+        "AspectRatio": 1.77777777777778
+      },
+      {
+        "FilePath": "/jlqXSGfI6VhBoUmszunH3Xa41ab.jpg",
+        "Width": 1600,
+        "Height": 900,
+        "AspectRatio": 1.77777777777778
+      },
+      {
+        "FilePath": "/4NbcKUKV8PiXsrZBaLz98apd7Bj.jpg",
+        "Width": 1600,
+        "Height": 900,
+        "AspectRatio": 1.77777777777778
+      },
+      {
+        "FilePath": "/mJffrS2RPByck4iHg3pHEwswhsv.jpg",
+        "Width": 1600,
+        "Height": 900,
+        "AspectRatio": 1.77777777777778
+      }
+    ],
+    "Posters": [
+      {
+        "FilePath": "/tBcV0Jrwyr9edGWU3RBsCx17BT7.jpg",
+        "Width": 1653,
+        "Height": 2338,
+        "AspectRatio": 0.707014542343884
+      }
+    ]
+  },
+  "Keywords": {
+    "Id": 285394,
+    "Keywords": []
+  },
+  "Trailers": {
+    "Id": 285394,
+    "Quicktime": [],
+    "Youtube": []
+  },
+  "Translations": {
+    "Id": 285394,
+    "Translations": [
+      {
+        "Iso_639_1": "fr",
+        "Name": "Français",
+        "EnglishName": "French"
+      },
+      {
+        "Iso_639_1": "en",
+        "Name": "English",
+        "EnglishName": "English"
+      }
+    ]
+  }
+}

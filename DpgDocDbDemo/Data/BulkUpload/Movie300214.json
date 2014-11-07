@@ -1,0 +1,118 @@
+{
+  "Id": 300214,
+  "ImdbId": "tt3885714",
+  "Title": "Karthikeya",
+  "OriginalTitle": "Karthikeya",
+  "Status": "Released",
+  "Tagline": "The mystery of the closed Subramanian Swamy temple.",
+  "Overview": "Nikhil Siddharth and Swati Reddy are back once again onscreen with Karthikeya. The mystery of the Subramanian Swamy temple which has remained closed for years is the crux of the movie. Local people in the village are curious why the temple has been locked up for years? The lead protagonists take the initiative to solve the mystery.",
+  "Homepage": "http://www.movieregister.com",
+  "PosterPath": "/5VPrYrunPy4X78kUxTGFYO1hC1m.jpg",
+  "Genres": [
+    {
+      "Id": 18,
+      "Name": "Drama"
+    },
+    {
+      "Id": 10751,
+      "Name": "Family"
+    }
+  ],
+  "ReleaseDate": "2014-10-24T00:00:00",
+  "Runtime": 124,
+  "Popularity": 0.489972,
+  "ProductionCompanies": [],
+  "ProductionCountries": [],
+  "SpokenLanguages": [],
+  "AlternativeTitles": {
+    "Id": 300214,
+    "Titles": []
+  },
+  "Releases": {
+    "Id": 300214,
+    "Countries": [
+      {
+        "Iso_3166_1": "IN",
+        "Certification": "UA",
+        "ReleaseDate": "2014-10-24T00:00:00"
+      }
+    ]
+  },
+  "Credits": {
+    "Id": 300214,
+    "Cast": [
+      {
+        "Id": 930183,
+        "Name": "Nikhil Siddharth",
+        "Order": 1,
+        "CastId": 1,
+        "ProfilePath": "/vc110Z16OcdkEYLRlN8gJf1M8N2.jpg"
+      },
+      {
+        "Id": 557451,
+        "Name": "Swathi Reddy",
+        "Order": 2,
+        "CastId": 2,
+        "ProfilePath": "/855atDy7pA4ONameRgiARlha8AV.jpg"
+      },
+      {
+        "Id": 565890,
+        "Name": "Tanikella Bharani",
+        "Order": 3,
+        "CastId": 3,
+        "ProfilePath": "/mKP8Q2p4qNl2pxaOTcF9ziZ8LNF.jpg"
+      },
+      {
+        "Id": 585271,
+        "Name": "Raja Ravindra",
+        "Order": 4,
+        "CastId": 4
+      },
+      {
+        "Id": 586629,
+        "Name": "Rao Ramesh",
+        "Order": 5,
+        "CastId": 5,
+        "ProfilePath": "/iroGDXkEFDdE8lWpwWIQuQOzV6l.jpg"
+      }
+    ],
+    "Crew": [
+      {
+        "Id": 1380060,
+        "Name": "Chandoo Mondeti",
+        "Department": "Directing",
+        "Job": "Director"
+      }
+    ]
+  },
+  "Images": {
+    "Backdrops": [],
+    "Posters": [
+      {
+        "FilePath": "/5VPrYrunPy4X78kUxTGFYO1hC1m.jpg",
+        "Width": 600,
+        "Height": 1200,
+        "AspectRatio": 0.5
+      }
+    ]
+  },
+  "Keywords": {
+    "Id": 300214,
+    "Keywords": []
+  },
+  "Trailers": {
+    "Id": 300214,
+    "Quicktime": [],
+    "Youtube": []
+  },
+  "Translations": {
+    "Id": 300214,
+    "Translations": [
+      {
+        "Iso_639_1": "en",
+        "Name": "English",
+        "EnglishName": "English"
+      }
+    ]
+  }
+}

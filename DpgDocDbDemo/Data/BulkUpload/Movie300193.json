@@ -1,0 +1,106 @@
+{
+  "Id": 300193,
+  "Title": "Cocoricó – Muito Além da Visão",
+  "OriginalTitle": "Cocoricó – Muito Além da Visão",
+  "Status": "Released",
+  "BackdropPath": "/dc5n1ICzqll7tQjE1OmAMlS2N41.jpg",
+  "PosterPath": "/f3VQxVhM0xZSLOjf8hrECzO0CVa.jpg",
+  "Genres": [
+    {
+      "Id": 16,
+      "Name": "Animation"
+    }
+  ],
+  "ReleaseDate": "2014-10-31T00:00:00",
+  "Popularity": 1.130794,
+  "VoteAverage": 8.0,
+  "VoteCount": 1,
+  "ProductionCompanies": [
+    {
+      "Name": "TV Cultura",
+      "Id": 8429
+    }
+  ],
+  "ProductionCountries": [
+    {
+      "Iso_3166_1": "BR",
+      "Name": "Brazil"
+    }
+  ],
+  "SpokenLanguages": [
+    {
+      "Iso_639_1": "pt",
+      "Name": "Português"
+    }
+  ],
+  "AlternativeTitles": {
+    "Id": 300193,
+    "Titles": [
+      {
+        "Iso_3166_1": "BR",
+        "Title": "Cocoricó – Muito Além da Visão"
+      }
+    ]
+  },
+  "Releases": {
+    "Id": 300193,
+    "Countries": [
+      {
+        "Iso_3166_1": "BR",
+        "Certification": "Livre",
+        "ReleaseDate": "2014-10-31T00:00:00"
+      }
+    ]
+  },
+  "Credits": {
+    "Id": 300193,
+    "Cast": [],
+    "Crew": []
+  },
+  "Images": {
+    "Backdrops": [
+      {
+        "FilePath": "/dc5n1ICzqll7tQjE1OmAMlS2N41.jpg",
+        "Width": 1920,
+        "Height": 1080,
+        "Iso_639_1": "pt",
+        "AspectRatio": 1.77777777777778,
+        "VoteAverage": 5.23809523809524,
+        "VoteCount": 1
+      }
+    ],
+    "Posters": [
+      {
+        "FilePath": "/f3VQxVhM0xZSLOjf8hrECzO0CVa.jpg",
+        "Width": 567,
+        "Height": 794,
+        "Iso_639_1": "pt",
+        "AspectRatio": 0.714105793450882
+      }
+    ]
+  },
+  "Keywords": {
+    "Id": 300193,
+    "Keywords": [
+      {
+        "Id": 208184,
+        "Name": "cocoricó"
+      }
+    ]
+  },
+  "Trailers": {
+    "Id": 300193,
+    "Quicktime": [],
+    "Youtube": []
+  },
+  "Translations": {
+    "Id": 300193,
+    "Translations": [
+      {
+        "Iso_639_1": "pt",
+        "Name": "Português",
+        "EnglishName": "Portuguese"
+      }
+    ]
+  }
+}

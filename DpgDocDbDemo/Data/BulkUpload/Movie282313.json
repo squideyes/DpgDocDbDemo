@@ -1,0 +1,134 @@
+{
+  "Id": 282313,
+  "ImdbId": "tt1867091",
+  "Title": "The Reconstruction of William Zero",
+  "OriginalTitle": "The Reconstruction of William Zero",
+  "Status": "Released",
+  "Overview": "A geneticist wakes up from an accident with only fragments of his memory is forced to relearn who he is via his twin brother. But as he digs deeper, he discovers he might not be who he thought at all.",
+  "Genres": [
+    {
+      "Id": 878,
+      "Name": "Science Fiction"
+    }
+  ],
+  "ReleaseDate": "2014-10-11T00:00:00",
+  "Runtime": 98,
+  "Popularity": 0.178974981886329,
+  "ProductionCompanies": [],
+  "ProductionCountries": [],
+  "SpokenLanguages": [],
+  "AlternativeTitles": {
+    "Id": 282313,
+    "Titles": []
+  },
+  "Releases": {
+    "Id": 282313,
+    "Countries": [
+      {
+        "Iso_3166_1": "US",
+        "Certification": "NR",
+        "ReleaseDate": "2014-10-11T00:00:00"
+      }
+    ]
+  },
+  "Credits": {
+    "Id": 282313,
+    "Cast": [
+      {
+        "Id": 1342467,
+        "Name": "Conal Byrne",
+        "Character": "William / Edward / William Zero",
+        "Order": 1,
+        "CastId": 2
+      },
+      {
+        "Id": 139150,
+        "Name": "Amy Seimetz",
+        "Character": "Jules",
+        "Order": 2,
+        "CastId": 3,
+        "ProfilePath": "/sr8QK4XdyZB1ysRzKEQkJFvd1Pa.jpg"
+      },
+      {
+        "Id": 1368981,
+        "Name": "Tim Habeger",
+        "Character": "Dr. Archer",
+        "Order": 3,
+        "CastId": 4
+      },
+      {
+        "Id": 1287005,
+        "Name": "Adam Fristoe",
+        "Character": "Mr. Langley",
+        "Order": 4,
+        "CastId": 5
+      },
+      {
+        "Id": 141958,
+        "Name": "Scott Poythress",
+        "Character": "Lester",
+        "Order": 5,
+        "CastId": 6
+      },
+      {
+        "Id": 1368982,
+        "Name": "Lake Roberts",
+        "Character": "Baxter",
+        "Order": 6,
+        "CastId": 7
+      },
+      {
+        "Id": 31535,
+        "Name": "Melissa McBride",
+        "Character": "Dr. Ashley Bronson",
+        "Order": 7,
+        "CastId": 8,
+        "ProfilePath": "/mWx65szXSk2iywkkKSM8tTVHap5.jpg"
+      },
+      {
+        "Id": 66486,
+        "Name": "Jeff Rose",
+        "Character": "Mr. Penn",
+        "Order": 8,
+        "CastId": 9
+      }
+    ],
+    "Crew": [
+      {
+        "Id": 141963,
+        "Name": "Dan Bush",
+        "Department": "Directing",
+        "Job": "Director"
+      },
+      {
+        "Id": 141963,
+        "Name": "Dan Bush",
+        "Department": "Writing",
+        "Job": "Writer"
+      }
+    ]
+  },
+  "Images": {
+    "Backdrops": [],
+    "Posters": []
+  },
+  "Keywords": {
+    "Id": 282313,
+    "Keywords": []
+  },
+  "Trailers": {
+    "Id": 282313,
+    "Quicktime": [],
+    "Youtube": []
+  },
+  "Translations": {
+    "Id": 282313,
+    "Translations": [
+      {
+        "Iso_639_1": "en",
+        "Name": "English",
+        "EnglishName": "English"
+      }
+    ]
+  }
+}

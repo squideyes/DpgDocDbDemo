@@ -1,0 +1,71 @@
+{
+  "Id": 299729,
+  "ImdbId": "tt3995006",
+  "Title": "Banksy Does New York",
+  "OriginalTitle": "Banksy Does New York",
+  "Status": "Released",
+  "Overview": "On October 1, 2013, the elusive street artist Banksy launched a month-long residency in New York, an art show he called Better Out Than In. As one new work of art was presented each day in a secret location, a group of fans, called “Banksy Hunters,” took to the streets and blew up social media.",
+  "PosterPath": "/2toEJYA40Kha2LcnvmiHUtMTaK9.jpg",
+  "Genres": [],
+  "ReleaseDate": "2014-10-11T00:00:00",
+  "Runtime": 0,
+  "Popularity": 0.28500365,
+  "ProductionCompanies": [],
+  "ProductionCountries": [],
+  "SpokenLanguages": [],
+  "AlternativeTitles": {
+    "Id": 299729,
+    "Titles": []
+  },
+  "Releases": {
+    "Id": 299729,
+    "Countries": [
+      {
+        "Iso_3166_1": "US",
+        "ReleaseDate": "2014-10-11T00:00:00"
+      }
+    ]
+  },
+  "Credits": {
+    "Id": 299729,
+    "Cast": [],
+    "Crew": [
+      {
+        "Id": 930695,
+        "Name": "Chris Moukarbel",
+        "Department": "Directing",
+        "Job": "Director"
+      }
+    ]
+  },
+  "Images": {
+    "Backdrops": [],
+    "Posters": [
+      {
+        "FilePath": "/2toEJYA40Kha2LcnvmiHUtMTaK9.jpg",
+        "Width": 2000,
+        "Height": 3000,
+        "AspectRatio": 0.666666666666667
+      }
+    ]
+  },
+  "Keywords": {
+    "Id": 299729,
+    "Keywords": []
+  },
+  "Trailers": {
+    "Id": 299729,
+    "Quicktime": [],
+    "Youtube": []
+  },
+  "Translations": {
+    "Id": 299729,
+    "Translations": [
+      {
+        "Iso_639_1": "en",
+        "Name": "English",
+        "EnglishName": "English"
+      }
+    ]
+  }
+}

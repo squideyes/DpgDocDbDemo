@@ -1,0 +1,100 @@
+{
+  "Id": 293429,
+  "ImdbId": "tt3644552",
+  "Title": "Dear Dictator",
+  "OriginalTitle": "Dear Dictator",
+  "Status": "Released",
+  "Overview": "Buk-seong, Young-rim and Woo-suk are friends living (or, more accurately, barely existing) in close proximity in a rundown, poverty stricken shanty town near to, but totally separate from and utterly ignored by, a neon-lit metropolis. Each is a school dropout coming from a broken home.",
+  "Genres": [],
+  "ReleaseDate": "2014-10-30T00:00:00",
+  "Runtime": 102,
+  "Popularity": 2.30666432246616E-14,
+  "ProductionCompanies": [],
+  "ProductionCountries": [],
+  "SpokenLanguages": [
+    {
+      "Iso_639_1": "ko",
+      "Name": "한국어/조선말"
+    }
+  ],
+  "AlternativeTitles": {
+    "Id": 293429,
+    "Titles": []
+  },
+  "Releases": {
+    "Id": 293429,
+    "Countries": [
+      {
+        "Iso_3166_1": "KR",
+        "ReleaseDate": "2014-10-30T00:00:00"
+      }
+    ]
+  },
+  "Credits": {
+    "Id": 293429,
+    "Cast": [
+      {
+        "Id": 1365067,
+        "Name": "Joomin Lee",
+        "Order": 1,
+        "CastId": 2
+      },
+      {
+        "Id": 1365068,
+        "Name": "Hyunseok Seo",
+        "Order": 2,
+        "CastId": 3
+      },
+      {
+        "Id": 1365069,
+        "Name": "Wonho Shin",
+        "Order": 3,
+        "CastId": 4
+      },
+      {
+        "Id": 1365070,
+        "Name": "Younggune Kim",
+        "Order": 4,
+        "CastId": 5
+      }
+    ],
+    "Crew": [
+      {
+        "Id": 570549,
+        "Name": "Lee Sang-Woo",
+        "Department": "Directing",
+        "Job": "Director",
+        "ProfilePath": "/daHItxVAqEA4MFHh7SU8GIOH3WG.jpg"
+      },
+      {
+        "Id": 96783,
+        "Name": "Sang-woo Lee",
+        "Department": "Writing",
+        "Job": "Screenplay"
+      }
+    ]
+  },
+  "Images": {
+    "Backdrops": [],
+    "Posters": []
+  },
+  "Keywords": {
+    "Id": 293429,
+    "Keywords": []
+  },
+  "Trailers": {
+    "Id": 293429,
+    "Quicktime": [],
+    "Youtube": []
+  },
+  "Translations": {
+    "Id": 293429,
+    "Translations": [
+      {
+        "Iso_639_1": "en",
+        "Name": "English",
+        "EnglishName": "English"
+      }
+    ]
+  }
+}

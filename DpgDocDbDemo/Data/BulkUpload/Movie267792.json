@@ -1,0 +1,143 @@
+{
+  "Id": 267792,
+  "ImdbId": "tt3363888",
+  "Title": "México Bárbaro",
+  "OriginalTitle": "México Bárbaro",
+  "Status": "In Production",
+  "Overview": "Mexico Barbaro brings to life stories that form a part of our culture, and even some that have haunted our nightmares since childhood, which took away our innocence. The boogeyman, trolls, ghosts, creatures, Aztec sacrifices, and of course our beloved traditions such as Day of the Dead immerse in urban and rural stories.",
+  "PosterPath": "/n22oGbfu257VT6p2HDDwIgzowqk.jpg",
+  "Genres": [
+    {
+      "Id": 27,
+      "Name": "Horror"
+    }
+  ],
+  "ReleaseDate": "2014-10-18T00:00:00",
+  "Runtime": 120,
+  "Popularity": 0.000129691660855499,
+  "ProductionCompanies": [
+    {
+      "Name": "Yellow Films",
+      "Id": 8395
+    }
+  ],
+  "ProductionCountries": [
+    {
+      "Iso_3166_1": "MX",
+      "Name": "Mexico"
+    }
+  ],
+  "SpokenLanguages": [],
+  "AlternativeTitles": {
+    "Id": 267792,
+    "Titles": []
+  },
+  "Releases": {
+    "Id": 267792,
+    "Countries": [
+      {
+        "Iso_3166_1": "IT",
+        "ReleaseDate": "2014-10-18T00:00:00"
+      }
+    ]
+  },
+  "Credits": {
+    "Id": 267792,
+    "Cast": [],
+    "Crew": [
+      {
+        "Id": 1299867,
+        "Name": "Lex Ortega",
+        "Department": "Directing",
+        "Job": "Director"
+      },
+      {
+        "Id": 557880,
+        "Name": "Jorge Michel Grau",
+        "Department": "Directing",
+        "Job": "Director",
+        "ProfilePath": "/w94m7lOsaSuHBVX82NVaOsOTvZP.jpg"
+      },
+      {
+        "Id": 1284139,
+        "Name": "Gigi Saul Guerrero",
+        "Department": "Directing",
+        "Job": "Director"
+      },
+      {
+        "Id": 1287119,
+        "Name": "Ulises Guzmán Reyes",
+        "Department": "Directing",
+        "Job": "Director"
+      },
+      {
+        "Id": 1315937,
+        "Name": "Aaron Soto",
+        "Department": "Directing",
+        "Job": "Director"
+      },
+      {
+        "Id": 1309478,
+        "Name": "Isaac Ezban",
+        "Department": "Directing",
+        "Job": "Director"
+      },
+      {
+        "Id": 1315938,
+        "Name": "Laurette Flores",
+        "Department": "Directing",
+        "Job": "Director"
+      },
+      {
+        "Id": 1060240,
+        "Name": "Edgar Nito",
+        "Department": "Directing",
+        "Job": "Director"
+      }
+    ]
+  },
+  "Images": {
+    "Backdrops": [],
+    "Posters": [
+      {
+        "FilePath": "/n22oGbfu257VT6p2HDDwIgzowqk.jpg",
+        "Width": 600,
+        "Height": 929,
+        "AspectRatio": 0.645855758880517
+      }
+    ]
+  },
+  "Keywords": {
+    "Id": 267792,
+    "Keywords": [
+      {
+        "Id": 3754,
+        "Name": "legend"
+      },
+      {
+        "Id": 9955,
+        "Name": "urban legend"
+      }
+    ]
+  },
+  "Trailers": {
+    "Id": 267792,
+    "Quicktime": [],
+    "Youtube": []
+  },
+  "Translations": {
+    "Id": 267792,
+    "Translations": [
+      {
+        "Iso_639_1": "en",
+        "Name": "English",
+        "EnglishName": "English"
+      },
+      {
+        "Iso_639_1": "it",
+        "Name": "Italiano",
+        "EnglishName": "Italian"
+      }
+    ]
+  }
+}

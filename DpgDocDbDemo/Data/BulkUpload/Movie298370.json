@@ -1,0 +1,67 @@
+{
+  "Id": 298370,
+  "Title": "Kino aus der Dunkelkammer",
+  "OriginalTitle": "Kino aus der Dunkelkammer",
+  "Status": "Released",
+  "Overview": "In this Documentary Peter Tscherkassy talks about his work and he demonstrates in the Darkroom how his Movies are made.",
+  "Genres": [],
+  "ReleaseDate": "2014-10-18T00:00:00",
+  "Runtime": 30,
+  "Popularity": 0.229848992489125,
+  "ProductionCompanies": [],
+  "ProductionCountries": [],
+  "SpokenLanguages": [],
+  "AlternativeTitles": {
+    "Id": 298370,
+    "Titles": []
+  },
+  "Releases": {
+    "Id": 298370,
+    "Countries": [
+      {
+        "Iso_3166_1": "DE",
+        "ReleaseDate": "2014-10-18T00:00:00"
+      }
+    ]
+  },
+  "Credits": {
+    "Id": 298370,
+    "Cast": [],
+    "Crew": [
+      {
+        "Id": 1375931,
+        "Name": "Sven von Reden",
+        "Department": "Directing",
+        "Job": "Director"
+      }
+    ]
+  },
+  "Images": {
+    "Backdrops": [],
+    "Posters": []
+  },
+  "Keywords": {
+    "Id": 298370,
+    "Keywords": []
+  },
+  "Trailers": {
+    "Id": 298370,
+    "Quicktime": [],
+    "Youtube": []
+  },
+  "Translations": {
+    "Id": 298370,
+    "Translations": [
+      {
+        "Iso_639_1": "en",
+        "Name": "English",
+        "EnglishName": "English"
+      },
+      {
+        "Iso_639_1": "de",
+        "Name": "Deutsch",
+        "EnglishName": "German"
+      }
+    ]
+  }
+}

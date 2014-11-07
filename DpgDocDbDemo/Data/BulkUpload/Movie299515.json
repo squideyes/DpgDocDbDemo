@@ -1,0 +1,88 @@
+{
+  "Id": 299515,
+  "ImdbId": "tt3903782",
+  "Title": "Dregs",
+  "OriginalTitle": "Dregs",
+  "Status": "Released",
+  "Tagline": "Love won't tear them apart",
+  "Overview": "When the signal hit electricity ceased and everyone became 'Statics'. They stand frozen, ears torn from their heads...",
+  "Homepage": "http://vimeo.com/92389612",
+  "Genres": [],
+  "ReleaseDate": "2014-10-28T00:00:00",
+  "Runtime": 28,
+  "Popularity": 0.631565767,
+  "ProductionCompanies": [],
+  "ProductionCountries": [],
+  "SpokenLanguages": [],
+  "AlternativeTitles": {
+    "Id": 299515,
+    "Titles": []
+  },
+  "Releases": {
+    "Id": 299515,
+    "Countries": [
+      {
+        "Iso_3166_1": "US",
+        "ReleaseDate": "2014-10-28T00:00:00"
+      }
+    ]
+  },
+  "Credits": {
+    "Id": 299515,
+    "Cast": [
+      {
+        "Id": 221985,
+        "Name": "Jamie Blackley",
+        "Character": "Ben",
+        "Order": 1,
+        "CastId": 2,
+        "ProfilePath": "/AiRZjxoqNHh4pR7ngfwhLBvGe3F.jpg"
+      },
+      {
+        "Id": 220236,
+        "Name": "Kathryn Prescott",
+        "Character": "Zoe",
+        "Order": 2,
+        "CastId": 3,
+        "ProfilePath": "/xrHk2Oxx2yKcYNh0bM8NbCZdHAw.jpg"
+      }
+    ],
+    "Crew": [
+      {
+        "Id": 1378861,
+        "Name": "Richard Rudy",
+        "Department": "Directing",
+        "Job": "Director"
+      },
+      {
+        "Id": 1378863,
+        "Name": "Stephen Scott-Heywood",
+        "Department": "Directing",
+        "Job": "Director"
+      }
+    ]
+  },
+  "Images": {
+    "Backdrops": [],
+    "Posters": []
+  },
+  "Keywords": {
+    "Id": 299515,
+    "Keywords": []
+  },
+  "Trailers": {
+    "Id": 299515,
+    "Quicktime": [],
+    "Youtube": []
+  },
+  "Translations": {
+    "Id": 299515,
+    "Translations": [
+      {
+        "Iso_639_1": "en",
+        "Name": "English",
+        "EnglishName": "English"
+      }
+    ]
+  }
+}

@@ -1,0 +1,100 @@
+{
+  "Id": 287581,
+  "Title": "Foreign Body",
+  "OriginalTitle": "Obce Cialo",
+  "Status": "Released",
+  "Overview": "A dashing young Italian in Poland finds himself caught between two women — a novitiate nun and a ruthless corporate ladder-climber — in this lacerating vision of contemporary Poland from master filmmaker Krzysztof Zanussi.",
+  "PosterPath": "/jSnZ6zIuQ07rfe2zFJ5plleLtXA.jpg",
+  "Genres": [],
+  "ReleaseDate": "2014-10-17T00:00:00",
+  "Runtime": 117,
+  "Popularity": 1.3311714196658E-11,
+  "ProductionCompanies": [],
+  "ProductionCountries": [
+    {
+      "Iso_3166_1": "IT",
+      "Name": "Italy"
+    },
+    {
+      "Iso_3166_1": "PL",
+      "Name": "Poland"
+    },
+    {
+      "Iso_3166_1": "RU",
+      "Name": "Russian Federation"
+    }
+  ],
+  "SpokenLanguages": [
+    {
+      "Iso_639_1": "ru",
+      "Name": "Pусский"
+    },
+    {
+      "Iso_639_1": "pl",
+      "Name": "Polski"
+    },
+    {
+      "Iso_639_1": "en",
+      "Name": "English"
+    },
+    {
+      "Iso_639_1": "it",
+      "Name": "Italiano"
+    }
+  ],
+  "AlternativeTitles": {
+    "Id": 287581,
+    "Titles": []
+  },
+  "Releases": {
+    "Id": 287581,
+    "Countries": [
+      {
+        "Iso_3166_1": "PL",
+        "ReleaseDate": "2014-10-17T00:00:00"
+      }
+    ]
+  },
+  "Credits": {
+    "Id": 287581,
+    "Cast": [],
+    "Crew": [
+      {
+        "Id": 591273,
+        "Name": "Krzysztof Zanussi",
+        "Department": "Directing",
+        "Job": "Director"
+      }
+    ]
+  },
+  "Images": {
+    "Backdrops": [],
+    "Posters": [
+      {
+        "FilePath": "/jSnZ6zIuQ07rfe2zFJ5plleLtXA.jpg",
+        "Width": 1000,
+        "Height": 1500,
+        "AspectRatio": 0.666666666666667
+      }
+    ]
+  },
+  "Keywords": {
+    "Id": 287581,
+    "Keywords": []
+  },
+  "Trailers": {
+    "Id": 287581,
+    "Quicktime": [],
+    "Youtube": []
+  },
+  "Translations": {
+    "Id": 287581,
+    "Translations": [
+      {
+        "Iso_639_1": "en",
+        "Name": "English",
+        "EnglishName": "English"
+      }
+    ]
+  }
+}

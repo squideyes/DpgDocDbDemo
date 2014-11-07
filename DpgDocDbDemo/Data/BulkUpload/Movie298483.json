@@ -1,0 +1,72 @@
+{
+  "Id": 298483,
+  "Title": "Горько! 2",
+  "OriginalTitle": "Горько! 2",
+  "Status": "Released",
+  "PosterPath": "/3az4ppPv0PJNUSVOCJHJlSt5LwR.jpg",
+  "Genres": [],
+  "ReleaseDate": "2014-10-23T00:00:00",
+  "Popularity": 0.233442584126688,
+  "ProductionCompanies": [],
+  "ProductionCountries": [
+    {
+      "Iso_3166_1": "RU",
+      "Name": "Russian Federation"
+    }
+  ],
+  "SpokenLanguages": [],
+  "AlternativeTitles": {
+    "Id": 298483,
+    "Titles": [
+      {
+        "Iso_3166_1": "RU",
+        "Title": "Горько! 2"
+      }
+    ]
+  },
+  "Releases": {
+    "Id": 298483,
+    "Countries": [
+      {
+        "Iso_3166_1": "RU",
+        "Certification": "16+",
+        "ReleaseDate": "2014-10-23T00:00:00"
+      }
+    ]
+  },
+  "Credits": {
+    "Id": 298483,
+    "Cast": [],
+    "Crew": []
+  },
+  "Images": {
+    "Backdrops": [],
+    "Posters": [
+      {
+        "FilePath": "/3az4ppPv0PJNUSVOCJHJlSt5LwR.jpg",
+        "Width": 706,
+        "Height": 1000,
+        "AspectRatio": 0.706
+      }
+    ]
+  },
+  "Keywords": {
+    "Id": 298483,
+    "Keywords": []
+  },
+  "Trailers": {
+    "Id": 298483,
+    "Quicktime": [],
+    "Youtube": []
+  },
+  "Translations": {
+    "Id": 298483,
+    "Translations": [
+      {
+        "Iso_639_1": "ru",
+        "Name": "Pусский",
+        "EnglishName": "Russian"
+      }
+    ]
+  }
+}

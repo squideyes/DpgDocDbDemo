@@ -1,0 +1,69 @@
+{
+  "Id": 298753,
+  "ImdbId": "tt4049158",
+  "Title": "Sol",
+  "OriginalTitle": "Sol",
+  "Status": "Released",
+  "Overview": "Sol is a feature documentary that explores the mysterious death of a young Inuit man, Solomon Uyurasuk. As the documentary investigates the truth to Solomon's death it sheds light on the underlying social issues of Canada's North that has resulted in this region claiming one of the highest youth suicide rates in the world.",
+  "Genres": [],
+  "ReleaseDate": "2014-10-24T00:00:00",
+  "Runtime": 76,
+  "Popularity": 0.4609562256419,
+  "ProductionCompanies": [],
+  "ProductionCountries": [],
+  "SpokenLanguages": [],
+  "AlternativeTitles": {
+    "Id": 298753,
+    "Titles": []
+  },
+  "Releases": {
+    "Id": 298753,
+    "Countries": [
+      {
+        "Iso_3166_1": "CA",
+        "ReleaseDate": "2014-10-24T00:00:00"
+      }
+    ]
+  },
+  "Credits": {
+    "Id": 298753,
+    "Cast": [],
+    "Crew": [
+      {
+        "Id": 1059534,
+        "Name": "Marie-Hélène Cousineau",
+        "Department": "Directing",
+        "Job": "Director"
+      },
+      {
+        "Id": 111146,
+        "Name": "Susan Avingaq",
+        "Department": "Directing",
+        "Job": "Director"
+      }
+    ]
+  },
+  "Images": {
+    "Backdrops": [],
+    "Posters": []
+  },
+  "Keywords": {
+    "Id": 298753,
+    "Keywords": []
+  },
+  "Trailers": {
+    "Id": 298753,
+    "Quicktime": [],
+    "Youtube": []
+  },
+  "Translations": {
+    "Id": 298753,
+    "Translations": [
+      {
+        "Iso_639_1": "en",
+        "Name": "English",
+        "EnglishName": "English"
+      }
+    ]
+  }
+}

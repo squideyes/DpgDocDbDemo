@@ -1,0 +1,128 @@
+{
+  "Id": 293310,
+  "ImdbId": "tt4044364",
+  "Title": "Citizenfour",
+  "OriginalTitle": "Citizenfour",
+  "Status": "Released",
+  "Overview": "In June 2013, Laura Poitras and reporter Glenn Greenwald flew to Hong Kong for the first of many meetings with Edward Snowden. She brought her camera with her. The film that resulted from this series of tense encounters is absolutely sui generis in the history of cinema:  a 100% real-life thriller unfolding minute by minute before our eyes. Poitras is a great and brave filmmaker, but she is also a masterful storyteller: she compresses the many days of questioning, waiting, confirming, watching the world’s reaction and agonizing over the next move, into both a great character study of Snowden and a narrative that will leave you on the edge of your seat as it inexorably moves toward its conclusion. CITIZENFOUR is a major work on multiple levels, and a deeply unsettling",
+  "BackdropPath": "/4uXtT1OjVUL433oHjFKMjVCR9mv.jpg",
+  "PosterPath": "/ipHnFiwJ5VOPnmM1Tqt64P9QCcK.jpg",
+  "Genres": [
+    {
+      "Id": 99,
+      "Name": "Documentary"
+    }
+  ],
+  "ReleaseDate": "2014-10-10T00:00:00",
+  "Runtime": 114,
+  "Popularity": 0.538297850546806,
+  "VoteAverage": 10.0,
+  "VoteCount": 3,
+  "ProductionCompanies": [],
+  "ProductionCountries": [
+    {
+      "Iso_3166_1": "DE",
+      "Name": "Germany"
+    },
+    {
+      "Iso_3166_1": "US",
+      "Name": "United States of America"
+    }
+  ],
+  "SpokenLanguages": [
+    {
+      "Iso_639_1": "de",
+      "Name": "Deutsch"
+    },
+    {
+      "Iso_639_1": "en",
+      "Name": "English"
+    }
+  ],
+  "AlternativeTitles": {
+    "Id": 293310,
+    "Titles": []
+  },
+  "Releases": {
+    "Id": 293310,
+    "Countries": [
+      {
+        "Iso_3166_1": "US",
+        "ReleaseDate": "2014-10-10T00:00:00"
+      },
+      {
+        "Iso_3166_1": "DE",
+        "ReleaseDate": "2014-11-06T00:00:00"
+      }
+    ]
+  },
+  "Credits": {
+    "Id": 293310,
+    "Cast": [],
+    "Crew": [
+      {
+        "Id": 220691,
+        "Name": "Laura Poitras",
+        "Department": "Directing",
+        "Job": "Director"
+      }
+    ]
+  },
+  "Images": {
+    "Backdrops": [
+      {
+        "FilePath": "/4uXtT1OjVUL433oHjFKMjVCR9mv.jpg",
+        "Width": 1280,
+        "Height": 720,
+        "AspectRatio": 1.77777777777778
+      }
+    ],
+    "Posters": [
+      {
+        "FilePath": "/ipHnFiwJ5VOPnmM1Tqt64P9QCcK.jpg",
+        "Width": 500,
+        "Height": 751,
+        "AspectRatio": 0.66577896138482
+      }
+    ]
+  },
+  "Keywords": {
+    "Id": 293310,
+    "Keywords": [
+      {
+        "Id": 207644,
+        "Name": "nsa"
+      },
+      {
+        "Id": 207646,
+        "Name": "edward snowden"
+      }
+    ]
+  },
+  "Trailers": {
+    "Id": 293310,
+    "Quicktime": [],
+    "Youtube": [
+      {
+        "Name": "trailer",
+        "Size": "Standard",
+        "Source": "XiGwAvd5mvM"
+      }
+    ]
+  },
+  "Translations": {
+    "Id": 293310,
+    "Translations": [
+      {
+        "Iso_639_1": "en",
+        "Name": "English",
+        "EnglishName": "English"
+      },
+      {
+        "Iso_639_1": "de",
+        "Name": "Deutsch",
+        "EnglishName": "German"
+      }
+    ]
+  }
+}

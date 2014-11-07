@@ -1,0 +1,56 @@
+{
+  "Id": 300205,
+  "ImdbId": "tt3837012",
+  "Title": "Do You Like to Hurt People?",
+  "OriginalTitle": "Do You Like to Hurt People?",
+  "Status": "Released",
+  "Overview": "A year since a slew of brutal murders and the elimination of the Russian mafia in 1980's Miami by a masked vigilant a team of copy-cat murders slaughter a newly established drug lord and liberate several sex workers. Based on the cult indie game 'Hotline Miami'.",
+  "Genres": [],
+  "ReleaseDate": "2014-10-30T00:00:00",
+  "Runtime": 6,
+  "Popularity": 0.774618,
+  "ProductionCompanies": [],
+  "ProductionCountries": [],
+  "SpokenLanguages": [],
+  "AlternativeTitles": {
+    "Id": 300205,
+    "Titles": []
+  },
+  "Releases": {
+    "Id": 300205,
+    "Countries": [
+      {
+        "Iso_3166_1": "US",
+        "ReleaseDate": "2014-10-30T00:00:00"
+      }
+    ]
+  },
+  "Credits": {
+    "Id": 300205,
+    "Cast": [],
+    "Crew": []
+  },
+  "Images": {
+    "Backdrops": [],
+    "Posters": []
+  },
+  "Keywords": {
+    "Id": 300205,
+    "Keywords": []
+  },
+  "Trailers": {
+    "Id": 300205,
+    "Quicktime": [],
+    "Youtube": []
+  },
+  "Translations": {
+    "Id": 300205,
+    "Translations": [
+      {
+        "Iso_639_1": "en",
+        "Name": "English",
+        "EnglishName": "English"
+      }
+    ]
+  }
+}

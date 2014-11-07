@@ -1,0 +1,68 @@
+{
+  "Id": 297858,
+  "Title": "When You Fall Into a Trance",
+  "OriginalTitle": "When You Fall Into a Trance",
+  "Status": "Released",
+  "Overview": "How can we be objective about ourselves? Emily Wardill’s delicate narrative of interconnections explores the mysterious relationship of mind and body. Neuroscientist Dominique is treating Simon, who suffers from the loss of his proprioception – his sense of the relative position of his body parts. Her daughter Tony is a synchronised swimmer, perfectly in control of her own body as a way of running away from her mind. Dominique met her lover Hugo on a dating website. He claims to be a US spy. Is it a lie or his fantasy? From different perspectives, all these figures exemplify an interior alienation that distorts their cognition of their respective worlds.",
+  "Genres": [],
+  "ReleaseDate": "2014-10-16T00:00:00",
+  "Runtime": 72,
+  "Popularity": 0.21420737415689,
+  "ProductionCompanies": [],
+  "ProductionCountries": [],
+  "SpokenLanguages": [],
+  "AlternativeTitles": {
+    "Id": 297858,
+    "Titles": []
+  },
+  "Releases": {
+    "Id": 297858,
+    "Countries": [
+      {
+        "Iso_3166_1": "GB",
+        "ReleaseDate": "2014-10-16T00:00:00"
+      }
+    ]
+  },
+  "Credits": {
+    "Id": 297858,
+    "Cast": [],
+    "Crew": [
+      {
+        "Id": 1374704,
+        "Name": "Emily Wardill",
+        "Department": "Directing",
+        "Job": "Director"
+      },
+      {
+        "Id": 1374704,
+        "Name": "Emily Wardill",
+        "Department": "Writing",
+        "Job": "Writer"
+      }
+    ]
+  },
+  "Images": {
+    "Backdrops": [],
+    "Posters": []
+  },
+  "Keywords": {
+    "Id": 297858,
+    "Keywords": []
+  },
+  "Trailers": {
+    "Id": 297858,
+    "Quicktime": [],
+    "Youtube": []
+  },
+  "Translations": {
+    "Id": 297858,
+    "Translations": [
+      {
+        "Iso_639_1": "en",
+        "Name": "English",
+        "EnglishName": "English"
+      }
+    ]
+  }
+}

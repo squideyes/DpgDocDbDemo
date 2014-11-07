@@ -1,0 +1,63 @@
+{
+  "Id": 297399,
+  "Title": "Artie Lange The Stench of Failure",
+  "OriginalTitle": "Artie Lange The Stench of Failure",
+  "Status": "Released",
+  "Overview": "Most comedians are tortured artists and there are few more tortured than Artie Lange. The 46-year-old veteran comic, former Howard Stern Show star and two-time best selling author has been to hell. But he’s come back, albeit scathed both physically and psychologically, over the last few years. The culmination of Lange’s storied return to the stage takes form Oct. 18 at midnight on Comedy Central, when Artie Lange: The Stench of Failure premieres.",
+  "Genres": [],
+  "ReleaseDate": "2014-10-18T00:00:00",
+  "Runtime": 0,
+  "Popularity": 0.341887200835521,
+  "ProductionCompanies": [],
+  "ProductionCountries": [],
+  "SpokenLanguages": [],
+  "AlternativeTitles": {
+    "Id": 297399,
+    "Titles": []
+  },
+  "Releases": {
+    "Id": 297399,
+    "Countries": [
+      {
+        "Iso_3166_1": "US",
+        "ReleaseDate": "2014-10-18T00:00:00"
+      }
+    ]
+  },
+  "Credits": {
+    "Id": 297399,
+    "Cast": [
+      {
+        "Id": 20788,
+        "Name": "Artie Lange",
+        "Character": "Himself",
+        "Order": 1,
+        "ProfilePath": "/ifXG3HVuOgYhSTuvugGJCthfcN.jpg"
+      }
+    ],
+    "Crew": []
+  },
+  "Images": {
+    "Backdrops": [],
+    "Posters": []
+  },
+  "Keywords": {
+    "Id": 297399,
+    "Keywords": []
+  },
+  "Trailers": {
+    "Id": 297399,
+    "Quicktime": [],
+    "Youtube": []
+  },
+  "Translations": {
+    "Id": 297399,
+    "Translations": [
+      {
+        "Iso_639_1": "en",
+        "Name": "English",
+        "EnglishName": "English"
+      }
+    ]
+  }
+}

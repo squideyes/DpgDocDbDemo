@@ -1,0 +1,345 @@
+{
+  "Id": 206563,
+  "ImdbId": "tt1921149",
+  "Title": "Trash",
+  "OriginalTitle": "Trash",
+  "Status": "Released",
+  "Overview": "Set in an unnamed Third World country, three kids who make a discovery in a garbage dump soon find themselves running from the cops and trying to right a terrible wrong.",
+  "BackdropPath": "/rWMjYIiDB3DpT8aPmDYoDfL9ATN.jpg",
+  "PosterPath": "/ba4INu5YFmCHUXIapqacnVxSoTv.jpg",
+  "Genres": [
+    {
+      "Id": 12,
+      "Name": "Adventure"
+    },
+    {
+      "Id": 18,
+      "Name": "Drama"
+    },
+    {
+      "Id": 53,
+      "Name": "Thriller"
+    }
+  ],
+  "ReleaseDate": "2014-10-09T00:00:00",
+  "Runtime": 112,
+  "Popularity": 0.387542736469851,
+  "VoteAverage": 7.0,
+  "VoteCount": 6,
+  "ProductionCompanies": [
+    {
+      "Name": "O2 Filmes",
+      "Id": 345
+    },
+    {
+      "Name": "Working Title Films",
+      "Id": 10163
+    },
+    {
+      "Name": "PeaPie Films",
+      "Id": 32243
+    }
+  ],
+  "ProductionCountries": [
+    {
+      "Iso_3166_1": "BR",
+      "Name": "Brazil"
+    },
+    {
+      "Iso_3166_1": "GB",
+      "Name": "United Kingdom"
+    }
+  ],
+  "SpokenLanguages": [
+    {
+      "Iso_639_1": "pt",
+      "Name": "Português"
+    },
+    {
+      "Iso_639_1": "en",
+      "Name": "English"
+    }
+  ],
+  "AlternativeTitles": {
+    "Id": 206563,
+    "Titles": [
+      {
+        "Iso_3166_1": "BR",
+        "Title": "Trash - A Esperança Vem do Lixo"
+      },
+      {
+        "Iso_3166_1": "GB",
+        "Title": "Trash"
+      }
+    ]
+  },
+  "Releases": {
+    "Id": 206563,
+    "Countries": [
+      {
+        "Iso_3166_1": "GB",
+        "ReleaseDate": "2015-01-30T00:00:00"
+      },
+      {
+        "Iso_3166_1": "ES",
+        "ReleaseDate": "2014-11-28T00:00:00"
+      },
+      {
+        "Iso_3166_1": "BR",
+        "Certification": "14 anos",
+        "ReleaseDate": "2014-10-09T00:00:00"
+      }
+    ]
+  },
+  "Credits": {
+    "Id": 206563,
+    "Cast": [
+      {
+        "Id": 108916,
+        "Name": "Rooney Mara",
+        "Character": "Olivia",
+        "CastId": 6,
+        "ProfilePath": "/qcJFEXugG7G5tpKqeVdf9Jc9kd7.jpg"
+      },
+      {
+        "Id": 8349,
+        "Name": "Martin Sheen",
+        "Character": "Father Juilliard / Padre Juilliard",
+        "Order": 1,
+        "CastId": 7,
+        "ProfilePath": "/mityfK8XVZ76Vse6h5oPECl9nGw.jpg"
+      },
+      {
+        "Id": 52583,
+        "Name": "Wagner Moura",
+        "Character": "José Angelo",
+        "Order": 2,
+        "CastId": 8,
+        "ProfilePath": "/bESNWiGHjMhMGoqBMVtbpJBazKx.jpg"
+      },
+      {
+        "Id": 87341,
+        "Name": "Selton Mello",
+        "Character": "Frederico",
+        "Order": 3,
+        "CastId": 9,
+        "ProfilePath": "/cMnoKvngXDzs4Sid8GhlRyKctz0.jpg"
+      },
+      {
+        "Id": 52585,
+        "Name": "André Ramiro",
+        "Character": "Marco",
+        "Order": 4,
+        "CastId": 10,
+        "ProfilePath": "/qFROuhLJIHPv0tiZ9TXdYZkYOfU.jpg"
+      },
+      {
+        "Id": 1372456,
+        "Name": "Jesuíta Barbosa",
+        "Character": "Turk",
+        "Order": 5,
+        "CastId": 11
+      },
+      {
+        "Id": 1372457,
+        "Name": "Daniel Zettel",
+        "Character": "Carlos' partner / Sócio de Carlos",
+        "Order": 6,
+        "CastId": 12
+      },
+      {
+        "Id": 112110,
+        "Name": "Stepan Nercessian",
+        "Character": "Santos",
+        "Order": 7,
+        "CastId": 13,
+        "ProfilePath": "/xYvGftDr87YmCarLa7Q8E6RF1Y3.jpg"
+      },
+      {
+        "Id": 130036,
+        "Name": "Nelson Xavier",
+        "Character": "Jefferson",
+        "Order": 9,
+        "CastId": 15,
+        "ProfilePath": "/nerxHUtt2fQALs2NA2ZkHv5MYbq.jpg"
+      },
+      {
+        "Id": 1257199,
+        "Name": "Nelson Xavier",
+        "Character": "Jefferson",
+        "Order": 13,
+        "CastId": 19
+      },
+      {
+        "Id": 1372459,
+        "Name": "Rickson Tevez",
+        "Character": "Raphael",
+        "Order": 14,
+        "CastId": 20
+      },
+      {
+        "Id": 559176,
+        "Name": "Gisele Fróes",
+        "Character": "Santos's wife / Esposa de Santos",
+        "Order": 15,
+        "CastId": 21,
+        "ProfilePath": "/juZVUut6GFWZgW0P1ppTbakuL3y.jpg"
+      },
+      {
+        "Id": 55015,
+        "Name": "José Dumont",
+        "Character": "Carlos",
+        "Order": 16,
+        "CastId": 22,
+        "ProfilePath": "/bHnZDVX9W1eErwsGXHJLsn0irHZ.jpg"
+      },
+      {
+        "Id": 1372460,
+        "Name": "Gabriel Weinstein",
+        "Order": 17,
+        "CastId": 23
+      },
+      {
+        "Id": 1372461,
+        "Name": "Maria Eduarda",
+        "Character": "Pia",
+        "Order": 18,
+        "CastId": 24
+      },
+      {
+        "Id": 1372462,
+        "Name": "Eduardo Luis",
+        "Order": 19,
+        "CastId": 25
+      },
+      {
+        "Id": 1372463,
+        "Name": "Gabrielle Weinstein",
+        "Character": "Rato",
+        "Order": 20,
+        "CastId": 26
+      }
+    ],
+    "Crew": [
+      {
+        "Id": 468,
+        "Name": "Stephen Daldry",
+        "Department": "Directing",
+        "Job": "Director",
+        "ProfilePath": "/3GLyPLlPY0kn3zuGx2eHPJiYA1p.jpg"
+      },
+      {
+        "Id": 7018,
+        "Name": "Richard Curtis",
+        "Department": "Writing",
+        "Job": "Screenplay",
+        "ProfilePath": "/uLjkovqtUtM4SckCFtrevZKKJNM.jpg"
+      },
+      {
+        "Id": 2236,
+        "Name": "Tim Bevan",
+        "Department": "Production",
+        "Job": "Producer",
+        "ProfilePath": "/f7o93O1KocuLwIrSa7KqyL1sWaT.jpg"
+      },
+      {
+        "Id": 2238,
+        "Name": "Eric Fellner",
+        "Department": "Production",
+        "Job": "Producer"
+      },
+      {
+        "Id": 963336,
+        "Name": "Kris Thykier",
+        "Department": "Production",
+        "Job": "Producer"
+      },
+      {
+        "Id": 1372464,
+        "Name": "Andy Mulligan",
+        "Department": "Writing",
+        "Job": "Novel"
+      }
+    ]
+  },
+  "Images": {
+    "Backdrops": [
+      {
+        "FilePath": "/rWMjYIiDB3DpT8aPmDYoDfL9ATN.jpg",
+        "Width": 1600,
+        "Height": 900,
+        "AspectRatio": 1.77777777777778
+      },
+      {
+        "FilePath": "/kcHlNGOH2oLC5Kg0Pqmyn6SczuE.jpg",
+        "Width": 1600,
+        "Height": 900,
+        "AspectRatio": 1.77777777777778
+      },
+      {
+        "FilePath": "/7ehkxjDP4le7L56KLTPN9e7GZwT.jpg",
+        "Width": 1600,
+        "Height": 900,
+        "AspectRatio": 1.77777777777778
+      },
+      {
+        "FilePath": "/j0dAS3l3qvC8tll3KwwUF0tQeK7.jpg",
+        "Width": 1600,
+        "Height": 900,
+        "AspectRatio": 1.77777777777778
+      }
+    ],
+    "Posters": [
+      {
+        "FilePath": "/ba4INu5YFmCHUXIapqacnVxSoTv.jpg",
+        "Width": 641,
+        "Height": 948,
+        "Iso_639_1": "en",
+        "AspectRatio": 0.676160337552743,
+        "VoteAverage": 5.3125,
+        "VoteCount": 1
+      },
+      {
+        "FilePath": "/mrSP4wnms0IesOlh5rqtr4gAz0c.jpg",
+        "Width": 1178,
+        "Height": 1600,
+        "Iso_639_1": "fr",
+        "AspectRatio": 0.73625
+      }
+    ]
+  },
+  "Keywords": {
+    "Id": 206563,
+    "Keywords": []
+  },
+  "Trailers": {
+    "Id": 206563,
+    "Quicktime": [],
+    "Youtube": []
+  },
+  "Translations": {
+    "Id": 206563,
+    "Translations": [
+      {
+        "Iso_639_1": "en",
+        "Name": "English",
+        "EnglishName": "English"
+      },
+      {
+        "Iso_639_1": "es",
+        "Name": "Español",
+        "EnglishName": "Spanish"
+      },
+      {
+        "Iso_639_1": "pt",
+        "Name": "Português",
+        "EnglishName": "Portuguese"
+      },
+      {
+        "Iso_639_1": "fr",
+        "Name": "Français",
+        "EnglishName": "French"
+      }
+    ]
+  }
+}

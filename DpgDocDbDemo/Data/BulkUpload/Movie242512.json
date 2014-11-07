@@ -1,0 +1,247 @@
+{
+  "Id": 242512,
+  "ImdbId": "tt1204977",
+  "Title": "Ouija",
+  "OriginalTitle": "Ouija",
+  "Status": "Released",
+  "Overview": "A group of friends must confront their most terrifying fears when they awaken the dark powers of an ancient spirit board.",
+  "BackdropPath": "/pJXFPBOild76vDAiapX5BOTtj2B.jpg",
+  "PosterPath": "/m9jNAoWFL3cevXhqP6RePQYUmJa.jpg",
+  "Genres": [
+    {
+      "Id": 27,
+      "Name": "Horror"
+    }
+  ],
+  "ReleaseDate": "2014-10-24T00:00:00",
+  "Budget": 89,
+  "Runtime": 89,
+  "Popularity": 3.22562875529475,
+  "VoteAverage": 7.2,
+  "VoteCount": 5,
+  "ProductionCompanies": [
+    {
+      "Name": "Media Rights Capital",
+      "Id": 2531
+    },
+    {
+      "Name": "Universal Pictures",
+      "Id": 33
+    },
+    {
+      "Name": "Hasbro",
+      "Id": 2598
+    }
+  ],
+  "ProductionCountries": [
+    {
+      "Iso_3166_1": "US",
+      "Name": "United States of America"
+    }
+  ],
+  "SpokenLanguages": [
+    {
+      "Iso_639_1": "en",
+      "Name": "English"
+    }
+  ],
+  "AlternativeTitles": {
+    "Id": 242512,
+    "Titles": []
+  },
+  "Releases": {
+    "Id": 242512,
+    "Countries": [
+      {
+        "Iso_3166_1": "US",
+        "ReleaseDate": "2014-10-24T00:00:00"
+      }
+    ]
+  },
+  "Credits": {
+    "Id": 242512,
+    "Cast": [
+      {
+        "Id": 1173984,
+        "Name": "Olivia Cooke",
+        "Character": "Elaine Morris",
+        "CastId": 2,
+        "ProfilePath": "/z42eYxMm0XO0grQoiHX26JPnRgM.jpg"
+      },
+      {
+        "Id": 973091,
+        "Name": "Ana Coto",
+        "Character": "Sarah Morris",
+        "Order": 1,
+        "CastId": 7,
+        "ProfilePath": "/lgJJdDd7MiMgXZVU7sYVQaRd1me.jpg"
+      },
+      {
+        "Id": 221115,
+        "Name": "Daren Kagasoff",
+        "Character": "Trevor",
+        "Order": 2,
+        "CastId": 3,
+        "ProfilePath": "/zlfhCTAfBiuf0LFdqkhxRq2ZdQy.jpg"
+      },
+      {
+        "Id": 60077,
+        "Name": "Douglas Smith",
+        "Character": "Pete",
+        "Order": 3,
+        "CastId": 1,
+        "ProfilePath": "/6iIV8IebkXio2mgFB3Xw7XPntXX.jpg"
+      },
+      {
+        "Id": 1098706,
+        "Name": "Vivis Colombetti",
+        "Character": "Nona",
+        "Order": 4,
+        "CastId": 4,
+        "ProfilePath": "/tBlGmZHpSkZVzqbyvesan4XVhMc.jpg"
+      },
+      {
+        "Id": 1277583,
+        "Name": "Bianca A. Santos",
+        "Order": 5,
+        "CastId": 5,
+        "ProfilePath": "/ebr4gDQz9VchnwVjHYomEtEm0Ox.jpg"
+      },
+      {
+        "Id": 990393,
+        "Name": "Erin Moriarty",
+        "Order": 6,
+        "CastId": 6,
+        "ProfilePath": "/v0jDVSB0HugI3mRjkirOgLBawM7.jpg"
+      },
+      {
+        "Id": 444211,
+        "Name": "Shelley Hennig",
+        "Character": "Debbie",
+        "Order": 7,
+        "CastId": 11,
+        "ProfilePath": "/DQPalCNHzvNtFwx37j5Vqkh4ww.jpg"
+      }
+    ],
+    "Crew": [
+      {
+        "Id": 84961,
+        "Name": "Juliet Snowden",
+        "Department": "Writing",
+        "Job": "Screenplay"
+      },
+      {
+        "Id": 84962,
+        "Name": "Stiles White",
+        "Department": "Writing",
+        "Job": "Screenplay"
+      },
+      {
+        "Id": 84962,
+        "Name": "Stiles White",
+        "Department": "Directing",
+        "Job": "Director"
+      }
+    ]
+  },
+  "Images": {
+    "Backdrops": [
+      {
+        "FilePath": "/pJXFPBOild76vDAiapX5BOTtj2B.jpg",
+        "Width": 1920,
+        "Height": 1080,
+        "AspectRatio": 1.77777777777778,
+        "VoteAverage": 5.3125,
+        "VoteCount": 1
+      },
+      {
+        "FilePath": "/bDsMZACjWYaJzetYyrBnfAbe2xG.jpg",
+        "Width": 1280,
+        "Height": 720,
+        "AspectRatio": 1.77777777777778,
+        "VoteAverage": 5.17113095238095,
+        "VoteCount": 1
+      },
+      {
+        "FilePath": "/goqBWwPgoOXWz9zpekLFyS6ISqK.jpg",
+        "Width": 1280,
+        "Height": 720,
+        "AspectRatio": 1.77777777777778,
+        "VoteAverage": 5.17113095238095,
+        "VoteCount": 1
+      }
+    ],
+    "Posters": [
+      {
+        "FilePath": "/m9jNAoWFL3cevXhqP6RePQYUmJa.jpg",
+        "Width": 1000,
+        "Height": 1500,
+        "Iso_639_1": "en",
+        "AspectRatio": 0.666666666666667,
+        "VoteAverage": 5.3125,
+        "VoteCount": 1
+      },
+      {
+        "FilePath": "/bpVFjOtN6Wlwct5AMsnp6GaCmBU.jpg",
+        "Width": 699,
+        "Height": 1000,
+        "Iso_639_1": "ru",
+        "AspectRatio": 0.699
+      },
+      {
+        "FilePath": "/dvk9mHuh9vU0jUh5R7cHGgySXO8.jpg",
+        "Width": 808,
+        "Height": 1212,
+        "Iso_639_1": "en",
+        "AspectRatio": 0.666666666666667
+      },
+      {
+        "FilePath": "/n9ByDGg6lTzzydIEnPzf0m39FTj.jpg",
+        "Width": 1000,
+        "Height": 1500,
+        "Iso_639_1": "en",
+        "AspectRatio": 0.666666666666667
+      }
+    ]
+  },
+  "Keywords": {
+    "Id": 242512,
+    "Keywords": []
+  },
+  "Trailers": {
+    "Id": 242512,
+    "Quicktime": [],
+    "Youtube": [
+      {
+        "Name": "Ouija - Official Trailer",
+        "Size": "HD",
+        "Source": "xBLmBdn2QF8"
+      }
+    ]
+  },
+  "Translations": {
+    "Id": 242512,
+    "Translations": [
+      {
+        "Iso_639_1": "en",
+        "Name": "English",
+        "EnglishName": "English"
+      },
+      {
+        "Iso_639_1": "it",
+        "Name": "Italiano",
+        "EnglishName": "Italian"
+      },
+      {
+        "Iso_639_1": "es",
+        "Name": "Español",
+        "EnglishName": "Spanish"
+      },
+      {
+        "Iso_639_1": "ru",
+        "Name": "Pусский",
+        "EnglishName": "Russian"
+      }
+    ]
+  }
+}

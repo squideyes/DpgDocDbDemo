@@ -1,0 +1,95 @@
+{
+  "Id": 299884,
+  "Title": "Tutitu",
+  "OriginalTitle": "Tutitu",
+  "Status": "Released",
+  "BackdropPath": "/fcYiYOO5RyEHeY8zj7XRY75kpe4.jpg",
+  "PosterPath": "/iFa0nx7MVySmi6YV83grCMinN9C.jpg",
+  "Genres": [
+    {
+      "Id": 16,
+      "Name": "Animation"
+    }
+  ],
+  "ReleaseDate": "2014-10-30T00:00:00",
+  "Popularity": 0.7828947,
+  "ProductionCompanies": [
+    {
+      "Name": "Twist Animation",
+      "Id": 36892
+    }
+  ],
+  "ProductionCountries": [
+    {
+      "Iso_3166_1": "AU",
+      "Name": "Australia"
+    }
+  ],
+  "SpokenLanguages": [
+    {
+      "Iso_639_1": "en",
+      "Name": "English"
+    }
+  ],
+  "AlternativeTitles": {
+    "Id": 299884,
+    "Titles": [
+      {
+        "Iso_3166_1": "BR",
+        "Title": "Tutitu"
+      }
+    ]
+  },
+  "Releases": {
+    "Id": 299884,
+    "Countries": [
+      {
+        "Iso_3166_1": "BR",
+        "Certification": "Livre",
+        "ReleaseDate": "2014-10-30T00:00:00"
+      }
+    ]
+  },
+  "Credits": {
+    "Id": 299884,
+    "Cast": [],
+    "Crew": []
+  },
+  "Images": {
+    "Backdrops": [
+      {
+        "FilePath": "/fcYiYOO5RyEHeY8zj7XRY75kpe4.jpg",
+        "Width": 1920,
+        "Height": 1080,
+        "AspectRatio": 1.77777777777778
+      }
+    ],
+    "Posters": [
+      {
+        "FilePath": "/iFa0nx7MVySmi6YV83grCMinN9C.jpg",
+        "Width": 567,
+        "Height": 794,
+        "AspectRatio": 0.714105793450882
+      }
+    ]
+  },
+  "Keywords": {
+    "Id": 299884,
+    "Keywords": []
+  },
+  "Trailers": {
+    "Id": 299884,
+    "Quicktime": [],
+    "Youtube": []
+  },
+  "Translations": {
+    "Id": 299884,
+    "Translations": [
+      {
+        "Iso_639_1": "pt",
+        "Name": "Português",
+        "EnglishName": "Portuguese"
+      }
+    ]
+  }
+}

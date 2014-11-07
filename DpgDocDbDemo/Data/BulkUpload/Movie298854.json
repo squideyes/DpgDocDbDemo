@@ -1,0 +1,93 @@
+{
+  "Id": 298854,
+  "ImdbId": "tt3711816",
+  "Title": "Pitahaya",
+  "OriginalTitle": "Pitahaya",
+  "Status": "Released",
+  "Genres": [
+    {
+      "Id": 18,
+      "Name": "Drama"
+    },
+    {
+      "Id": 10755,
+      "Name": "Short"
+    }
+  ],
+  "ReleaseDate": "2014-10-21T00:00:00",
+  "Popularity": 0.1851604968312,
+  "ProductionCompanies": [],
+  "ProductionCountries": [
+    {
+      "Iso_3166_1": "ES",
+      "Name": "Spain"
+    }
+  ],
+  "SpokenLanguages": [
+    {
+      "Iso_639_1": "ca",
+      "Name": "Català"
+    }
+  ],
+  "AlternativeTitles": {
+    "Id": 298854,
+    "Titles": []
+  },
+  "Releases": {
+    "Id": 298854,
+    "Countries": [
+      {
+        "Iso_3166_1": "ES",
+        "ReleaseDate": "2014-10-21T00:00:00"
+      }
+    ]
+  },
+  "Credits": {
+    "Id": 298854,
+    "Cast": [
+      {
+        "Id": 28507,
+        "Name": "Francesc Garrido",
+        "Order": 1
+      },
+      {
+        "Id": 1358783,
+        "Name": "Rubén Sánchez",
+        "Character": "Voice",
+        "Order": 2,
+        "CastId": 1
+      }
+    ],
+    "Crew": [
+      {
+        "Id": 798034,
+        "Name": "Albert Espinosa",
+        "Department": "Directing",
+        "Job": "Director"
+      }
+    ]
+  },
+  "Images": {
+    "Backdrops": [],
+    "Posters": []
+  },
+  "Keywords": {
+    "Id": 298854,
+    "Keywords": []
+  },
+  "Trailers": {
+    "Id": 298854,
+    "Quicktime": [],
+    "Youtube": []
+  },
+  "Translations": {
+    "Id": 298854,
+    "Translations": [
+      {
+        "Iso_639_1": "es",
+        "Name": "Español",
+        "EnglishName": "Spanish"
+      }
+    ]
+  }
+}

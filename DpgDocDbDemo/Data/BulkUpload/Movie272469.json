@@ -1,0 +1,271 @@
+{
+  "Id": 272469,
+  "Title": "Beware The Horror Ghost",
+  "OriginalTitle": "Beware The Horror Ghost",
+  "Status": "Released",
+  "Tagline": "Its Name Is Said In Whispers",
+  "Overview": "An ordinary man must save the world from the powers of the evil Horror Ghost while an insane priest, some eccentric vampires and a small child suffer its wrath on Halloween night.",
+  "Homepage": "http://facebook.com/bewaremovie",
+  "BackdropPath": "/umOddc2UhbRQWRH3eJzk4z5F1M0.jpg",
+  "PosterPath": "/ubw37qvxmzV784mAb7wXxcnROCv.jpg",
+  "Genres": [
+    {
+      "Id": 28,
+      "Name": "Action"
+    },
+    {
+      "Id": 12,
+      "Name": "Adventure"
+    },
+    {
+      "Id": 35,
+      "Name": "Comedy"
+    },
+    {
+      "Id": 27,
+      "Name": "Horror"
+    }
+  ],
+  "ReleaseDate": "2014-10-31T00:00:00",
+  "Runtime": 6,
+  "Popularity": 1.4158504115547,
+  "VoteAverage": 9.5,
+  "VoteCount": 1,
+  "ProductionCompanies": [
+    {
+      "Name": "Red Peak Pictures",
+      "Id": 23971
+    }
+  ],
+  "ProductionCountries": [
+    {
+      "Iso_3166_1": "IE",
+      "Name": "Ireland"
+    }
+  ],
+  "SpokenLanguages": [
+    {
+      "Iso_639_1": "la",
+      "Name": "Latin"
+    },
+    {
+      "Iso_639_1": "en",
+      "Name": "English"
+    }
+  ],
+  "AlternativeTitles": {
+    "Id": 272469,
+    "Titles": [
+      {
+        "Iso_3166_1": "IE",
+        "Title": "The Horror Ghost"
+      },
+      {
+        "Iso_3166_1": "IE",
+        "Title": "Horror Ghost: Beware!"
+      },
+      {
+        "Iso_3166_1": "IE",
+        "Title": "Beware!"
+      }
+    ]
+  },
+  "Releases": {
+    "Id": 272469,
+    "Countries": [
+      {
+        "Iso_3166_1": "IE",
+        "Certification": "12A",
+        "ReleaseDate": "2014-10-31T00:00:00"
+      }
+    ]
+  },
+  "Credits": {
+    "Id": 272469,
+    "Cast": [
+      {
+        "Id": 1325324,
+        "Name": "DJ Hennelly",
+        "Character": "The Hero",
+        "Order": 1
+      },
+      {
+        "Id": 1325325,
+        "Name": "Alice O'Donnell",
+        "Character": "The Child",
+        "Order": 2,
+        "CastId": 1
+      },
+      {
+        "Id": 1325326,
+        "Name": "John Ugwu",
+        "Character": "The Priest",
+        "Order": 3,
+        "CastId": 2
+      },
+      {
+        "Id": 1325327,
+        "Name": "Cian Siggins",
+        "Character": "Vampire #1",
+        "Order": 4,
+        "CastId": 3
+      },
+      {
+        "Id": 1325328,
+        "Name": "Domhnaill Conneely",
+        "Character": "Vampire #2",
+        "Order": 5,
+        "CastId": 4
+      },
+      {
+        "Id": 1325329,
+        "Name": "Johnny Dubber",
+        "Character": "The Ghost",
+        "Order": 6,
+        "CastId": 5
+      },
+      {
+        "Id": 1325330,
+        "Name": "Destiny Aghabueze-Ayo",
+        "Character": "The Explorer",
+        "Order": 7,
+        "CastId": 6
+      }
+    ],
+    "Crew": [
+      {
+        "Id": 1325331,
+        "Name": "Pablo Urdaibay",
+        "Department": "Crew",
+        "Job": "Sound Recordist"
+      },
+      {
+        "Id": 1325332,
+        "Name": "James Boran",
+        "Department": "Production",
+        "Job": "Producer"
+      },
+      {
+        "Id": 1325378,
+        "Name": "Lucien WD",
+        "Department": "Directing",
+        "Job": "Director"
+      },
+      {
+        "Id": 1325327,
+        "Name": "Cian Siggins",
+        "Department": "Directing",
+        "Job": "Director"
+      },
+      {
+        "Id": 1325386,
+        "Name": "Shane Brennan",
+        "Department": "Production",
+        "Job": "Producer"
+      },
+      {
+        "Id": 1325387,
+        "Name": "Conor Elliott",
+        "Department": "Crew",
+        "Job": "Unit Production Manager"
+      }
+    ]
+  },
+  "Images": {
+    "Backdrops": [
+      {
+        "FilePath": "/umOddc2UhbRQWRH3eJzk4z5F1M0.jpg",
+        "Width": 1280,
+        "Height": 720,
+        "AspectRatio": 1.77777777777778
+      }
+    ],
+    "Posters": [
+      {
+        "FilePath": "/ubw37qvxmzV784mAb7wXxcnROCv.jpg",
+        "Width": 1200,
+        "Height": 1600,
+        "AspectRatio": 0.75,
+        "VoteAverage": 5.30505952380952,
+        "VoteCount": 1
+      },
+      {
+        "FilePath": "/32YyFfWeI4CrGbWDSIxnqEQ4uI0.jpg",
+        "Width": 1200,
+        "Height": 1600,
+        "AspectRatio": 0.75,
+        "VoteAverage": 5.30505952380952,
+        "VoteCount": 1
+      },
+      {
+        "FilePath": "/a98vJMAHIAPVkhIpbKMyTDZwQWZ.jpg",
+        "Width": 1000,
+        "Height": 1500,
+        "AspectRatio": 0.666666666666667
+      },
+      {
+        "FilePath": "/cAGS66RpqpbEnpLbX6xCzZWrLu6.jpg",
+        "Width": 1000,
+        "Height": 1500,
+        "AspectRatio": 0.666666666666667
+      },
+      {
+        "FilePath": "/eVGdsgB6EhytlnJrFCdOSmzl7H2.jpg",
+        "Width": 1432,
+        "Height": 2048,
+        "AspectRatio": 0.69921875
+      }
+    ]
+  },
+  "Keywords": {
+    "Id": 272469,
+    "Keywords": [
+      {
+        "Id": 2626,
+        "Name": "exorcism"
+      },
+      {
+        "Id": 3335,
+        "Name": "halloween"
+      },
+      {
+        "Id": 8087,
+        "Name": "horror"
+      },
+      {
+        "Id": 9712,
+        "Name": "possession"
+      },
+      {
+        "Id": 203866,
+        "Name": "beware"
+      }
+    ]
+  },
+  "Trailers": {
+    "Id": 272469,
+    "Quicktime": [],
+    "Youtube": [
+      {
+        "Name": "Theatrical Trailer",
+        "Size": "HD",
+        "Source": "9NKOHqjywdk"
+      },
+      {
+        "Name": "Beware The Horror Ghost",
+        "Size": "HD",
+        "Source": "Pxq8L8KW5z0"
+      }
+    ]
+  },
+  "Translations": {
+    "Id": 272469,
+    "Translations": [
+      {
+        "Iso_639_1": "en",
+        "Name": "English",
+        "EnglishName": "English"
+      }
+    ]
+  }
+}

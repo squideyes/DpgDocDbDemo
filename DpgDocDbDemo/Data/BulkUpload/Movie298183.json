@@ -1,0 +1,212 @@
+{
+  "Id": 298183,
+  "ImdbId": "tt3282720",
+  "Title": "Lazy Boyz",
+  "OriginalTitle": "Lazy Boyz",
+  "Status": "Released",
+  "Overview": "Two slackers discover their new found couch lurks with mysterious evil...",
+  "Genres": [
+    {
+      "Id": 35,
+      "Name": "Comedy"
+    },
+    {
+      "Id": 27,
+      "Name": "Horror"
+    },
+    {
+      "Id": 878,
+      "Name": "Science Fiction"
+    }
+  ],
+  "ReleaseDate": "2014-10-22T00:00:00",
+  "Runtime": 20,
+  "Popularity": 0.627775387183836,
+  "ProductionCompanies": [],
+  "ProductionCountries": [
+    {
+      "Iso_3166_1": "CA",
+      "Name": "Canada"
+    }
+  ],
+  "SpokenLanguages": [
+    {
+      "Iso_639_1": "en",
+      "Name": "English"
+    }
+  ],
+  "AlternativeTitles": {
+    "Id": 298183,
+    "Titles": []
+  },
+  "Releases": {
+    "Id": 298183,
+    "Countries": [
+      {
+        "Iso_3166_1": "CA",
+        "ReleaseDate": "2014-10-22T00:00:00"
+      }
+    ]
+  },
+  "Credits": {
+    "Id": 298183,
+    "Cast": [
+      {
+        "Id": 1375482,
+        "Name": "Stephen Spinola",
+        "Character": "Ray",
+        "Order": 1,
+        "CastId": 7
+      },
+      {
+        "Id": 1375483,
+        "Name": "Walter Lyng",
+        "Character": "Louis",
+        "Order": 2,
+        "CastId": 8
+      },
+      {
+        "Id": 1375484,
+        "Name": "Meagan Cocklin",
+        "Character": "Pizza Chick",
+        "Order": 3,
+        "CastId": 9
+      },
+      {
+        "Id": 1375485,
+        "Name": "Edward Wong",
+        "Character": "Landlord",
+        "Order": 4,
+        "CastId": 10
+      },
+      {
+        "Id": 1375486,
+        "Name": "Phil Dubrovsky",
+        "Character": "Sleazy Business Man",
+        "Order": 5,
+        "CastId": 11
+      },
+      {
+        "Id": 1375487,
+        "Name": "Tyler Lemco",
+        "Character": "Burglar #1",
+        "Order": 6,
+        "CastId": 12
+      },
+      {
+        "Id": 1375488,
+        "Name": "Harris Ellison",
+        "Character": "Robber #2",
+        "Order": 7,
+        "CastId": 13
+      },
+      {
+        "Id": 1375489,
+        "Name": "Raymond Barry",
+        "Character": "Sheriff",
+        "Order": 8,
+        "CastId": 14
+      },
+      {
+        "Id": 1375490,
+        "Name": "Sandy Weigins",
+        "Character": "Cop #1",
+        "Order": 9,
+        "CastId": 15
+      },
+      {
+        "Id": 1375491,
+        "Name": "Dave Handelman",
+        "Character": "Cop #2",
+        "Order": 10,
+        "CastId": 16
+      },
+      {
+        "Id": 1375492,
+        "Name": "Thelma Mann",
+        "Character": "Old Goldfish Lady",
+        "Order": 11,
+        "CastId": 17
+      },
+      {
+        "Id": 1375493,
+        "Name": "Paul Burke",
+        "Character": "News Anchor",
+        "Order": 12,
+        "CastId": 18
+      }
+    ],
+    "Crew": [
+      {
+        "Id": 1375478,
+        "Name": "Ryan Coopersmith",
+        "Department": "Directing",
+        "Job": "Director"
+      },
+      {
+        "Id": 1375479,
+        "Name": "Charles Muzard",
+        "Department": "Directing",
+        "Job": "Director"
+      },
+      {
+        "Id": 1375480,
+        "Name": "Jimmy-Lee Blais",
+        "Department": "Writing",
+        "Job": "Story"
+      },
+      {
+        "Id": 1375479,
+        "Name": "Charles Muzard",
+        "Department": "Writing",
+        "Job": "Story"
+      },
+      {
+        "Id": 1375478,
+        "Name": "Ryan Coopersmith",
+        "Department": "Writing",
+        "Job": "Writer"
+      },
+      {
+        "Id": 1375481,
+        "Name": "Dan Handelman",
+        "Department": "Writing",
+        "Job": "Writer"
+      },
+      {
+        "Id": 1375479,
+        "Name": "Charles Muzard",
+        "Department": "Writing",
+        "Job": "Writer"
+      }
+    ]
+  },
+  "Images": {
+    "Backdrops": [],
+    "Posters": []
+  },
+  "Keywords": {
+    "Id": 298183,
+    "Keywords": [
+      {
+        "Id": 207653,
+        "Name": "short"
+      }
+    ]
+  },
+  "Trailers": {
+    "Id": 298183,
+    "Quicktime": [],
+    "Youtube": []
+  },
+  "Translations": {
+    "Id": 298183,
+    "Translations": [
+      {
+        "Iso_639_1": "en",
+        "Name": "English",
+        "EnglishName": "English"
+      }
+    ]
+  }
+}

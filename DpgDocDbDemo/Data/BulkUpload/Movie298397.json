@@ -1,0 +1,151 @@
+{
+  "Id": 298397,
+  "Title": "Sigaw sa Hatinggabi",
+  "OriginalTitle": "Sigaw sa Hatinggabi",
+  "Status": "Released",
+  "Overview": "Sigaw sa Hatinggabi is about an investigation into possible murder of a battered wife whose husband is well known.",
+  "PosterPath": "/2rUIMJzjPwYzKTZxpylqaaocWhv.jpg",
+  "Genres": [],
+  "ReleaseDate": "2014-10-23T00:00:00",
+  "Runtime": 0,
+  "Popularity": 0.536747160811217,
+  "VoteAverage": 10.0,
+  "VoteCount": 1,
+  "ProductionCompanies": [],
+  "ProductionCountries": [],
+  "SpokenLanguages": [
+    {
+      "Iso_639_1": "tl"
+    }
+  ],
+  "AlternativeTitles": {
+    "Id": 298397,
+    "Titles": []
+  },
+  "Releases": {
+    "Id": 298397,
+    "Countries": [
+      {
+        "Iso_3166_1": "PH",
+        "ReleaseDate": "2014-10-23T00:00:00"
+      }
+    ]
+  },
+  "Credits": {
+    "Id": 298397,
+    "Cast": [
+      {
+        "Id": 1313537,
+        "Name": "Regine Angeles",
+        "Order": 1,
+        "CastId": 3,
+        "ProfilePath": "/7CF866Zr7SVvoRm1tsCTuWeecGV.jpg"
+      },
+      {
+        "Id": 1375997,
+        "Name": "Richard Quan",
+        "Order": 2,
+        "CastId": 4
+      },
+      {
+        "Id": 231981,
+        "Name": "Alvin Anson",
+        "Order": 3,
+        "CastId": 5
+      },
+      {
+        "Id": 1375998,
+        "Name": "China Roces",
+        "Order": 4,
+        "CastId": 6
+      },
+      {
+        "Id": 1375999,
+        "Name": "Marga Yabes",
+        "Order": 5,
+        "CastId": 7
+      },
+      {
+        "Id": 1043127,
+        "Name": "Vangie Labalan",
+        "Order": 6,
+        "CastId": 8,
+        "ProfilePath": "/jfGOw2S2mlPTyIL7qmP9X39HoLA.jpg"
+      },
+      {
+        "Id": 1359639,
+        "Name": "Hero Bautista",
+        "Order": 7,
+        "CastId": 9
+      },
+      {
+        "Id": 1376000,
+        "Name": "David Karell",
+        "Order": 8,
+        "CastId": 10
+      },
+      {
+        "Id": 1201678,
+        "Name": "Lance Raymundo",
+        "Order": 9,
+        "CastId": 11
+      }
+    ],
+    "Crew": [
+      {
+        "Id": 1207081,
+        "Name": "Romy V. Suzara",
+        "Department": "Directing",
+        "Job": "Director"
+      },
+      {
+        "Id": 1207081,
+        "Name": "Romy V. Suzara",
+        "Department": "Writing",
+        "Job": "Story"
+      },
+      {
+        "Id": 1375996,
+        "Name": "Chris Lim",
+        "Department": "Writing",
+        "Job": "Screenplay"
+      }
+    ]
+  },
+  "Images": {
+    "Backdrops": [],
+    "Posters": [
+      {
+        "FilePath": "/2rUIMJzjPwYzKTZxpylqaaocWhv.jpg",
+        "Width": 630,
+        "Height": 910,
+        "AspectRatio": 0.692307692307692
+      }
+    ]
+  },
+  "Keywords": {
+    "Id": 298397,
+    "Keywords": []
+  },
+  "Trailers": {
+    "Id": 298397,
+    "Quicktime": [],
+    "Youtube": [
+      {
+        "Name": "SIGAW SA HATINGGABI CINEMATIC TRAILER",
+        "Size": "Standard",
+        "Source": "DGeBrujNf80"
+      }
+    ]
+  },
+  "Translations": {
+    "Id": 298397,
+    "Translations": [
+      {
+        "Iso_639_1": "en",
+        "Name": "English",
+        "EnglishName": "English"
+      }
+    ]
+  }
+}

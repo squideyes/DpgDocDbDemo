@@ -1,0 +1,146 @@
+{
+  "Id": 297751,
+  "Title": "Fango e Gloria - La Grande Guerra",
+  "OriginalTitle": "Fango e Gloria - La Grande Guerra",
+  "Status": "Released",
+  "BackdropPath": "/w7x72bjc0lORreRTgN0eXbSkJjp.jpg",
+  "PosterPath": "/9gTB2jr25aVr3MJeCthMQ5Dr3VK.jpg",
+  "Genres": [
+    {
+      "Id": 18,
+      "Name": "Drama"
+    },
+    {
+      "Id": 36,
+      "Name": "History"
+    }
+  ],
+  "ReleaseDate": "2014-10-16T00:00:00",
+  "Popularity": 0.132425110932915,
+  "ProductionCompanies": [],
+  "ProductionCountries": [],
+  "SpokenLanguages": [],
+  "AlternativeTitles": {
+    "Id": 297751,
+    "Titles": []
+  },
+  "Releases": {
+    "Id": 297751,
+    "Countries": [
+      {
+        "Iso_3166_1": "IT",
+        "ReleaseDate": "2014-10-16T00:00:00"
+      }
+    ]
+  },
+  "Credits": {
+    "Id": 297751,
+    "Cast": [
+      {
+        "Id": 1300918,
+        "Name": "Eugenio Franceschini",
+        "Order": 1,
+        "CastId": 5
+      },
+      {
+        "Id": 1374579,
+        "Name": "Valentina Corti",
+        "Order": 2,
+        "CastId": 6
+      },
+      {
+        "Id": 1051045,
+        "Name": "Domenico Fortunato",
+        "Order": 3,
+        "CastId": 7
+      },
+      {
+        "Id": 137811,
+        "Name": "Francesco Martino",
+        "Order": 4,
+        "CastId": 8
+      },
+      {
+        "Id": 1374580,
+        "Name": "Alberto Lo Porto",
+        "Order": 5,
+        "CastId": 9
+      },
+      {
+        "Id": 1374581,
+        "Name": "Michele Vigilante",
+        "Order": 6,
+        "CastId": 10
+      }
+    ],
+    "Crew": [
+      {
+        "Id": 1374576,
+        "Name": "Leonardo Tiberi",
+        "Department": "Directing",
+        "Job": "Director"
+      },
+      {
+        "Id": 1374576,
+        "Name": "Leonardo Tiberi",
+        "Department": "Writing",
+        "Job": "Screenplay"
+      },
+      {
+        "Id": 1374577,
+        "Name": "Salvatore De Mola",
+        "Department": "Writing",
+        "Job": "Screenplay"
+      },
+      {
+        "Id": 1374578,
+        "Name": "Baptiste Allard",
+        "Department": "Sound",
+        "Job": "Original Music Composer"
+      },
+      {
+        "Id": 69286,
+        "Name": "Stefano Paradiso",
+        "Department": "Camera",
+        "Job": "Director of Photography"
+      }
+    ]
+  },
+  "Images": {
+    "Backdrops": [
+      {
+        "FilePath": "/w7x72bjc0lORreRTgN0eXbSkJjp.jpg",
+        "Width": 1280,
+        "Height": 720,
+        "AspectRatio": 1.77777777777778
+      }
+    ],
+    "Posters": [
+      {
+        "FilePath": "/9gTB2jr25aVr3MJeCthMQ5Dr3VK.jpg",
+        "Width": 500,
+        "Height": 750,
+        "AspectRatio": 0.666666666666667
+      }
+    ]
+  },
+  "Keywords": {
+    "Id": 297751,
+    "Keywords": []
+  },
+  "Trailers": {
+    "Id": 297751,
+    "Quicktime": [],
+    "Youtube": []
+  },
+  "Translations": {
+    "Id": 297751,
+    "Translations": [
+      {
+        "Iso_639_1": "it",
+        "Name": "Italiano",
+        "EnglishName": "Italian"
+      }
+    ]
+  }
+}

@@ -1,0 +1,124 @@
+{
+  "Id": 298659,
+  "ImdbId": "tt2332573",
+  "Title": "Clownwise",
+  "OriginalTitle": "Klauni",
+  "Status": "Released",
+  "Overview": "Once a hugely popular clown trio, Oskar, Max, and Viktor are now living very different lives. The intense fight that ended their friendship has left them on bad terms for over 40 years. Max is battling colon cancer, Viktor's wife is losing a battle to Alzheimer's, and Oskar, who's never been the best dad, is trying to rescue his daughter from an abusive relationship. The good old days are gone indeed. Despite their situations, each one still tries to maintain a sense of humor. They look fondly on the days when they were slapstick superstars. However, when it comes to the issues that led to their career demise, they just can't seem to let their anger go. As they hesitantly agree to a reunion, they begin to find that the only way back to the top is through forgiveness.",
+  "Homepage": "https://www.facebook.com/Clownwise",
+  "PosterPath": "/7SXGbs8zaoO4ogKnLhMIJAUKZoa.jpg",
+  "Genres": [
+    {
+      "Id": 35,
+      "Name": "Comedy"
+    },
+    {
+      "Id": 18,
+      "Name": "Drama"
+    },
+    {
+      "Id": 10769,
+      "Name": "Foreign"
+    }
+  ],
+  "ReleaseDate": "2014-10-15T00:00:00",
+  "Runtime": 124,
+  "Popularity": 0.2075094821595,
+  "ProductionCompanies": [],
+  "ProductionCountries": [],
+  "SpokenLanguages": [],
+  "AlternativeTitles": {
+    "Id": 298659,
+    "Titles": []
+  },
+  "Releases": {
+    "Id": 298659,
+    "Countries": [
+      {
+        "Iso_3166_1": "IN",
+        "ReleaseDate": "2014-10-15T00:00:00"
+      }
+    ]
+  },
+  "Credits": {
+    "Id": 298659,
+    "Cast": [
+      {
+        "Id": 54292,
+        "Name": "Julie Ferrier",
+        "Character": "Fabienne",
+        "Order": 1,
+        "ProfilePath": "/lDyve5gGt5KM4hWLeCCYY6XNUcg.jpg"
+      },
+      {
+        "Id": 1377335,
+        "Name": "Jirí Lábus",
+        "Character": "Viktor",
+        "Order": 2,
+        "CastId": 1
+      },
+      {
+        "Id": 1377336,
+        "Name": "Eva Jenícková",
+        "Character": "Marketa",
+        "Order": 3,
+        "CastId": 2
+      },
+      {
+        "Id": 35077,
+        "Name": "Didier Flamand",
+        "Character": "Oskar",
+        "Order": 4,
+        "CastId": 3,
+        "ProfilePath": "/mYIHYvT9D6tw7zxXI6f5W89kyus.jpg"
+      },
+      {
+        "Id": 5999,
+        "Name": "Kati Outinen",
+        "Character": "Sylvie",
+        "Order": 5,
+        "CastId": 4,
+        "ProfilePath": "/cjcuhAXRcg8C0VIDHtfz1BIVE3m.jpg"
+      }
+    ],
+    "Crew": [
+      {
+        "Id": 1349256,
+        "Name": "Viktor Tauš",
+        "Department": "Directing",
+        "Job": "Director",
+        "ProfilePath": "/qQhd9qMvabypNwWfFHkJiWPwbmc.jpg"
+      }
+    ]
+  },
+  "Images": {
+    "Backdrops": [],
+    "Posters": [
+      {
+        "FilePath": "/7SXGbs8zaoO4ogKnLhMIJAUKZoa.jpg",
+        "Width": 721,
+        "Height": 1021,
+        "AspectRatio": 0.70617042115573
+      }
+    ]
+  },
+  "Keywords": {
+    "Id": 298659,
+    "Keywords": []
+  },
+  "Trailers": {
+    "Id": 298659,
+    "Quicktime": [],
+    "Youtube": []
+  },
+  "Translations": {
+    "Id": 298659,
+    "Translations": [
+      {
+        "Iso_639_1": "en",
+        "Name": "English",
+        "EnglishName": "English"
+      }
+    ]
+  }
+}

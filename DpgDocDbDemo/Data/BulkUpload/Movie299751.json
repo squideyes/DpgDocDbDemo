@@ -1,0 +1,136 @@
+{
+  "Id": 299751,
+  "ImdbId": "tt4092686",
+  "Title": "Jia Zhangke, A Guy from Fenyang",
+  "OriginalTitle": "Jia Zhangke, Um Homem de Fenyang",
+  "Status": "Released",
+  "Overview": "Chinese filmmaker Jia Zhangke returns to the shooting locations of his films, along with his actors, friends and close collaborators. Jia recalls the inspiration sources for his movies, such as Platform, Still Life and A Touch of Sin. The film is the memory of a filmmaker and of a country in convulsion, China, which reveals itself little by little.",
+  "Genres": [
+    {
+      "Id": 99,
+      "Name": "Documentary"
+    }
+  ],
+  "ReleaseDate": "2014-10-25T00:00:00",
+  "Runtime": 100,
+  "Popularity": 0.48904905,
+  "ProductionCompanies": [
+    {
+      "Name": "VideoFilmes",
+      "Id": 346
+    }
+  ],
+  "ProductionCountries": [
+    {
+      "Iso_3166_1": "BR",
+      "Name": "Brazil"
+    }
+  ],
+  "SpokenLanguages": [],
+  "AlternativeTitles": {
+    "Id": 299751,
+    "Titles": [
+      {
+        "Iso_3166_1": "FR",
+        "Title": "Jia Zhangke, un gars de Fenyang"
+      }
+    ]
+  },
+  "Releases": {
+    "Id": 299751,
+    "Countries": [
+      {
+        "Iso_3166_1": "BR",
+        "ReleaseDate": "2014-10-25T00:00:00"
+      },
+      {
+        "Iso_3166_1": "IT",
+        "ReleaseDate": "2014-10-20T00:00:00"
+      }
+    ]
+  },
+  "Credits": {
+    "Id": 299751,
+    "Cast": [
+      {
+        "Id": 24011,
+        "Name": "Jia Zhangke",
+        "Character": "Himself",
+        "Order": 1,
+        "ProfilePath": "/hlRVHUCj6DhQNO2qQkV74VdySHs.jpg"
+      },
+      {
+        "Id": 27997,
+        "Name": "Hongwei Wang",
+        "Character": "Himself",
+        "Order": 2,
+        "CastId": 1
+      },
+      {
+        "Id": 24044,
+        "Name": "Zhao Tao",
+        "Character": "Herself",
+        "Order": 3,
+        "CastId": 2,
+        "ProfilePath": "/zcnM5OPkJAcGwnWhWvtkxjlh30R.jpg"
+      },
+      {
+        "Id": 24043,
+        "Name": "Sanming Han",
+        "Character": "Himself",
+        "Order": 4,
+        "CastId": 3
+      },
+      {
+        "Id": 25471,
+        "Name": "Nelson Yu Lik-wai",
+        "Character": "Himself",
+        "Order": 5,
+        "CastId": 4,
+        "ProfilePath": "/7g8aiO4jxaxjCDFKPqrsTbPax9g.jpg"
+      }
+    ],
+    "Crew": [
+      {
+        "Id": 8574,
+        "Name": "Walter Salles",
+        "Department": "Directing",
+        "Job": "Director",
+        "ProfilePath": "/sqIg1ziNhNbxmAbwKY9BJ6iMUzP.jpg"
+      }
+    ]
+  },
+  "Images": {
+    "Backdrops": [],
+    "Posters": []
+  },
+  "Keywords": {
+    "Id": 299751,
+    "Keywords": [
+      {
+        "Id": 478,
+        "Name": "china"
+      }
+    ]
+  },
+  "Trailers": {
+    "Id": 299751,
+    "Quicktime": [],
+    "Youtube": []
+  },
+  "Translations": {
+    "Id": 299751,
+    "Translations": [
+      {
+        "Iso_639_1": "en",
+        "Name": "English",
+        "EnglishName": "English"
+      },
+      {
+        "Iso_639_1": "it",
+        "Name": "Italiano",
+        "EnglishName": "Italian"
+      }
+    ]
+  }
+}

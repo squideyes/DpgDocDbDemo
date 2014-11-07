@@ -1,0 +1,239 @@
+{
+  "Id": 287524,
+  "ImdbId": "tt2165765",
+  "Title": "Fear Clinic",
+  "OriginalTitle": "Fear Clinic",
+  "Status": "Post Production",
+  "Overview": "A doctor works to cure patients suffering from crippling phobias by placing them inside his invention which induces and controls hallucinations.",
+  "Homepage": "http://www.fearclinicmovie.com/",
+  "PosterPath": "/4NeBfeqomO05020RsQD7eMn8yva.jpg",
+  "Genres": [
+    {
+      "Id": 27,
+      "Name": "Horror"
+    }
+  ],
+  "ReleaseDate": "2014-10-31T00:00:00",
+  "Runtime": 0,
+  "Popularity": 1.62907862878922,
+  "ProductionCompanies": [
+    {
+      "Name": "Anchor Bay Entertainment",
+      "Id": 16839
+    },
+    {
+      "Name": "Dry County Films",
+      "Id": 3347
+    },
+    {
+      "Name": "Movie Machine",
+      "Id": 18890
+    }
+  ],
+  "ProductionCountries": [
+    {
+      "Iso_3166_1": "US",
+      "Name": "United States of America"
+    }
+  ],
+  "SpokenLanguages": [
+    {
+      "Iso_639_1": "en",
+      "Name": "English"
+    }
+  ],
+  "AlternativeTitles": {
+    "Id": 287524,
+    "Titles": []
+  },
+  "Releases": {
+    "Id": 287524,
+    "Countries": [
+      {
+        "Iso_3166_1": "US",
+        "ReleaseDate": "2014-10-31T00:00:00"
+      }
+    ]
+  },
+  "Credits": {
+    "Id": 287524,
+    "Cast": [
+      {
+        "Id": 34199,
+        "Name": "Thomas Dekker",
+        "Character": "Blake",
+        "Order": 1,
+        "ProfilePath": "/8Ooyj49cLv4ZhWKP0EHc1hHtWP2.jpg"
+      },
+      {
+        "Id": 5139,
+        "Name": "Robert Englund",
+        "Character": "Dr. Andover",
+        "Order": 2,
+        "CastId": 1,
+        "ProfilePath": "/1xIUyS7kzi99Yv4qeg9Ep7QtHDS.jpg"
+      },
+      {
+        "Id": 217055,
+        "Name": "Cleopatra Coleman",
+        "Character": "Megan",
+        "Order": 3,
+        "CastId": 2,
+        "ProfilePath": "/9eFFavy8WILHA4o3Im2aVMPlWbi.jpg"
+      },
+      {
+        "Id": 204468,
+        "Name": "Fiona Dourif",
+        "Character": "Sara",
+        "Order": 4,
+        "CastId": 3,
+        "ProfilePath": "/bHf4d9fITrmrNBvXfs27fSnmPCt.jpg"
+      },
+      {
+        "Id": 34839,
+        "Name": "Kevin Gage",
+        "Character": "Gage",
+        "Order": 5,
+        "CastId": 4,
+        "ProfilePath": "/shMqCosEFquPy6qB8RfCCcDPq7M.jpg"
+      },
+      {
+        "Id": 58517,
+        "Name": "Bonnie Morgan",
+        "Character": "Paige",
+        "Order": 6,
+        "CastId": 5
+      },
+      {
+        "Id": 63738,
+        "Name": "Brandon Beemer",
+        "Character": "Dylan",
+        "Order": 7,
+        "CastId": 6,
+        "ProfilePath": "/d9ALDR1jnHqZYxVxBUA3r6pFO0r.jpg"
+      },
+      {
+        "Id": 210334,
+        "Name": "Felisha Terrell",
+        "Character": "Osborn",
+        "Order": 8,
+        "CastId": 7,
+        "ProfilePath": "/9MofujgqZ8kikXkHgNsBI17Lnt2.jpg"
+      },
+      {
+        "Id": 114373,
+        "Name": "Angelina Armani",
+        "Character": "Caylee",
+        "Order": 9,
+        "CastId": 8,
+        "ProfilePath": "/3xsf1wvn2qodQ5GznZgiw7uD5R6.jpg"
+      },
+      {
+        "Id": 114373,
+        "Name": "Angelina Armani",
+        "Character": "Bauer",
+        "Order": 10,
+        "CastId": 9,
+        "ProfilePath": "/3xsf1wvn2qodQ5GznZgiw7uD5R6.jpg"
+      },
+      {
+        "Id": 1354405,
+        "Name": "Ryder Gage",
+        "Character": "Kevin",
+        "Order": 11,
+        "CastId": 10
+      },
+      {
+        "Id": 1354406,
+        "Name": "Rod Fielder",
+        "Character": "Diner Customer",
+        "Order": 12,
+        "CastId": 11
+      },
+      {
+        "Id": 1354407,
+        "Name": "Nathan Andrew Read",
+        "Character": "Diner Customer",
+        "Order": 13,
+        "CastId": 12
+      }
+    ],
+    "Crew": [
+      {
+        "Id": 1322568,
+        "Name": "Robert Hall",
+        "Department": "Directing",
+        "Job": "Director"
+      },
+      {
+        "Id": 1354408,
+        "Name": "Aaron Drane",
+        "Department": "Writing",
+        "Job": "Writer"
+      },
+      {
+        "Id": 1322568,
+        "Name": "Robert Hall",
+        "Department": "Writing",
+        "Job": "Writer"
+      },
+      {
+        "Id": 1354409,
+        "Name": "Aaron Drane",
+        "Department": "Production",
+        "Job": "Producer"
+      },
+      {
+        "Id": 1354410,
+        "Name": "Mark Benton Johnson",
+        "Department": "Production",
+        "Job": "Producer"
+      },
+      {
+        "Id": 975143,
+        "Name": "Joseph White",
+        "Department": "Crew",
+        "Job": "Cinematography"
+      }
+    ]
+  },
+  "Images": {
+    "Backdrops": [],
+    "Posters": [
+      {
+        "FilePath": "/4NeBfeqomO05020RsQD7eMn8yva.jpg",
+        "Width": 1000,
+        "Height": 1500,
+        "Iso_639_1": "en",
+        "AspectRatio": 0.666666666666667,
+        "VoteAverage": 5.3125,
+        "VoteCount": 1
+      }
+    ]
+  },
+  "Keywords": {
+    "Id": 287524,
+    "Keywords": []
+  },
+  "Trailers": {
+    "Id": 287524,
+    "Quicktime": [],
+    "Youtube": [
+      {
+        "Name": "Fear Clinic Teaser Trailer",
+        "Size": "Standard",
+        "Source": "G4O_kgSEcH0"
+      }
+    ]
+  },
+  "Translations": {
+    "Id": 287524,
+    "Translations": [
+      {
+        "Iso_639_1": "en",
+        "Name": "English",
+        "EnglishName": "English"
+      }
+    ]
+  }
+}

@@ -1,0 +1,119 @@
+{
+  "Id": 295089,
+  "ImdbId": "tt3597624",
+  "Title": "Chante ton Bac d'abord",
+  "OriginalTitle": "Chante ton Bac d'abord",
+  "Status": "Released",
+  "BackdropPath": "/mAL67H4AueEQAEbTnuVAPSujIyz.jpg",
+  "PosterPath": "/jYeH3vJX7x5eEa8hJrZWgGtDK2o.jpg",
+  "Genres": [
+    {
+      "Id": 99,
+      "Name": "Documentary"
+    }
+  ],
+  "ReleaseDate": "2014-10-22T00:00:00",
+  "Popularity": 0.204079431804945,
+  "ProductionCompanies": [],
+  "ProductionCountries": [],
+  "SpokenLanguages": [
+    {
+      "Iso_639_1": "fr",
+      "Name": "Français"
+    }
+  ],
+  "AlternativeTitles": {
+    "Id": 295089,
+    "Titles": []
+  },
+  "Releases": {
+    "Id": 295089,
+    "Countries": [
+      {
+        "Iso_3166_1": "FR",
+        "ReleaseDate": "2014-10-22T00:00:00"
+      }
+    ]
+  },
+  "Credits": {
+    "Id": 295089,
+    "Cast": [
+      {
+        "Id": 1367786,
+        "Name": "Gaëlle Bridoux",
+        "Order": 1,
+        "CastId": 1
+      },
+      {
+        "Id": 1367787,
+        "Name": "Nicolas Dourdin",
+        "Order": 2,
+        "CastId": 2
+      },
+      {
+        "Id": 1367788,
+        "Name": "Caroline Brimeux",
+        "Order": 3,
+        "CastId": 3
+      }
+    ],
+    "Crew": [
+      {
+        "Id": 1365945,
+        "Name": "David André",
+        "Department": "Directing",
+        "Job": "Director"
+      }
+    ]
+  },
+  "Images": {
+    "Backdrops": [
+      {
+        "FilePath": "/mAL67H4AueEQAEbTnuVAPSujIyz.jpg",
+        "Width": 1600,
+        "Height": 900,
+        "AspectRatio": 1.77777777777778
+      },
+      {
+        "FilePath": "/dklMbLrqHcUUp51aDYI7uCCaYrE.jpg",
+        "Width": 1600,
+        "Height": 900,
+        "AspectRatio": 1.77777777777778
+      },
+      {
+        "FilePath": "/vPSnj0xoTMHSV9SMfHnKRl5IcPF.jpg",
+        "Width": 1600,
+        "Height": 900,
+        "AspectRatio": 1.77777777777778
+      }
+    ],
+    "Posters": [
+      {
+        "FilePath": "/jYeH3vJX7x5eEa8hJrZWgGtDK2o.jpg",
+        "Width": 565,
+        "Height": 753,
+        "Iso_639_1": "fr",
+        "AspectRatio": 0.750332005312085
+      }
+    ]
+  },
+  "Keywords": {
+    "Id": 295089,
+    "Keywords": []
+  },
+  "Trailers": {
+    "Id": 295089,
+    "Quicktime": [],
+    "Youtube": []
+  },
+  "Translations": {
+    "Id": 295089,
+    "Translations": [
+      {
+        "Iso_639_1": "fr",
+        "Name": "Français",
+        "EnglishName": "French"
+      }
+    ]
+  }
+}

@@ -1,0 +1,76 @@
+{
+  "Id": 297789,
+  "ImdbId": "tt4163138",
+  "Title": "Angels of Revolution",
+  "OriginalTitle": "Angely revolucii",
+  "Status": "Released",
+  "Overview": "Five friends – a poet, an actor, a painter, an architect and a primitivist film director – are five red avant-garde artists who try to find the embodiment of their hopes and dreams in the young Soviet state. The Revolution is boiling up like a bottle with apple cider: winged service dogs and heart-shaped potatoes, dead Semashko, the People’s Commissar for Health, and cheerful angels, love for the Tsar and love for the young secretary Annushka, executions and pregnancies – everything is interlaced and inseparable!",
+  "PosterPath": "/e8tjP0yCUA1byzuPHCkR3qAvJ4i.jpg",
+  "Genres": [],
+  "ReleaseDate": "2014-10-22T00:00:00",
+  "Runtime": 105,
+  "Popularity": 0.604333019206259,
+  "ProductionCompanies": [],
+  "ProductionCountries": [],
+  "SpokenLanguages": [],
+  "AlternativeTitles": {
+    "Id": 297789,
+    "Titles": []
+  },
+  "Releases": {
+    "Id": 297789,
+    "Countries": [
+      {
+        "Iso_3166_1": "IT",
+        "ReleaseDate": "2014-10-22T00:00:00"
+      }
+    ]
+  },
+  "Credits": {
+    "Id": 297789,
+    "Cast": [],
+    "Crew": [
+      {
+        "Id": 143671,
+        "Name": "Aleksei Fedorchenko",
+        "Department": "Directing",
+        "Job": "Director"
+      }
+    ]
+  },
+  "Images": {
+    "Backdrops": [],
+    "Posters": [
+      {
+        "FilePath": "/e8tjP0yCUA1byzuPHCkR3qAvJ4i.jpg",
+        "Width": 1459,
+        "Height": 2042,
+        "AspectRatio": 0.714495592556317
+      }
+    ]
+  },
+  "Keywords": {
+    "Id": 297789,
+    "Keywords": []
+  },
+  "Trailers": {
+    "Id": 297789,
+    "Quicktime": [],
+    "Youtube": []
+  },
+  "Translations": {
+    "Id": 297789,
+    "Translations": [
+      {
+        "Iso_639_1": "en",
+        "Name": "English",
+        "EnglishName": "English"
+      },
+      {
+        "Iso_639_1": "it",
+        "Name": "Italiano",
+        "EnglishName": "Italian"
+      }
+    ]
+  }
+}

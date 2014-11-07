@@ -1,0 +1,106 @@
+{
+  "Id": 298319,
+  "ImdbId": "tt3743524",
+  "Title": "Fish",
+  "OriginalTitle": "Balık",
+  "Status": "Released",
+  "Overview": "A fisherman, his wife and young daughter who is unable to speak lives in a village on the shores of a lake. Their story starts with a myth of a fish, trying to find a cure for their daughter.",
+  "Homepage": "http://www.derviszaim.com/en/2014-fish-balik/",
+  "PosterPath": "/o3sVb02I3MfchxxgMH8wI30Rubo.jpg",
+  "Genres": [],
+  "ReleaseDate": "2014-10-17T00:00:00",
+  "Runtime": 80,
+  "Popularity": 0.235845855401964,
+  "ProductionCompanies": [],
+  "ProductionCountries": [],
+  "SpokenLanguages": [
+    {
+      "Iso_639_1": "tr",
+      "Name": "Türkçe"
+    }
+  ],
+  "AlternativeTitles": {
+    "Id": 298319,
+    "Titles": []
+  },
+  "Releases": {
+    "Id": 298319,
+    "Countries": [
+      {
+        "Iso_3166_1": "TR",
+        "ReleaseDate": "2014-10-17T00:00:00"
+      }
+    ]
+  },
+  "Credits": {
+    "Id": 298319,
+    "Cast": [
+      {
+        "Id": 239060,
+        "Name": "Bülent inal",
+        "Character": "Kaya",
+        "Order": 1
+      },
+      {
+        "Id": 1267620,
+        "Name": "Sanem Çelik",
+        "Character": "Filiz",
+        "Order": 2,
+        "CastId": 1,
+        "ProfilePath": "/48NreFYhzOOEuEoxJzjNcTJlSdr.jpg"
+      },
+      {
+        "Id": 1375806,
+        "Name": "Miray Kaya",
+        "Character": "Deniz",
+        "Order": 3,
+        "CastId": 2
+      }
+    ],
+    "Crew": [
+      {
+        "Id": 139722,
+        "Name": "Derviş Zaim",
+        "Department": "Directing",
+        "Job": "Director"
+      },
+      {
+        "Id": 139722,
+        "Name": "Derviş Zaim",
+        "Department": "Writing",
+        "Job": "Writer"
+      }
+    ]
+  },
+  "Images": {
+    "Backdrops": [],
+    "Posters": [
+      {
+        "FilePath": "/o3sVb02I3MfchxxgMH8wI30Rubo.jpg",
+        "Width": 840,
+        "Height": 1200,
+        "Iso_639_1": "tr",
+        "AspectRatio": 0.7
+      }
+    ]
+  },
+  "Keywords": {
+    "Id": 298319,
+    "Keywords": []
+  },
+  "Trailers": {
+    "Id": 298319,
+    "Quicktime": [],
+    "Youtube": []
+  },
+  "Translations": {
+    "Id": 298319,
+    "Translations": [
+      {
+        "Iso_639_1": "en",
+        "Name": "English",
+        "EnglishName": "English"
+      }
+    ]
+  }
+}

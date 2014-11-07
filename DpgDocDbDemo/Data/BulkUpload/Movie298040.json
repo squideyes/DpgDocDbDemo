@@ -1,0 +1,148 @@
+{
+  "Id": 298040,
+  "ImdbId": "tt3745620",
+  "Title": "Bogowie",
+  "OriginalTitle": "Bogowie",
+  "Status": "Released",
+  "Overview": "Set in communist Poland of the 80s the movie depicts early career of cardio surgeon Zbigniew Religa.",
+  "PosterPath": "/eSZXKlpl1cwvRLH4wxitreQMmHl.jpg",
+  "Genres": [
+    {
+      "Id": 18,
+      "Name": "Drama"
+    }
+  ],
+  "ReleaseDate": "2014-10-10T00:00:00",
+  "Runtime": 121,
+  "Popularity": 0.4357819285797,
+  "VoteAverage": 6.0,
+  "VoteCount": 1,
+  "ProductionCompanies": [],
+  "ProductionCountries": [
+    {
+      "Iso_3166_1": "PL",
+      "Name": "Poland"
+    }
+  ],
+  "SpokenLanguages": [
+    {
+      "Iso_639_1": "pl",
+      "Name": "Polski"
+    }
+  ],
+  "AlternativeTitles": {
+    "Id": 298040,
+    "Titles": []
+  },
+  "Releases": {
+    "Id": 298040,
+    "Countries": [
+      {
+        "Iso_3166_1": "PL",
+        "ReleaseDate": "2014-10-10T00:00:00"
+      }
+    ]
+  },
+  "Credits": {
+    "Id": 298040,
+    "Cast": [
+      {
+        "Id": 140652,
+        "Name": "Tomasz Kot",
+        "Character": "Zbigniew Religa",
+        "Order": 1,
+        "ProfilePath": "/jfFxPAMVwL17xCXGWFk5kzDuU3n.jpg"
+      },
+      {
+        "Id": 1138605,
+        "Name": "Piotr Głowacki",
+        "Character": "Marian Zembala",
+        "Order": 2,
+        "CastId": 1
+      },
+      {
+        "Id": 1375171,
+        "Name": "Szymon Piotr Warszawski",
+        "Character": "Andrzej Bochenek",
+        "Order": 3,
+        "CastId": 2
+      },
+      {
+        "Id": 589433,
+        "Name": "Magdalena Czerwińska",
+        "Character": "Anna Religa",
+        "Order": 4,
+        "CastId": 3
+      },
+      {
+        "Id": 107633,
+        "Name": "Jan Englert",
+        "Character": "Profesor Wacław Sitkowski",
+        "Order": 5,
+        "CastId": 4,
+        "ProfilePath": "/1Ohqr40D0KZOZTeRUDmwCtRu8Dc.jpg"
+      }
+    ],
+    "Crew": [
+      {
+        "Id": 1289454,
+        "Name": "Łukasz Palkowski",
+        "Department": "Directing",
+        "Job": "Director"
+      },
+      {
+        "Id": 1375172,
+        "Name": "Krzysztof Rak",
+        "Department": "Writing",
+        "Job": "Screenplay"
+      },
+      {
+        "Id": 1375173,
+        "Name": "Bartosz Chajdecki",
+        "Department": "Sound",
+        "Job": "Music"
+      },
+      {
+        "Id": 1166085,
+        "Name": "Piotr Sobocinski Jr.",
+        "Department": "Crew",
+        "Job": "Cinematography"
+      }
+    ]
+  },
+  "Images": {
+    "Backdrops": [],
+    "Posters": [
+      {
+        "FilePath": "/eSZXKlpl1cwvRLH4wxitreQMmHl.jpg",
+        "Width": 1000,
+        "Height": 1500,
+        "AspectRatio": 0.666666666666667
+      }
+    ]
+  },
+  "Keywords": {
+    "Id": 298040,
+    "Keywords": [
+      {
+        "Id": 5565,
+        "Name": "biography"
+      }
+    ]
+  },
+  "Trailers": {
+    "Id": 298040,
+    "Quicktime": [],
+    "Youtube": []
+  },
+  "Translations": {
+    "Id": 298040,
+    "Translations": [
+      {
+        "Iso_639_1": "en",
+        "Name": "English",
+        "EnglishName": "English"
+      }
+    ]
+  }
+}

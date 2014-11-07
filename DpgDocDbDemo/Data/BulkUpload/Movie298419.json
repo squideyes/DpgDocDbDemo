@@ -1,0 +1,62 @@
+{
+  "Id": 298419,
+  "Title": "Vampire Bat",
+  "OriginalTitle": "Vampire Bat",
+  "Status": "Released",
+  "Overview": "F. W. Murnau’s menace is double, and triple, trouble.",
+  "Genres": [],
+  "ReleaseDate": "2014-10-19T00:00:00",
+  "Runtime": 3,
+  "Popularity": 0.240163448100688,
+  "ProductionCompanies": [],
+  "ProductionCountries": [],
+  "SpokenLanguages": [],
+  "AlternativeTitles": {
+    "Id": 298419,
+    "Titles": []
+  },
+  "Releases": {
+    "Id": 298419,
+    "Countries": [
+      {
+        "Iso_3166_1": "GB",
+        "ReleaseDate": "2014-10-19T00:00:00"
+      }
+    ]
+  },
+  "Credits": {
+    "Id": 298419,
+    "Cast": [],
+    "Crew": [
+      {
+        "Id": 1376076,
+        "Name": "Stuart Pound",
+        "Department": "Directing",
+        "Job": "Director"
+      }
+    ]
+  },
+  "Images": {
+    "Backdrops": [],
+    "Posters": []
+  },
+  "Keywords": {
+    "Id": 298419,
+    "Keywords": []
+  },
+  "Trailers": {
+    "Id": 298419,
+    "Quicktime": [],
+    "Youtube": []
+  },
+  "Translations": {
+    "Id": 298419,
+    "Translations": [
+      {
+        "Iso_639_1": "en",
+        "Name": "English",
+        "EnglishName": "English"
+      }
+    ]
+  }
+}

@@ -1,0 +1,118 @@
+{
+  "Id": 299096,
+  "ImdbId": "tt2905856",
+  "Title": "Black Panther: The Story of Emilie and Jacob",
+  "OriginalTitle": "Schwarzer Panther",
+  "Status": "Released",
+  "Overview": "After many years apart, Emilie (26) meets her brother Jakob (22) again. She not only shares her sadness about the loss of their parents with him, but also a secret... It is Emilie's wish to arrange the sale of their jointly inherited holiday house in the Swiss Alps.",
+  "Homepage": "http://www.schwarzerpanther.com/",
+  "PosterPath": "/8eWXZSmbW01v7nYnGYEYuj9bAxF.jpg",
+  "Genres": [
+    {
+      "Id": 18,
+      "Name": "Drama"
+    },
+    {
+      "Id": 10751,
+      "Name": "Family"
+    }
+  ],
+  "ReleaseDate": "2014-10-19T00:00:00",
+  "Runtime": 79,
+  "Popularity": 0.31124155906,
+  "ProductionCompanies": [],
+  "ProductionCountries": [
+    {
+      "Iso_3166_1": "CH",
+      "Name": "Switzerland"
+    },
+    {
+      "Iso_3166_1": "DE",
+      "Name": "Germany"
+    }
+  ],
+  "SpokenLanguages": [],
+  "AlternativeTitles": {
+    "Id": 299096,
+    "Titles": []
+  },
+  "Releases": {
+    "Id": 299096,
+    "Countries": [
+      {
+        "Iso_3166_1": "US",
+        "ReleaseDate": "2014-10-19T00:00:00"
+      }
+    ]
+  },
+  "Credits": {
+    "Id": 299096,
+    "Cast": [
+      {
+        "Id": 1377693,
+        "Name": "Jonas Hien",
+        "Order": 1
+      },
+      {
+        "Id": 1377694,
+        "Name": "Ole Jacobs",
+        "Order": 2,
+        "CastId": 1
+      },
+      {
+        "Id": 1187348,
+        "Name": "Lucy Wirth",
+        "Order": 3,
+        "CastId": 2,
+        "ProfilePath": "/dHvgHTvXdLmYjjlibyw2XZN0fA5.jpg"
+      }
+    ],
+    "Crew": [
+      {
+        "Id": 1377695,
+        "Name": "Samuel Perriard",
+        "Department": "Directing",
+        "Job": "Director"
+      },
+      {
+        "Id": 1377695,
+        "Name": "Samuel Perriard",
+        "Department": "Writing",
+        "Job": "Screenplay"
+      }
+    ]
+  },
+  "Images": {
+    "Backdrops": [],
+    "Posters": [
+      {
+        "FilePath": "/8eWXZSmbW01v7nYnGYEYuj9bAxF.jpg",
+        "Width": 550,
+        "Height": 750,
+        "Iso_639_1": "de",
+        "AspectRatio": 0.733333333333333,
+        "VoteAverage": 5.3125,
+        "VoteCount": 1
+      }
+    ]
+  },
+  "Keywords": {
+    "Id": 299096,
+    "Keywords": []
+  },
+  "Trailers": {
+    "Id": 299096,
+    "Quicktime": [],
+    "Youtube": []
+  },
+  "Translations": {
+    "Id": 299096,
+    "Translations": [
+      {
+        "Iso_639_1": "en",
+        "Name": "English",
+        "EnglishName": "English"
+      }
+    ]
+  }
+}

@@ -1,0 +1,92 @@
+{
+  "Id": 300156,
+  "ImdbId": "tt3594042",
+  "Title": "The Interrogation of Cheryl Cooper",
+  "OriginalTitle": "The Interrogation of Cheryl Cooper",
+  "Status": "Released",
+  "Overview": "A young woman wakes up in a room she assumes is a police interrogation room. A detective tells her she is the only survivor of a mass killing that evening. As the Detective has the woman recount the night and the killings, other memories are dredged up making her interrogation a true nightmare.",
+  "PosterPath": "/wRbRIzOXblzHFe8WcD231kloXg9.jpg",
+  "Genres": [],
+  "ReleaseDate": "2014-10-30T00:00:00",
+  "Runtime": 70,
+  "Popularity": 0.844109,
+  "ProductionCompanies": [],
+  "ProductionCountries": [],
+  "SpokenLanguages": [],
+  "AlternativeTitles": {
+    "Id": 300156,
+    "Titles": []
+  },
+  "Releases": {
+    "Id": 300156,
+    "Countries": [
+      {
+        "Iso_3166_1": "US",
+        "ReleaseDate": "2014-10-30T00:00:00"
+      }
+    ]
+  },
+  "Credits": {
+    "Id": 300156,
+    "Cast": [
+      {
+        "Id": 144496,
+        "Name": "Shane Ryan",
+        "Character": "Detective Ben",
+        "Order": 1,
+        "CastId": 2
+      },
+      {
+        "Id": 1306380,
+        "Name": "Tommie Vegas",
+        "Character": "Cheryl Cooper",
+        "Order": 2,
+        "CastId": 3
+      }
+    ],
+    "Crew": [
+      {
+        "Id": 63937,
+        "Name": "Albert Pyun",
+        "Department": "Directing",
+        "Job": "Director"
+      },
+      {
+        "Id": 444458,
+        "Name": "Cynthia Curnan",
+        "Department": "Writing",
+        "Job": "Writer"
+      }
+    ]
+  },
+  "Images": {
+    "Backdrops": [],
+    "Posters": [
+      {
+        "FilePath": "/wRbRIzOXblzHFe8WcD231kloXg9.jpg",
+        "Width": 679,
+        "Height": 960,
+        "AspectRatio": 0.707291666666667
+      }
+    ]
+  },
+  "Keywords": {
+    "Id": 300156,
+    "Keywords": []
+  },
+  "Trailers": {
+    "Id": 300156,
+    "Quicktime": [],
+    "Youtube": []
+  },
+  "Translations": {
+    "Id": 300156,
+    "Translations": [
+      {
+        "Iso_639_1": "en",
+        "Name": "English",
+        "EnglishName": "English"
+      }
+    ]
+  }
+}

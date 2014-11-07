@@ -1,0 +1,187 @@
+{
+  "Id": 295779,
+  "ImdbId": "tt3571468",
+  "Title": "Beti and Amare",
+  "OriginalTitle": "Beti and Amare",
+  "Status": "Released",
+  "Overview": "'Beti and Amare' is a historical science-fiction film set in 1936 Ethiopia. Beti, a young Ethiopian girl has escaped Mussolini's troops and found refuge in the peaceful south of Ethiopia. As the Italians march ever closer Beti has to battle hunger, thirst, and the unwelcome sexual advances of the local militia. When the situation threatens to escalate towards the unthinkable, a spaceship cracks through the clouds... its cargo... love.",
+  "Genres": [
+    {
+      "Id": 18,
+      "Name": "Drama"
+    },
+    {
+      "Id": 878,
+      "Name": "Science Fiction"
+    },
+    {
+      "Id": 10749,
+      "Name": "Romance"
+    },
+    {
+      "Id": 10752,
+      "Name": "War"
+    }
+  ],
+  "ReleaseDate": "2014-10-18T00:00:00",
+  "Budget": 7000,
+  "Runtime": 94,
+  "Popularity": 0.325565416807369,
+  "ProductionCompanies": [],
+  "ProductionCountries": [
+    {
+      "Iso_3166_1": "CA",
+      "Name": "Canada"
+    },
+    {
+      "Iso_3166_1": "DE",
+      "Name": "Germany"
+    },
+    {
+      "Iso_3166_1": "ES",
+      "Name": "Spain"
+    },
+    {
+      "Iso_3166_1": "ET",
+      "Name": "Ethiopia"
+    },
+    {
+      "Iso_3166_1": "RO",
+      "Name": "Romania"
+    },
+    {
+      "Iso_3166_1": "US",
+      "Name": "United States of America"
+    }
+  ],
+  "SpokenLanguages": [],
+  "AlternativeTitles": {
+    "Id": 295779,
+    "Titles": []
+  },
+  "Releases": {
+    "Id": 295779,
+    "Countries": [
+      {
+        "Iso_3166_1": "GB",
+        "ReleaseDate": "2014-10-18T00:00:00"
+      }
+    ]
+  },
+  "Credits": {
+    "Id": 295779,
+    "Cast": [
+      {
+        "Id": 1369299,
+        "Name": "Pascal Dawson",
+        "Character": "Amare",
+        "Order": 7,
+        "CastId": 12
+      },
+      {
+        "Id": 1369300,
+        "Name": "Hiwot Asres",
+        "Character": "Beti",
+        "Order": 8,
+        "CastId": 13
+      },
+      {
+        "Id": 1369301,
+        "Name": "Atrsaw Wisenbet",
+        "Character": "Grandfather",
+        "Order": 9,
+        "CastId": 14
+      },
+      {
+        "Id": 1369303,
+        "Name": "Mahdere H Sisay",
+        "Character": "Official",
+        "Order": 10,
+        "CastId": 15
+      },
+      {
+        "Id": 1369304,
+        "Name": "Biniyam Kore",
+        "Character": "Main Rider",
+        "Order": 11,
+        "CastId": 16
+      },
+      {
+        "Id": 1369305,
+        "Name": "Yonas An Kidane",
+        "Character": "2nd Rider",
+        "Order": 12,
+        "CastId": 17
+      },
+      {
+        "Id": 1369306,
+        "Name": "Delelegne Sharwe",
+        "Character": "3rd Rider",
+        "Order": 13,
+        "CastId": 18
+      },
+      {
+        "Id": 1369294,
+        "Name": "Andy Siege",
+        "Character": "Italian",
+        "Order": 14,
+        "CastId": 19
+      }
+    ],
+    "Crew": [
+      {
+        "Id": 1369294,
+        "Name": "Andy Siege",
+        "Department": "Editing",
+        "Job": "Editor"
+      },
+      {
+        "Id": 1369294,
+        "Name": "Andy Siege",
+        "Department": "Directing",
+        "Job": "Director"
+      },
+      {
+        "Id": 1369294,
+        "Name": "Andy Siege",
+        "Department": "Crew",
+        "Job": "Cinematography"
+      },
+      {
+        "Id": 1369294,
+        "Name": "Andy Siege",
+        "Department": "Production",
+        "Job": "Producer"
+      },
+      {
+        "Id": 1369299,
+        "Name": "Pascal Dawson",
+        "Department": "Production",
+        "Job": "Producer"
+      }
+    ]
+  },
+  "Images": {
+    "Backdrops": [],
+    "Posters": []
+  },
+  "Keywords": {
+    "Id": 295779,
+    "Keywords": []
+  },
+  "Trailers": {
+    "Id": 295779,
+    "Quicktime": [],
+    "Youtube": []
+  },
+  "Translations": {
+    "Id": 295779,
+    "Translations": [
+      {
+        "Iso_639_1": "en",
+        "Name": "English",
+        "EnglishName": "English"
+      }
+    ]
+  }
+}

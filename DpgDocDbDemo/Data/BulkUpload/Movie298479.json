@@ -1,0 +1,93 @@
+{
+  "Id": 298479,
+  "ImdbId": "tt3885586",
+  "Title": "Metal Child",
+  "OriginalTitle": "Niño de Metal",
+  "Status": "Released",
+  "Overview": "It’s Saturday in Mexico City. A young man, Munra, works weekends in a street market that deals in heavy metal products. He finds himself in deep trouble when he has to take care of his two-year-old, Ozzy. He had Ozzy with his girlfriend, La Vamp, who’s also into heavy metal, but unfortunately, and much to Munra’s chagrin, no longer into him. When people are disappointed and in pain they can end up doing things that are thoughtless and absurd…",
+  "Genres": [],
+  "ReleaseDate": "2014-10-18T00:00:00",
+  "Runtime": 14,
+  "Popularity": 0.229852489398395,
+  "ProductionCompanies": [],
+  "ProductionCountries": [],
+  "SpokenLanguages": [],
+  "AlternativeTitles": {
+    "Id": 298479,
+    "Titles": []
+  },
+  "Releases": {
+    "Id": 298479,
+    "Countries": [
+      {
+        "Iso_3166_1": "MX",
+        "ReleaseDate": "2014-10-18T00:00:00"
+      }
+    ]
+  },
+  "Credits": {
+    "Id": 298479,
+    "Cast": [
+      {
+        "Id": 1018056,
+        "Name": "Gabino Rodríguez",
+        "Order": 1
+      },
+      {
+        "Id": 1376201,
+        "Name": "Carolina Navarrete",
+        "Order": 2,
+        "CastId": 1
+      },
+      {
+        "Id": 947768,
+        "Name": "Andrés Almeida",
+        "Order": 3,
+        "CastId": 2
+      },
+      {
+        "Id": 1376202,
+        "Name": "Mattias Ahuja Barba",
+        "Order": 4,
+        "CastId": 3
+      }
+    ],
+    "Crew": [
+      {
+        "Id": 1376203,
+        "Name": "Pedro García Mejía",
+        "Department": "Directing",
+        "Job": "Director"
+      },
+      {
+        "Id": 1376203,
+        "Name": "Pedro García Mejía",
+        "Department": "Writing",
+        "Job": "Screenplay"
+      }
+    ]
+  },
+  "Images": {
+    "Backdrops": [],
+    "Posters": []
+  },
+  "Keywords": {
+    "Id": 298479,
+    "Keywords": []
+  },
+  "Trailers": {
+    "Id": 298479,
+    "Quicktime": [],
+    "Youtube": []
+  },
+  "Translations": {
+    "Id": 298479,
+    "Translations": [
+      {
+        "Iso_639_1": "en",
+        "Name": "English",
+        "EnglishName": "English"
+      }
+    ]
+  }
+}

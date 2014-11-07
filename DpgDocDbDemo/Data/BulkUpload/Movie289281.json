@@ -1,0 +1,83 @@
+{
+  "Id": 289281,
+  "Title": "All We Have is Now",
+  "OriginalTitle": "All We Have is Now",
+  "Status": "Released",
+  "Overview": "A documentary about the Swedish band \"Vulkano\"",
+  "PosterPath": "/lpn5R6mX6T8NTioVOp2ON017Hc4.jpg",
+  "Genres": [],
+  "ReleaseDate": "2014-10-24T00:00:00",
+  "Runtime": 80,
+  "Popularity": 0.448525307133427,
+  "ProductionCompanies": [],
+  "ProductionCountries": [],
+  "SpokenLanguages": [],
+  "AlternativeTitles": {
+    "Id": 289281,
+    "Titles": []
+  },
+  "Releases": {
+    "Id": 289281,
+    "Countries": [
+      {
+        "Iso_3166_1": "SE",
+        "ReleaseDate": "2014-10-24T00:00:00"
+      }
+    ]
+  },
+  "Credits": {
+    "Id": 289281,
+    "Cast": [],
+    "Crew": [
+      {
+        "Id": 70092,
+        "Name": "Alexandra Dahlström",
+        "Department": "Directing",
+        "Job": "Director",
+        "ProfilePath": "/uYE1qcXojA63VllCJZwIhZb22bp.jpg"
+      }
+    ]
+  },
+  "Images": {
+    "Backdrops": [],
+    "Posters": [
+      {
+        "FilePath": "/lpn5R6mX6T8NTioVOp2ON017Hc4.jpg",
+        "Width": 1000,
+        "Height": 1500,
+        "Iso_639_1": "en",
+        "AspectRatio": 0.666666666666667,
+        "VoteAverage": 5.3125,
+        "VoteCount": 1
+      },
+      {
+        "FilePath": "/o2KbRadWeXYZSJno79ZtZwvh35c.jpg",
+        "Width": 1400,
+        "Height": 1980,
+        "Iso_639_1": "sv",
+        "AspectRatio": 0.707070707070707,
+        "VoteAverage": 5.29761904761905,
+        "VoteCount": 1
+      }
+    ]
+  },
+  "Keywords": {
+    "Id": 289281,
+    "Keywords": []
+  },
+  "Trailers": {
+    "Id": 289281,
+    "Quicktime": [],
+    "Youtube": []
+  },
+  "Translations": {
+    "Id": 289281,
+    "Translations": [
+      {
+        "Iso_639_1": "en",
+        "Name": "English",
+        "EnglishName": "English"
+      }
+    ]
+  }
+}

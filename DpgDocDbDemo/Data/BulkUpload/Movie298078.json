@@ -1,0 +1,150 @@
+{
+  "Id": 298078,
+  "ImdbId": "tt2668150",
+  "Title": "Ruined Heart: Another Love Story Between A Criminal & A Whore",
+  "OriginalTitle": "Pusong Wazak: Isa Na Namang Kwento Ng Pag-ibig Sa Pagitan Ng Puta At Kriminal",
+  "Status": "Released",
+  "Tagline": "When violence is the only life you know, will love save you or just unravel everything?",
+  "Overview": "A merciless hit man rescues a prostitute from a violent incident in a Philippine slum before the two take flight.  Though Khavn, a standard-bearer of the digital age in the Philippines, has already established himself as a director of countless films, he is also an accomplished poet and musician. The bewildering visuals and punk-opera soundtrack expertly convey a world that extends far beyond the dialogue. As the story unfolds, a poetic sentiment wafts out of the chaos, signaling a collision of the director’s many talents.",
+  "Homepage": "https://www.facebook.com/pusongwazak",
+  "PosterPath": "/lyxC5UDfufk1pJqpM5agzhfdSDk.jpg",
+  "Genres": [
+    {
+      "Id": 28,
+      "Name": "Action"
+    },
+    {
+      "Id": 12,
+      "Name": "Adventure"
+    },
+    {
+      "Id": 18,
+      "Name": "Drama"
+    },
+    {
+      "Id": 10402,
+      "Name": "Music"
+    }
+  ],
+  "ReleaseDate": "2014-10-24T00:00:00",
+  "Runtime": 73,
+  "Popularity": 0.571052347246786,
+  "ProductionCompanies": [],
+  "ProductionCountries": [
+    {
+      "Iso_3166_1": "PH",
+      "Name": "Philippines"
+    }
+  ],
+  "SpokenLanguages": [
+    {
+      "Iso_639_1": "ja",
+      "Name": "日本語"
+    },
+    {
+      "Iso_639_1": "tl"
+    }
+  ],
+  "AlternativeTitles": {
+    "Id": 298078,
+    "Titles": []
+  },
+  "Releases": {
+    "Id": 298078,
+    "Countries": [
+      {
+        "Iso_3166_1": "JP",
+        "ReleaseDate": "2014-10-24T00:00:00"
+      }
+    ]
+  },
+  "Credits": {
+    "Id": 298078,
+    "Cast": [
+      {
+        "Id": 13275,
+        "Name": "Tadanobu Asano",
+        "Order": 1,
+        "ProfilePath": "/zlZsST8s1Apm6D6bCyYeWrCKZCy.jpg"
+      },
+      {
+        "Id": 1375242,
+        "Name": "Nathalia Acevedo",
+        "Order": 2,
+        "CastId": 1
+      },
+      {
+        "Id": 1375243,
+        "Name": "Elena Kazan",
+        "Order": 3,
+        "CastId": 2
+      },
+      {
+        "Id": 1349334,
+        "Name": "Vim Nadera",
+        "Order": 4,
+        "CastId": 3
+      }
+    ],
+    "Crew": [
+      {
+        "Id": 1028310,
+        "Name": "Khavn",
+        "Department": "Directing",
+        "Job": "Director"
+      },
+      {
+        "Id": 1028310,
+        "Name": "Khavn",
+        "Department": "Writing",
+        "Job": "Screenplay"
+      },
+      {
+        "Id": 1357,
+        "Name": "Christopher Doyle",
+        "Department": "Camera",
+        "Job": "Director of Photography",
+        "ProfilePath": "/u7xRErdN6ya9qzOG8PVa2QshZFC.jpg"
+      },
+      {
+        "Id": 1375244,
+        "Name": "Frances Soeder",
+        "Department": "Art",
+        "Job": "Production Design"
+      }
+    ]
+  },
+  "Images": {
+    "Backdrops": [],
+    "Posters": [
+      {
+        "FilePath": "/lyxC5UDfufk1pJqpM5agzhfdSDk.jpg",
+        "Width": 550,
+        "Height": 750,
+        "Iso_639_1": "en",
+        "AspectRatio": 0.733333333333333,
+        "VoteAverage": 5.3125,
+        "VoteCount": 1
+      }
+    ]
+  },
+  "Keywords": {
+    "Id": 298078,
+    "Keywords": []
+  },
+  "Trailers": {
+    "Id": 298078,
+    "Quicktime": [],
+    "Youtube": []
+  },
+  "Translations": {
+    "Id": 298078,
+    "Translations": [
+      {
+        "Iso_639_1": "en",
+        "Name": "English",
+        "EnglishName": "English"
+      }
+    ]
+  }
+}

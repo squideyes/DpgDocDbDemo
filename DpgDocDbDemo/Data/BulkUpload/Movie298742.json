@@ -1,0 +1,86 @@
+{
+  "Id": 298742,
+  "ImdbId": "tt4136268",
+  "Title": "Dilim",
+  "OriginalTitle": "Dilim",
+  "Status": "Released",
+  "Overview": "A nursing student encounters strange occurrences around the dorm where she's staying. She enlists of another student to unravel the mystery of the dormitory.",
+  "PosterPath": "/83v8DpQUwtpwxoGfkoaUJo7evbp.jpg",
+  "Genres": [
+    {
+      "Id": 27,
+      "Name": "Horror"
+    }
+  ],
+  "ReleaseDate": "2014-10-22T00:00:00",
+  "Runtime": 95,
+  "Popularity": 0.4042636459417,
+  "ProductionCompanies": [],
+  "ProductionCountries": [
+    {
+      "Iso_3166_1": "PH",
+      "Name": "Philippines"
+    }
+  ],
+  "SpokenLanguages": [
+    {
+      "Iso_639_1": "tl"
+    }
+  ],
+  "AlternativeTitles": {
+    "Id": 298742,
+    "Titles": []
+  },
+  "Releases": {
+    "Id": 298742,
+    "Countries": [
+      {
+        "Iso_3166_1": "PH",
+        "ReleaseDate": "2014-10-22T00:00:00"
+      }
+    ]
+  },
+  "Credits": {
+    "Id": 298742,
+    "Cast": [],
+    "Crew": [
+      {
+        "Id": 227353,
+        "Name": "Jose Javier Reyes",
+        "Department": "Directing",
+        "Job": "Director",
+        "ProfilePath": "/D8UVEAEUfKUQYJK4n4w12SfRV7.jpg"
+      }
+    ]
+  },
+  "Images": {
+    "Backdrops": [],
+    "Posters": [
+      {
+        "FilePath": "/83v8DpQUwtpwxoGfkoaUJo7evbp.jpg",
+        "Width": 500,
+        "Height": 750,
+        "AspectRatio": 0.666666666666667
+      }
+    ]
+  },
+  "Keywords": {
+    "Id": 298742,
+    "Keywords": []
+  },
+  "Trailers": {
+    "Id": 298742,
+    "Quicktime": [],
+    "Youtube": []
+  },
+  "Translations": {
+    "Id": 298742,
+    "Translations": [
+      {
+        "Iso_639_1": "en",
+        "Name": "English",
+        "EnglishName": "English"
+      }
+    ]
+  }
+}

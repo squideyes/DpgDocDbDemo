@@ -1,0 +1,139 @@
+{
+  "Id": 297878,
+  "ImdbId": "tt3887242",
+  "Title": "Kismet",
+  "OriginalTitle": "Kismet",
+  "Status": "Released",
+  "Overview": "Emotionally distressed Jill meets charming Alex at a party and they decide to break into an abandoned house for fun, only to find it not as empty as they had hoped.",
+  "Genres": [
+    {
+      "Id": 35,
+      "Name": "Comedy"
+    },
+    {
+      "Id": 27,
+      "Name": "Horror"
+    }
+  ],
+  "ReleaseDate": "2014-10-19T00:00:00",
+  "Runtime": 17,
+  "Popularity": 0.493122369782574,
+  "VoteAverage": 7.5,
+  "VoteCount": 1,
+  "ProductionCompanies": [],
+  "ProductionCountries": [],
+  "SpokenLanguages": [
+    {
+      "Iso_639_1": "en",
+      "Name": "English"
+    }
+  ],
+  "AlternativeTitles": {
+    "Id": 297878,
+    "Titles": []
+  },
+  "Releases": {
+    "Id": 297878,
+    "Countries": [
+      {
+        "Iso_3166_1": "CA",
+        "ReleaseDate": "2014-10-19T00:00:00"
+      }
+    ]
+  },
+  "Credits": {
+    "Id": 297878,
+    "Cast": [
+      {
+        "Id": 1374760,
+        "Name": "Nicole Marie McCafferty",
+        "Character": "Jill",
+        "Order": 1,
+        "CastId": 1
+      },
+      {
+        "Id": 1374761,
+        "Name": "Sam Stewart",
+        "Character": "Alex",
+        "Order": 2,
+        "CastId": 2
+      },
+      {
+        "Id": 1374762,
+        "Name": "Brianna Gare",
+        "Character": "Jill's Friend",
+        "Order": 3,
+        "CastId": 3
+      },
+      {
+        "Id": 1374759,
+        "Name": "Sean Cammack",
+        "Character": "Alex's Friend",
+        "Order": 4,
+        "CastId": 4
+      },
+      {
+        "Id": 1374763,
+        "Name": "Jennifer Ward",
+        "Character": "Barbara Baret",
+        "Order": 5,
+        "CastId": 5
+      },
+      {
+        "Id": 1374764,
+        "Name": "Sara Jackson",
+        "Character": "Party Host",
+        "Order": 6,
+        "CastId": 6
+      }
+    ],
+    "Crew": [
+      {
+        "Id": 1374759,
+        "Name": "Sean Cammack",
+        "Department": "Directing",
+        "Job": "Director"
+      },
+      {
+        "Id": 1374759,
+        "Name": "Sean Cammack",
+        "Department": "Writing",
+        "Job": "Writer"
+      }
+    ]
+  },
+  "Images": {
+    "Backdrops": [],
+    "Posters": []
+  },
+  "Keywords": {
+    "Id": 297878,
+    "Keywords": [
+      {
+        "Id": 207653,
+        "Name": "short"
+      }
+    ]
+  },
+  "Trailers": {
+    "Id": 297878,
+    "Quicktime": [],
+    "Youtube": [
+      {
+        "Name": "Kismet Trailer",
+        "Size": "Standard",
+        "Source": "tzCbuOWM8pE"
+      }
+    ]
+  },
+  "Translations": {
+    "Id": 297878,
+    "Translations": [
+      {
+        "Iso_639_1": "en",
+        "Name": "English",
+        "EnglishName": "English"
+      }
+    ]
+  }
+}

@@ -1,0 +1,63 @@
+{
+  "Id": 297590,
+  "Title": "The Day The Series Stopped",
+  "OriginalTitle": "The Day The Series Stopped",
+  "Status": "Released",
+  "Overview": "On Oct. 17, 1989, at 5:04 p.m. PT, soon after Al Michaels and Tim McCarver started the ABC telecast for Game 3 of the World Series between the San Francisco Giants and the Oakland Athletics, the ground began to shake beneath Candlestick Park. Even before that moment, this had promised to be a memorable matchup: the first in 33 years between teams from the same metropolitan area, a battle featuring larger-than-life characters and equally colorful fan bases. But after the 6.9 Loma Prieta earthquake rolled through, bringing death and destruction, the Bay Area pulled together, and baseball took a backseat.",
+  "Homepage": "http://thedaytheseriesstopped.com/",
+  "Genres": [],
+  "ReleaseDate": "2014-10-13T00:00:00",
+  "Runtime": 0,
+  "Popularity": 0.18899861727145,
+  "ProductionCompanies": [],
+  "ProductionCountries": [],
+  "SpokenLanguages": [],
+  "AlternativeTitles": {
+    "Id": 297590,
+    "Titles": []
+  },
+  "Releases": {
+    "Id": 297590,
+    "Countries": [
+      {
+        "Iso_3166_1": "US",
+        "ReleaseDate": "2014-10-13T00:00:00"
+      }
+    ]
+  },
+  "Credits": {
+    "Id": 297590,
+    "Cast": [],
+    "Crew": [
+      {
+        "Id": 53068,
+        "Name": "Ryan Fleck",
+        "Department": "Directing",
+        "Job": "Director"
+      }
+    ]
+  },
+  "Images": {
+    "Backdrops": [],
+    "Posters": []
+  },
+  "Keywords": {
+    "Id": 297590,
+    "Keywords": []
+  },
+  "Trailers": {
+    "Id": 297590,
+    "Quicktime": [],
+    "Youtube": []
+  },
+  "Translations": {
+    "Id": 297590,
+    "Translations": [
+      {
+        "Iso_639_1": "en",
+        "Name": "English",
+        "EnglishName": "English"
+      }
+    ]
+  }
+}

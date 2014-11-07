@@ -1,0 +1,73 @@
+{
+  "Id": 285198,
+  "Title": "Bjørnøya",
+  "OriginalTitle": "Bjørnøya",
+  "Status": "Released",
+  "Overview": "Three brothers wish to surf waves no one has surfed before them. The answer is to go to Bjørnøya, the island next to the better known Spitsbergen. For two months they live on the island, self sufficient in food and equipment.",
+  "Genres": [],
+  "ReleaseDate": "2014-10-10T00:00:00",
+  "Runtime": 85,
+  "Popularity": 0.174642301231012,
+  "ProductionCompanies": [],
+  "ProductionCountries": [],
+  "SpokenLanguages": [
+    {
+      "Iso_639_1": "no",
+      "Name": "Norsk"
+    }
+  ],
+  "AlternativeTitles": {
+    "Id": 285198,
+    "Titles": []
+  },
+  "Releases": {
+    "Id": 285198,
+    "Countries": [
+      {
+        "Iso_3166_1": "NO",
+        "ReleaseDate": "2014-10-10T00:00:00"
+      }
+    ]
+  },
+  "Credits": {
+    "Id": 285198,
+    "Cast": [],
+    "Crew": [
+      {
+        "Id": 1147698,
+        "Name": "Edda Trandum Grjotheim",
+        "Department": "Directing",
+        "Job": "Director"
+      },
+      {
+        "Id": 1149176,
+        "Name": "Inge Wegge",
+        "Department": "Directing",
+        "Job": "Director"
+      }
+    ]
+  },
+  "Images": {
+    "Backdrops": [],
+    "Posters": []
+  },
+  "Keywords": {
+    "Id": 285198,
+    "Keywords": []
+  },
+  "Trailers": {
+    "Id": 285198,
+    "Quicktime": [],
+    "Youtube": []
+  },
+  "Translations": {
+    "Id": 285198,
+    "Translations": [
+      {
+        "Iso_639_1": "en",
+        "Name": "English",
+        "EnglishName": "English"
+      }
+    ]
+  }
+}

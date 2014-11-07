@@ -1,0 +1,120 @@
+{
+  "Id": 296065,
+  "ImdbId": "tt2965466/",
+  "Title": "Last Shift",
+  "OriginalTitle": "Last Shift",
+  "Status": "Released",
+  "Overview": "A rookie cop's world is turned upside down when she comes face to face with Paymon - King Of Hell. Officer Jessica Loren has the last shift at a transitioning police station, assigned to wait for a crew picking up bio-hazard waste from the armoury. But unbeknownst to her, cult leader John Michael Paymon has haunted the department ever since he committed suicide in custody. Jessica is about to find out just how dangerous he still is, all alone on the graveyard shift.............",
+  "PosterPath": "/dW9qVptk8EQlvDxDpdkRppIQRaI.jpg",
+  "Genres": [
+    {
+      "Id": 27,
+      "Name": "Horror"
+    }
+  ],
+  "ReleaseDate": "2014-10-26T00:00:00",
+  "Runtime": 90,
+  "Popularity": 0.610025194210932,
+  "ProductionCompanies": [
+    {
+      "Name": "Skyra Entertainment",
+      "Id": 34502
+    }
+  ],
+  "ProductionCountries": [
+    {
+      "Iso_3166_1": "US",
+      "Name": "United States of America"
+    }
+  ],
+  "SpokenLanguages": [],
+  "AlternativeTitles": {
+    "Id": 296065,
+    "Titles": []
+  },
+  "Releases": {
+    "Id": 296065,
+    "Countries": [
+      {
+        "Iso_3166_1": "GB",
+        "ReleaseDate": "2014-10-26T00:00:00"
+      }
+    ]
+  },
+  "Credits": {
+    "Id": 296065,
+    "Cast": [
+      {
+        "Id": 576474,
+        "Name": "Juliana Harkavy",
+        "Character": "Jessica Loren",
+        "Order": 1
+      },
+      {
+        "Id": 1046665,
+        "Name": "Joshua Mikel",
+        "Character": "John Michael Paymon",
+        "Order": 2,
+        "CastId": 1
+      },
+      {
+        "Id": 139631,
+        "Name": "J. Larose",
+        "Character": "Panty Belt Patrick Black",
+        "Order": 3,
+        "CastId": 2,
+        "ProfilePath": "/fhWAhpZ1wpfO0tRI6NVxWzP3ci4.jpg"
+      }
+    ],
+    "Crew": [
+      {
+        "Id": 111059,
+        "Name": "Anthony DiBlasi",
+        "Department": "Directing",
+        "Job": "Director"
+      },
+      {
+        "Id": 111059,
+        "Name": "Anthony DiBlasi",
+        "Department": "Writing",
+        "Job": "Writer"
+      },
+      {
+        "Id": 1205178,
+        "Name": "Scott Poiley",
+        "Department": "Writing",
+        "Job": "Writer"
+      }
+    ]
+  },
+  "Images": {
+    "Backdrops": [],
+    "Posters": [
+      {
+        "FilePath": "/dW9qVptk8EQlvDxDpdkRppIQRaI.jpg",
+        "Width": 534,
+        "Height": 751,
+        "AspectRatio": 0.711051930758988
+      }
+    ]
+  },
+  "Keywords": {
+    "Id": 296065,
+    "Keywords": []
+  },
+  "Trailers": {
+    "Id": 296065,
+    "Quicktime": [],
+    "Youtube": []
+  },
+  "Translations": {
+    "Id": 296065,
+    "Translations": [
+      {
+        "Iso_639_1": "en",
+        "Name": "English",
+        "EnglishName": "English"
+      }
+    ]
+  }
+}

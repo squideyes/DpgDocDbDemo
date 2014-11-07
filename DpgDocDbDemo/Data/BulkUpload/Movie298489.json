@@ -1,0 +1,86 @@
+{
+  "Id": 298489,
+  "Title": "Satan's Dolls",
+  "OriginalTitle": "Satan's Dolls",
+  "Status": "Released",
+  "Overview": "On the run from the cops, a gangstress hides herself in a convent. Soon, their peace is broken and the bodies begin to pile.",
+  "Homepage": "http://vimeo.com/109115836",
+  "Genres": [],
+  "ReleaseDate": "2014-10-23T00:00:00",
+  "Runtime": 20,
+  "Popularity": 0.572813668543855,
+  "ProductionCompanies": [],
+  "ProductionCountries": [
+    {
+      "Iso_3166_1": "CA",
+      "Name": "Canada"
+    }
+  ],
+  "SpokenLanguages": [
+    {
+      "Iso_639_1": "en",
+      "Name": "English"
+    }
+  ],
+  "AlternativeTitles": {
+    "Id": 298489,
+    "Titles": []
+  },
+  "Releases": {
+    "Id": 298489,
+    "Countries": [
+      {
+        "Iso_3166_1": "CA",
+        "ReleaseDate": "2014-10-23T00:00:00"
+      }
+    ]
+  },
+  "Credits": {
+    "Id": 298489,
+    "Cast": [
+      {
+        "Id": 1376255,
+        "Name": "Julie McCarthy",
+        "Character": "Sister Martha",
+        "Order": 1,
+        "CastId": 1
+      }
+    ],
+    "Crew": [
+      {
+        "Id": 1376254,
+        "Name": "Carlo Schefter",
+        "Department": "Directing",
+        "Job": "Director"
+      }
+    ]
+  },
+  "Images": {
+    "Backdrops": [],
+    "Posters": []
+  },
+  "Keywords": {
+    "Id": 298489,
+    "Keywords": [
+      {
+        "Id": 207653,
+        "Name": "short"
+      }
+    ]
+  },
+  "Trailers": {
+    "Id": 298489,
+    "Quicktime": [],
+    "Youtube": []
+  },
+  "Translations": {
+    "Id": 298489,
+    "Translations": [
+      {
+        "Iso_639_1": "en",
+        "Name": "English",
+        "EnglishName": "English"
+      }
+    ]
+  }
+}

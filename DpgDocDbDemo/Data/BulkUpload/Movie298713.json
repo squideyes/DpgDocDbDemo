@@ -1,0 +1,290 @@
+{
+  "Id": 298713,
+  "ImdbId": "tt4121306",
+  "Title": "Lạc Giới",
+  "OriginalTitle": "Lạc Giới",
+  "Status": "Released",
+  "PosterPath": "/zzRjHE9j5LNNzXzPJxDGubYxEt3.jpg",
+  "Genres": [
+    {
+      "Id": 18,
+      "Name": "Drama"
+    },
+    {
+      "Id": 10749,
+      "Name": "Romance"
+    }
+  ],
+  "ReleaseDate": "2014-10-17T00:00:00",
+  "Popularity": 0.19046286909838,
+  "VoteAverage": 7.5,
+  "VoteCount": 1,
+  "ProductionCompanies": [
+    {
+      "Name": "HKFilm",
+      "Id": 31453
+    },
+    {
+      "Name": "Tincom Media",
+      "Id": 36069
+    },
+    {
+      "Name": "Galaxy Distribution",
+      "Id": 36071
+    },
+    {
+      "Name": "PixelGarden Post Production",
+      "Id": 36072
+    },
+    {
+      "Name": "IMC",
+      "Id": 36073
+    }
+  ],
+  "ProductionCountries": [
+    {
+      "Iso_3166_1": "VN",
+      "Name": "Viet Nam"
+    }
+  ],
+  "SpokenLanguages": [
+    {
+      "Iso_639_1": "vi",
+      "Name": "Tiếng Việt"
+    }
+  ],
+  "AlternativeTitles": {
+    "Id": 298713,
+    "Titles": [
+      {
+        "Iso_3166_1": "US",
+        "Title": "Paradise In Heart"
+      },
+      {
+        "Iso_3166_1": "VN",
+        "Title": "Lạc Giới"
+      }
+    ]
+  },
+  "Releases": {
+    "Id": 298713,
+    "Countries": [
+      {
+        "Iso_3166_1": "VN",
+        "ReleaseDate": "2014-10-17T00:00:00"
+      }
+    ]
+  },
+  "Credits": {
+    "Id": 298713,
+    "Cast": [
+      {
+        "Id": 1376729,
+        "Name": "Trung Dũng",
+        "Character": "Trung",
+        "Order": 1
+      },
+      {
+        "Id": 1376731,
+        "Name": "Mai Thu Huyền",
+        "Character": "Kim",
+        "Order": 2,
+        "CastId": 1
+      },
+      {
+        "Id": 1376733,
+        "Name": "Nguyễn Bình An",
+        "Character": "Hải",
+        "Order": 3,
+        "CastId": 2
+      },
+      {
+        "Id": 1376735,
+        "Name": "Vũ Tuấn Việt",
+        "Character": "Policer",
+        "Order": 4,
+        "CastId": 3
+      },
+      {
+        "Id": 1119530,
+        "Name": "Thành Lộc",
+        "Character": "Chủ quán",
+        "Order": 5,
+        "CastId": 4
+      },
+      {
+        "Id": 1376750,
+        "Name": "Mai Hồ",
+        "Order": 6,
+        "CastId": 20
+      },
+      {
+        "Id": 1376751,
+        "Name": "Mai Thu Trang",
+        "Order": 7,
+        "CastId": 21
+      },
+      {
+        "Id": 1376752,
+        "Name": "Tuyền Mập",
+        "Order": 8,
+        "CastId": 22
+      },
+      {
+        "Id": 1376753,
+        "Name": "Trung Dân",
+        "Order": 9,
+        "CastId": 23
+      }
+    ],
+    "Crew": [
+      {
+        "Id": 1376736,
+        "Name": "Phi Tiến Sơn",
+        "Department": "Directing",
+        "Job": "Director"
+      },
+      {
+        "Id": 1376737,
+        "Name": "Joel Spezeski",
+        "Department": "Camera",
+        "Job": "Director of Photography"
+      },
+      {
+        "Id": 1376738,
+        "Name": "Huy Tuấn",
+        "Department": "Sound",
+        "Job": "Music"
+      },
+      {
+        "Id": 1376736,
+        "Name": "Phi Tiến Sơn",
+        "Department": "Writing",
+        "Job": "Writer"
+      },
+      {
+        "Id": 1376729,
+        "Name": "Trung Dũng",
+        "Department": "Writing",
+        "Job": "Writer"
+      },
+      {
+        "Id": 1376739,
+        "Name": "HTAT",
+        "Department": "Editing",
+        "Job": "Editor"
+      },
+      {
+        "Id": 1376740,
+        "Name": "Kuro Chung",
+        "Department": "Visual Effects",
+        "Job": "Color Designer"
+      },
+      {
+        "Id": 1376741,
+        "Name": "Mohan Mahesan",
+        "Department": "Sound",
+        "Job": "Sound Designer"
+      },
+      {
+        "Id": 1376742,
+        "Name": "Marlon Victor Bondoc",
+        "Department": "Visual Effects",
+        "Job": "Visual Effects"
+      },
+      {
+        "Id": 54178,
+        "Name": "Franck Desmoulins",
+        "Department": "Crew",
+        "Job": "Mixing Engineer"
+      },
+      {
+        "Id": 1376744,
+        "Name": "Trần Ka My",
+        "Department": "Production",
+        "Job": "Producer"
+      },
+      {
+        "Id": 1376731,
+        "Name": "Mai Thu Huyền",
+        "Department": "Production",
+        "Job": "Production Manager"
+      },
+      {
+        "Id": 1376746,
+        "Name": "Trần Minh Huyền",
+        "Department": "Production",
+        "Job": "Co-Producer"
+      },
+      {
+        "Id": 1376748,
+        "Name": "Nguyễn Trung Phan",
+        "Department": "Costume & Make-Up",
+        "Job": "Costume Design"
+      },
+      {
+        "Id": 1376749,
+        "Name": "Nguyễn Mạnh Hùng",
+        "Department": "Crew",
+        "Job": "Cinematography"
+      }
+    ]
+  },
+  "Images": {
+    "Backdrops": [],
+    "Posters": [
+      {
+        "FilePath": "/zzRjHE9j5LNNzXzPJxDGubYxEt3.jpg",
+        "Width": 1433,
+        "Height": 2048,
+        "Iso_639_1": "vi",
+        "AspectRatio": 0.69970703125,
+        "VoteAverage": 5.27529761904762,
+        "VoteCount": 1
+      },
+      {
+        "FilePath": "/n7qsS62x4ZMH1traQh5fXjUePqe.jpg",
+        "Width": 672,
+        "Height": 960,
+        "Iso_639_1": "vi",
+        "AspectRatio": 0.7
+      }
+    ]
+  },
+  "Keywords": {
+    "Id": 298713,
+    "Keywords": [
+      {
+        "Id": 9840,
+        "Name": "romance"
+      },
+      {
+        "Id": 154937,
+        "Name": "bisexual"
+      },
+      {
+        "Id": 207919,
+        "Name": "lac gioi"
+      },
+      {
+        "Id": 207920,
+        "Name": "paradise in heart"
+      }
+    ]
+  },
+  "Trailers": {
+    "Id": 298713,
+    "Quicktime": [],
+    "Youtube": []
+  },
+  "Translations": {
+    "Id": 298713,
+    "Translations": [
+      {
+        "Iso_639_1": "vi",
+        "Name": "Tiếng Việt",
+        "EnglishName": "Vietnamese"
+      }
+    ]
+  }
+}

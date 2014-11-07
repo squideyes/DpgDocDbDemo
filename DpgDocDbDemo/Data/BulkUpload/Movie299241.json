@@ -1,0 +1,168 @@
+{
+  "Id": 299241,
+  "ImdbId": "tt4004494",
+  "Title": "Matria",
+  "OriginalTitle": "Matria",
+  "Status": "Released",
+  "Tagline": "Your history is your best inheritance.",
+  "Overview": "My grandfather fought alongside Pancho Villa, became Master Mason, was an elected official who represented Oaxaca three times, and president of the national Association of Cattle Hands. In 1942, he formed the Legion of Mexican Fighters, a group of 100,000 cattle hands training to repel a possible Nazi invasion in Mexico. His story of success, however, held a secret that affected my family, and that I discovered while making this documentary.",
+  "PosterPath": "/paZPKaajctu6wvlCoynf3t4KsSN.jpg",
+  "Genres": [
+    {
+      "Id": 99,
+      "Name": "Documentary"
+    }
+  ],
+  "ReleaseDate": "2014-11-02T00:00:00",
+  "Runtime": 67,
+  "Popularity": 0.08825625,
+  "ProductionCompanies": [
+    {
+      "Name": "Videofilmaciones Suadero",
+      "Id": 36478
+    }
+  ],
+  "ProductionCountries": [
+    {
+      "Iso_3166_1": "MX",
+      "Name": "Mexico"
+    }
+  ],
+  "SpokenLanguages": [],
+  "AlternativeTitles": {
+    "Id": 299241,
+    "Titles": []
+  },
+  "Releases": {
+    "Id": 299241,
+    "Countries": [
+      {
+        "Iso_3166_1": "MX",
+        "ReleaseDate": "2014-11-02T00:00:00"
+      }
+    ]
+  },
+  "Credits": {
+    "Id": 299241,
+    "Cast": [],
+    "Crew": [
+      {
+        "Id": 1378097,
+        "Name": "Fernando Llanos",
+        "Department": "Directing",
+        "Job": "Director"
+      },
+      {
+        "Id": 1378097,
+        "Name": "Fernando Llanos",
+        "Department": "Writing",
+        "Job": "Screenplay"
+      },
+      {
+        "Id": 1378097,
+        "Name": "Fernando Llanos",
+        "Department": "Production",
+        "Job": "Producer"
+      },
+      {
+        "Id": 1051964,
+        "Name": "Carlos Hidalgo",
+        "Department": "Crew",
+        "Job": "Cinematography"
+      },
+      {
+        "Id": 1205016,
+        "Name": "Emiliano Rocha Minter",
+        "Department": "Crew",
+        "Job": "Cinematography"
+      },
+      {
+        "Id": 1378098,
+        "Name": "marcelo castillo",
+        "Department": "Crew",
+        "Job": "Cinematography"
+      },
+      {
+        "Id": 1378099,
+        "Name": "manuel huitrón",
+        "Department": "Crew",
+        "Job": "Cinematography"
+      },
+      {
+        "Id": 1378097,
+        "Name": "Fernando Llanos",
+        "Department": "Crew",
+        "Job": "Cinematography"
+      },
+      {
+        "Id": 1378102,
+        "Name": "gerson hernández",
+        "Department": "Sound",
+        "Job": "Sound Director"
+      },
+      {
+        "Id": 20717,
+        "Name": "Raúl Locatelli",
+        "Department": "Sound",
+        "Job": "Sound Designer"
+      },
+      {
+        "Id": 961665,
+        "Name": "Roberto Bolado",
+        "Department": "Editing",
+        "Job": "Editor"
+      },
+      {
+        "Id": 1378097,
+        "Name": "Fernando Llanos",
+        "Department": "Editing",
+        "Job": "Editor"
+      },
+      {
+        "Id": 1378109,
+        "Name": "jessica herreman",
+        "Department": "Editing",
+        "Job": "Editor"
+      }
+    ]
+  },
+  "Images": {
+    "Backdrops": [],
+    "Posters": [
+      {
+        "FilePath": "/paZPKaajctu6wvlCoynf3t4KsSN.jpg",
+        "Width": 537,
+        "Height": 765,
+        "AspectRatio": 0.701960784313725
+      }
+    ]
+  },
+  "Keywords": {
+    "Id": 299241,
+    "Keywords": [
+      {
+        "Id": 534,
+        "Name": "mexico"
+      },
+      {
+        "Id": 9682,
+        "Name": "history"
+      }
+    ]
+  },
+  "Trailers": {
+    "Id": 299241,
+    "Quicktime": [],
+    "Youtube": []
+  },
+  "Translations": {
+    "Id": 299241,
+    "Translations": [
+      {
+        "Iso_639_1": "en",
+        "Name": "English",
+        "EnglishName": "English"
+      }
+    ]
+  }
+}

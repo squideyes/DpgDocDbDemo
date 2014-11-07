@@ -1,0 +1,150 @@
+{
+  "Id": 261830,
+  "ImdbId": "tt3626442",
+  "Title": "Björk: Biophilia Live",
+  "OriginalTitle": "Björk: Biophilia Live",
+  "Status": "Released",
+  "Overview": "From a mind unlike any other, Biophilia Live chronicles the multidimensional concert centered on the eighth studio album of avant-garde Icelandic artist Björk. Nick Fenton and Peter Strickland, unique voices in their own right, film Björk live in performance and punctuate her music with evocative animation and science and nature footage. The infinitely creative journey presents a culmination of work that represents one of the most original musical endeavors of a generation.",
+  "Homepage": "http://www.biophiliathefilm.com",
+  "BackdropPath": "/xZAuCE2IijngoP0oxwCJflgF3A4.jpg",
+  "PosterPath": "/7SVbkkSMxNGWerbH5Tvo4XWJG0W.jpg",
+  "Genres": [
+    {
+      "Id": 99,
+      "Name": "Documentary"
+    },
+    {
+      "Id": 10402,
+      "Name": "Music"
+    }
+  ],
+  "ReleaseDate": "2014-10-10T00:00:00",
+  "Runtime": 97,
+  "Popularity": 0.240112495004939,
+  "ProductionCompanies": [],
+  "ProductionCountries": [],
+  "SpokenLanguages": [],
+  "AlternativeTitles": {
+    "Id": 261830,
+    "Titles": []
+  },
+  "Releases": {
+    "Id": 261830,
+    "Countries": [
+      {
+        "Iso_3166_1": "TR",
+        "ReleaseDate": "2014-10-10T00:00:00"
+      },
+      {
+        "Iso_3166_1": "DE",
+        "Certification": "6",
+        "ReleaseDate": "2014-10-16T00:00:00"
+      },
+      {
+        "Iso_3166_1": "IT",
+        "ReleaseDate": "2014-10-23T00:00:00"
+      }
+    ]
+  },
+  "Credits": {
+    "Id": 261830,
+    "Cast": [
+      {
+        "Id": 47,
+        "Name": "Björk",
+        "Character": "Herself",
+        "Order": 1,
+        "CastId": 2,
+        "ProfilePath": "/6O1UQBeMN1p5LMqCgMajvihe3KI.jpg"
+      }
+    ],
+    "Crew": [
+      {
+        "Id": 583857,
+        "Name": "Peter Strickland",
+        "Department": "Directing",
+        "Job": "Director"
+      },
+      {
+        "Id": 967482,
+        "Name": "Nick Fenton",
+        "Department": "Directing",
+        "Job": "Director"
+      },
+      {
+        "Id": 84542,
+        "Name": "Jacqui Edenbrow",
+        "Department": "Production",
+        "Job": "Producer"
+      },
+      {
+        "Id": 84804,
+        "Name": "Brett Turnbull",
+        "Department": "Camera",
+        "Job": "Director of Photography"
+      }
+    ]
+  },
+  "Images": {
+    "Backdrops": [
+      {
+        "FilePath": "/xZAuCE2IijngoP0oxwCJflgF3A4.jpg",
+        "Width": 1280,
+        "Height": 720,
+        "AspectRatio": 1.77777777777778
+      },
+      {
+        "FilePath": "/OiGMYSXg2VhBYbgVTqgvhASy3m.jpg",
+        "Width": 1800,
+        "Height": 1012,
+        "AspectRatio": 1.77865612648221
+      }
+    ],
+    "Posters": [
+      {
+        "FilePath": "/7SVbkkSMxNGWerbH5Tvo4XWJG0W.jpg",
+        "Width": 1000,
+        "Height": 1463,
+        "AspectRatio": 0.683526999316473
+      }
+    ]
+  },
+  "Keywords": {
+    "Id": 261830,
+    "Keywords": [
+      {
+        "Id": 4048,
+        "Name": "musician"
+      },
+      {
+        "Id": 5287,
+        "Name": "tour"
+      }
+    ]
+  },
+  "Trailers": {
+    "Id": 261830,
+    "Quicktime": [],
+    "Youtube": []
+  },
+  "Translations": {
+    "Id": 261830,
+    "Translations": [
+      {
+        "Iso_639_1": "en",
+        "Name": "English",
+        "EnglishName": "English"
+      },
+      {
+        "Iso_639_1": "de",
+        "Name": "Deutsch",
+        "EnglishName": "German"
+      },
+      {
+        "Iso_639_1": "it",
+        "Name": "Italiano",
+        "EnglishName": "Italian"
+      }
+    ]
+  }
+}

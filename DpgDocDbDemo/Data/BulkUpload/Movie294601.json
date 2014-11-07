@@ -1,0 +1,101 @@
+{
+  "Id": 294601,
+  "Title": "Turma da Mônica - Cine Gibi 7: Bagunça animal",
+  "OriginalTitle": "Turma da Mônica - Cine Gibi 7: Bagunça animal",
+  "Status": "Released",
+  "BackdropPath": "/fz0PxNuucCgeSHBPUTV6ytKCNiz.jpg",
+  "PosterPath": "/tRRdcZwOvFftXjSIt5H3DyaYA5H.jpg",
+  "Genres": [
+    {
+      "Id": 16,
+      "Name": "Animation"
+    }
+  ],
+  "ReleaseDate": "2014-10-30T00:00:00",
+  "Popularity": 6.09759455894058E-18,
+  "ProductionCompanies": [
+    {
+      "Name": "Maurício Sousa Produções",
+      "Id": 36891
+    }
+  ],
+  "ProductionCountries": [
+    {
+      "Iso_3166_1": "BR",
+      "Name": "Brazil"
+    }
+  ],
+  "SpokenLanguages": [
+    {
+      "Iso_639_1": "pt",
+      "Name": "Português"
+    }
+  ],
+  "AlternativeTitles": {
+    "Id": 294601,
+    "Titles": [
+      {
+        "Iso_3166_1": "BR",
+        "Title": "Turma da Mônica - Cine Gibi 7: Bagunça animal"
+      }
+    ]
+  },
+  "Releases": {
+    "Id": 294601,
+    "Countries": [
+      {
+        "Iso_3166_1": "BR",
+        "Certification": "Livre",
+        "ReleaseDate": "2014-10-30T00:00:00"
+      }
+    ]
+  },
+  "Credits": {
+    "Id": 294601,
+    "Cast": [],
+    "Crew": []
+  },
+  "Images": {
+    "Backdrops": [
+      {
+        "FilePath": "/fz0PxNuucCgeSHBPUTV6ytKCNiz.jpg",
+        "Width": 1920,
+        "Height": 1080,
+        "AspectRatio": 1.77777777777778
+      }
+    ],
+    "Posters": [
+      {
+        "FilePath": "/tRRdcZwOvFftXjSIt5H3DyaYA5H.jpg",
+        "Width": 754,
+        "Height": 1074,
+        "Iso_639_1": "pt",
+        "AspectRatio": 0.702048417132216
+      }
+    ]
+  },
+  "Keywords": {
+    "Id": 294601,
+    "Keywords": [
+      {
+        "Id": 208163,
+        "Name": "turma da monica"
+      }
+    ]
+  },
+  "Trailers": {
+    "Id": 294601,
+    "Quicktime": [],
+    "Youtube": []
+  },
+  "Translations": {
+    "Id": 294601,
+    "Translations": [
+      {
+        "Iso_639_1": "pt",
+        "Name": "Português",
+        "EnglishName": "Portuguese"
+      }
+    ]
+  }
+}

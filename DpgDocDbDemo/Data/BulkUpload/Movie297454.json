@@ -1,0 +1,56 @@
+{
+  "Id": 297454,
+  "Title": "The Dead and the Damned 2",
+  "OriginalTitle": "The Dead and the Damned 2",
+  "Status": "Released",
+  "Overview": "From the Director of \"The Dead and the Damned\", Rene Perez, comes a high octane sequel in a savage land where zombies roam freely - Lieutenant Colonel Sawyer is armed with machine guns, body armor and courage. He is on a mission to give his family a burial at sea. To reach the coast, he must enter a quarantined infected zone and fight through hordes of bloodthirsty zombies. There he encounters a group of survivors including a young woman who is a target of both the male survivors and the ravenous zombies. To protect the last non-infected humans and complete his mission, Colonel Sawyer must face, the Dead, the Damned and the Darkness.",
+  "Genres": [],
+  "ReleaseDate": "2014-10-14T00:00:00",
+  "Runtime": 0,
+  "Popularity": 0.198057775760327,
+  "ProductionCompanies": [],
+  "ProductionCountries": [],
+  "SpokenLanguages": [],
+  "AlternativeTitles": {
+    "Id": 297454,
+    "Titles": []
+  },
+  "Releases": {
+    "Id": 297454,
+    "Countries": [
+      {
+        "Iso_3166_1": "US",
+        "Certification": "NR",
+        "ReleaseDate": "2014-10-14T00:00:00"
+      }
+    ]
+  },
+  "Credits": {
+    "Id": 297454,
+    "Cast": [],
+    "Crew": []
+  },
+  "Images": {
+    "Backdrops": [],
+    "Posters": []
+  },
+  "Keywords": {
+    "Id": 297454,
+    "Keywords": []
+  },
+  "Trailers": {
+    "Id": 297454,
+    "Quicktime": [],
+    "Youtube": []
+  },
+  "Translations": {
+    "Id": 297454,
+    "Translations": [
+      {
+        "Iso_639_1": "en",
+        "Name": "English",
+        "EnglishName": "English"
+      }
+    ]
+  }
+}

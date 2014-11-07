@@ -1,0 +1,103 @@
+{
+  "Id": 294862,
+  "ImdbId": "tt2266781",
+  "Title": "Magical Universe",
+  "OriginalTitle": "Magical Universe",
+  "Status": "Released",
+  "Overview": "Filmed for over a decade, MAGICAL UNIVERSE is a portrait of Al Carbee, an 88 year old strange and reclusive outsider artist who spends his days alone in a massive house in Maine creating art -- mostly featuring Barbie Dolls in elaborate dioramas. The documentary profiles Carbee's amazing body of work and his relentlessly creative lifestyle. Carbee's story is explored through the prism of his unlikely friendship with New York filmmaker Jeremy Workman, who unexpectedly becomes Carbee's closest friend and only link to the outside world. Far beyond just a portrait of an eccentric, MAGICAL UNIVERSE is about wonder, friendship, and the transcendent power of creativity. Its story culminates with Al Carbee's greatest triumph as an artist and a man.",
+  "BackdropPath": "/apmIxkZINippuacHGcq6Mqgcue3.jpg",
+  "PosterPath": "/aCmtwNssr0hBfcM4NTvoFPLLpGg.jpg",
+  "Genres": [],
+  "ReleaseDate": "2014-10-31T00:00:00",
+  "Runtime": 0,
+  "Popularity": 1.38235979171572,
+  "ProductionCompanies": [],
+  "ProductionCountries": [],
+  "SpokenLanguages": [],
+  "AlternativeTitles": {
+    "Id": 294862,
+    "Titles": []
+  },
+  "Releases": {
+    "Id": 294862,
+    "Countries": [
+      {
+        "Iso_3166_1": "US",
+        "ReleaseDate": "2014-10-31T00:00:00"
+      }
+    ]
+  },
+  "Credits": {
+    "Id": 294862,
+    "Cast": [],
+    "Crew": [
+      {
+        "Id": 1080891,
+        "Name": "Jeremy Workman",
+        "Department": "Directing",
+        "Job": "Director"
+      }
+    ]
+  },
+  "Images": {
+    "Backdrops": [
+      {
+        "FilePath": "/apmIxkZINippuacHGcq6Mqgcue3.jpg",
+        "Width": 1280,
+        "Height": 720,
+        "AspectRatio": 1.77777777777778
+      },
+      {
+        "FilePath": "/cYatRKevLCJk16BvhnPKz4S6e78.jpg",
+        "Width": 1281,
+        "Height": 720,
+        "AspectRatio": 1.77916666666667
+      },
+      {
+        "FilePath": "/o9yhhcJc5lJnCrRwKY32Bg40s5U.jpg",
+        "Width": 1280,
+        "Height": 720,
+        "AspectRatio": 1.77777777777778
+      },
+      {
+        "FilePath": "/loRxxhQT1HWULKxn3oQ9necjSo3.jpg",
+        "Width": 3750,
+        "Height": 2109,
+        "AspectRatio": 1.77809388335704
+      }
+    ],
+    "Posters": [
+      {
+        "FilePath": "/aCmtwNssr0hBfcM4NTvoFPLLpGg.jpg",
+        "Width": 600,
+        "Height": 873,
+        "AspectRatio": 0.687285223367698
+      }
+    ]
+  },
+  "Keywords": {
+    "Id": 294862,
+    "Keywords": []
+  },
+  "Trailers": {
+    "Id": 294862,
+    "Quicktime": [],
+    "Youtube": [
+      {
+        "Name": "official trailer",
+        "Size": "Standard",
+        "Source": "vyzbbEGSw8s"
+      }
+    ]
+  },
+  "Translations": {
+    "Id": 294862,
+    "Translations": [
+      {
+        "Iso_639_1": "en",
+        "Name": "English",
+        "EnglishName": "English"
+      }
+    ]
+  }
+}

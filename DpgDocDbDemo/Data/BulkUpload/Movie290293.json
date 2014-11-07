@@ -1,0 +1,62 @@
+{
+  "Id": 290293,
+  "Title": "A Sweet Song",
+  "OriginalTitle": "A Sweet Song",
+  "Status": "Released",
+  "Overview": "Eight-year-old Akosua discovers a different world from what she’s used to at her father’s home.",
+  "Genres": [],
+  "ReleaseDate": "2014-10-14T00:00:00",
+  "Runtime": 8,
+  "Popularity": 0.212020737009897,
+  "ProductionCompanies": [],
+  "ProductionCountries": [],
+  "SpokenLanguages": [],
+  "AlternativeTitles": {
+    "Id": 290293,
+    "Titles": []
+  },
+  "Releases": {
+    "Id": 290293,
+    "Countries": [
+      {
+        "Iso_3166_1": "GB",
+        "ReleaseDate": "2014-10-14T00:00:00"
+      }
+    ]
+  },
+  "Credits": {
+    "Id": 290293,
+    "Cast": [],
+    "Crew": [
+      {
+        "Id": 1360189,
+        "Name": "Asantewaa Prempeh",
+        "Department": "Directing",
+        "Job": "Director"
+      }
+    ]
+  },
+  "Images": {
+    "Backdrops": [],
+    "Posters": []
+  },
+  "Keywords": {
+    "Id": 290293,
+    "Keywords": []
+  },
+  "Trailers": {
+    "Id": 290293,
+    "Quicktime": [],
+    "Youtube": []
+  },
+  "Translations": {
+    "Id": 290293,
+    "Translations": [
+      {
+        "Iso_639_1": "en",
+        "Name": "English",
+        "EnglishName": "English"
+      }
+    ]
+  }
+}

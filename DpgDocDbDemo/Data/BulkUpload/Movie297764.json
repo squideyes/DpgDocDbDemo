@@ -1,0 +1,128 @@
+{
+  "Id": 297764,
+  "Title": "I Am Sam",
+  "OriginalTitle": "I Am Sam",
+  "Status": "Released",
+  "Overview": "An experimental documentary about the life-story of a British teenager, Sam.",
+  "BackdropPath": "/u609lkp0Q4eGbnYIbvhSlZTBRc8.jpg",
+  "PosterPath": "/9yqstFPAOWM1fEW3P0jt5nb3uJa.jpg",
+  "Genres": [
+    {
+      "Id": 99,
+      "Name": "Documentary"
+    }
+  ],
+  "ReleaseDate": "2014-10-15T00:00:00",
+  "Runtime": 5,
+  "Popularity": 0.285912055932855,
+  "ProductionCompanies": [
+    {
+      "Name": "Intu",
+      "Id": 35452
+    },
+    {
+      "Name": "Northern Stars",
+      "Id": 35453
+    }
+  ],
+  "ProductionCountries": [],
+  "SpokenLanguages": [],
+  "AlternativeTitles": {
+    "Id": 297764,
+    "Titles": []
+  },
+  "Releases": {
+    "Id": 297764,
+    "Countries": [
+      {
+        "Iso_3166_1": "GB",
+        "ReleaseDate": "2014-10-15T00:00:00"
+      }
+    ]
+  },
+  "Credits": {
+    "Id": 297764,
+    "Cast": [
+      {
+        "Id": 1374623,
+        "Name": "Sam McNeil",
+        "Order": 1
+      }
+    ],
+    "Crew": [
+      {
+        "Id": 1374630,
+        "Name": "Jonnie Knights",
+        "Department": "Directing",
+        "Job": "Director"
+      },
+      {
+        "Id": 1374631,
+        "Name": "Caitlin Gill",
+        "Department": "Directing",
+        "Job": "Director"
+      },
+      {
+        "Id": 1374631,
+        "Name": "Caitlin Gill",
+        "Department": "Production",
+        "Job": "Producer"
+      },
+      {
+        "Id": 1374630,
+        "Name": "Jonnie Knights",
+        "Department": "Production",
+        "Job": "Producer"
+      },
+      {
+        "Id": 1374632,
+        "Name": "Simon Ramshaw",
+        "Department": "Camera",
+        "Job": "Director of Photography"
+      },
+      {
+        "Id": 1374633,
+        "Name": "Paige Lamb",
+        "Department": "Sound",
+        "Job": "Sound Director"
+      }
+    ]
+  },
+  "Images": {
+    "Backdrops": [
+      {
+        "FilePath": "/u609lkp0Q4eGbnYIbvhSlZTBRc8.jpg",
+        "Width": 1366,
+        "Height": 768,
+        "AspectRatio": 1.77864583333333
+      }
+    ],
+    "Posters": [
+      {
+        "FilePath": "/9yqstFPAOWM1fEW3P0jt5nb3uJa.jpg",
+        "Width": 501,
+        "Height": 751,
+        "AspectRatio": 0.66711051930759
+      }
+    ]
+  },
+  "Keywords": {
+    "Id": 297764,
+    "Keywords": []
+  },
+  "Trailers": {
+    "Id": 297764,
+    "Quicktime": [],
+    "Youtube": []
+  },
+  "Translations": {
+    "Id": 297764,
+    "Translations": [
+      {
+        "Iso_639_1": "en",
+        "Name": "English",
+        "EnglishName": "English"
+      }
+    ]
+  }
+}

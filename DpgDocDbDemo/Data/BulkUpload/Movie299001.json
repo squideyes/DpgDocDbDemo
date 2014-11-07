@@ -1,0 +1,146 @@
+{
+  "Id": 299001,
+  "ImdbId": "tt4131206",
+  "Title": "Lucifer",
+  "OriginalTitle": "Lucifer",
+  "Status": "Released",
+  "Overview": "On his downfall from Heaven to Hell, Lucifer passes through the earthly paradise, a village in Mexico, where elderly Lupita and her granddaughter Maria live. Lupita's brother Emanuel pretends he's paralyzed so he can drink and gamble while the two women tend to the sheep. Lucifer senses an opportunity and plays the miraculous healer. He forces Emanuel to walk again, seduces Maria and makes Lupita doubt about her faith. He didn't bring bad luck, he only illuminated the line between good and evil, where it didn't exist before.",
+  "Homepage": "http://www.luciferthefilm.com/",
+  "PosterPath": "/qX3AibBLgLIAmHWDqy7dB6j8Rrp.jpg",
+  "Genres": [
+    {
+      "Id": 18,
+      "Name": "Drama"
+    }
+  ],
+  "ReleaseDate": "2014-10-22T00:00:00",
+  "Runtime": 108,
+  "Popularity": 0.3328794035,
+  "ProductionCompanies": [
+    {
+      "Name": "Minds Meet",
+      "Id": 12583
+    }
+  ],
+  "ProductionCountries": [],
+  "SpokenLanguages": [
+    {
+      "Iso_639_1": "es",
+      "Name": "Español"
+    }
+  ],
+  "AlternativeTitles": {
+    "Id": 299001,
+    "Titles": []
+  },
+  "Releases": {
+    "Id": 299001,
+    "Countries": [
+      {
+        "Iso_3166_1": "BE",
+        "ReleaseDate": "2014-10-22T00:00:00"
+      }
+    ]
+  },
+  "Credits": {
+    "Id": 299001,
+    "Cast": [
+      {
+        "Id": 1018056,
+        "Name": "Gabino Rodríguez",
+        "Character": "Lucifer",
+        "Order": 1,
+        "CastId": 6
+      },
+      {
+        "Id": 1211042,
+        "Name": "Norma Pablo",
+        "Character": "Maria",
+        "Order": 2,
+        "CastId": 7
+      },
+      {
+        "Id": 5906,
+        "Name": "Ana Maria Acosta",
+        "Character": "Lupita",
+        "Order": 3,
+        "CastId": 8
+      },
+      {
+        "Id": 1377442,
+        "Name": "Jeronimo Soto Bravo",
+        "Character": "Emanuel",
+        "Order": 4,
+        "CastId": 9
+      }
+    ],
+    "Crew": [
+      {
+        "Id": 1050918,
+        "Name": "Gust Van Den Berghe",
+        "Department": "Directing",
+        "Job": "Director"
+      },
+      {
+        "Id": 1050918,
+        "Name": "Gust Van Den Berghe",
+        "Department": "Writing",
+        "Job": "Writer"
+      },
+      {
+        "Id": 1376480,
+        "Name": "Tomas Leyers",
+        "Department": "Production",
+        "Job": "Producer"
+      },
+      {
+        "Id": 1377439,
+        "Name": "Hans Bruch Jr.",
+        "Department": "Camera",
+        "Job": "Director of Photography"
+      },
+      {
+        "Id": 1210753,
+        "Name": "David Verdurme",
+        "Department": "Editing",
+        "Job": "Editor"
+      },
+      {
+        "Id": 1377440,
+        "Name": "Natalia Trivino",
+        "Department": "Art",
+        "Job": "Art Direction"
+      }
+    ]
+  },
+  "Images": {
+    "Backdrops": [],
+    "Posters": [
+      {
+        "FilePath": "/qX3AibBLgLIAmHWDqy7dB6j8Rrp.jpg",
+        "Width": 900,
+        "Height": 1286,
+        "AspectRatio": 0.699844479004666
+      }
+    ]
+  },
+  "Keywords": {
+    "Id": 299001,
+    "Keywords": []
+  },
+  "Trailers": {
+    "Id": 299001,
+    "Quicktime": [],
+    "Youtube": []
+  },
+  "Translations": {
+    "Id": 299001,
+    "Translations": [
+      {
+        "Iso_639_1": "en",
+        "Name": "English",
+        "EnglishName": "English"
+      }
+    ]
+  }
+}

@@ -1,0 +1,120 @@
+{
+  "Id": 289984,
+  "ImdbId": "tt4129876",
+  "Title": "Winterkartoffelknödel",
+  "OriginalTitle": "Winterkartoffelknödel",
+  "Status": "Released",
+  "PosterPath": "/NL7a7uBi4MYjKWK4nUghPkKvw9.jpg",
+  "Genres": [
+    {
+      "Id": 35,
+      "Name": "Comedy"
+    },
+    {
+      "Id": 80,
+      "Name": "Crime"
+    }
+  ],
+  "ReleaseDate": "2014-10-16T00:00:00",
+  "Popularity": 0.337407086568067,
+  "VoteAverage": 8.0,
+  "VoteCount": 2,
+  "ProductionCompanies": [],
+  "ProductionCountries": [],
+  "SpokenLanguages": [
+    {
+      "Iso_639_1": "de",
+      "Name": "Deutsch"
+    }
+  ],
+  "AlternativeTitles": {
+    "Id": 289984,
+    "Titles": []
+  },
+  "Releases": {
+    "Id": 289984,
+    "Countries": [
+      {
+        "Iso_3166_1": "DE",
+        "Certification": "12",
+        "ReleaseDate": "2014-10-16T00:00:00"
+      }
+    ]
+  },
+  "Credits": {
+    "Id": 289984,
+    "Cast": [
+      {
+        "Id": 44461,
+        "Name": "Sebastian Bezzel",
+        "Character": "Eberhofer, Franz",
+        "Order": 1,
+        "ProfilePath": "/z517RoxfuWCbC2cjeuE0cb11XgH.jpg"
+      },
+      {
+        "Id": 15121,
+        "Name": "Simon Schwarz",
+        "Character": "Birkenberger, Rudi",
+        "Order": 2,
+        "CastId": 1,
+        "ProfilePath": "/izlpuHk8O7Ak0WjYY4awbkGAqT9.jpg"
+      },
+      {
+        "Id": 572646,
+        "Name": "Sigi Zimmerschied",
+        "Character": "Dienststellenleiter Moratschek",
+        "Order": 3,
+        "CastId": 2
+      }
+    ],
+    "Crew": [
+      {
+        "Id": 219492,
+        "Name": "Ed Herzog",
+        "Department": "Directing",
+        "Job": "Director"
+      },
+      {
+        "Id": 1377782,
+        "Name": "Rita Falk",
+        "Department": "Writing",
+        "Job": "Novel"
+      }
+    ]
+  },
+  "Images": {
+    "Backdrops": [],
+    "Posters": [
+      {
+        "FilePath": "/NL7a7uBi4MYjKWK4nUghPkKvw9.jpg",
+        "Width": 989,
+        "Height": 1400,
+        "AspectRatio": 0.706428571428571
+      }
+    ]
+  },
+  "Keywords": {
+    "Id": 289984,
+    "Keywords": [
+      {
+        "Id": 2279,
+        "Name": "bavaria"
+      }
+    ]
+  },
+  "Trailers": {
+    "Id": 289984,
+    "Quicktime": [],
+    "Youtube": []
+  },
+  "Translations": {
+    "Id": 289984,
+    "Translations": [
+      {
+        "Iso_639_1": "de",
+        "Name": "Deutsch",
+        "EnglishName": "German"
+      }
+    ]
+  }
+}

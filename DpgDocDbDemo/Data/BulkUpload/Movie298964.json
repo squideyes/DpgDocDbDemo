@@ -1,0 +1,113 @@
+{
+  "Id": 298964,
+  "Title": "João Bénard da Costa - Others will love the Things I loved",
+  "OriginalTitle": "João Bénard da Costa - Outros amarão as Coisas que eu amei",
+  "Status": "Released",
+  "Overview": "“João Bénard da Costa was the head of Cinemateca Portuguesa for eighteen years. I walked down his memory lane and found his love for painting, for churches, for Proust and Musil, for Italy, films, Mozart, and for his friends. But what I really wanted was to depict the contradictory man of flesh and blood, a free man.” Manuel Mozos",
+  "Genres": [
+    {
+      "Id": 99,
+      "Name": "Documentary"
+    }
+  ],
+  "ReleaseDate": "2014-10-23T00:00:00",
+  "Runtime": 75,
+  "Popularity": 0.4356371371635,
+  "ProductionCompanies": [
+    {
+      "Name": "Rosa Filmes",
+      "Id": 16421
+    }
+  ],
+  "ProductionCountries": [
+    {
+      "Iso_3166_1": "PT",
+      "Name": "Portugal"
+    }
+  ],
+  "SpokenLanguages": [
+    {
+      "Iso_639_1": "pt",
+      "Name": "Português"
+    }
+  ],
+  "AlternativeTitles": {
+    "Id": 298964,
+    "Titles": []
+  },
+  "Releases": {
+    "Id": 298964,
+    "Countries": [
+      {
+        "Iso_3166_1": "PT",
+        "ReleaseDate": "2014-10-23T00:00:00"
+      }
+    ]
+  },
+  "Credits": {
+    "Id": 298964,
+    "Cast": [
+      {
+        "Id": 1267064,
+        "Name": "João Bénard da Costa",
+        "Character": "Self",
+        "Order": 1,
+        "CastId": 1
+      },
+      {
+        "Id": 1195279,
+        "Name": "João Pedro Bénard",
+        "Character": "Self",
+        "Order": 2,
+        "CastId": 2,
+        "ProfilePath": "/vJYSRGum3N3iSyHuaauwAOxvklM.jpg"
+      },
+      {
+        "Id": 1045471,
+        "Name": "Manuel Mozos",
+        "Character": "Self",
+        "Order": 3,
+        "CastId": 3,
+        "ProfilePath": "/p6qTz4Cy3FPiBWUXbtigMfEXRKs.jpg"
+      }
+    ],
+    "Crew": [
+      {
+        "Id": 1045471,
+        "Name": "Manuel Mozos",
+        "Department": "Directing",
+        "Job": "Director",
+        "ProfilePath": "/p6qTz4Cy3FPiBWUXbtigMfEXRKs.jpg"
+      },
+      {
+        "Id": 935455,
+        "Name": "Rui Santos",
+        "Department": "Production",
+        "Job": "Producer"
+      }
+    ]
+  },
+  "Images": {
+    "Backdrops": [],
+    "Posters": []
+  },
+  "Keywords": {
+    "Id": 298964,
+    "Keywords": []
+  },
+  "Trailers": {
+    "Id": 298964,
+    "Quicktime": [],
+    "Youtube": []
+  },
+  "Translations": {
+    "Id": 298964,
+    "Translations": [
+      {
+        "Iso_639_1": "en",
+        "Name": "English",
+        "EnglishName": "English"
+      }
+    ]
+  }
+}

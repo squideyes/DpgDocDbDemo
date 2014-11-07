@@ -1,0 +1,67 @@
+{
+  "Id": 298140,
+  "Title": "Noon Day Dispensary",
+  "OriginalTitle": "Noon Day Dispensary",
+  "Status": "Released",
+  "Overview": "Vérité documentary of a day in the life of a government-run, free dispensary in the Savda-Ghevra, Delhi’s most recent resettlement colony.",
+  "Genres": [],
+  "ReleaseDate": "2014-10-18T00:00:00",
+  "Runtime": 27,
+  "Popularity": 0.229921925348441,
+  "ProductionCompanies": [],
+  "ProductionCountries": [
+    {
+      "Iso_3166_1": "IN",
+      "Name": "India"
+    }
+  ],
+  "SpokenLanguages": [],
+  "AlternativeTitles": {
+    "Id": 298140,
+    "Titles": []
+  },
+  "Releases": {
+    "Id": 298140,
+    "Countries": [
+      {
+        "Iso_3166_1": "GB",
+        "ReleaseDate": "2014-10-18T00:00:00"
+      }
+    ]
+  },
+  "Credits": {
+    "Id": 298140,
+    "Cast": [],
+    "Crew": [
+      {
+        "Id": 1375302,
+        "Name": "Priya Sen",
+        "Department": "Directing",
+        "Job": "Director"
+      }
+    ]
+  },
+  "Images": {
+    "Backdrops": [],
+    "Posters": []
+  },
+  "Keywords": {
+    "Id": 298140,
+    "Keywords": []
+  },
+  "Trailers": {
+    "Id": 298140,
+    "Quicktime": [],
+    "Youtube": []
+  },
+  "Translations": {
+    "Id": 298140,
+    "Translations": [
+      {
+        "Iso_639_1": "en",
+        "Name": "English",
+        "EnglishName": "English"
+      }
+    ]
+  }
+}

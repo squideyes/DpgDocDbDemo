@@ -1,0 +1,69 @@
+{
+  "Id": 268314,
+  "Title": "Time is the sun",
+  "OriginalTitle": "Time is the sun",
+  "Status": "Released",
+  "Overview": "The temporality of the real unbinding of the poverty-rabble follows a logic of eternity because at no time can the poor rabble re-enter legal and statist contexts if the possibility of accumulating property has also been lost. Its time is eternity because only the poverty-rabble presents the paradigm of absolute and complete unbinding.",
+  "Genres": [],
+  "ReleaseDate": "2014-10-29T00:00:00",
+  "Runtime": 29,
+  "Popularity": 0.754880364557218,
+  "ProductionCompanies": [],
+  "ProductionCountries": [],
+  "SpokenLanguages": [],
+  "AlternativeTitles": {
+    "Id": 268314,
+    "Titles": []
+  },
+  "Releases": {
+    "Id": 268314,
+    "Countries": [
+      {
+        "Iso_3166_1": "CA",
+        "ReleaseDate": "2014-10-29T00:00:00"
+      }
+    ]
+  },
+  "Credits": {
+    "Id": 268314,
+    "Cast": [
+      {
+        "Id": 1299395,
+        "Name": "Isiah Medina",
+        "Order": 1,
+        "CastId": 1
+      }
+    ],
+    "Crew": [
+      {
+        "Id": 1299395,
+        "Name": "Isiah Medina",
+        "Department": "Directing",
+        "Job": "Director"
+      }
+    ]
+  },
+  "Images": {
+    "Backdrops": [],
+    "Posters": []
+  },
+  "Keywords": {
+    "Id": 268314,
+    "Keywords": []
+  },
+  "Trailers": {
+    "Id": 268314,
+    "Quicktime": [],
+    "Youtube": []
+  },
+  "Translations": {
+    "Id": 268314,
+    "Translations": [
+      {
+        "Iso_639_1": "en",
+        "Name": "English",
+        "EnglishName": "English"
+      }
+    ]
+  }
+}

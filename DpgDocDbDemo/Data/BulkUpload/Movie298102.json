@@ -1,0 +1,136 @@
+{
+  "Id": 298102,
+  "Title": "Titanic: Three Hours That Shook the World",
+  "OriginalTitle": "Titanic: Three Hours That Shook the World",
+  "Status": "Released",
+  "Tagline": "Three Hours That Shook the World",
+  "Overview": "Drama-documentary telling the story of the sinking of passenger liner RMS Titanic in April 1912 from the point of view of those below decks. Based on records from the official inquiry, the film follows the men working in the ship's massive machine rooms, and their desperate battle to save the vessel, as well as those in the passenger cabins - including the man racing to save his secret mistress, the nurse searching flooding corridors for the child in her care and the brothers perched on the lip of the sinking vessel deciding whether to jump.",
+  "PosterPath": "/AwkYQzpPhjhi7rRa7ynL9eqmU3s.jpg",
+  "Genres": [
+    {
+      "Id": 99,
+      "Name": "Documentary"
+    },
+    {
+      "Id": 18,
+      "Name": "Drama"
+    }
+  ],
+  "ReleaseDate": "2014-10-17T00:00:00",
+  "Runtime": 120,
+  "Popularity": 0.354799748164458,
+  "ProductionCompanies": [
+    {
+      "Name": "Discovery Channel",
+      "Id": 6790
+    },
+    {
+      "Name": "Handel Production",
+      "Id": 30250
+    }
+  ],
+  "ProductionCountries": [
+    {
+      "Iso_3166_1": "CA",
+      "Name": "Canada"
+    },
+    {
+      "Iso_3166_1": "GB",
+      "Name": "United Kingdom"
+    },
+    {
+      "Iso_3166_1": "US",
+      "Name": "United States of America"
+    }
+  ],
+  "SpokenLanguages": [
+    {
+      "Iso_639_1": "en",
+      "Name": "English"
+    }
+  ],
+  "AlternativeTitles": {
+    "Id": 298102,
+    "Titles": []
+  },
+  "Releases": {
+    "Id": 298102,
+    "Countries": [
+      {
+        "Iso_3166_1": "GB",
+        "ReleaseDate": "2014-10-17T00:00:00"
+      }
+    ]
+  },
+  "Credits": {
+    "Id": 298102,
+    "Cast": [
+      {
+        "Id": 1211935,
+        "Name": "Sean Barrett",
+        "Character": "Narrator",
+        "Order": 1,
+        "CastId": 3
+      }
+    ],
+    "Crew": [
+      {
+        "Id": 1063254,
+        "Name": "Richard Dale",
+        "Department": "Directing",
+        "Job": "Director"
+      },
+      {
+        "Id": 1063254,
+        "Name": "Richard Dale",
+        "Department": "Production",
+        "Job": "Executive Producer"
+      },
+      {
+        "Id": 1170615,
+        "Name": "Michael Robins",
+        "Department": "Production",
+        "Job": "Producer"
+      }
+    ]
+  },
+  "Images": {
+    "Backdrops": [],
+    "Posters": [
+      {
+        "FilePath": "/AwkYQzpPhjhi7rRa7ynL9eqmU3s.jpg",
+        "Width": 500,
+        "Height": 750,
+        "AspectRatio": 0.666666666666667
+      }
+    ]
+  },
+  "Keywords": {
+    "Id": 298102,
+    "Keywords": [
+      {
+        "Id": 4388,
+        "Name": "titanic"
+      },
+      {
+        "Id": 194467,
+        "Name": "rms titanic"
+      }
+    ]
+  },
+  "Trailers": {
+    "Id": 298102,
+    "Quicktime": [],
+    "Youtube": []
+  },
+  "Translations": {
+    "Id": 298102,
+    "Translations": [
+      {
+        "Iso_639_1": "en",
+        "Name": "English",
+        "EnglishName": "English"
+      }
+    ]
+  }
+}

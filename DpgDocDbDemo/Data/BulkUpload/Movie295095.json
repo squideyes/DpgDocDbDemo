@@ -1,0 +1,79 @@
+{
+  "Id": 295095,
+  "Title": "Patria Obscura",
+  "OriginalTitle": "Patria Obscura",
+  "Status": "Released",
+  "PosterPath": "/35qQj3mk8gSS4cHQFD9y45yfmW3.jpg",
+  "Genres": [
+    {
+      "Id": 99,
+      "Name": "Documentary"
+    }
+  ],
+  "ReleaseDate": "2014-10-22T00:00:00",
+  "Popularity": 0.219200525006199,
+  "ProductionCompanies": [],
+  "ProductionCountries": [],
+  "SpokenLanguages": [
+    {
+      "Iso_639_1": "fr",
+      "Name": "Français"
+    }
+  ],
+  "AlternativeTitles": {
+    "Id": 295095,
+    "Titles": []
+  },
+  "Releases": {
+    "Id": 295095,
+    "Countries": [
+      {
+        "Iso_3166_1": "FR",
+        "ReleaseDate": "2014-10-22T00:00:00"
+      }
+    ]
+  },
+  "Credits": {
+    "Id": 295095,
+    "Cast": [],
+    "Crew": [
+      {
+        "Id": 1367812,
+        "Name": "Stéphane Ragot",
+        "Department": "Directing",
+        "Job": "Director"
+      }
+    ]
+  },
+  "Images": {
+    "Backdrops": [],
+    "Posters": [
+      {
+        "FilePath": "/35qQj3mk8gSS4cHQFD9y45yfmW3.jpg",
+        "Width": 563,
+        "Height": 751,
+        "Iso_639_1": "fr",
+        "AspectRatio": 0.749667110519308
+      }
+    ]
+  },
+  "Keywords": {
+    "Id": 295095,
+    "Keywords": []
+  },
+  "Trailers": {
+    "Id": 295095,
+    "Quicktime": [],
+    "Youtube": []
+  },
+  "Translations": {
+    "Id": 295095,
+    "Translations": [
+      {
+        "Iso_639_1": "fr",
+        "Name": "Français",
+        "EnglishName": "French"
+      }
+    ]
+  }
+}

@@ -1,0 +1,195 @@
+{
+  "Id": 299117,
+  "ImdbId": "tt3431598",
+  "Title": "Shier gongmin",
+  "OriginalTitle": "Shier gongmin",
+  "Status": "Released",
+  "BackdropPath": "/zpzinUzjAbShh5JlZZrHNkS1VXb.jpg",
+  "PosterPath": "/hbGV6BEZ7JuoK6LCwGUC3odocQA.jpg",
+  "Genres": [
+    {
+      "Id": 80,
+      "Name": "Crime"
+    },
+    {
+      "Id": 18,
+      "Name": "Drama"
+    }
+  ],
+  "ReleaseDate": "2014-10-19T00:00:00",
+  "Popularity": 0.16422224406,
+  "ProductionCompanies": [],
+  "ProductionCountries": [],
+  "SpokenLanguages": [],
+  "AlternativeTitles": {
+    "Id": 299117,
+    "Titles": []
+  },
+  "Releases": {
+    "Id": 299117,
+    "Countries": [
+      {
+        "Iso_3166_1": "IT",
+        "ReleaseDate": "2014-10-19T00:00:00"
+      }
+    ]
+  },
+  "Credits": {
+    "Id": 299117,
+    "Cast": [
+      {
+        "Id": 548609,
+        "Name": "Wang Gang",
+        "Order": 1,
+        "CastId": 7
+      },
+      {
+        "Id": 586335,
+        "Name": "Bing He",
+        "Order": 2,
+        "CastId": 8
+      },
+      {
+        "Id": 1268918,
+        "Name": "Tongsheng Han",
+        "Order": 3,
+        "CastId": 9
+      },
+      {
+        "Id": 1279149,
+        "Name": "Hui Liu",
+        "Order": 4,
+        "CastId": 10
+      },
+      {
+        "Id": 1377790,
+        "Name": "Guangfu Li",
+        "Order": 5,
+        "CastId": 11
+      },
+      {
+        "Id": 1377791,
+        "Name": "Tiezeng Mi",
+        "Order": 6,
+        "CastId": 12
+      },
+      {
+        "Id": 1377792,
+        "Name": "Yongqiang Zhang",
+        "Order": 7,
+        "CastId": 13
+      },
+      {
+        "Id": 1377793,
+        "Name": "Dongping Gao",
+        "Order": 8,
+        "CastId": 14
+      },
+      {
+        "Id": 1377794,
+        "Name": "Bo Qian",
+        "Order": 9,
+        "CastId": 15
+      },
+      {
+        "Id": 1377795,
+        "Name": "Zhao Chunyang",
+        "Order": 10,
+        "CastId": 16
+      },
+      {
+        "Id": 1377796,
+        "Name": "Jia Lei",
+        "Order": 11,
+        "CastId": 17
+      },
+      {
+        "Id": 1377797,
+        "Name": "Zan Ban",
+        "Order": 12,
+        "CastId": 18
+      }
+    ],
+    "Crew": [
+      {
+        "Id": 1353697,
+        "Name": "Xu Ang",
+        "Department": "Directing",
+        "Job": "Director"
+      },
+      {
+        "Id": 1353697,
+        "Name": "Xu Ang",
+        "Department": "Writing",
+        "Job": "Screenplay"
+      },
+      {
+        "Id": 1377785,
+        "Name": "Jinglong Han",
+        "Department": "Writing",
+        "Job": "Screenplay"
+      },
+      {
+        "Id": 1377786,
+        "Name": "Yujiao Li",
+        "Department": "Writing",
+        "Job": "Screenplay"
+      },
+      {
+        "Id": 1377787,
+        "Name": "Liangwen Li",
+        "Department": "Production",
+        "Job": "Producer"
+      },
+      {
+        "Id": 1377788,
+        "Name": "Luna Wang",
+        "Department": "Production",
+        "Job": "Producer"
+      },
+      {
+        "Id": 1377789,
+        "Name": "Tao Cai",
+        "Department": "Camera",
+        "Job": "Director of Photography"
+      }
+    ]
+  },
+  "Images": {
+    "Backdrops": [
+      {
+        "FilePath": "/zpzinUzjAbShh5JlZZrHNkS1VXb.jpg",
+        "Width": 1280,
+        "Height": 720,
+        "AspectRatio": 1.77777777777778
+      }
+    ],
+    "Posters": [
+      {
+        "FilePath": "/hbGV6BEZ7JuoK6LCwGUC3odocQA.jpg",
+        "Width": 500,
+        "Height": 750,
+        "AspectRatio": 0.666666666666667
+      }
+    ]
+  },
+  "Keywords": {
+    "Id": 299117,
+    "Keywords": []
+  },
+  "Trailers": {
+    "Id": 299117,
+    "Quicktime": [],
+    "Youtube": []
+  },
+  "Translations": {
+    "Id": 299117,
+    "Translations": [
+      {
+        "Iso_639_1": "it",
+        "Name": "Italiano",
+        "EnglishName": "Italian"
+      }
+    ]
+  }
+}

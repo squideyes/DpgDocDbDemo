@@ -1,0 +1,73 @@
+{
+  "Id": 285203,
+  "ImdbId": "tt3650484",
+  "Title": "Brothers",
+  "OriginalTitle": "To Brødre",
+  "Status": "Released",
+  "Overview": "A film about the close relationship between two brothers. Markus (10) and Lukas (7) live in an old, yellow townhouse in the middle of Oslo. The river runs close to their home. A paradise in the heart of a big city. Here the brothers grow up with their dreams and longings for the future.",
+  "Genres": [
+    {
+      "Id": 99,
+      "Name": "Documentary"
+    }
+  ],
+  "ReleaseDate": "2014-10-24T00:00:00",
+  "Runtime": 90,
+  "Popularity": 0.522926060099159,
+  "ProductionCompanies": [],
+  "ProductionCountries": [],
+  "SpokenLanguages": [
+    {
+      "Iso_639_1": "no",
+      "Name": "Norsk"
+    }
+  ],
+  "AlternativeTitles": {
+    "Id": 285203,
+    "Titles": []
+  },
+  "Releases": {
+    "Id": 285203,
+    "Countries": [
+      {
+        "Iso_3166_1": "NO",
+        "ReleaseDate": "2014-10-24T00:00:00"
+      }
+    ]
+  },
+  "Credits": {
+    "Id": 285203,
+    "Cast": [],
+    "Crew": [
+      {
+        "Id": 1349648,
+        "Name": "Aslaug Holm",
+        "Department": "Directing",
+        "Job": "Director"
+      }
+    ]
+  },
+  "Images": {
+    "Backdrops": [],
+    "Posters": []
+  },
+  "Keywords": {
+    "Id": 285203,
+    "Keywords": []
+  },
+  "Trailers": {
+    "Id": 285203,
+    "Quicktime": [],
+    "Youtube": []
+  },
+  "Translations": {
+    "Id": 285203,
+    "Translations": [
+      {
+        "Iso_639_1": "en",
+        "Name": "English",
+        "EnglishName": "English"
+      }
+    ]
+  }
+}

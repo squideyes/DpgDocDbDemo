@@ -1,0 +1,120 @@
+{
+  "Id": 298985,
+  "ImdbId": "tt4121270",
+  "Title": "The Fright Night Files",
+  "OriginalTitle": "The Fright Night Files",
+  "Status": "Released",
+  "BackdropPath": "/4knsHrqEUSJjcHGnWY1YH3yAbqd.jpg",
+  "PosterPath": "/gIlzhjAtdMjBc32MM4IxQwFgA3b.jpg",
+  "Genres": [
+    {
+      "Id": 27,
+      "Name": "Horror"
+    }
+  ],
+  "ReleaseDate": "2014-10-08T00:00:00",
+  "Runtime": 0,
+  "Popularity": 0.174700120633,
+  "ProductionCompanies": [
+    {
+      "Name": "Skorpio Films",
+      "Id": 36249
+    }
+  ],
+  "ProductionCountries": [
+    {
+      "Iso_3166_1": "US",
+      "Name": "United States of America"
+    }
+  ],
+  "SpokenLanguages": [
+    {
+      "Iso_639_1": "en",
+      "Name": "English"
+    }
+  ],
+  "AlternativeTitles": {
+    "Id": 298985,
+    "Titles": []
+  },
+  "Releases": {
+    "Id": 298985,
+    "Countries": [
+      {
+        "Iso_3166_1": "US",
+        "ReleaseDate": "2014-10-08T00:00:00"
+      }
+    ]
+  },
+  "Credits": {
+    "Id": 298985,
+    "Cast": [
+      {
+        "Id": 62093,
+        "Name": "Sean Blakemore",
+        "Character": "Lockwood Masters",
+        "Order": 1,
+        "ProfilePath": "/hPeXz7vcBJdBIHoaTuVMcRJZeGJ.jpg"
+      },
+      {
+        "Id": 1230922,
+        "Name": "Kendrick Cross",
+        "Character": "Eddie",
+        "Order": 2,
+        "CastId": 1,
+        "ProfilePath": "/rEXGbYVk5NPmCrJLY5AdYC5uS1W.jpg"
+      }
+    ],
+    "Crew": [
+      {
+        "Id": 188162,
+        "Name": "Russ Parr",
+        "Department": "Directing",
+        "Job": "Director",
+        "ProfilePath": "/5qkETrjpuVIyvEzQJuLzdqsyK2f.jpg"
+      }
+    ]
+  },
+  "Images": {
+    "Backdrops": [
+      {
+        "FilePath": "/4knsHrqEUSJjcHGnWY1YH3yAbqd.jpg",
+        "Width": 1280,
+        "Height": 720,
+        "AspectRatio": 1.77777777777778
+      }
+    ],
+    "Posters": [
+      {
+        "FilePath": "/gIlzhjAtdMjBc32MM4IxQwFgA3b.jpg",
+        "Width": 500,
+        "Height": 750,
+        "AspectRatio": 0.666666666666667
+      }
+    ]
+  },
+  "Keywords": {
+    "Id": 298985,
+    "Keywords": []
+  },
+  "Trailers": {
+    "Id": 298985,
+    "Quicktime": [],
+    "Youtube": []
+  },
+  "Translations": {
+    "Id": 298985,
+    "Translations": [
+      {
+        "Iso_639_1": "fr",
+        "Name": "Français",
+        "EnglishName": "French"
+      },
+      {
+        "Iso_639_1": "en",
+        "Name": "English",
+        "EnglishName": "English"
+      }
+    ]
+  }
+}

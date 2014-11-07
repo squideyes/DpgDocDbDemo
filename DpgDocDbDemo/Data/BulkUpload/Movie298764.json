@@ -1,0 +1,113 @@
+{
+  "Id": 298764,
+  "Title": "The Little Chicken painted and the gang 4",
+  "OriginalTitle": "A Galinha Pintadinha 4",
+  "Status": "Released",
+  "Overview": "For children of all ages, the DVD of \"The Little Chicken painted and the gang\" contains new versions of traditional Brazilian popular songs. All with super fun games that teach how good it is to sing and learn. The bouncy letters help in reading and karaoke versions will make the kids work out the musical side.",
+  "Homepage": "http://www.galinhapintadinha.com.br/",
+  "BackdropPath": "/55Vro91azsFJpnQCcpdg2J09Uam.jpg",
+  "PosterPath": "/miPbhKFNNPehwJCCdRlJtL1e7zY.jpg",
+  "Genres": [
+    {
+      "Id": 16,
+      "Name": "Animation"
+    }
+  ],
+  "ReleaseDate": "2014-10-23T00:00:00",
+  "Runtime": 40,
+  "Popularity": 0.39012261176074,
+  "VoteAverage": 10.0,
+  "VoteCount": 1,
+  "ProductionCompanies": [
+    {
+      "Name": "Bromelia Produções",
+      "Id": 36091
+    }
+  ],
+  "ProductionCountries": [
+    {
+      "Iso_3166_1": "BR",
+      "Name": "Brazil"
+    }
+  ],
+  "SpokenLanguages": [
+    {
+      "Iso_639_1": "pt",
+      "Name": "Português"
+    }
+  ],
+  "AlternativeTitles": {
+    "Id": 298764,
+    "Titles": []
+  },
+  "Releases": {
+    "Id": 298764,
+    "Countries": [
+      {
+        "Iso_3166_1": "BR",
+        "Certification": "A",
+        "ReleaseDate": "2014-10-23T00:00:00"
+      }
+    ]
+  },
+  "Credits": {
+    "Id": 298764,
+    "Cast": [],
+    "Crew": []
+  },
+  "Images": {
+    "Backdrops": [
+      {
+        "FilePath": "/55Vro91azsFJpnQCcpdg2J09Uam.jpg",
+        "Width": 1920,
+        "Height": 1080,
+        "Iso_639_1": "pt",
+        "AspectRatio": 1.77777777777778,
+        "VoteAverage": 5.3125,
+        "VoteCount": 1
+      },
+      {
+        "FilePath": "/AcJDMezptEtfOQFdRebrnk8uhw9.jpg",
+        "Width": 1920,
+        "Height": 1080,
+        "Iso_639_1": "pt",
+        "AspectRatio": 1.77777777777778
+      }
+    ],
+    "Posters": [
+      {
+        "FilePath": "/miPbhKFNNPehwJCCdRlJtL1e7zY.jpg",
+        "Width": 567,
+        "Height": 794,
+        "Iso_639_1": "pt",
+        "AspectRatio": 0.714105793450882,
+        "VoteAverage": 5.3125,
+        "VoteCount": 1
+      }
+    ]
+  },
+  "Keywords": {
+    "Id": 298764,
+    "Keywords": []
+  },
+  "Trailers": {
+    "Id": 298764,
+    "Quicktime": [],
+    "Youtube": []
+  },
+  "Translations": {
+    "Id": 298764,
+    "Translations": [
+      {
+        "Iso_639_1": "en",
+        "Name": "English",
+        "EnglishName": "English"
+      },
+      {
+        "Iso_639_1": "pt",
+        "Name": "Português",
+        "EnglishName": "Portuguese"
+      }
+    ]
+  }
+}

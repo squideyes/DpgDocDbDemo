@@ -1,0 +1,219 @@
+{
+  "Id": 299513,
+  "ImdbId": "tt3520698",
+  "Title": "Drumline: A New Beat",
+  "OriginalTitle": "Drumline: A New Beat",
+  "Status": "Released",
+  "Tagline": "#PassTheBaton",
+  "Overview": "A girl from New York attends a college in Atlanta to join their once-famous marching band.",
+  "BackdropPath": "/6GKoVo9ngSX25Qo7QohlVqc2KN4.jpg",
+  "PosterPath": "/gQxQeg8PDq5Mr1ubspjmpTzo6Z4.jpg",
+  "Genres": [
+    {
+      "Id": 35,
+      "Name": "Comedy"
+    },
+    {
+      "Id": 18,
+      "Name": "Drama"
+    },
+    {
+      "Id": 10402,
+      "Name": "Music"
+    }
+  ],
+  "ReleaseDate": "2014-10-27T00:00:00",
+  "Runtime": 0,
+  "Popularity": 0.718506186,
+  "ProductionCompanies": [],
+  "ProductionCountries": [],
+  "SpokenLanguages": [],
+  "AlternativeTitles": {
+    "Id": 299513,
+    "Titles": [
+      {
+        "Iso_3166_1": "US",
+        "Title": "Drumline 2"
+      }
+    ]
+  },
+  "Releases": {
+    "Id": 299513,
+    "Countries": [
+      {
+        "Iso_3166_1": "US",
+        "ReleaseDate": "2014-10-27T00:00:00"
+      }
+    ]
+  },
+  "Credits": {
+    "Id": 299513,
+    "Cast": [
+      {
+        "Id": 36811,
+        "Name": "Nick Cannon",
+        "Order": 1,
+        "CastId": 3,
+        "ProfilePath": "/meQ69JTifJ8nGrcvZUczWcoeryM.jpg"
+      },
+      {
+        "Id": 1253199,
+        "Name": "Alexandra Shipp",
+        "Order": 2,
+        "CastId": 4
+      },
+      {
+        "Id": 83859,
+        "Name": "Leonard Roberts",
+        "Order": 3,
+        "CastId": 5,
+        "ProfilePath": "/stLgqI31p8ULs3lDZg57KWpYL68.jpg"
+      },
+      {
+        "Id": 1216004,
+        "Name": "Jordan Calloway",
+        "Order": 4,
+        "CastId": 6
+      },
+      {
+        "Id": 93528,
+        "Name": "Letoya Luckett",
+        "Order": 5,
+        "CastId": 7,
+        "ProfilePath": "/8MPHavBhHCHVGJnEMu7bxr5HdIF.jpg"
+      },
+      {
+        "Id": 1187060,
+        "Name": "Jasmine Burke",
+        "Order": 6,
+        "CastId": 8,
+        "ProfilePath": "/7INGFKXDDYoQA3xuW5La3A6QA7p.jpg"
+      },
+      {
+        "Id": 80759,
+        "Name": "Lisa Arrindell Anderson",
+        "Order": 7,
+        "CastId": 9,
+        "ProfilePath": "/a0XcZmt63vfG26qO5RdXxlqwavO.jpg"
+      }
+    ],
+    "Crew": [
+      {
+        "Id": 62116,
+        "Name": "Bille Woodruff",
+        "Department": "Directing",
+        "Job": "Director",
+        "ProfilePath": "/oIVFAXUtuUU0QnTtmb7ONoBd6lb.jpg"
+      },
+      {
+        "Id": 133326,
+        "Name": "Regina Y. Hicks",
+        "Department": "Writing",
+        "Job": "Writer"
+      },
+      {
+        "Id": 133325,
+        "Name": "Karin Gist",
+        "Department": "Writing",
+        "Job": "Writer"
+      }
+    ]
+  },
+  "Images": {
+    "Backdrops": [
+      {
+        "FilePath": "/6GKoVo9ngSX25Qo7QohlVqc2KN4.jpg",
+        "Width": 1920,
+        "Height": 1080,
+        "AspectRatio": 1.77777777777778
+      },
+      {
+        "FilePath": "/2QKdgMyd6FMO1fbtIENBj1D1zaf.jpg",
+        "Width": 1920,
+        "Height": 1080,
+        "AspectRatio": 1.77777777777778
+      },
+      {
+        "FilePath": "/4DhiVQuaH00zpwiPZAHwnsDSK4S.jpg",
+        "Width": 1600,
+        "Height": 900,
+        "AspectRatio": 1.77777777777778
+      },
+      {
+        "FilePath": "/8BTqUygqj8FzBLpxkbW8oTcZXyf.jpg",
+        "Width": 1600,
+        "Height": 900,
+        "AspectRatio": 1.77777777777778
+      },
+      {
+        "FilePath": "/p9vgudrBLwX0sn17yHj3Liit26p.jpg",
+        "Width": 1500,
+        "Height": 844,
+        "AspectRatio": 1.77725118483412
+      },
+      {
+        "FilePath": "/luFaZ1zKWr849vz1uxCjiq7u9uK.jpg",
+        "Width": 1600,
+        "Height": 900,
+        "AspectRatio": 1.77777777777778
+      },
+      {
+        "FilePath": "/a42ZL972LfDQPZ2Gu3wiKAp35mi.jpg",
+        "Width": 1600,
+        "Height": 900,
+        "AspectRatio": 1.77777777777778
+      },
+      {
+        "FilePath": "/qHLj2sImWIOGRfpVvWlYpkDLMhP.jpg",
+        "Width": 1600,
+        "Height": 900,
+        "AspectRatio": 1.77777777777778
+      },
+      {
+        "FilePath": "/7DiySieCd6GeYlKu30KruDbaeFn.jpg",
+        "Width": 1600,
+        "Height": 900,
+        "AspectRatio": 1.77777777777778
+      },
+      {
+        "FilePath": "/huzVqFraQ83TfzNnMJGtsxdjEE4.jpg",
+        "Width": 1600,
+        "Height": 900,
+        "AspectRatio": 1.77777777777778
+      },
+      {
+        "FilePath": "/ga0jyooSwyS0wtWB1lqSklBLMae.jpg",
+        "Width": 1600,
+        "Height": 900,
+        "AspectRatio": 1.77777777777778
+      }
+    ],
+    "Posters": [
+      {
+        "FilePath": "/gQxQeg8PDq5Mr1ubspjmpTzo6Z4.jpg",
+        "Width": 506,
+        "Height": 750,
+        "AspectRatio": 0.674666666666667
+      }
+    ]
+  },
+  "Keywords": {
+    "Id": 299513,
+    "Keywords": []
+  },
+  "Trailers": {
+    "Id": 299513,
+    "Quicktime": [],
+    "Youtube": []
+  },
+  "Translations": {
+    "Id": 299513,
+    "Translations": [
+      {
+        "Iso_639_1": "en",
+        "Name": "English",
+        "EnglishName": "English"
+      }
+    ]
+  }
+}
