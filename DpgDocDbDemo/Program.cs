@@ -28,6 +28,7 @@ namespace DpgDocDbDemo
                         Console.WriteLine("(4) Queries");
                         Console.WriteLine("(5) Index Management");
                         Console.WriteLine("(6) Server-Side Scripts");
+                        Console.WriteLine("(7) Bulk Upload via TPL Dataflow");
 
                         Console.WriteLine();
                         Console.Write("Run a demo by number, or (Q)uit...");
@@ -55,6 +56,9 @@ namespace DpgDocDbDemo
                                 break;
                             case ConsoleKey.D6:
                                 new ServerSideScripts().RunAsync().Wait();
+                                break;
+                            case ConsoleKey.D7:
+                                new BulkUpload().RunAsync().Wait();
                                 break;
                             case ConsoleKey.Q:
                                 return;
