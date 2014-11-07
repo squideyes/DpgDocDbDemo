@@ -4,6 +4,7 @@ using Microsoft.Azure.Documents.Linq;
 using System;
 using System.Collections.Generic;
 using System.Linq;
+using System.Net;
 using System.Text;
 using System.Threading;
 using System.Threading.Tasks;
@@ -22,12 +23,12 @@ namespace DpgDocDbDemo
             // look at some of the options available for controlling the indexing 
             // behavior of a collection
 
-            //await ExplicitlyExcludeFromIndex();
-            //await UseManualIndexing();
-            //await UseLazyIndexing();
+            await ExplicitlyExcludeFromIndex();
+            await UseManualIndexing();
+            await UseLazyIndexing();
             await UseRangeIndexes();
-            //await ExcludePathsFromIndex();
-            //await RangeScanOnHashIndex();
+            await ExcludePathsFromIndex();
+            await RangeScanOnHashIndex();
         }
 
         private async Task ExplicitlyExcludeFromIndex()
@@ -106,6 +107,8 @@ namespace DpgDocDbDemo
 
         private async Task UseManualIndexing()
         {
+            WriteSeparator();
+
             // The default behavior for DocumentDB DocumentCollections is to 
             // automatically index every document written to it. There are 
             // cases where you can want to turn-off automatic indexing on the
@@ -114,10 +117,12 @@ namespace DpgDocDbDemo
 
             Console.WriteLine("Collection.IndexingPolicy.Automatic = false ");
 
-            var collection = await Client.GetOrCreateCollectionAsync(
-                Database, "UseManualIndexing");
+            var collection = new DocumentCollection() { Id = "UseManualIndexing" };
 
             collection.IndexingPolicy.Automatic = false;
+
+            collection = await Client.
+                CreateNewCollectionAsync(Database, collection);
 
             ///////////////////////////////////////////////////////////////////
 
@@ -172,6 +177,8 @@ namespace DpgDocDbDemo
 
         private async Task UseLazyIndexing()
         {
+            WriteSeparator();
+
             // DocumentDB offers synchronous (consistent) and asynchronous 
             // (lazy) index updates. By default, the index is updated 
             // synchronously on each insert, replace or delete of a document 
@@ -184,10 +191,12 @@ namespace DpgDocDbDemo
             // progress, However once the write volume tapers off and the 
             // index catches up, then the reads continue as normal.
 
-            var collection = await Client.GetOrCreateCollectionAsync(
-                Database, "UseLazyIndexing");
+            var collection = new DocumentCollection() { Id = "UseLazyIndexing" };
 
             collection.IndexingPolicy.IndexingMode = IndexingMode.Lazy;
+
+            collection = await Client.CreateNewCollectionAsync(
+                Database, collection);
 
             ///////////////////////////////////////////////////////////////////
 
@@ -232,6 +241,8 @@ namespace DpgDocDbDemo
 
         private async Task UseRangeIndexes()
         {
+            WriteSeparator();
+
             // This example configures a collection to enable efficient 
             // comparison queries by setting the default index type to 
             // Range for all numeric values. 
@@ -243,8 +254,7 @@ namespace DpgDocDbDemo
             // bytes. This is useful for fields like epoch timestamps, 
             // which are commonly used to represent datetimes in JSON
 
-            var collection = await Client.GetOrCreateCollectionAsync(
-                Database, "UseRangeIndexes");
+            var collection = new DocumentCollection() { Id = "UseRangeIndexes" };
 
             collection.IndexingPolicy.IncludedPaths.Add(new IndexingPath
             {
@@ -259,34 +269,31 @@ namespace DpgDocDbDemo
                 NumericPrecision = 7
             });
 
-            collection = await Client.CreateDocumentCollectionAsync(
-                Database.SelfLink, collection);
+            collection = await Client.CreateNewCollectionAsync(
+                Database, collection);
 
+            Console.WriteLine();
 
+            var dateTime = DateTime.UtcNow;
 
-            await Client.CreateDocumentAsync(collection.SelfLink, new
+            for (int i = 1; i <= 4; i++)
             {
-                id = "doc1",
-                shippedTimestamp = ConvertDateTimeToEpoch(DateTime.UtcNow)
-            });
+                Console.Write("Creating DOC{0}...", i);
 
-            await Client.CreateDocumentAsync(collection.SelfLink, new
-            {
-                id = "doc2",
-                shippedTimestamp = ConvertDateTimeToEpoch(DateTime.UtcNow.AddDays(-7))
-            });
+                await Client.CreateDocumentAsync(collection.SelfLink, new
+                {
+                    id = "DOC" + i,
+                    shippedTimestamp = ConvertDateTimeToEpoch(dateTime)
+                });
 
-            await Client.CreateDocumentAsync(collection.SelfLink, new
-            {
-                id = "doc3",
-                shippedTimestamp = ConvertDateTimeToEpoch(DateTime.UtcNow.AddDays(-14))
-            });
+                dateTime = dateTime.AddDays(-7);
 
-            await Client.CreateDocumentAsync(collection.SelfLink, new
-            {
-                id = "doc4",
-                shippedTimestamp = ConvertDateTimeToEpoch(DateTime.UtcNow.AddDays(-30))
-            });
+                Console.WriteLine("CREATED!");
+            }
+
+            Console.WriteLine();
+
+            Console.WriteLine("Querying documents that shipped within the last 10 days:");
 
             // Now with our DateTime converted to an Epoch number and the 
             // IndexPath for createTimestamp set to Range with a higher precision
@@ -294,152 +301,242 @@ namespace DpgDocDbDemo
             var docs = Client.CreateDocumentQuery(collection.SelfLink,
                 string.Format("SELECT * FROM root r WHERE r.shippedTimestamp >= {0} AND r.shippedTimestamp <= {1}",
                 ConvertDateTimeToEpoch(DateTime.UtcNow.AddDays(-10)),
-                ConvertDateTimeToEpoch(DateTime.UtcNow)
-            ));
+                ConvertDateTimeToEpoch(DateTime.UtcNow)));
 
             foreach (var doc in docs)
                 Console.WriteLine(doc);
         }
 
-        //private async Task ExcludePathsFromIndex()
-        //{
-        //    bool found;
-        //    dynamic dyn = new
-        //    {
-        //        id = "doc1",
-        //        metaData = "meta",
-        //        subDoc = new
-        //        {
-        //            searchable = "searchable",
-        //            subSubDoc = new
-        //            {
-        //                someProperty = "value"
-        //            }
-        //        }
-        //    };
+        private async Task ExcludePathsFromIndex()
+        {
+            WriteSeparator();
 
-        //    //The default behavior is for DocumentDB to index every attribute in every document.
-        //    //There are times when a document contains large amounts of information, in deeply nested structures
-        //    //that you know you will never search on. In extreme cases like this, you can exclude paths from the 
-        //    //index to save on storage cost, improve write performance because there is less work that needs to 
-        //    //happen on writing and also improve read performance because the index is smaller
+            bool found;
 
-        //    var collection = new DocumentCollection
-        //    {
-        //        Id = ConfigurationManager.AppSettings["CollectionId"]
-        //    };
+            dynamic dyn = new
+            {
+                id = "DOC1",
+                metaData = "meta",
+                subDoc = new
+                {
+                    searchable = "searchable",
+                    subSubDoc = new
+                    {
+                        someProperty = "value"
+                    }
+                }
+            };
 
-        //    //special manadatory path of "/" required to denote include entire tree
-        //    collection.IndexingPolicy.IncludedPaths.Add(new IndexingPath { Path = "/" });
+            //The default behavior is for DocumentDB to index every attribute in every document.
+            //There are times when a document contains large amounts of information, in deeply nested structures
+            //that you know you will never search on. In extreme cases like this, you can exclude paths from the 
+            //index to save on storage cost, improve write performance because there is less work that needs to 
+            //happen on writing and also improve read performance because the index is smaller
 
-        //    collection.IndexingPolicy.ExcludedPaths.Add("/\"metaData\"/*");
-        //    collection.IndexingPolicy.ExcludedPaths.Add("/\"subDoc\"/\"subSubDoc\"/\"someProperty\"/*");
-        //    collection = await Client.CreateDocumentCollectionAsync(databaseLink, collection);
+            var collection = new DocumentCollection { Id = "ExcludePathsFromIndex1" };
 
-        //    var created = await Client.CreateDocumentAsync(collection.SelfLink, dyn);
+            //special manadatory path of "/" required to denote include entire tree
+            collection.IndexingPolicy.IncludedPaths.Add(new IndexingPath { Path = "/" });
 
-        //    //Querying for a document on either metaData or /subDoc/subSubDoc/someProperty > fail because they were excluded
-        //    try
-        //    {
-        //        Client.CreateDocumentQuery(collection.SelfLink, String.Format("SELECT * FROM root r WHERE r.metaData='{0}'",
-        //            "meta")).AsEnumerable().Any();
-        //    }
-        //    catch (Exception e)
-        //    {
-        //        var baseEx = (DocumentClientException)e.GetBaseException();
-        //        if (baseEx.StatusCode != HttpStatusCode.BadRequest) { throw; }
-        //    }
+            collection.IndexingPolicy.ExcludedPaths.Add("/\"metaData\"/*");
+            collection.IndexingPolicy.ExcludedPaths.Add("/\"subDoc\"/\"subSubDoc\"/\"someProperty\"/*");
 
-        //    try
-        //    {
-        //        found = Client.CreateDocumentQuery(collection.SelfLink, String.Format("SELECT * FROM root r WHERE r.subDoc.subSubDoc.someProperty='{0}'",
-        //            "value")).AsEnumerable().Any();
-        //    }
-        //    catch (Exception e)
-        //    {
-        //        var baseEx = (DocumentClientException)e.GetBaseException();
-        //        if (baseEx.StatusCode != HttpStatusCode.BadRequest) { throw; }
-        //    }
+            collection = await Client.CreateNewCollectionAsync(Database, collection);
 
-        //    //Querying for a document using id, or even subDoc/searchable > succeed because they were not excluded
-        //    found = Client.CreateDocumentQuery(collection.SelfLink, String.Format("SELECT * FROM root r WHERE r.id='{0}'", "doc1")).AsEnumerable().Any();
+            Console.WriteLine();
 
-        //    if (!found) throw new ApplicationException("Should've found the document");
+            Console.Write("Adding the DOC1 document to \"{0}\"...", collection.Id);
 
-        //    found = Client.CreateDocumentQuery(collection.SelfLink, String.Format("SELECT * FROM root r WHERE r.subDoc.searchable='{0}'",
-        //        "searchable")).AsEnumerable().Any();
+            var created = await Client.CreateDocumentAsync(collection.SelfLink, dyn);
 
-        //    if (!found) throw new ApplicationException("Should've found the document");
+            Console.WriteLine("ADDED!");
 
-        //    //Cleanup collection
-        //    await Client.DeleteDocumentCollectionAsync(collection.SelfLink);
+            Console.WriteLine();
 
-        //    //To exclude subDoc and anything under it add an ExcludePath of "/\"subDoc\"/*"
-        //    collection = new DocumentCollection
-        //    {
-        //        Id = ConfigurationManager.AppSettings["CollectionId"]
-        //    };
+            Console.Write("Verifying that the DOC1 \"metaData\" property wasn't indexed...");
 
-        //    //special manadatory path of "/" required to denote include entire tree
-        //    collection.IndexingPolicy.IncludedPaths.Add(new IndexingPath { Path = "/" });
+            // Querying for a document on either metaData or /subDoc/subSubDoc/someProperty > fail because they were excluded
+            try
+            {
+                Client.CreateDocumentQuery(collection.SelfLink, string.Format(
+                    "SELECT * FROM root r WHERE r.metaData='{0}'", "meta")).AsEnumerable().Any();
 
-        //    collection.IndexingPolicy.ExcludedPaths.Add("/\"subDoc\"/*");
-        //    collection = await Client.CreateDocumentCollectionAsync(databaseLink, collection);
+                Console.WriteLine("SHOULDN'T GET HERE!");
+            }
+            catch (Exception e)
+            {
+                var baseEx = (DocumentClientException)e.GetBaseException();
 
-        //    //Query for /subDoc/searchable > fail because we have excluded the whole subDoc, and all its children.
-        //    try
-        //    {
-        //        Client.CreateDocumentQuery(collection.SelfLink, String.Format("SELECT * FROM root r WHERE r.subDoc.searchable='{0}'",
-        //            "searchable")).AsEnumerable().Any();
-        //    }
-        //    catch (Exception e)
-        //    {
-        //        var baseEx = (DocumentClientException)e.GetBaseException();
-        //        if (baseEx.StatusCode != HttpStatusCode.BadRequest) { throw; }
-        //    }
+                if (baseEx.StatusCode != HttpStatusCode.BadRequest)
+                {
+                    Console.WriteLine("FAILURE!");
 
-        //    //Cleanup
-        //    await Client.DeleteDocumentCollectionAsync(collection.SelfLink);
-        //}
+                    throw;
+                }
 
-        //private async Task RangeScanOnHashIndex()
-        //{
-        //    //When a range index is not available (i.e. Only hash or no index found on the path), comparisons queries can still 
-        //    //can still be performed as scans using AllowScanInQuery request option using the .NET SDK
-        //    //Warning: This was made an opt-in model by design. Scanning is an expensive operation and doing this 
-        //    //         will have an impact on your RequstUnits and could result in other queries not being throttled.
+                Console.WriteLine("SUCCESS!");
+            }
 
-        //    var collection = new DocumentCollection
-        //    {
-        //        Id = ConfigurationManager.AppSettings["CollectionId"]
-        //    };
+            Console.WriteLine();
 
-        //    collection.IndexingPolicy.IncludedPaths.Add(new IndexingPath { Path = "/" });
-        //    collection.IndexingPolicy.ExcludedPaths.Add("/\"length\"/*");
-        //    collection = await Client.CreateDocumentCollectionAsync(databaseLink, collection);
+            Console.Write("Verifying that the DOC1 \"someProperty\" property wasn't indexed...");
 
-        //    var doc1 = await Client.CreateDocumentAsync(collection.SelfLink, new { id = "dyn1", length = 10, width = 5, height = 15 });
-        //    var doc2 = await Client.CreateDocumentAsync(collection.SelfLink, new { id = "dyn2", length = 7, width = 15 });
-        //    var doc3 = await Client.CreateDocumentAsync(collection.SelfLink, new { id = "dyn3", length = 2 });
+            try
+            {
+                found = Client.CreateDocumentQuery(collection.SelfLink, string.Format(
+                    "SELECT * FROM root r WHERE r.subDoc.subSubDoc.someProperty='{0}'", "value")).AsEnumerable().Any();
 
-        //    //query for length > 5 - fail, this is a range based query on a Hash index only document
-        //    try
-        //    {
-        //        bool found = Client.CreateDocumentQuery(collection.SelfLink, "SELECT * FROM root r WHERE r.length > 5").AsEnumerable().Any();
-        //    }
-        //    catch (Exception e)
-        //    {
-        //        var baseEx = (DocumentClientException)e.GetBaseException();
-        //        if (baseEx.StatusCode != HttpStatusCode.BadRequest) { throw; }
-        //    }
+                Console.WriteLine("SHOULDN'T GET HERE!");
+            }
+            catch (Exception e)
+            {
+                var baseEx = (DocumentClientException)e.GetBaseException();
 
-        //    //now add IndexingDirective and repeat query - expect success because now we are explictly allowing scans in a query 
-        //    //using the EnableScanInQuery directive
-        //    Client.CreateDocumentQuery(collection.SelfLink, "SELECT * FROM root r WHERE r.length > 5", new FeedOptions
-        //    {
-        //        EnableScanInQuery = true
-        //    }).AsEnumerable().Any();
-        //}
+                if (baseEx.StatusCode != HttpStatusCode.BadRequest)
+                {
+                    Console.WriteLine("FAILURE!");
+
+                    throw;
+                }
+
+                Console.WriteLine("SUCCESS!");
+            }
+
+            Console.WriteLine();
+
+            Console.Write("Reading the DOC1 document via ID...");
+
+            //Querying for a document using id, or even subDoc/searchable > succeed because they were not excluded
+            found = Client.CreateDocumentQuery(collection.SelfLink, string.Format(
+                "SELECT * FROM root r WHERE r.id='{0}'", "DOC1")).AsEnumerable().Any();
+
+            if (!found)
+                throw new ApplicationException("The DOC1 document should have been found!");
+
+            Console.WriteLine("SUCCESS!");
+
+            Console.WriteLine();
+
+            Console.Write("Reading the DOC1 document via subDoc.searchable...");
+
+            found = Client.CreateDocumentQuery(collection.SelfLink, string.Format(
+                "SELECT * FROM root r WHERE r.subDoc.searchable='{0}'", "searchable")).AsEnumerable().Any();
+
+            if (!found)
+                throw new ApplicationException("The DOC1 document should have been found!");
+
+            Console.WriteLine("SUCCESS!");
+
+            Console.WriteLine();
+
+            //To exclude subDoc and anything under it add an ExcludePath of "/\"subDoc\"/*"
+            collection = new DocumentCollection { Id = "ExcludePathsFromIndex2" };
+
+            //special manadatory path of "/" required to denote include entire tree
+            collection.IndexingPolicy.IncludedPaths.Add(new IndexingPath { Path = "/" });
+
+            collection.IndexingPolicy.ExcludedPaths.Add("/\"subDoc\"/*");
+
+            collection = await Client.CreateNewCollectionAsync(Database, collection);
+
+            Console.WriteLine();
+
+            Console.Write("Verifying that the DOC1 \"subDoc\" path wasn't indexed...");
+
+            //Query for /subDoc/searchable > fail because we have excluded the whole subDoc, and all its children.
+            try
+            {
+                Client.CreateDocumentQuery(collection.SelfLink, string.Format(
+                    "SELECT * FROM root r WHERE r.subDoc.searchable='{0}'", "searchable")).AsEnumerable().Any();
+
+                Console.WriteLine("SHOULDN'T GET HERE!");
+            }
+            catch (Exception e)
+            {
+                var baseEx = (DocumentClientException)e.GetBaseException();
+
+                if (baseEx.StatusCode != HttpStatusCode.BadRequest)
+                {
+                    Console.WriteLine("FAILURE!");
+
+                    throw;
+                }
+
+                Console.WriteLine("SUCCESS!");
+            }
+        }
+
+        private async Task RangeScanOnHashIndex()
+        {
+            WriteSeparator();
+
+            // When a range index is not available (i.e. Only hash or no index found on the path), comparisons queries 
+            // can still can still be performed as scans using AllowScanInQuery request option using the .NET SDK
+            //  Warning: This was made an opt-in model by design. Scanning is an expensive operation and doing this 
+            //           will have an impact on your RequstUnits and could result in other queries not being throttled.
+
+            var collection = new DocumentCollection { Id = "RangeScanOnHashIndex" };
+
+            collection.IndexingPolicy.IncludedPaths.Add(new IndexingPath { Path = "/" });
+            collection.IndexingPolicy.ExcludedPaths.Add("/\"length\"/*");
+
+            collection = await Client.CreateNewCollectionAsync(Database, collection);
+
+            Console.WriteLine();
+
+            Console.Write("Adding three dynamic documents...");
+
+            var doc1 = await Client.CreateDocumentAsync(collection.SelfLink, new { id = "dyn1", length = 10, width = 5, height = 15 });
+            var doc2 = await Client.CreateDocumentAsync(collection.SelfLink, new { id = "dyn2", length = 7, width = 15 });
+            var doc3 = await Client.CreateDocumentAsync(collection.SelfLink, new { id = "dyn3", length = 2 });
+
+            Console.WriteLine("SUCCESS!");
+
+            Console.WriteLine();
+
+            Console.Write("Verifying that none of the documents were indexed...");
+
+            // Query for length > 5 - fail, this is a range based query on a Hash index only document
+            try
+            {
+                var found = Client.CreateDocumentQuery(collection.SelfLink,
+                    "SELECT * FROM root r WHERE r.length > 5").AsEnumerable().Any();
+
+                Console.WriteLine("SHOULDN'T GET HERE!");
+            }
+            catch (Exception e)
+            {
+                var baseEx = (DocumentClientException)e.GetBaseException();
+
+                if (baseEx.StatusCode != HttpStatusCode.BadRequest)
+                {
+                    Console.WriteLine("FAILURE!");
+
+                    throw;
+                }
+
+                Console.WriteLine("SUCCESS!");
+            }
+
+            Console.WriteLine();
+
+            Console.Write("Verifying that the records can be found by doing a scan...");
+
+            // Now add IndexingDirective and repeat query - expect success because now we are explictly allowing
+            // scans in a query using the EnableScanInQuery directive
+            try
+            {
+                var found = Client.CreateDocumentQuery(collection.SelfLink, "SELECT * FROM root r WHERE r.length > 5",
+                   new FeedOptions { EnableScanInQuery = true }).AsEnumerable().Any();
+
+                Console.WriteLine("SUCCESS!");
+            }
+            catch (Exception e)
+            {
+                Console.WriteLine("FAILURE!");
+            }
+
+        }
 
         private static long ConvertDateTimeToEpoch(DateTime datetime)
         {

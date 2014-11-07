@@ -45,7 +45,7 @@ namespace DpgDocDbDemo
             this DocumentClient client, Database database)
         {
             Console.Write("Deleting the \"{0}\" database...", database.Id);
-            
+
             await client.DeleteDatabaseAsync(database.SelfLink);
 
             Console.WriteLine("DELETED!");
@@ -68,17 +68,28 @@ namespace DpgDocDbDemo
             {
                 Console.WriteLine("NO!");
 
-                Console.Write("Creating the \"{0}\" collection...", id);
-
-                collection = await client.CreateDocumentCollectionAsync(
-                    database.SelfLink, new DocumentCollection { Id = id });
-
-                Console.WriteLine("CREATED!");
+                collection = await client.CreateNewCollectionAsync(
+                    database, new DocumentCollection() { Id = id });
             }
             else
             {
                 Console.WriteLine("YES!");
             }
+
+            return collection;
+        }
+
+        public static async Task<DocumentCollection> CreateNewCollectionAsync(
+            this DocumentClient client, Database database,
+            DocumentCollection collection)
+        {
+            Console.Write(
+                "Creating the \"{0}\" collection...", collection.Id);
+
+            collection = await client.CreateDocumentCollectionAsync(
+                database.SelfLink, collection);
+
+            Console.WriteLine("CREATED!");
 
             return collection;
         }

@@ -52,6 +52,7 @@
   <ItemGroup>
     <Compile Include="DemoBase.cs" />
     <Compile Include="Demos\CollectionManagement.cs" />
+    <Compile Include="Demos\ServerSideScripts.cs" />
     <Compile Include="Demos\DocumentManagement.cs" />
     <Compile Include="Demos\DatabaseManagement.cs" />
     <Compile Include="Demos\IndexManagement.cs" />

@@ -27,6 +27,7 @@ namespace DpgDocDbDemo
                         Console.WriteLine("(3) Document Management");
                         Console.WriteLine("(4) Queries");
                         Console.WriteLine("(5) Index Management");
+                        Console.WriteLine("(6) Server-Side Scripts");
 
                         Console.WriteLine();
                         Console.Write("Run a demo by number, or (Q)uit...");
@@ -51,6 +52,9 @@ namespace DpgDocDbDemo
                                 break;
                             case ConsoleKey.D5:
                                 new IndexManagement().RunAsync().Wait();
+                                break;
+                            case ConsoleKey.D6:
+                                new ServerSideScripts().RunAsync().Wait();
                                 break;
                             case ConsoleKey.Q:
                                 return;
